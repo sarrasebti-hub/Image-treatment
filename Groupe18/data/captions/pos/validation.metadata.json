@@ -1,0 +1,6 @@
+{
+  "model": "en_core_web_sm",
+  "count": 500,
+  "source": "data/captions/validation.json",
+  "preserves_caption_raw": true
+}

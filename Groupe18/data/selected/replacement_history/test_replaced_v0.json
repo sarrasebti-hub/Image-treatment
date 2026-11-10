@@ -1,0 +1,1618 @@
+[
+  {
+    "image_id": 133819,
+    "caption_id": 547314,
+    "caption_raw": "A blue bus driving down a city street.",
+    "caption_cleaned": "a blue bus driving down a city street.",
+    "tokens": [
+      {
+        "text": "A",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "blue",
+        "lemma": "blue",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "is_stop": false
+      },
+      {
+        "text": "bus",
+        "lemma": "bus",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "driving",
+        "lemma": "drive",
+        "pos": "VERB",
+        "tag": "VBG",
+        "is_stop": false
+      },
+      {
+        "text": "down",
+        "lemma": "down",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "city",
+        "lemma": "city",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "street",
+        "lemma": "street",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "is_stop": false
+      }
+    ]
+  },
+  {
+    "image_id": 133819,
+    "caption_id": 553083,
+    "caption_raw": "A large blue bus is driving down a crowded street.",
+    "caption_cleaned": "a large blue bus is driving down a crowded street.",
+    "tokens": [
+      {
+        "text": "A",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "large",
+        "lemma": "large",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "is_stop": false
+      },
+      {
+        "text": "blue",
+        "lemma": "blue",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "is_stop": false
+      },
+      {
+        "text": "bus",
+        "lemma": "bus",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "is",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VBZ",
+        "is_stop": true
+      },
+      {
+        "text": "driving",
+        "lemma": "drive",
+        "pos": "VERB",
+        "tag": "VBG",
+        "is_stop": false
+      },
+      {
+        "text": "down",
+        "lemma": "down",
+        "pos": "ADP",
+        "tag": "RP",
+        "is_stop": true
+      },
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "crowded",
+        "lemma": "crowded",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "is_stop": false
+      },
+      {
+        "text": "street",
+        "lemma": "street",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "is_stop": false
+      }
+    ]
+  },
+  {
+    "image_id": 133819,
+    "caption_id": 556068,
+    "caption_raw": "a citi bus parked in the street with buildings in teh background",
+    "caption_cleaned": "a citi bus parked in the street with buildings in teh background",
+    "tokens": [
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "citi",
+        "lemma": "citi",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "is_stop": false
+      },
+      {
+        "text": "bus",
+        "lemma": "bus",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "parked",
+        "lemma": "park",
+        "pos": "VERB",
+        "tag": "VBN",
+        "is_stop": false
+      },
+      {
+        "text": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "street",
+        "lemma": "street",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "with",
+        "lemma": "with",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "buildings",
+        "lemma": "building",
+        "pos": "NOUN",
+        "tag": "NNS",
+        "is_stop": false
+      },
+      {
+        "text": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "teh",
+        "lemma": "teh",
+        "pos": "PROPN",
+        "tag": "NNP",
+        "is_stop": false
+      },
+      {
+        "text": "background",
+        "lemma": "background",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      }
+    ]
+  },
+  {
+    "image_id": 133819,
+    "caption_id": 559221,
+    "caption_raw": "A passenger bus that is driving down a street.",
+    "caption_cleaned": "a passenger bus that is driving down a street.",
+    "tokens": [
+      {
+        "text": "A",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "passenger",
+        "lemma": "passenger",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "bus",
+        "lemma": "bus",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "that",
+        "lemma": "that",
+        "pos": "PRON",
+        "tag": "WDT",
+        "is_stop": true
+      },
+      {
+        "text": "is",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VBZ",
+        "is_stop": true
+      },
+      {
+        "text": "driving",
+        "lemma": "drive",
+        "pos": "VERB",
+        "tag": "VBG",
+        "is_stop": false
+      },
+      {
+        "text": "down",
+        "lemma": "down",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "street",
+        "lemma": "street",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "is_stop": false
+      }
+    ]
+  },
+  {
+    "image_id": 133819,
+    "caption_id": 560433,
+    "caption_raw": "A blue bus makes its way down a narrow city street.",
+    "caption_cleaned": "a blue bus makes its way down a narrow city street.",
+    "tokens": [
+      {
+        "text": "A",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "blue",
+        "lemma": "blue",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "is_stop": false
+      },
+      {
+        "text": "bus",
+        "lemma": "bus",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "makes",
+        "lemma": "make",
+        "pos": "VERB",
+        "tag": "VBZ",
+        "is_stop": false
+      },
+      {
+        "text": "its",
+        "lemma": "its",
+        "pos": "PRON",
+        "tag": "PRP$",
+        "is_stop": true
+      },
+      {
+        "text": "way",
+        "lemma": "way",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "down",
+        "lemma": "down",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "narrow",
+        "lemma": "narrow",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "is_stop": false
+      },
+      {
+        "text": "city",
+        "lemma": "city",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "street",
+        "lemma": "street",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "is_stop": false
+      }
+    ]
+  },
+  {
+    "image_id": 465129,
+    "caption_id": 496474,
+    "caption_raw": "A person adjusting a  metal object hanging from a ceiling.",
+    "caption_cleaned": "a person adjusting a metal object hanging from a ceiling.",
+    "tokens": [
+      {
+        "text": "A",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "person",
+        "lemma": "person",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "adjusting",
+        "lemma": "adjust",
+        "pos": "VERB",
+        "tag": "VBG",
+        "is_stop": false
+      },
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "metal",
+        "lemma": "metal",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "object",
+        "lemma": "object",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "hanging",
+        "lemma": "hang",
+        "pos": "VERB",
+        "tag": "VBG",
+        "is_stop": false
+      },
+      {
+        "text": "from",
+        "lemma": "from",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "ceiling",
+        "lemma": "ceiling",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "is_stop": false
+      }
+    ]
+  },
+  {
+    "image_id": 465129,
+    "caption_id": 496570,
+    "caption_raw": "A lady in a bath robe touching something near the ceiling.",
+    "caption_cleaned": "a lady in a bath robe touching something near the ceiling.",
+    "tokens": [
+      {
+        "text": "A",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "lady",
+        "lemma": "lady",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "bath",
+        "lemma": "bath",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "robe",
+        "lemma": "robe",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "touching",
+        "lemma": "touch",
+        "pos": "VERB",
+        "tag": "VBG",
+        "is_stop": false
+      },
+      {
+        "text": "something",
+        "lemma": "something",
+        "pos": "PRON",
+        "tag": "NN",
+        "is_stop": true
+      },
+      {
+        "text": "near",
+        "lemma": "near",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": false
+      },
+      {
+        "text": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "ceiling",
+        "lemma": "ceiling",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "is_stop": false
+      }
+    ]
+  },
+  {
+    "image_id": 465129,
+    "caption_id": 498943,
+    "caption_raw": "a person standing next to a metal pot holder in a kitchen ",
+    "caption_cleaned": "a person standing next to a metal pot holder in a kitchen",
+    "tokens": [
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "person",
+        "lemma": "person",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "standing",
+        "lemma": "stand",
+        "pos": "VERB",
+        "tag": "VBG",
+        "is_stop": false
+      },
+      {
+        "text": "next",
+        "lemma": "next",
+        "pos": "ADV",
+        "tag": "RB",
+        "is_stop": true
+      },
+      {
+        "text": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "metal",
+        "lemma": "metal",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "pot",
+        "lemma": "pot",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "holder",
+        "lemma": "holder",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "kitchen",
+        "lemma": "kitchen",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      }
+    ]
+  },
+  {
+    "image_id": 465129,
+    "caption_id": 499576,
+    "caption_raw": "A women brushing on a preservative liquid on a ceiling pot holder",
+    "caption_cleaned": "a women brushing on a preservative liquid on a ceiling pot holder",
+    "tokens": [
+      {
+        "text": "A",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "women",
+        "lemma": "woman",
+        "pos": "NOUN",
+        "tag": "NNS",
+        "is_stop": false
+      },
+      {
+        "text": "brushing",
+        "lemma": "brush",
+        "pos": "VERB",
+        "tag": "VBG",
+        "is_stop": false
+      },
+      {
+        "text": "on",
+        "lemma": "on",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "preservative",
+        "lemma": "preservative",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "is_stop": false
+      },
+      {
+        "text": "liquid",
+        "lemma": "liquid",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "on",
+        "lemma": "on",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "ceiling",
+        "lemma": "ceiling",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "pot",
+        "lemma": "pot",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "holder",
+        "lemma": "holder",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      }
+    ]
+  },
+  {
+    "image_id": 465129,
+    "caption_id": 499879,
+    "caption_raw": "A woman looking at a broken ceiling light in a kitchen ",
+    "caption_cleaned": "a woman looking at a broken ceiling light in a kitchen",
+    "tokens": [
+      {
+        "text": "A",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "woman",
+        "lemma": "woman",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "looking",
+        "lemma": "look",
+        "pos": "VERB",
+        "tag": "VBG",
+        "is_stop": false
+      },
+      {
+        "text": "at",
+        "lemma": "at",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "broken",
+        "lemma": "broken",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "is_stop": false
+      },
+      {
+        "text": "ceiling",
+        "lemma": "ceiling",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "light",
+        "lemma": "light",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "kitchen",
+        "lemma": "kitchen",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      }
+    ]
+  },
+  {
+    "image_id": 129062,
+    "caption_id": 71932,
+    "caption_raw": "A hotdog stand with outside seating and bright lights.",
+    "caption_cleaned": "a hotdog stand with outside seating and bright lights.",
+    "tokens": [
+      {
+        "text": "A",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "hotdog",
+        "lemma": "hotdog",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "stand",
+        "lemma": "stand",
+        "pos": "VERB",
+        "tag": "VBP",
+        "is_stop": false
+      },
+      {
+        "text": "with",
+        "lemma": "with",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "outside",
+        "lemma": "outside",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "is_stop": false
+      },
+      {
+        "text": "seating",
+        "lemma": "seating",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC",
+        "is_stop": true
+      },
+      {
+        "text": "bright",
+        "lemma": "bright",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "is_stop": false
+      },
+      {
+        "text": "lights",
+        "lemma": "light",
+        "pos": "NOUN",
+        "tag": "NNS",
+        "is_stop": false
+      },
+      {
+        "text": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "is_stop": false
+      }
+    ]
+  },
+  {
+    "image_id": 129062,
+    "caption_id": 73168,
+    "caption_raw": "Outdoor patio and front of a bar that serves hot dogs",
+    "caption_cleaned": "outdoor patio and front of a bar that serves hot dogs",
+    "tokens": [
+      {
+        "text": "Outdoor",
+        "lemma": "outdoor",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "is_stop": false
+      },
+      {
+        "text": "patio",
+        "lemma": "patio",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC",
+        "is_stop": true
+      },
+      {
+        "text": "front",
+        "lemma": "front",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": true
+      },
+      {
+        "text": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "bar",
+        "lemma": "bar",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "that",
+        "lemma": "that",
+        "pos": "PRON",
+        "tag": "WDT",
+        "is_stop": true
+      },
+      {
+        "text": "serves",
+        "lemma": "serve",
+        "pos": "VERB",
+        "tag": "VBZ",
+        "is_stop": false
+      },
+      {
+        "text": "hot",
+        "lemma": "hot",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "is_stop": false
+      },
+      {
+        "text": "dogs",
+        "lemma": "dog",
+        "pos": "NOUN",
+        "tag": "NNS",
+        "is_stop": false
+      }
+    ]
+  },
+  {
+    "image_id": 129062,
+    "caption_id": 73411,
+    "caption_raw": "Parking meters are in front of an eating establishment. ",
+    "caption_cleaned": "parking meters are in front of an eating establishment.",
+    "tokens": [
+      {
+        "text": "Parking",
+        "lemma": "parking",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "meters",
+        "lemma": "meter",
+        "pos": "NOUN",
+        "tag": "NNS",
+        "is_stop": false
+      },
+      {
+        "text": "are",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VBP",
+        "is_stop": true
+      },
+      {
+        "text": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "front",
+        "lemma": "front",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": true
+      },
+      {
+        "text": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "an",
+        "lemma": "an",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "eating",
+        "lemma": "eat",
+        "pos": "VERB",
+        "tag": "VBG",
+        "is_stop": false
+      },
+      {
+        "text": "establishment",
+        "lemma": "establishment",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "is_stop": false
+      }
+    ]
+  },
+  {
+    "image_id": 129062,
+    "caption_id": 74158,
+    "caption_raw": "A picture of a store by a street.",
+    "caption_cleaned": "a picture of a store by a street.",
+    "tokens": [
+      {
+        "text": "A",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "picture",
+        "lemma": "picture",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "store",
+        "lemma": "store",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "street",
+        "lemma": "street",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "is_stop": false
+      }
+    ]
+  },
+  {
+    "image_id": 129062,
+    "caption_id": 80311,
+    "caption_raw": "A city street scene of a restaurant with tables outside.",
+    "caption_cleaned": "a city street scene of a restaurant with tables outside.",
+    "tokens": [
+      {
+        "text": "A",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "city",
+        "lemma": "city",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "street",
+        "lemma": "street",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "scene",
+        "lemma": "scene",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "restaurant",
+        "lemma": "restaurant",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "with",
+        "lemma": "with",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "tables",
+        "lemma": "table",
+        "pos": "NOUN",
+        "tag": "NNS",
+        "is_stop": false
+      },
+      {
+        "text": "outside",
+        "lemma": "outside",
+        "pos": "ADV",
+        "tag": "RB",
+        "is_stop": false
+      },
+      {
+        "text": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "is_stop": false
+      }
+    ]
+  },
+  {
+    "image_id": 525083,
+    "caption_id": 769749,
+    "caption_raw": "a view of a kitchen from across the room.",
+    "caption_cleaned": "a view of a kitchen from across the room.",
+    "tokens": [
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "view",
+        "lemma": "view",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "kitchen",
+        "lemma": "kitchen",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "from",
+        "lemma": "from",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "across",
+        "lemma": "across",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "room",
+        "lemma": "room",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "is_stop": false
+      }
+    ]
+  },
+  {
+    "image_id": 525083,
+    "caption_id": 770079,
+    "caption_raw": "a small modern day house sits well lit",
+    "caption_cleaned": "a small modern day house sits well lit",
+    "tokens": [
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "small",
+        "lemma": "small",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "is_stop": false
+      },
+      {
+        "text": "modern",
+        "lemma": "modern",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "is_stop": false
+      },
+      {
+        "text": "day",
+        "lemma": "day",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "house",
+        "lemma": "house",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "sits",
+        "lemma": "sit",
+        "pos": "VERB",
+        "tag": "VBZ",
+        "is_stop": false
+      },
+      {
+        "text": "well",
+        "lemma": "well",
+        "pos": "ADV",
+        "tag": "RB",
+        "is_stop": true
+      },
+      {
+        "text": "lit",
+        "lemma": "light",
+        "pos": "VERB",
+        "tag": "VBN",
+        "is_stop": false
+      }
+    ]
+  },
+  {
+    "image_id": 525083,
+    "caption_id": 770280,
+    "caption_raw": "A kitchen with hardwood floors and hardwood cabinets.",
+    "caption_cleaned": "a kitchen with hardwood floors and hardwood cabinets.",
+    "tokens": [
+      {
+        "text": "A",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "kitchen",
+        "lemma": "kitchen",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "with",
+        "lemma": "with",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "hardwood",
+        "lemma": "hardwood",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "is_stop": false
+      },
+      {
+        "text": "floors",
+        "lemma": "floor",
+        "pos": "NOUN",
+        "tag": "NNS",
+        "is_stop": false
+      },
+      {
+        "text": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC",
+        "is_stop": true
+      },
+      {
+        "text": "hardwood",
+        "lemma": "hardwood",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "is_stop": false
+      },
+      {
+        "text": "cabinets",
+        "lemma": "cabinet",
+        "pos": "NOUN",
+        "tag": "NNS",
+        "is_stop": false
+      },
+      {
+        "text": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": ".",
+        "is_stop": false
+      }
+    ]
+  },
+  {
+    "image_id": 525083,
+    "caption_id": 774756,
+    "caption_raw": "a wood floor in a large home kitchen",
+    "caption_cleaned": "a wood floor in a large home kitchen",
+    "tokens": [
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "wood",
+        "lemma": "wood",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "floor",
+        "lemma": "floor",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "large",
+        "lemma": "large",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "is_stop": false
+      },
+      {
+        "text": "home",
+        "lemma": "home",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "kitchen",
+        "lemma": "kitchen",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      }
+    ]
+  },
+  {
+    "image_id": 525083,
+    "caption_id": 775470,
+    "caption_raw": "a kitchen with a wooden floor and a microwave oven ",
+    "caption_cleaned": "a kitchen with a wooden floor and a microwave oven",
+    "tokens": [
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "kitchen",
+        "lemma": "kitchen",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "with",
+        "lemma": "with",
+        "pos": "ADP",
+        "tag": "IN",
+        "is_stop": true
+      },
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "wooden",
+        "lemma": "wooden",
+        "pos": "ADJ",
+        "tag": "JJ",
+        "is_stop": false
+      },
+      {
+        "text": "floor",
+        "lemma": "floor",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC",
+        "is_stop": true
+      },
+      {
+        "text": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT",
+        "is_stop": true
+      },
+      {
+        "text": "microwave",
+        "lemma": "microwave",
+        "pos": "NOUN",
+        "tag": "NN",
+        "is_stop": false
+      },
+      {
+        "text": "oven",
+        "lemma": "oven",
+        "pos": "VERB",
+        "tag": "VBN",
+        "is_stop": false
+      }
+    ]
+  }
+]

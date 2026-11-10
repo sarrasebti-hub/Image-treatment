@@ -1,0 +1,14 @@
+{
+  "model": "openai/clip-vit-base-patch32",
+  "model_revision": "3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268",
+  "count": 1000,
+  "dimension": 512,
+  "dtype": "float32",
+  "normalization": "L2",
+  "device": "cpu",
+  "batch_size": 64,
+  "torch_version": "2.15.0+cpu",
+  "transformers_version": "5.22.1",
+  "preprocessing": "CLIPProcessor applied to processed 224x224 RGB letterboxed JPEGs",
+  "errors": []
+}

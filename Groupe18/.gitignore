@@ -1,0 +1,40 @@
+# Python bytecode and tool caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments
+.venv/
+venv/
+env/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and partial execution files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.part
+*.lock
+
+# COCO source images and processed image copies are available from the source dataset.
+data/raw/train2017/
+data/raw/val2017/
+data/processed/
+
+# Oversized generated artifacts are reproducible from the pipeline.
+data/raw/annotations/
+embeddings/*/train.npy
+vector_database/*.index
+reports/statistical_analysis/geometric_spatial_relationships.csv
+
+# Generated reports and report outputs
+/reports/

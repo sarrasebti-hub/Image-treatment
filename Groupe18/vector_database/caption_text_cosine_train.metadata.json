@@ -1,0 +1,18 @@
+{
+  "technology": "FAISS",
+  "index_type": "IndexFlatIP",
+  "metric": "cosine similarity via normalized vectors / inner product",
+  "faiss_version": "1.15.1",
+  "dimension": 512,
+  "ntotal": 50000,
+  "source_split": "train",
+  "model": "openai/clip-vit-base-patch32",
+  "model_revision": "3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268",
+  "metadata_file": "../embeddings/text_embeddings/train.metadata.json",
+  "contains_validation_or_test_captions": false,
+  "caption_id_count": 50000,
+  "unique_caption_ids": 50000,
+  "image_id_count": 10000,
+  "indexing_seconds": 0.868,
+  "index_size_bytes": 102400045
+}
