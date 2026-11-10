@@ -1,0 +1,16 @@
+# Python >=3.11. pip resolves a version supporting the selected interpreter.
+# Exact packages used for each artifact are recorded in its manifest.
+# The final shared release must also archive `pip freeze` and pin the model revision.
+numpy>=1.26,<3
+Pillow>=10,<14
+PyYAML>=6,<7
+matplotlib>=3.8,<4
+nltk>=3.9,<4
+pycocotools>=2.0.8,<3
+torch>=2.6,<3
+transformers>=4.50,<6
+faiss-cpu>=1.9,<2
+tqdm>=4.66,<5
+huggingface-hub>=0.30,<3
+nbformat>=5.10,<6
+ipykernel>=6,<8

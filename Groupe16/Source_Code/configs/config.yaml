@@ -1,0 +1,65 @@
+schema_version: 1
+random_seed: 42
+kb_size: 10000
+validation_size: 100
+# Teacher clarification: retain the first 100 for comparison and prepare 1000.
+test_size: 1000
+expected_captions: 5
+metadata:
+  human_caption_confidence: 1.0
+  human_caption_threshold: 1.0
+  confidence_policy: human_reference_convention_only
+paths:
+  raw: data/raw
+  annotations: data/raw/annotations
+  train_images: data/raw/train2017
+  val_images: data/raw/val2017
+  splits: artifacts/splits
+  metadata: artifacts/metadata
+  embeddings: artifacts/embeddings
+  indexes: artifacts/indexes
+  figures: reports/figures
+  tables: reports/tables
+  reports: reports
+  cache: data/interim/cache
+splits:
+  official_test_ids: null
+  # Auto-detect this exact path if teacher IDs are later supplied.
+  official_test_candidate: data/raw/official_test_ids.json
+  strategy: complexity_stratified
+audit:
+  file_hashes: true
+preprocessing:
+  lowercase: false
+  version: phase1-v1
+analysis:
+  simple_max_objects: 3
+  medium_max_objects: 7
+  top_classes: 50
+  cooccurrence_classes: 20
+  spatial_iou_threshold: 0.1
+  example_images: 6
+  pos_resource: averaged_perceptron_tagger_eng
+embedding:
+  model: openai/clip-vit-base-patch32
+  # First run resolves main to an immutable commit and records it. Pin that commit for release.
+  revision: 3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268
+  # Used only for an image-only DINOv2 model. Its text space is separate.
+  fallback_text_model: openai/clip-vit-base-patch32
+  fallback_text_revision: main
+  batch_size: 32
+  cpu_threads: 8
+  # CLIP supports variable-length input up to its context limit; avoids useless CPU padding.
+  text_padding: longest
+  device: auto
+  normalize: true
+  dtype: float32
+retrieval:
+  top_k: 5
+download:
+  # Same official COCO S3 bucket via valid HTTPS endpoint (original host has TLS mismatch).
+  annotations_url: https://s3.amazonaws.com/images.cocodataset.org/annotations/annotations_trainval2017.zip
+  image_base_url: https://s3.amazonaws.com/images.cocodataset.org
+  workers: 12
+  retries: 3
+  timeout_seconds: 60
