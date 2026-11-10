@@ -38,3 +38,6 @@ reports/statistical_analysis/geometric_spatial_relationships.csv
 
 # Generated reports and report outputs
 /reports/
+
+# Keep the project README out of the repository
+README.md
