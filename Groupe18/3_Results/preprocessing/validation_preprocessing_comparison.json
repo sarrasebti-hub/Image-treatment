@@ -1,0 +1,34 @@
+{
+  "status": "COMPARISON_COMPLETE_GEOMETRIC_CRITERIA_ONLY",
+  "validation_images": 100,
+  "historical_selection_evidence_found": false,
+  "configurations": {
+    "letterbox_224": {
+      "mean_content_fraction": 0.7223618749999998,
+      "mean_aspect_distortion_abs_log": 0.0,
+      "mean_crop_fraction": 0.0,
+      "mean_padding_fraction": 0.277638125
+    },
+    "stretch_224": {
+      "mean_content_fraction": 1.0,
+      "mean_aspect_distortion_abs_log": 0.3308884857909422,
+      "mean_crop_fraction": 0.0,
+      "mean_padding_fraction": 0.0
+    },
+    "center_crop_224": {
+      "mean_content_fraction": 0.7223618749999998,
+      "mean_aspect_distortion_abs_log": 0.0,
+      "mean_crop_fraction": 0.277638125,
+      "mean_padding_fraction": 0.0
+    }
+  },
+  "criteria": [
+    "preserve source aspect ratio",
+    "retain the full image field",
+    "minimize artificial padding after those constraints"
+  ],
+  "decision": "letterbox_224",
+  "rationale": "The letterbox configuration preserves the full image and aspect ratio for every input; center crop discards image area, while direct stretch distorts non-square images. Padding is accepted to satisfy the encoder's square input requirement.",
+  "scope_limit": "This new comparison evaluates geometric preprocessing properties only; it does not establish that this configuration maximizes caption/retrieval model performance. No model embeddings or indexes were regenerated.",
+  "timestamp_note": "Generated for this audit; no historical experiment is claimed."
+}

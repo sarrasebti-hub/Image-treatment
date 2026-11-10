@@ -1,0 +1,6 @@
+\section{Reproducibility Summary}
+\label{app:reproducibility}
+\input{tables/config_summary}
+The authoritative parameters are in \code{configs/config.json}; frozen split IDs are in \code{data/selected/}. Embeddings, mappings, and FAISS indexes are saved under \code{embeddings/} and \code{vector\_database/}. The saved caption-vector run records CPU execution, PyTorch 2.15.0+cpu, Transformers 5.22.1, and 1,121.3 seconds. A complete unified environment snapshot was not available, so these versions should not be treated as a full environment lock.
+
+The report was built with Tectonic 0.17.0. From this directory, compile using \code{tectonic main.tex}; the Python pipeline itself is not rerun to build the report.

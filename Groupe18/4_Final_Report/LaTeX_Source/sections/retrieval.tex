@@ -1,0 +1,32 @@
+\section{Retrieval and Quality Control}
+\label{ch:retrieval}
+
+\subsection{Retrieval smoke test}
+Each held-out query's saved CLIP image vector searches the 10,000-image training index. The evaluator sampled 20 held-out validation/test images, requested five neighbors, and excluded any same-ID result.
+
+The test returned results for all 20 queries, with zero self-matches and mean top-1 cosine similarity 0.8260. This is a functional check, not a relevance benchmark: without judged neighbors, the similarity is not accuracy, caption quality, or evidence of visual grounding.
+
+\begin{table}[htbp]
+\centering
+\caption{Recorded held-out image retrieval smoke test.}
+\label{tab:retrieval-results}
+\begin{tabularx}{0.85\textwidth}{@{}Xr@{}}
+\toprule
+Measure & Recorded result\\
+\midrule
+Training gallery & 10,000 images\\
+Held-out queries & 20\\
+Neighbors requested & 5 per query\\
+Queries with results & 20 / 20\\
+Self-matches & 0\\
+Mean top-1 cosine similarity & 0.8260\\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+\subsection{Quality-control results}
+The pipeline QC report marks implemented checks PASS. It covers split sizes and separation, five captions per image, image decoding, exact and perceptual duplicate screening, embeddings and mappings, index readback, caption-ID exclusion, and retrieval. Perceptual screening found nine within-split candidates and zero cross-split candidates at Hamming distance 6; candidates are not proof of duplicates.
+
+\input{tables/qc_summary}
+
+This PASS applies only to implemented pipeline checks. The separate requirement-level audit rates overall compliance PARTIAL because evidence is incomplete, including unrecorded historical preprocessing counts, partial exact caption mapping verification, and the missing unified environment snapshot. The 1,000-image test size matches the detailed assignment requirements.

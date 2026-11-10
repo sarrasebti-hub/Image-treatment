@@ -1,0 +1,9 @@
+\section{Introduction and Project Objectives}
+\label{ch:introduction}
+
+Image captioning is the task of describing an image in a short natural-language sentence. A useful caption names important objects and may describe their attributes, actions, or relationships. A caption should also avoid details that are not supported by the image. Current vision-language systems can produce fluent text, but fluent wording alone does not guarantee that the details are correct.
+
+Retrieval-Augmented Generation (RAG) is a design in which a system retrieves information from a separate collection and uses it when generating an answer \citep{lewis2020rag}. For image captioning, the retrieved material could include visually similar training images, captions written for those images, or structured visual metadata. The retrieved examples may guide a caption generator, but they may also introduce incorrect objects or relationships. Their effect must be measured rather than assumed.
+
+\subsection{Objective}
+The project asks how retrieval techniques affect caption quality, relevance, and grounding. This report covers Phase 1: the data, metadata, embedding, and retrieval foundation. It does not generate captions or compare RAG methods.

@@ -1,0 +1,29 @@
+\section{Image and Caption Preprocessing}
+\label{ch:preprocessing}
+
+\subsection{Image pipeline}
+The preprocessing source reads the selected COCO images and applies the following operations:
+\begin{enumerate}
+  \item Open and decode each source image.
+  \item Apply EXIF orientation correction with Pillow's \code{ImageOps.exif\_transpose}.
+  \item Convert the image to RGB.
+  \item Resize it with aspect ratio preserved, using Pillow's thumbnail operation and LANCZOS resampling.
+  \item Center it on a black canvas to produce a 224 by 224 pixel image.
+\end{enumerate}
+
+The quality-control report records 11,100 processed files decoded successfully, with no missing files. Each processed image is checked for 224 by 224 dimensions. Encoder normalization is applied when CLIP processes an image; the mean and standard deviation are not baked into the saved JPEG.
+
+\subsection{Resize choice}
+A geometry-only comparison on 100 validation images selected letterboxing: it preserves the full image and aspect ratio. Mean padding was 0.2776; stretching had mean absolute log aspect distortion 0.3309; center cropping discarded a mean 0.2776 of image area. This comparison did not measure model or caption performance.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.92\textwidth]{preprocessing_geometry_summary.png}
+\caption{Recorded geometry-only comparison of three 224 by 224 preprocessing configurations on 100 validation images.}
+\label{fig:preprocessing-comparison}
+\end{figure}
+
+\subsection{Caption handling}
+Each selected image has five caption records. \code{caption\_raw} preserves the original reference caption as supplied. The separate \code{caption\_cleaned} field collapses repeated whitespace, trims the ends, and case-folds the text for indexing. The current caption embeddings are generated from raw training captions, not the cleaned field. Future evaluation must use the original raw reference captions.
+
+The source applies EXIF correction and RGB conversion, but historical counts of changed orientations or converted images were not retained. The compliance audit also marks exact source-to-caption mapping verification as partial.

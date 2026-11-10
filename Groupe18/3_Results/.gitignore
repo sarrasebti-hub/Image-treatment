@@ -1,0 +1,2 @@
+embeddings/text_embeddings/train.npy
+retrieval/faiss_indexes/caption_text_cosine_train.index

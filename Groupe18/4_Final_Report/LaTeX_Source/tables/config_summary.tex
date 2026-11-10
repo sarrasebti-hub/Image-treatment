@@ -1,0 +1,30 @@
+\begin{table}[H]
+\centering
+\small
+\caption{Compact configuration and reproducibility record.}
+\label{tab:configuration}
+\rowcolors{2}{ProjectGrey}{white}
+\begin{tabularx}{\textwidth}{@{}>{\raggedright\arraybackslash}p{0.30\textwidth}X@{}}
+\toprule
+\textbf{Setting} & \textbf{Recorded value}\\
+\midrule
+Selection seed & 20261106\\
+Image input & 224 by 224 pixels; RGB; black letterbox padding\\
+Image format & JPEG\\
+Image and text model & \code{openai/clip-vit-base-patch32}\\
+Recorded model revision & \url{3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268}\\
+Embedding dimension and type & 512; float32\\
+Normalization & L2; unit-length vectors\\
+Batch size & 64\\
+Text maximum sequence length & 77 tokens\\
+Image index & FAISS \code{IndexFlatIP}; train gallery\\
+Caption index & FAISS \code{IndexFlatIP}; train captions only\\
+Retrieval settings & top-\(k=5\); 20 held-out query smoke test\\
+POS model & spaCy \code{en\_core\_web\_sm}\\
+Run environment & CPU; PyTorch 2.15.0+cpu; Transformers 5.22.1\\
+Execution time & 1,121.3 seconds for training-caption embeddings\\
+Split manifests & Frozen JSON/CSV files under \code{data/selected/}\\
+Report build & Tectonic 0.17.0; \code{tectonic main.tex}\\
+\bottomrule
+\end{tabularx}
+\end{table}

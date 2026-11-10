@@ -1,0 +1,3040 @@
+{
+  "caption_count": 55500,
+  "token_count": 591664,
+  "vocabulary_size": 9793,
+  "unique_word_count": 9793,
+  "tokenization": {
+    "source": "caption_raw, all frozen splits",
+    "unicode_normalization": "NFKC",
+    "case": "casefold",
+    "pattern": "[^\\W_]+(?:['’][^\\W_]+)*",
+    "description": "Unicode letter/number sequences; underscores excluded; internal straight/curly apostrophes retained; punctuation and whitespace delimit tokens.",
+    "stemming_or_lemmatization": false
+  },
+  "caption_length_tokens": {
+    "mean": 10.660612612612612,
+    "median": 10.0,
+    "min": 6,
+    "max": 49
+  },
+  "split_statistics": {
+    "train": {
+      "captions": 50000,
+      "tokens": 533364,
+      "unique_words": 9343
+    },
+    "validation": {
+      "captions": 500,
+      "tokens": 5255,
+      "unique_words": 964
+    },
+    "test": {
+      "captions": 5000,
+      "tokens": 53045,
+      "unique_words": 3332
+    }
+  },
+  "top_500_words": [
+    {
+      "rank": 1,
+      "word": "a",
+      "count": 92970,
+      "relative_frequency": 0.1571331025717299
+    },
+    {
+      "rank": 2,
+      "word": "of",
+      "count": 19889,
+      "relative_frequency": 0.03361536277346602
+    },
+    {
+      "rank": 3,
+      "word": "on",
+      "count": 18767,
+      "relative_frequency": 0.03171901619838287
+    },
+    {
+      "rank": 4,
+      "word": "and",
+      "count": 18149,
+      "relative_frequency": 0.030674504448470755
+    },
+    {
+      "rank": 5,
+      "word": "the",
+      "count": 17444,
+      "relative_frequency": 0.02948294978230888
+    },
+    {
+      "rank": 6,
+      "word": "with",
+      "count": 17329,
+      "relative_frequency": 0.029288582709105167
+    },
+    {
+      "rank": 7,
+      "word": "in",
+      "count": 16356,
+      "relative_frequency": 0.027644068254955516
+    },
+    {
+      "rank": 8,
+      "word": "is",
+      "count": 8362,
+      "relative_frequency": 0.014133021444603693
+    },
+    {
+      "rank": 9,
+      "word": "to",
+      "count": 6495,
+      "relative_frequency": 0.010977514264853024
+    },
+    {
+      "rank": 10,
+      "word": "man",
+      "count": 5784,
+      "relative_frequency": 0.009775818707915303
+    },
+    {
+      "rank": 11,
+      "word": "people",
+      "count": 5496,
+      "relative_frequency": 0.009289055950674707
+    },
+    {
+      "rank": 12,
+      "word": "table",
+      "count": 5266,
+      "relative_frequency": 0.008900321804267287
+    },
+    {
+      "rank": 13,
+      "word": "sitting",
+      "count": 5183,
+      "relative_frequency": 0.008760039481868088
+    },
+    {
+      "rank": 14,
+      "word": "at",
+      "count": 5022,
+      "relative_frequency": 0.008487925579382893
+    },
+    {
+      "rank": 15,
+      "word": "an",
+      "count": 4622,
+      "relative_frequency": 0.0078118661943265095
+    },
+    {
+      "rank": 16,
+      "word": "two",
+      "count": 4269,
+      "relative_frequency": 0.007215243787014251
+    },
+    {
+      "rank": 17,
+      "word": "are",
+      "count": 4145,
+      "relative_frequency": 0.007005665377646773
+    },
+    {
+      "rank": 18,
+      "word": "kitchen",
+      "count": 4115,
+      "relative_frequency": 0.006954960923767544
+    },
+    {
+      "rank": 19,
+      "word": "street",
+      "count": 3759,
+      "relative_frequency": 0.0063532680710673625
+    },
+    {
+      "rank": 20,
+      "word": "standing",
+      "count": 3688,
+      "relative_frequency": 0.006233267530219855
+    },
+    {
+      "rank": 21,
+      "word": "next",
+      "count": 3477,
+      "relative_frequency": 0.005876646204602612
+    },
+    {
+      "rank": 22,
+      "word": "woman",
+      "count": 3306,
+      "relative_frequency": 0.005587630817491009
+    },
+    {
+      "rank": 23,
+      "word": "white",
+      "count": 2970,
+      "relative_frequency": 0.005019740934043646
+    },
+    {
+      "rank": 24,
+      "word": "room",
+      "count": 2809,
+      "relative_frequency": 0.004747627031558452
+    },
+    {
+      "rank": 25,
+      "word": "food",
+      "count": 2755,
+      "relative_frequency": 0.00465635901457584
+    },
+    {
+      "rank": 26,
+      "word": "some",
+      "count": 2591,
+      "relative_frequency": 0.004379174666702723
+    },
+    {
+      "rank": 27,
+      "word": "it",
+      "count": 2581,
+      "relative_frequency": 0.004362273182076314
+    },
+    {
+      "rank": 28,
+      "word": "that",
+      "count": 2540,
+      "relative_frequency": 0.004292977095108034
+    },
+    {
+      "rank": 29,
+      "word": "group",
+      "count": 2457,
+      "relative_frequency": 0.004152694772708835
+    },
+    {
+      "rank": 30,
+      "word": "large",
+      "count": 2264,
+      "relative_frequency": 0.00382649611941913
+    },
+    {
+      "rank": 31,
+      "word": "plate",
+      "count": 2222,
+      "relative_frequency": 0.0037555098839882096
+    },
+    {
+      "rank": 32,
+      "word": "desk",
+      "count": 2193,
+      "relative_frequency": 0.003706495578571622
+    },
+    {
+      "rank": 33,
+      "word": "holding",
+      "count": 2073,
+      "relative_frequency": 0.003503677763054707
+    },
+    {
+      "rank": 34,
+      "word": "top",
+      "count": 2043,
+      "relative_frequency": 0.003452973309175478
+    },
+    {
+      "rank": 35,
+      "word": "baseball",
+      "count": 2024,
+      "relative_frequency": 0.0034208604883852996
+    },
+    {
+      "rank": 36,
+      "word": "computer",
+      "count": 2006,
+      "relative_frequency": 0.0033904378160577626
+    },
+    {
+      "rank": 37,
+      "word": "dog",
+      "count": 1966,
+      "relative_frequency": 0.0033228318775521243
+    },
+    {
+      "rank": 38,
+      "word": "bear",
+      "count": 1913,
+      "relative_frequency": 0.0032332540090321536
+    },
+    {
+      "rank": 39,
+      "word": "near",
+      "count": 1834,
+      "relative_frequency": 0.0030997322804835175
+    },
+    {
+      "rank": 40,
+      "word": "small",
+      "count": 1819,
+      "relative_frequency": 0.0030743800535439035
+    },
+    {
+      "rank": 41,
+      "word": "down",
+      "count": 1783,
+      "relative_frequency": 0.0030135347088888287
+    },
+    {
+      "rank": 42,
+      "word": "person",
+      "count": 1756,
+      "relative_frequency": 0.002967900700397523
+    },
+    {
+      "rank": 43,
+      "word": "has",
+      "count": 1722,
+      "relative_frequency": 0.0029104356526677305
+    },
+    {
+      "rank": 44,
+      "word": "front",
+      "count": 1697,
+      "relative_frequency": 0.0028681819411017066
+    },
+    {
+      "rank": 45,
+      "word": "black",
+      "count": 1647,
+      "relative_frequency": 0.0027836745179696584
+    },
+    {
+      "rank": 46,
+      "word": "field",
+      "count": 1646,
+      "relative_frequency": 0.0027819843695070174
+    },
+    {
+      "rank": 47,
+      "word": "walking",
+      "count": 1626,
+      "relative_frequency": 0.0027481814002541984
+    },
+    {
+      "rank": 48,
+      "word": "up",
+      "count": 1602,
+      "relative_frequency": 0.0027076178371508155
+    },
+    {
+      "rank": 49,
+      "word": "laptop",
+      "count": 1581,
+      "relative_frequency": 0.002672124719435355
+    },
+    {
+      "rank": 50,
+      "word": "bathroom",
+      "count": 1556,
+      "relative_frequency": 0.0026298710078693313
+    },
+    {
+      "rank": 51,
+      "word": "cat",
+      "count": 1551,
+      "relative_frequency": 0.0026214202655561263
+    },
+    {
+      "rank": 52,
+      "word": "his",
+      "count": 1541,
+      "relative_frequency": 0.002604518780929717
+    },
+    {
+      "rank": 53,
+      "word": "by",
+      "count": 1521,
+      "relative_frequency": 0.002570715811676898
+    },
+    {
+      "rank": 54,
+      "word": "sign",
+      "count": 1463,
+      "relative_frequency": 0.002472687200843722
+    },
+    {
+      "rank": 55,
+      "word": "living",
+      "count": 1413,
+      "relative_frequency": 0.0023881797777116744
+    },
+    {
+      "rank": 56,
+      "word": "while",
+      "count": 1408,
+      "relative_frequency": 0.0023797290353984694
+    },
+    {
+      "rank": 57,
+      "word": "sink",
+      "count": 1400,
+      "relative_frequency": 0.0023662078476973415
+    },
+    {
+      "rank": 58,
+      "word": "water",
+      "count": 1312,
+      "relative_frequency": 0.0022174747829849374
+    },
+    {
+      "rank": 59,
+      "word": "tennis",
+      "count": 1297,
+      "relative_frequency": 0.002192122556045323
+    },
+    {
+      "rank": 60,
+      "word": "young",
+      "count": 1292,
+      "relative_frequency": 0.002183671813732118
+    },
+    {
+      "rank": 61,
+      "word": "playing",
+      "count": 1222,
+      "relative_frequency": 0.0020653614213472513
+    },
+    {
+      "rank": 62,
+      "word": "there",
+      "count": 1218,
+      "relative_frequency": 0.0020586008274966873
+    },
+    {
+      "rank": 63,
+      "word": "city",
+      "count": 1212,
+      "relative_frequency": 0.0020484599367208414
+    },
+    {
+      "rank": 64,
+      "word": "counter",
+      "count": 1194,
+      "relative_frequency": 0.0020180372643933044
+    },
+    {
+      "rank": 65,
+      "word": "riding",
+      "count": 1193,
+      "relative_frequency": 0.0020163471159306634
+    },
+    {
+      "rank": 66,
+      "word": "other",
+      "count": 1164,
+      "relative_frequency": 0.0019673328105140756
+    },
+    {
+      "rank": 67,
+      "word": "eating",
+      "count": 1150,
+      "relative_frequency": 0.0019436707320371021
+    },
+    {
+      "rank": 68,
+      "word": "ball",
+      "count": 1116,
+      "relative_frequency": 0.0018862056843073096
+    },
+    {
+      "rank": 69,
+      "word": "for",
+      "count": 1107,
+      "relative_frequency": 0.0018709943481435409
+    },
+    {
+      "rank": 70,
+      "word": "train",
+      "count": 1078,
+      "relative_frequency": 0.0018219800427269532
+    },
+    {
+      "rank": 71,
+      "word": "red",
+      "count": 1051,
+      "relative_frequency": 0.0017763460342356473
+    },
+    {
+      "rank": 72,
+      "word": "game",
+      "count": 1038,
+      "relative_frequency": 0.001754374104221315
+    },
+    {
+      "rank": 73,
+      "word": "pizza",
+      "count": 1021,
+      "relative_frequency": 0.0017256415803564185
+    },
+    {
+      "rank": 74,
+      "word": "around",
+      "count": 1014,
+      "relative_frequency": 0.0017138105411179318
+    },
+    {
+      "rank": 75,
+      "word": "snow",
+      "count": 1005,
+      "relative_frequency": 0.001698599204954163
+    },
+    {
+      "rank": 76,
+      "word": "several",
+      "count": 998,
+      "relative_frequency": 0.0016867681657156764
+    },
+    {
+      "rank": 77,
+      "word": "couple",
+      "count": 997,
+      "relative_frequency": 0.0016850780172530356
+    },
+    {
+      "rank": 78,
+      "word": "three",
+      "count": 987,
+      "relative_frequency": 0.001668176532626626
+    },
+    {
+      "rank": 79,
+      "word": "area",
+      "count": 980,
+      "relative_frequency": 0.0016563454933881392
+    },
+    {
+      "rank": 80,
+      "word": "men",
+      "count": 970,
+      "relative_frequency": 0.0016394440087617297
+    },
+    {
+      "rank": 81,
+      "word": "wooden",
+      "count": 961,
+      "relative_frequency": 0.001624232672597961
+    },
+    {
+      "rank": 82,
+      "word": "bed",
+      "count": 958,
+      "relative_frequency": 0.001619162227210038
+    },
+    {
+      "rank": 83,
+      "word": "side",
+      "count": 957,
+      "relative_frequency": 0.001617472078747397
+    },
+    {
+      "rank": 84,
+      "word": "grass",
+      "count": 955,
+      "relative_frequency": 0.0016140917818221153
+    },
+    {
+      "rank": 85,
+      "word": "her",
+      "count": 938,
+      "relative_frequency": 0.001585359257957219
+    },
+    {
+      "rank": 86,
+      "word": "player",
+      "count": 935,
+      "relative_frequency": 0.0015802888125692961
+    },
+    {
+      "rank": 87,
+      "word": "vegetables",
+      "count": 934,
+      "relative_frequency": 0.0015785986641066552
+    },
+    {
+      "rank": 88,
+      "word": "filled",
+      "count": 900,
+      "relative_frequency": 0.0015211336163768626
+    },
+    {
+      "rank": 89,
+      "word": "beach",
+      "count": 899,
+      "relative_frequency": 0.0015194434679142216
+    },
+    {
+      "rank": 90,
+      "word": "many",
+      "count": 893,
+      "relative_frequency": 0.0015093025771383758
+    },
+    {
+      "rank": 91,
+      "word": "cake",
+      "count": 878,
+      "relative_frequency": 0.0014839503501987614
+    },
+    {
+      "rank": 92,
+      "word": "looking",
+      "count": 875,
+      "relative_frequency": 0.0014788799048108387
+    },
+    {
+      "rank": 93,
+      "word": "road",
+      "count": 870,
+      "relative_frequency": 0.0014704291624976337
+    },
+    {
+      "rank": 94,
+      "word": "parking",
+      "count": 869,
+      "relative_frequency": 0.001468739014034993
+    },
+    {
+      "rank": 95,
+      "word": "fruit",
+      "count": 853,
+      "relative_frequency": 0.0014416966386327375
+    },
+    {
+      "rank": 96,
+      "word": "green",
+      "count": 850,
+      "relative_frequency": 0.0014366261932448146
+    },
+    {
+      "rank": 97,
+      "word": "as",
+      "count": 839,
+      "relative_frequency": 0.001418034560155764
+    },
+    {
+      "rank": 98,
+      "word": "sheep",
+      "count": 826,
+      "relative_frequency": 0.0013960626301414317
+    },
+    {
+      "rank": 99,
+      "word": "over",
+      "count": 815,
+      "relative_frequency": 0.001377470997052381
+    },
+    {
+      "rank": 100,
+      "word": "frisbee",
+      "count": 811,
+      "relative_frequency": 0.0013707104032018172
+    },
+    {
+      "rank": 101,
+      "word": "giraffe",
+      "count": 805,
+      "relative_frequency": 0.0013605695124259715
+    },
+    {
+      "rank": 102,
+      "word": "blue",
+      "count": 797,
+      "relative_frequency": 0.0013470483247248438
+    },
+    {
+      "rank": 103,
+      "word": "boy",
+      "count": 796,
+      "relative_frequency": 0.0013453581762622028
+    },
+    {
+      "rank": 104,
+      "word": "elephant",
+      "count": 790,
+      "relative_frequency": 0.001335217285486357
+    },
+    {
+      "rank": 105,
+      "word": "out",
+      "count": 786,
+      "relative_frequency": 0.0013284566916357933
+    },
+    {
+      "rank": 106,
+      "word": "sits",
+      "count": 783,
+      "relative_frequency": 0.0013233862462478704
+    },
+    {
+      "rank": 107,
+      "word": "brown",
+      "count": 778,
+      "relative_frequency": 0.0013149355039346656
+    },
+    {
+      "rank": 108,
+      "word": "girl",
+      "count": 777,
+      "relative_frequency": 0.0013132453554720246
+    },
+    {
+      "rank": 109,
+      "word": "from",
+      "count": 774,
+      "relative_frequency": 0.0013081749100841019
+    },
+    {
+      "rank": 110,
+      "word": "laying",
+      "count": 774,
+      "relative_frequency": 0.0013081749100841019
+    },
+    {
+      "rank": 111,
+      "word": "picture",
+      "count": 772,
+      "relative_frequency": 0.00130479461315882
+    },
+    {
+      "rank": 112,
+      "word": "one",
+      "count": 771,
+      "relative_frequency": 0.001303104464696179
+    },
+    {
+      "rank": 113,
+      "word": "bat",
+      "count": 760,
+      "relative_frequency": 0.0012845128316071285
+    },
+    {
+      "rank": 114,
+      "word": "parked",
+      "count": 757,
+      "relative_frequency": 0.0012794423862192055
+    },
+    {
+      "rank": 115,
+      "word": "their",
+      "count": 743,
+      "relative_frequency": 0.001255780307742232
+    },
+    {
+      "rank": 116,
+      "word": "bus",
+      "count": 727,
+      "relative_frequency": 0.0012287379323399769
+    },
+    {
+      "rank": 117,
+      "word": "couch",
+      "count": 723,
+      "relative_frequency": 0.0012219773384894129
+    },
+    {
+      "rank": 118,
+      "word": "zebra",
+      "count": 717,
+      "relative_frequency": 0.0012118364477135672
+    },
+    {
+      "rank": 119,
+      "word": "bowl",
+      "count": 707,
+      "relative_frequency": 0.0011949349630871575
+    },
+    {
+      "rank": 120,
+      "word": "this",
+      "count": 705,
+      "relative_frequency": 0.0011915546661618757
+    },
+    {
+      "rank": 121,
+      "word": "building",
+      "count": 690,
+      "relative_frequency": 0.0011662024392222613
+    },
+    {
+      "rank": 122,
+      "word": "plates",
+      "count": 662,
+      "relative_frequency": 0.0011188782822683144
+    },
+    {
+      "rank": 123,
+      "word": "horse",
+      "count": 654,
+      "relative_frequency": 0.0011053570945671867
+    },
+    {
+      "rank": 124,
+      "word": "open",
+      "count": 649,
+      "relative_frequency": 0.001096906352253982
+    },
+    {
+      "rank": 125,
+      "word": "covered",
+      "count": 641,
+      "relative_frequency": 0.0010833851645528543
+    },
+    {
+      "rank": 126,
+      "word": "toilet",
+      "count": 635,
+      "relative_frequency": 0.0010732442737770085
+    },
+    {
+      "rank": 127,
+      "word": "flying",
+      "count": 635,
+      "relative_frequency": 0.0010732442737770085
+    },
+    {
+      "rank": 128,
+      "word": "skateboard",
+      "count": 632,
+      "relative_frequency": 0.0010681738283890858
+    },
+    {
+      "rank": 129,
+      "word": "sandwich",
+      "count": 632,
+      "relative_frequency": 0.0010681738283890858
+    },
+    {
+      "rank": 130,
+      "word": "stove",
+      "count": 631,
+      "relative_frequency": 0.0010664836799264448
+    },
+    {
+      "rank": 131,
+      "word": "different",
+      "count": 622,
+      "relative_frequency": 0.001051272343762676
+    },
+    {
+      "rank": 132,
+      "word": "chair",
+      "count": 620,
+      "relative_frequency": 0.0010478920468373941
+    },
+    {
+      "rank": 133,
+      "word": "behind",
+      "count": 613,
+      "relative_frequency": 0.0010360610075989074
+    },
+    {
+      "rank": 134,
+      "word": "through",
+      "count": 611,
+      "relative_frequency": 0.0010326807106736256
+    },
+    {
+      "rank": 135,
+      "word": "animals",
+      "count": 607,
+      "relative_frequency": 0.0010259201168230617
+    },
+    {
+      "rank": 136,
+      "word": "sidewalk",
+      "count": 594,
+      "relative_frequency": 0.0010039481868087292
+    },
+    {
+      "rank": 137,
+      "word": "bunch",
+      "count": 587,
+      "relative_frequency": 0.0009921171475702425
+    },
+    {
+      "rank": 138,
+      "word": "outside",
+      "count": 586,
+      "relative_frequency": 0.0009904269991076015
+    },
+    {
+      "rank": 139,
+      "word": "very",
+      "count": 584,
+      "relative_frequency": 0.0009870467021823198
+    },
+    {
+      "rank": 140,
+      "word": "board",
+      "count": 569,
+      "relative_frequency": 0.0009616944752427053
+    },
+    {
+      "rank": 141,
+      "word": "full",
+      "count": 565,
+      "relative_frequency": 0.0009549338813921415
+    },
+    {
+      "rank": 142,
+      "word": "fire",
+      "count": 565,
+      "relative_frequency": 0.0009549338813921415
+    },
+    {
+      "rank": 143,
+      "word": "together",
+      "count": 562,
+      "relative_frequency": 0.0009498634360042186
+    },
+    {
+      "rank": 144,
+      "word": "meter",
+      "count": 560,
+      "relative_frequency": 0.0009464831390789367
+    },
+    {
+      "rank": 145,
+      "word": "hot",
+      "count": 559,
+      "relative_frequency": 0.0009447929906162958
+    },
+    {
+      "rank": 146,
+      "word": "little",
+      "count": 555,
+      "relative_frequency": 0.0009380323967657319
+    },
+    {
+      "rank": 147,
+      "word": "women",
+      "count": 543,
+      "relative_frequency": 0.0009177506152140404
+    },
+    {
+      "rank": 148,
+      "word": "view",
+      "count": 537,
+      "relative_frequency": 0.0009076097244381946
+    },
+    {
+      "rank": 149,
+      "word": "cabinets",
+      "count": 533,
+      "relative_frequency": 0.0009008491305876308
+    },
+    {
+      "rank": 150,
+      "word": "window",
+      "count": 532,
+      "relative_frequency": 0.0008991589821249899
+    },
+    {
+      "rank": 151,
+      "word": "refrigerator",
+      "count": 528,
+      "relative_frequency": 0.000892398388274426
+    },
+    {
+      "rank": 152,
+      "word": "stand",
+      "count": 528,
+      "relative_frequency": 0.000892398388274426
+    },
+    {
+      "rank": 153,
+      "word": "zebras",
+      "count": 522,
+      "relative_frequency": 0.0008822574974985803
+    },
+    {
+      "rank": 154,
+      "word": "background",
+      "count": 521,
+      "relative_frequency": 0.0008805673490359393
+    },
+    {
+      "rank": 155,
+      "word": "kite",
+      "count": 519,
+      "relative_frequency": 0.0008771870521106575
+    },
+    {
+      "rank": 156,
+      "word": "child",
+      "count": 517,
+      "relative_frequency": 0.0008738067551853755
+    },
+    {
+      "rank": 157,
+      "word": "keyboard",
+      "count": 505,
+      "relative_frequency": 0.000853524973633684
+    },
+    {
+      "rank": 158,
+      "word": "glass",
+      "count": 500,
+      "relative_frequency": 0.0008450742313204792
+    },
+    {
+      "rank": 159,
+      "word": "big",
+      "count": 493,
+      "relative_frequency": 0.0008332431920819925
+    },
+    {
+      "rank": 160,
+      "word": "wall",
+      "count": 490,
+      "relative_frequency": 0.0008281727466940696
+    },
+    {
+      "rank": 161,
+      "word": "yellow",
+      "count": 488,
+      "relative_frequency": 0.0008247924497687877
+    },
+    {
+      "rank": 162,
+      "word": "cars",
+      "count": 484,
+      "relative_frequency": 0.0008180318559182239
+    },
+    {
+      "rank": 163,
+      "word": "hydrant",
+      "count": 479,
+      "relative_frequency": 0.000809581113605019
+    },
+    {
+      "rank": 164,
+      "word": "signs",
+      "count": 479,
+      "relative_frequency": 0.000809581113605019
+    },
+    {
+      "rank": 165,
+      "word": "mirror",
+      "count": 472,
+      "relative_frequency": 0.0007977500743665323
+    },
+    {
+      "rank": 166,
+      "word": "office",
+      "count": 472,
+      "relative_frequency": 0.0007977500743665323
+    },
+    {
+      "rank": 167,
+      "word": "stands",
+      "count": 470,
+      "relative_frequency": 0.0007943697774412504
+    },
+    {
+      "rank": 168,
+      "word": "car",
+      "count": 469,
+      "relative_frequency": 0.0007926796289786094
+    },
+    {
+      "rank": 169,
+      "word": "under",
+      "count": 466,
+      "relative_frequency": 0.0007876091835906866
+    },
+    {
+      "rank": 170,
+      "word": "floor",
+      "count": 465,
+      "relative_frequency": 0.0007859190351280456
+    },
+    {
+      "rank": 171,
+      "word": "items",
+      "count": 464,
+      "relative_frequency": 0.0007842288866654047
+    },
+    {
+      "rank": 172,
+      "word": "various",
+      "count": 464,
+      "relative_frequency": 0.0007842288866654047
+    },
+    {
+      "rank": 173,
+      "word": "inside",
+      "count": 460,
+      "relative_frequency": 0.0007774682928148409
+    },
+    {
+      "rank": 174,
+      "word": "wearing",
+      "count": 457,
+      "relative_frequency": 0.000772397847426918
+    },
+    {
+      "rank": 175,
+      "word": "being",
+      "count": 455,
+      "relative_frequency": 0.000769017550501636
+    },
+    {
+      "rank": 176,
+      "word": "fruits",
+      "count": 454,
+      "relative_frequency": 0.0007673274020389951
+    },
+    {
+      "rank": 177,
+      "word": "stop",
+      "count": 454,
+      "relative_frequency": 0.0007673274020389951
+    },
+    {
+      "rank": 178,
+      "word": "tree",
+      "count": 451,
+      "relative_frequency": 0.0007622569566510723
+    },
+    {
+      "rank": 179,
+      "word": "teddy",
+      "count": 450,
+      "relative_frequency": 0.0007605668081884313
+    },
+    {
+      "rank": 180,
+      "word": "air",
+      "count": 442,
+      "relative_frequency": 0.0007470456204873036
+    },
+    {
+      "rank": 181,
+      "word": "cutting",
+      "count": 440,
+      "relative_frequency": 0.0007436653235620217
+    },
+    {
+      "rank": 182,
+      "word": "trees",
+      "count": 440,
+      "relative_frequency": 0.0007436653235620217
+    },
+    {
+      "rank": 183,
+      "word": "park",
+      "count": 439,
+      "relative_frequency": 0.0007419751750993807
+    },
+    {
+      "rank": 184,
+      "word": "sit",
+      "count": 438,
+      "relative_frequency": 0.0007402850266367397
+    },
+    {
+      "rank": 185,
+      "word": "skis",
+      "count": 438,
+      "relative_frequency": 0.0007402850266367397
+    },
+    {
+      "rank": 186,
+      "word": "photo",
+      "count": 437,
+      "relative_frequency": 0.0007385948781740988
+    },
+    {
+      "rank": 187,
+      "word": "into",
+      "count": 436,
+      "relative_frequency": 0.0007369047297114578
+    },
+    {
+      "rank": 188,
+      "word": "close",
+      "count": 435,
+      "relative_frequency": 0.0007352145812488169
+    },
+    {
+      "rank": 189,
+      "word": "giraffes",
+      "count": 433,
+      "relative_frequency": 0.000731834284323535
+    },
+    {
+      "rank": 190,
+      "word": "monitor",
+      "count": 430,
+      "relative_frequency": 0.0007267638389356121
+    },
+    {
+      "rank": 191,
+      "word": "corner",
+      "count": 429,
+      "relative_frequency": 0.0007250736904729711
+    },
+    {
+      "rank": 192,
+      "word": "each",
+      "count": 428,
+      "relative_frequency": 0.0007233835420103301
+    },
+    {
+      "rank": 193,
+      "word": "dining",
+      "count": 427,
+      "relative_frequency": 0.0007216933935476893
+    },
+    {
+      "rank": 194,
+      "word": "restaurant",
+      "count": 426,
+      "relative_frequency": 0.0007200032450850483
+    },
+    {
+      "rank": 195,
+      "word": "lot",
+      "count": 423,
+      "relative_frequency": 0.0007149327996971254
+    },
+    {
+      "rank": 196,
+      "word": "another",
+      "count": 422,
+      "relative_frequency": 0.0007132426512344844
+    },
+    {
+      "rank": 197,
+      "word": "stuffed",
+      "count": 411,
+      "relative_frequency": 0.0006946510181454338
+    },
+    {
+      "rank": 198,
+      "word": "ready",
+      "count": 409,
+      "relative_frequency": 0.000691270721220152
+    },
+    {
+      "rank": 199,
+      "word": "back",
+      "count": 409,
+      "relative_frequency": 0.000691270721220152
+    },
+    {
+      "rank": 200,
+      "word": "set",
+      "count": 408,
+      "relative_frequency": 0.000689580572757511
+    },
+    {
+      "rank": 201,
+      "word": "topped",
+      "count": 407,
+      "relative_frequency": 0.0006878904242948701
+    },
+    {
+      "rank": 202,
+      "word": "meal",
+      "count": 407,
+      "relative_frequency": 0.0006878904242948701
+    },
+    {
+      "rank": 203,
+      "word": "middle",
+      "count": 406,
+      "relative_frequency": 0.0006862002758322291
+    },
+    {
+      "rank": 204,
+      "word": "tv",
+      "count": 406,
+      "relative_frequency": 0.0006862002758322291
+    },
+    {
+      "rank": 205,
+      "word": "hair",
+      "count": 405,
+      "relative_frequency": 0.0006845101273695881
+    },
+    {
+      "rank": 206,
+      "word": "across",
+      "count": 403,
+      "relative_frequency": 0.0006811298304443062
+    },
+    {
+      "rank": 207,
+      "word": "dogs",
+      "count": 401,
+      "relative_frequency": 0.0006777495335190243
+    },
+    {
+      "rank": 208,
+      "word": "herd",
+      "count": 401,
+      "relative_frequency": 0.0006777495335190243
+    },
+    {
+      "rank": 209,
+      "word": "court",
+      "count": 399,
+      "relative_frequency": 0.0006743692365937424
+    },
+    {
+      "rank": 210,
+      "word": "chairs",
+      "count": 397,
+      "relative_frequency": 0.0006709889396684605
+    },
+    {
+      "rank": 211,
+      "word": "television",
+      "count": 397,
+      "relative_frequency": 0.0006709889396684605
+    },
+    {
+      "rank": 212,
+      "word": "computers",
+      "count": 395,
+      "relative_frequency": 0.0006676086427431785
+    },
+    {
+      "rank": 213,
+      "word": "home",
+      "count": 393,
+      "relative_frequency": 0.0006642283458178967
+    },
+    {
+      "rank": 214,
+      "word": "traffic",
+      "count": 393,
+      "relative_frequency": 0.0006642283458178967
+    },
+    {
+      "rank": 215,
+      "word": "watching",
+      "count": 393,
+      "relative_frequency": 0.0006642283458178967
+    },
+    {
+      "rank": 216,
+      "word": "batter",
+      "count": 392,
+      "relative_frequency": 0.0006625381973552557
+    },
+    {
+      "rank": 217,
+      "word": "elephants",
+      "count": 391,
+      "relative_frequency": 0.0006608480488926147
+    },
+    {
+      "rank": 218,
+      "word": "its",
+      "count": 391,
+      "relative_frequency": 0.0006608480488926147
+    },
+    {
+      "rank": 219,
+      "word": "busy",
+      "count": 390,
+      "relative_frequency": 0.0006591579004299738
+    },
+    {
+      "rank": 220,
+      "word": "orange",
+      "count": 388,
+      "relative_frequency": 0.0006557776035046918
+    },
+    {
+      "rank": 221,
+      "word": "bike",
+      "count": 386,
+      "relative_frequency": 0.00065239730657941
+    },
+    {
+      "rank": 222,
+      "word": "motorcycle",
+      "count": 384,
+      "relative_frequency": 0.000649017009654128
+    },
+    {
+      "rank": 223,
+      "word": "oven",
+      "count": 382,
+      "relative_frequency": 0.0006456367127288461
+    },
+    {
+      "rank": 224,
+      "word": "bananas",
+      "count": 382,
+      "relative_frequency": 0.0006456367127288461
+    },
+    {
+      "rank": 225,
+      "word": "light",
+      "count": 377,
+      "relative_frequency": 0.0006371859704156414
+    },
+    {
+      "rank": 226,
+      "word": "swinging",
+      "count": 376,
+      "relative_frequency": 0.0006354958219530004
+    },
+    {
+      "rank": 227,
+      "word": "coffee",
+      "count": 376,
+      "relative_frequency": 0.0006354958219530004
+    },
+    {
+      "rank": 228,
+      "word": "plane",
+      "count": 376,
+      "relative_frequency": 0.0006354958219530004
+    },
+    {
+      "rank": 229,
+      "word": "airplane",
+      "count": 374,
+      "relative_frequency": 0.0006321155250277184
+    },
+    {
+      "rank": 230,
+      "word": "slope",
+      "count": 368,
+      "relative_frequency": 0.0006219746342518727
+    },
+    {
+      "rank": 231,
+      "word": "bench",
+      "count": 366,
+      "relative_frequency": 0.0006185943373265908
+    },
+    {
+      "rank": 232,
+      "word": "appliances",
+      "count": 363,
+      "relative_frequency": 0.0006135238919386679
+    },
+    {
+      "rank": 233,
+      "word": "wood",
+      "count": 363,
+      "relative_frequency": 0.0006135238919386679
+    },
+    {
+      "rank": 234,
+      "word": "ski",
+      "count": 362,
+      "relative_frequency": 0.0006118337434760269
+    },
+    {
+      "rank": 235,
+      "word": "image",
+      "count": 362,
+      "relative_frequency": 0.0006118337434760269
+    },
+    {
+      "rank": 236,
+      "word": "lots",
+      "count": 358,
+      "relative_frequency": 0.0006050731496254631
+    },
+    {
+      "rank": 237,
+      "word": "old",
+      "count": 358,
+      "relative_frequency": 0.0006050731496254631
+    },
+    {
+      "rank": 238,
+      "word": "ocean",
+      "count": 355,
+      "relative_frequency": 0.0006000027042375402
+    },
+    {
+      "rank": 239,
+      "word": "wine",
+      "count": 355,
+      "relative_frequency": 0.0006000027042375402
+    },
+    {
+      "rank": 240,
+      "word": "microwave",
+      "count": 353,
+      "relative_frequency": 0.0005966224073122584
+    },
+    {
+      "rank": 241,
+      "word": "during",
+      "count": 353,
+      "relative_frequency": 0.0005966224073122584
+    },
+    {
+      "rank": 242,
+      "word": "umbrella",
+      "count": 352,
+      "relative_frequency": 0.0005949322588496174
+    },
+    {
+      "rank": 243,
+      "word": "grassy",
+      "count": 352,
+      "relative_frequency": 0.0005949322588496174
+    },
+    {
+      "rank": 244,
+      "word": "phone",
+      "count": 352,
+      "relative_frequency": 0.0005949322588496174
+    },
+    {
+      "rank": 245,
+      "word": "them",
+      "count": 350,
+      "relative_frequency": 0.0005915519619243354
+    },
+    {
+      "rank": 246,
+      "word": "luggage",
+      "count": 350,
+      "relative_frequency": 0.0005915519619243354
+    },
+    {
+      "rank": 247,
+      "word": "polar",
+      "count": 345,
+      "relative_frequency": 0.0005831012196111306
+    },
+    {
+      "rank": 248,
+      "word": "crowd",
+      "count": 344,
+      "relative_frequency": 0.0005814110711484897
+    },
+    {
+      "rank": 249,
+      "word": "horses",
+      "count": 344,
+      "relative_frequency": 0.0005814110711484897
+    },
+    {
+      "rank": 250,
+      "word": "four",
+      "count": 341,
+      "relative_frequency": 0.0005763406257605668
+    },
+    {
+      "rank": 251,
+      "word": "broccoli",
+      "count": 341,
+      "relative_frequency": 0.0005763406257605668
+    },
+    {
+      "rank": 252,
+      "word": "all",
+      "count": 338,
+      "relative_frequency": 0.0005712701803726439
+    },
+    {
+      "rank": 253,
+      "word": "tray",
+      "count": 338,
+      "relative_frequency": 0.0005712701803726439
+    },
+    {
+      "rank": 254,
+      "word": "shirt",
+      "count": 337,
+      "relative_frequency": 0.0005695800319100029
+    },
+    {
+      "rank": 255,
+      "word": "long",
+      "count": 336,
+      "relative_frequency": 0.0005678898834473621
+    },
+    {
+      "rank": 256,
+      "word": "cow",
+      "count": 336,
+      "relative_frequency": 0.0005678898834473621
+    },
+    {
+      "rank": 257,
+      "word": "pole",
+      "count": 336,
+      "relative_frequency": 0.0005678898834473621
+    },
+    {
+      "rank": 258,
+      "word": "grazing",
+      "count": 335,
+      "relative_frequency": 0.0005661997349847211
+    },
+    {
+      "rank": 259,
+      "word": "preparing",
+      "count": 331,
+      "relative_frequency": 0.0005594391411341572
+    },
+    {
+      "rank": 260,
+      "word": "display",
+      "count": 330,
+      "relative_frequency": 0.0005577489926715162
+    },
+    {
+      "rank": 261,
+      "word": "kites",
+      "count": 327,
+      "relative_frequency": 0.0005526785472835934
+    },
+    {
+      "rank": 262,
+      "word": "hand",
+      "count": 326,
+      "relative_frequency": 0.0005509883988209525
+    },
+    {
+      "rank": 263,
+      "word": "taking",
+      "count": 323,
+      "relative_frequency": 0.0005459179534330295
+    },
+    {
+      "rank": 264,
+      "word": "getting",
+      "count": 323,
+      "relative_frequency": 0.0005459179534330295
+    },
+    {
+      "rank": 265,
+      "word": "baby",
+      "count": 321,
+      "relative_frequency": 0.0005425376565077476
+    },
+    {
+      "rank": 266,
+      "word": "carrots",
+      "count": 321,
+      "relative_frequency": 0.0005425376565077476
+    },
+    {
+      "rank": 267,
+      "word": "cows",
+      "count": 319,
+      "relative_frequency": 0.0005391573595824658
+    },
+    {
+      "rank": 268,
+      "word": "along",
+      "count": 317,
+      "relative_frequency": 0.0005357770626571838
+    },
+    {
+      "rank": 269,
+      "word": "children",
+      "count": 316,
+      "relative_frequency": 0.0005340869141945429
+    },
+    {
+      "rank": 270,
+      "word": "station",
+      "count": 316,
+      "relative_frequency": 0.0005340869141945429
+    },
+    {
+      "rank": 271,
+      "word": "salad",
+      "count": 313,
+      "relative_frequency": 0.0005290164688066199
+    },
+    {
+      "rank": 272,
+      "word": "above",
+      "count": 311,
+      "relative_frequency": 0.000525636171881338
+    },
+    {
+      "rank": 273,
+      "word": "boat",
+      "count": 305,
+      "relative_frequency": 0.0005154952811054923
+    },
+    {
+      "rank": 274,
+      "word": "box",
+      "count": 302,
+      "relative_frequency": 0.0005104248357175695
+    },
+    {
+      "rank": 275,
+      "word": "beside",
+      "count": 301,
+      "relative_frequency": 0.0005087346872549285
+    },
+    {
+      "rank": 276,
+      "word": "holds",
+      "count": 301,
+      "relative_frequency": 0.0005087346872549285
+    },
+    {
+      "rank": 277,
+      "word": "hit",
+      "count": 299,
+      "relative_frequency": 0.0005053543903296466
+    },
+    {
+      "rank": 278,
+      "word": "truck",
+      "count": 299,
+      "relative_frequency": 0.0005053543903296466
+    },
+    {
+      "rank": 279,
+      "word": "hill",
+      "count": 299,
+      "relative_frequency": 0.0005053543903296466
+    },
+    {
+      "rank": 280,
+      "word": "hanging",
+      "count": 293,
+      "relative_frequency": 0.0004952134995538008
+    },
+    {
+      "rank": 281,
+      "word": "ground",
+      "count": 291,
+      "relative_frequency": 0.0004918332026285189
+    },
+    {
+      "rank": 282,
+      "word": "day",
+      "count": 290,
+      "relative_frequency": 0.0004901430541658779
+    },
+    {
+      "rank": 283,
+      "word": "fence",
+      "count": 290,
+      "relative_frequency": 0.0004901430541658779
+    },
+    {
+      "rank": 284,
+      "word": "bread",
+      "count": 288,
+      "relative_frequency": 0.00048676275724059603
+    },
+    {
+      "rank": 285,
+      "word": "market",
+      "count": 288,
+      "relative_frequency": 0.00048676275724059603
+    },
+    {
+      "rank": 286,
+      "word": "intersection",
+      "count": 283,
+      "relative_frequency": 0.00047831201492739124
+    },
+    {
+      "rank": 287,
+      "word": "dinner",
+      "count": 283,
+      "relative_frequency": 0.00047831201492739124
+    },
+    {
+      "rank": 288,
+      "word": "animal",
+      "count": 282,
+      "relative_frequency": 0.00047662186646475025
+    },
+    {
+      "rank": 289,
+      "word": "furniture",
+      "count": 281,
+      "relative_frequency": 0.0004749317180021093
+    },
+    {
+      "rank": 290,
+      "word": "meat",
+      "count": 279,
+      "relative_frequency": 0.0004715514210768274
+    },
+    {
+      "rank": 291,
+      "word": "using",
+      "count": 275,
+      "relative_frequency": 0.00046479082722626354
+    },
+    {
+      "rank": 292,
+      "word": "off",
+      "count": 275,
+      "relative_frequency": 0.00046479082722626354
+    },
+    {
+      "rank": 293,
+      "word": "glasses",
+      "count": 274,
+      "relative_frequency": 0.0004631006787636226
+    },
+    {
+      "rank": 294,
+      "word": "scissors",
+      "count": 273,
+      "relative_frequency": 0.00046141053030098166
+    },
+    {
+      "rank": 295,
+      "word": "teeth",
+      "count": 272,
+      "relative_frequency": 0.0004597203818383407
+    },
+    {
+      "rank": 296,
+      "word": "looks",
+      "count": 271,
+      "relative_frequency": 0.00045803023337569974
+    },
+    {
+      "rank": 297,
+      "word": "sky",
+      "count": 270,
+      "relative_frequency": 0.00045634008491305875
+    },
+    {
+      "rank": 298,
+      "word": "cluttered",
+      "count": 268,
+      "relative_frequency": 0.0004529597879877768
+    },
+    {
+      "rank": 299,
+      "word": "lady",
+      "count": 268,
+      "relative_frequency": 0.0004529597879877768
+    },
+    {
+      "rank": 300,
+      "word": "buildings",
+      "count": 264,
+      "relative_frequency": 0.000446199194137213
+    },
+    {
+      "rank": 301,
+      "word": "bedroom",
+      "count": 262,
+      "relative_frequency": 0.0004428188972119311
+    },
+    {
+      "rank": 302,
+      "word": "waiting",
+      "count": 262,
+      "relative_frequency": 0.0004428188972119311
+    },
+    {
+      "rank": 303,
+      "word": "smiling",
+      "count": 259,
+      "relative_frequency": 0.00043774845182400823
+    },
+    {
+      "rank": 304,
+      "word": "mountain",
+      "count": 259,
+      "relative_frequency": 0.00043774845182400823
+    },
+    {
+      "rank": 305,
+      "word": "walk",
+      "count": 254,
+      "relative_frequency": 0.00042929770951080344
+    },
+    {
+      "rank": 306,
+      "word": "donuts",
+      "count": 253,
+      "relative_frequency": 0.00042760756104816245
+    },
+    {
+      "rank": 307,
+      "word": "bicycle",
+      "count": 250,
+      "relative_frequency": 0.0004225371156602396
+    },
+    {
+      "rank": 308,
+      "word": "snowy",
+      "count": 246,
+      "relative_frequency": 0.00041577652180967573
+    },
+    {
+      "rank": 309,
+      "word": "cup",
+      "count": 246,
+      "relative_frequency": 0.00041577652180967573
+    },
+    {
+      "rank": 310,
+      "word": "racket",
+      "count": 242,
+      "relative_frequency": 0.00040901592795911194
+    },
+    {
+      "rank": 311,
+      "word": "pair",
+      "count": 241,
+      "relative_frequency": 0.00040732577949647095
+    },
+    {
+      "rank": 312,
+      "word": "decorated",
+      "count": 238,
+      "relative_frequency": 0.0004022553341085481
+    },
+    {
+      "rank": 313,
+      "word": "screen",
+      "count": 237,
+      "relative_frequency": 0.00040056518564590715
+    },
+    {
+      "rank": 314,
+      "word": "clean",
+      "count": 236,
+      "relative_frequency": 0.00039887503718326616
+    },
+    {
+      "rank": 315,
+      "word": "who",
+      "count": 236,
+      "relative_frequency": 0.00039887503718326616
+    },
+    {
+      "rank": 316,
+      "word": "airport",
+      "count": 234,
+      "relative_frequency": 0.0003954947402579843
+    },
+    {
+      "rank": 317,
+      "word": "monitors",
+      "count": 233,
+      "relative_frequency": 0.0003938045917953433
+    },
+    {
+      "rank": 318,
+      "word": "skiers",
+      "count": 233,
+      "relative_frequency": 0.0003938045917953433
+    },
+    {
+      "rank": 319,
+      "word": "empty",
+      "count": 233,
+      "relative_frequency": 0.0003938045917953433
+    },
+    {
+      "rank": 320,
+      "word": "skiing",
+      "count": 232,
+      "relative_frequency": 0.00039211444333270236
+    },
+    {
+      "rank": 321,
+      "word": "driving",
+      "count": 231,
+      "relative_frequency": 0.00039042429487006137
+    },
+    {
+      "rank": 322,
+      "word": "shower",
+      "count": 230,
+      "relative_frequency": 0.00038873414640742043
+    },
+    {
+      "rank": 323,
+      "word": "desktop",
+      "count": 230,
+      "relative_frequency": 0.00038873414640742043
+    },
+    {
+      "rank": 324,
+      "word": "house",
+      "count": 229,
+      "relative_frequency": 0.0003870439979447795
+    },
+    {
+      "rank": 325,
+      "word": "something",
+      "count": 229,
+      "relative_frequency": 0.0003870439979447795
+    },
+    {
+      "rank": 326,
+      "word": "about",
+      "count": 227,
+      "relative_frequency": 0.00038366370101949757
+    },
+    {
+      "rank": 327,
+      "word": "tall",
+      "count": 227,
+      "relative_frequency": 0.00038366370101949757
+    },
+    {
+      "rank": 328,
+      "word": "cut",
+      "count": 224,
+      "relative_frequency": 0.0003785932556315747
+    },
+    {
+      "rank": 329,
+      "word": "wii",
+      "count": 223,
+      "relative_frequency": 0.0003769031071689337
+    },
+    {
+      "rank": 330,
+      "word": "like",
+      "count": 222,
+      "relative_frequency": 0.0003752129587062928
+    },
+    {
+      "rank": 331,
+      "word": "head",
+      "count": 222,
+      "relative_frequency": 0.0003752129587062928
+    },
+    {
+      "rank": 332,
+      "word": "him",
+      "count": 217,
+      "relative_frequency": 0.000366762216393088
+    },
+    {
+      "rank": 333,
+      "word": "dirt",
+      "count": 217,
+      "relative_frequency": 0.000366762216393088
+    },
+    {
+      "rank": 334,
+      "word": "scene",
+      "count": 215,
+      "relative_frequency": 0.00036338191946780606
+    },
+    {
+      "rank": 335,
+      "word": "zoo",
+      "count": 214,
+      "relative_frequency": 0.00036169177100516507
+    },
+    {
+      "rank": 336,
+      "word": "body",
+      "count": 214,
+      "relative_frequency": 0.00036169177100516507
+    },
+    {
+      "rank": 337,
+      "word": "brushing",
+      "count": 213,
+      "relative_frequency": 0.00036000162254252413
+    },
+    {
+      "rank": 338,
+      "word": "mouse",
+      "count": 213,
+      "relative_frequency": 0.00036000162254252413
+    },
+    {
+      "rank": 339,
+      "word": "mouth",
+      "count": 213,
+      "relative_frequency": 0.00036000162254252413
+    },
+    {
+      "rank": 340,
+      "word": "be",
+      "count": 211,
+      "relative_frequency": 0.0003566213256172422
+    },
+    {
+      "rank": 341,
+      "word": "bird",
+      "count": 211,
+      "relative_frequency": 0.0003566213256172422
+    },
+    {
+      "rank": 342,
+      "word": "laptops",
+      "count": 210,
+      "relative_frequency": 0.00035493117715460127
+    },
+    {
+      "rank": 343,
+      "word": "video",
+      "count": 210,
+      "relative_frequency": 0.00035493117715460127
+    },
+    {
+      "rank": 344,
+      "word": "piece",
+      "count": 208,
+      "relative_frequency": 0.00035155088022931934
+    },
+    {
+      "rank": 345,
+      "word": "dishes",
+      "count": 207,
+      "relative_frequency": 0.0003498607317666784
+    },
+    {
+      "rank": 346,
+      "word": "posing",
+      "count": 207,
+      "relative_frequency": 0.0003498607317666784
+    },
+    {
+      "rank": 347,
+      "word": "line",
+      "count": 205,
+      "relative_frequency": 0.0003464804348413965
+    },
+    {
+      "rank": 348,
+      "word": "paper",
+      "count": 205,
+      "relative_frequency": 0.0003464804348413965
+    },
+    {
+      "rank": 349,
+      "word": "family",
+      "count": 204,
+      "relative_frequency": 0.0003447902863787555
+    },
+    {
+      "rank": 350,
+      "word": "guy",
+      "count": 204,
+      "relative_frequency": 0.0003447902863787555
+    },
+    {
+      "rank": 351,
+      "word": "tables",
+      "count": 204,
+      "relative_frequency": 0.0003447902863787555
+    },
+    {
+      "rank": 352,
+      "word": "drink",
+      "count": 203,
+      "relative_frequency": 0.00034310013791611456
+    },
+    {
+      "rank": 353,
+      "word": "snowboard",
+      "count": 203,
+      "relative_frequency": 0.00034310013791611456
+    },
+    {
+      "rank": 354,
+      "word": "doing",
+      "count": 203,
+      "relative_frequency": 0.00034310013791611456
+    },
+    {
+      "rank": 355,
+      "word": "bowls",
+      "count": 203,
+      "relative_frequency": 0.00034310013791611456
+    },
+    {
+      "rank": 356,
+      "word": "cooking",
+      "count": 203,
+      "relative_frequency": 0.00034310013791611456
+    },
+    {
+      "rank": 357,
+      "word": "number",
+      "count": 201,
+      "relative_frequency": 0.00033971984099083263
+    },
+    {
+      "rank": 358,
+      "word": "kids",
+      "count": 200,
+      "relative_frequency": 0.0003380296925281917
+    },
+    {
+      "rank": 359,
+      "word": "camera",
+      "count": 199,
+      "relative_frequency": 0.0003363395440655507
+    },
+    {
+      "rank": 360,
+      "word": "bears",
+      "count": 199,
+      "relative_frequency": 0.0003363395440655507
+    },
+    {
+      "rank": 361,
+      "word": "swing",
+      "count": 199,
+      "relative_frequency": 0.0003363395440655507
+    },
+    {
+      "rank": 362,
+      "word": "river",
+      "count": 198,
+      "relative_frequency": 0.00033464939560290977
+    },
+    {
+      "rank": 363,
+      "word": "catcher",
+      "count": 196,
+      "relative_frequency": 0.00033126909867762784
+    },
+    {
+      "rank": 364,
+      "word": "pictures",
+      "count": 195,
+      "relative_frequency": 0.0003295789502149869
+    },
+    {
+      "rank": 365,
+      "word": "book",
+      "count": 195,
+      "relative_frequency": 0.0003295789502149869
+    },
+    {
+      "rank": 366,
+      "word": "door",
+      "count": 195,
+      "relative_frequency": 0.0003295789502149869
+    },
+    {
+      "rank": 367,
+      "word": "island",
+      "count": 194,
+      "relative_frequency": 0.0003278888017523459
+    },
+    {
+      "rank": 368,
+      "word": "having",
+      "count": 193,
+      "relative_frequency": 0.000326198653289705
+    },
+    {
+      "rank": 369,
+      "word": "outdoor",
+      "count": 193,
+      "relative_frequency": 0.000326198653289705
+    },
+    {
+      "rank": 370,
+      "word": "foods",
+      "count": 190,
+      "relative_frequency": 0.0003211282079017821
+    },
+    {
+      "rank": 371,
+      "word": "shown",
+      "count": 190,
+      "relative_frequency": 0.0003211282079017821
+    },
+    {
+      "rank": 372,
+      "word": "modern",
+      "count": 190,
+      "relative_frequency": 0.0003211282079017821
+    },
+    {
+      "rank": 373,
+      "word": "eat",
+      "count": 189,
+      "relative_frequency": 0.0003194380594391411
+    },
+    {
+      "rank": 374,
+      "word": "apples",
+      "count": 189,
+      "relative_frequency": 0.0003194380594391411
+    },
+    {
+      "rank": 375,
+      "word": "pink",
+      "count": 189,
+      "relative_frequency": 0.0003194380594391411
+    },
+    {
+      "rank": 376,
+      "word": "players",
+      "count": 188,
+      "relative_frequency": 0.0003177479109765002
+    },
+    {
+      "rank": 377,
+      "word": "colorful",
+      "count": 188,
+      "relative_frequency": 0.0003177479109765002
+    },
+    {
+      "rank": 378,
+      "word": "carrying",
+      "count": 187,
+      "relative_frequency": 0.0003160577625138592
+    },
+    {
+      "rank": 379,
+      "word": "few",
+      "count": 186,
+      "relative_frequency": 0.00031436761405121826
+    },
+    {
+      "rank": 380,
+      "word": "showing",
+      "count": 186,
+      "relative_frequency": 0.00031436761405121826
+    },
+    {
+      "rank": 381,
+      "word": "talking",
+      "count": 186,
+      "relative_frequency": 0.00031436761405121826
+    },
+    {
+      "rank": 382,
+      "word": "working",
+      "count": 186,
+      "relative_frequency": 0.00031436761405121826
+    },
+    {
+      "rank": 383,
+      "word": "store",
+      "count": 186,
+      "relative_frequency": 0.00031436761405121826
+    },
+    {
+      "rank": 384,
+      "word": "bag",
+      "count": 186,
+      "relative_frequency": 0.00031436761405121826
+    },
+    {
+      "rank": 385,
+      "word": "variety",
+      "count": 185,
+      "relative_frequency": 0.0003126774655885773
+    },
+    {
+      "rank": 386,
+      "word": "going",
+      "count": 184,
+      "relative_frequency": 0.00031098731712593633
+    },
+    {
+      "rank": 387,
+      "word": "way",
+      "count": 184,
+      "relative_frequency": 0.00031098731712593633
+    },
+    {
+      "rank": 388,
+      "word": "fresh",
+      "count": 183,
+      "relative_frequency": 0.0003092971686632954
+    },
+    {
+      "rank": 389,
+      "word": "dryer",
+      "count": 183,
+      "relative_frequency": 0.0003092971686632954
+    },
+    {
+      "rank": 390,
+      "word": "look",
+      "count": 183,
+      "relative_frequency": 0.0003092971686632954
+    },
+    {
+      "rank": 391,
+      "word": "watch",
+      "count": 183,
+      "relative_frequency": 0.0003092971686632954
+    },
+    {
+      "rank": 392,
+      "word": "running",
+      "count": 182,
+      "relative_frequency": 0.0003076070202006544
+    },
+    {
+      "rank": 393,
+      "word": "breakfast",
+      "count": 182,
+      "relative_frequency": 0.0003076070202006544
+    },
+    {
+      "rank": 394,
+      "word": "against",
+      "count": 181,
+      "relative_frequency": 0.00030591687173801347
+    },
+    {
+      "rank": 395,
+      "word": "making",
+      "count": 181,
+      "relative_frequency": 0.00030591687173801347
+    },
+    {
+      "rank": 396,
+      "word": "clock",
+      "count": 181,
+      "relative_frequency": 0.00030591687173801347
+    },
+    {
+      "rank": 397,
+      "word": "jumping",
+      "count": 179,
+      "relative_frequency": 0.00030253657481273154
+    },
+    {
+      "rank": 398,
+      "word": "it's",
+      "count": 178,
+      "relative_frequency": 0.0003008464263500906
+    },
+    {
+      "rank": 399,
+      "word": "books",
+      "count": 178,
+      "relative_frequency": 0.0003008464263500906
+    },
+    {
+      "rank": 400,
+      "word": "lying",
+      "count": 178,
+      "relative_frequency": 0.0003008464263500906
+    },
+    {
+      "rank": 401,
+      "word": "cell",
+      "count": 178,
+      "relative_frequency": 0.0003008464263500906
+    },
+    {
+      "rank": 402,
+      "word": "fries",
+      "count": 178,
+      "relative_frequency": 0.0003008464263500906
+    },
+    {
+      "rank": 403,
+      "word": "umbrellas",
+      "count": 178,
+      "relative_frequency": 0.0003008464263500906
+    },
+    {
+      "rank": 404,
+      "word": "oranges",
+      "count": 178,
+      "relative_frequency": 0.0003008464263500906
+    },
+    {
+      "rank": 405,
+      "word": "rock",
+      "count": 178,
+      "relative_frequency": 0.0003008464263500906
+    },
+    {
+      "rank": 406,
+      "word": "enclosure",
+      "count": 177,
+      "relative_frequency": 0.0002991562778874496
+    },
+    {
+      "rank": 407,
+      "word": "including",
+      "count": 176,
+      "relative_frequency": 0.0002974661294248087
+    },
+    {
+      "rank": 408,
+      "word": "crossing",
+      "count": 176,
+      "relative_frequency": 0.0002974661294248087
+    },
+    {
+      "rank": 409,
+      "word": "cheese",
+      "count": 176,
+      "relative_frequency": 0.0002974661294248087
+    },
+    {
+      "rank": 410,
+      "word": "toy",
+      "count": 175,
+      "relative_frequency": 0.0002957759809621677
+    },
+    {
+      "rank": 411,
+      "word": "blow",
+      "count": 175,
+      "relative_frequency": 0.0002957759809621677
+    },
+    {
+      "rank": 412,
+      "word": "walls",
+      "count": 174,
+      "relative_frequency": 0.00029408583249952675
+    },
+    {
+      "rank": 413,
+      "word": "skate",
+      "count": 174,
+      "relative_frequency": 0.00029408583249952675
+    },
+    {
+      "rank": 414,
+      "word": "displayed",
+      "count": 174,
+      "relative_frequency": 0.00029408583249952675
+    },
+    {
+      "rank": 415,
+      "word": "types",
+      "count": 173,
+      "relative_frequency": 0.0002923956840368858
+    },
+    {
+      "rank": 416,
+      "word": "pulling",
+      "count": 173,
+      "relative_frequency": 0.0002923956840368858
+    },
+    {
+      "rank": 417,
+      "word": "walks",
+      "count": 170,
+      "relative_frequency": 0.0002873252386489629
+    },
+    {
+      "rank": 418,
+      "word": "someone",
+      "count": 169,
+      "relative_frequency": 0.00028563509018632196
+    },
+    {
+      "rank": 419,
+      "word": "motorcycles",
+      "count": 169,
+      "relative_frequency": 0.00028563509018632196
+    },
+    {
+      "rank": 420,
+      "word": "girls",
+      "count": 168,
+      "relative_frequency": 0.00028394494172368103
+    },
+    {
+      "rank": 421,
+      "word": "hitting",
+      "count": 167,
+      "relative_frequency": 0.00028225479326104004
+    },
+    {
+      "rank": 422,
+      "word": "surrounded",
+      "count": 165,
+      "relative_frequency": 0.0002788744963357581
+    },
+    {
+      "rank": 423,
+      "word": "metal",
+      "count": 164,
+      "relative_frequency": 0.0002771843478731172
+    },
+    {
+      "rank": 424,
+      "word": "lap",
+      "count": 164,
+      "relative_frequency": 0.0002771843478731172
+    },
+    {
+      "rank": 425,
+      "word": "pitch",
+      "count": 164,
+      "relative_frequency": 0.0002771843478731172
+    },
+    {
+      "rank": 426,
+      "word": "cart",
+      "count": 163,
+      "relative_frequency": 0.00027549419941047624
+    },
+    {
+      "rank": 427,
+      "word": "he",
+      "count": 162,
+      "relative_frequency": 0.00027380405094783525
+    },
+    {
+      "rank": 428,
+      "word": "bottle",
+      "count": 162,
+      "relative_frequency": 0.00027380405094783525
+    },
+    {
+      "rank": 429,
+      "word": "sandwiches",
+      "count": 162,
+      "relative_frequency": 0.00027380405094783525
+    },
+    {
+      "rank": 430,
+      "word": "tub",
+      "count": 161,
+      "relative_frequency": 0.0002721139024851943
+    },
+    {
+      "rank": 431,
+      "word": "double",
+      "count": 161,
+      "relative_frequency": 0.0002721139024851943
+    },
+    {
+      "rank": 432,
+      "word": "toaster",
+      "count": 160,
+      "relative_frequency": 0.0002704237540225533
+    },
+    {
+      "rank": 433,
+      "word": "suitcase",
+      "count": 159,
+      "relative_frequency": 0.0002687336055599124
+    },
+    {
+      "rank": 434,
+      "word": "surfboard",
+      "count": 158,
+      "relative_frequency": 0.00026704345709727145
+    },
+    {
+      "rank": 435,
+      "word": "flowers",
+      "count": 158,
+      "relative_frequency": 0.00026704345709727145
+    },
+    {
+      "rank": 436,
+      "word": "drinking",
+      "count": 158,
+      "relative_frequency": 0.00026704345709727145
+    },
+    {
+      "rank": 437,
+      "word": "lunch",
+      "count": 158,
+      "relative_frequency": 0.00026704345709727145
+    },
+    {
+      "rank": 438,
+      "word": "space",
+      "count": 157,
+      "relative_frequency": 0.00026535330863463046
+    },
+    {
+      "rank": 439,
+      "word": "toothbrush",
+      "count": 157,
+      "relative_frequency": 0.00026535330863463046
+    },
+    {
+      "rank": 440,
+      "word": "setting",
+      "count": 156,
+      "relative_frequency": 0.0002636631601719895
+    },
+    {
+      "rank": 441,
+      "word": "lights",
+      "count": 153,
+      "relative_frequency": 0.00025859271478406666
+    },
+    {
+      "rank": 442,
+      "word": "birthday",
+      "count": 152,
+      "relative_frequency": 0.00025690256632142567
+    },
+    {
+      "rank": 443,
+      "word": "bikes",
+      "count": 152,
+      "relative_frequency": 0.00025690256632142567
+    },
+    {
+      "rank": 444,
+      "word": "play",
+      "count": 152,
+      "relative_frequency": 0.00025690256632142567
+    },
+    {
+      "rank": 445,
+      "word": "enjoying",
+      "count": 151,
+      "relative_frequency": 0.00025521241785878473
+    },
+    {
+      "rank": 446,
+      "word": "crowded",
+      "count": 151,
+      "relative_frequency": 0.00025521241785878473
+    },
+    {
+      "rank": 447,
+      "word": "have",
+      "count": 151,
+      "relative_frequency": 0.00025521241785878473
+    },
+    {
+      "rank": 448,
+      "word": "between",
+      "count": 151,
+      "relative_frequency": 0.00025521241785878473
+    },
+    {
+      "rank": 449,
+      "word": "plastic",
+      "count": 151,
+      "relative_frequency": 0.00025521241785878473
+    },
+    {
+      "rank": 450,
+      "word": "silver",
+      "count": 150,
+      "relative_frequency": 0.00025352226939614374
+    },
+    {
+      "rank": 451,
+      "word": "past",
+      "count": 150,
+      "relative_frequency": 0.00025352226939614374
+    },
+    {
+      "rank": 452,
+      "word": "nice",
+      "count": 150,
+      "relative_frequency": 0.00025352226939614374
+    },
+    {
+      "rank": 453,
+      "word": "drinks",
+      "count": 150,
+      "relative_frequency": 0.00025352226939614374
+    },
+    {
+      "rank": 454,
+      "word": "banana",
+      "count": 150,
+      "relative_frequency": 0.00025352226939614374
+    },
+    {
+      "rank": 455,
+      "word": "place",
+      "count": 149,
+      "relative_frequency": 0.0002518321209335028
+    },
+    {
+      "rank": 456,
+      "word": "pile",
+      "count": 148,
+      "relative_frequency": 0.0002501419724708618
+    },
+    {
+      "rank": 457,
+      "word": "half",
+      "count": 148,
+      "relative_frequency": 0.0002501419724708618
+    },
+    {
+      "rank": 458,
+      "word": "made",
+      "count": 146,
+      "relative_frequency": 0.00024676167554557994
+    },
+    {
+      "rank": 459,
+      "word": "catch",
+      "count": 146,
+      "relative_frequency": 0.00024676167554557994
+    },
+    {
+      "rank": 460,
+      "word": "containing",
+      "count": 146,
+      "relative_frequency": 0.00024676167554557994
+    },
+    {
+      "rank": 461,
+      "word": "hat",
+      "count": 145,
+      "relative_frequency": 0.00024507152708293895
+    },
+    {
+      "rank": 462,
+      "word": "traveling",
+      "count": 145,
+      "relative_frequency": 0.00024507152708293895
+    },
+    {
+      "rank": 463,
+      "word": "rocks",
+      "count": 145,
+      "relative_frequency": 0.00024507152708293895
+    },
+    {
+      "rank": 464,
+      "word": "police",
+      "count": 144,
+      "relative_frequency": 0.00024338137862029802
+    },
+    {
+      "rank": 465,
+      "word": "hotel",
+      "count": 144,
+      "relative_frequency": 0.00024338137862029802
+    },
+    {
+      "rank": 466,
+      "word": "pizzas",
+      "count": 144,
+      "relative_frequency": 0.00024338137862029802
+    },
+    {
+      "rank": 467,
+      "word": "sleeping",
+      "count": 143,
+      "relative_frequency": 0.00024169123015765705
+    },
+    {
+      "rank": 468,
+      "word": "well",
+      "count": 142,
+      "relative_frequency": 0.0002400010816950161
+    },
+    {
+      "rank": 469,
+      "word": "bridge",
+      "count": 142,
+      "relative_frequency": 0.0002400010816950161
+    },
+    {
+      "rank": 470,
+      "word": "dish",
+      "count": 142,
+      "relative_frequency": 0.0002400010816950161
+    },
+    {
+      "rank": 471,
+      "word": "work",
+      "count": 141,
+      "relative_frequency": 0.00023831093323237513
+    },
+    {
+      "rank": 472,
+      "word": "fridge",
+      "count": 141,
+      "relative_frequency": 0.00023831093323237513
+    },
+    {
+      "rank": 473,
+      "word": "multiple",
+      "count": 141,
+      "relative_frequency": 0.00023831093323237513
+    },
+    {
+      "rank": 474,
+      "word": "apple",
+      "count": 141,
+      "relative_frequency": 0.00023831093323237513
+    },
+    {
+      "rank": 475,
+      "word": "windows",
+      "count": 140,
+      "relative_frequency": 0.00023662078476973416
+    },
+    {
+      "rank": 476,
+      "word": "lined",
+      "count": 140,
+      "relative_frequency": 0.00023662078476973416
+    },
+    {
+      "rank": 477,
+      "word": "dressed",
+      "count": 140,
+      "relative_frequency": 0.00023662078476973416
+    },
+    {
+      "rank": 478,
+      "word": "hands",
+      "count": 139,
+      "relative_frequency": 0.00023493063630709323
+    },
+    {
+      "rank": 479,
+      "word": "slice",
+      "count": 139,
+      "relative_frequency": 0.00023493063630709323
+    },
+    {
+      "rank": 480,
+      "word": "towards",
+      "count": 138,
+      "relative_frequency": 0.00023324048784445226
+    },
+    {
+      "rank": 481,
+      "word": "boxes",
+      "count": 138,
+      "relative_frequency": 0.00023324048784445226
+    },
+    {
+      "rank": 482,
+      "word": "doughnuts",
+      "count": 138,
+      "relative_frequency": 0.00023324048784445226
+    },
+    {
+      "rank": 483,
+      "word": "fork",
+      "count": 137,
+      "relative_frequency": 0.0002315503393818113
+    },
+    {
+      "rank": 484,
+      "word": "lit",
+      "count": 137,
+      "relative_frequency": 0.0002315503393818113
+    },
+    {
+      "rank": 485,
+      "word": "tracks",
+      "count": 137,
+      "relative_frequency": 0.0002315503393818113
+    },
+    {
+      "rank": 486,
+      "word": "trick",
+      "count": 137,
+      "relative_frequency": 0.0002315503393818113
+    },
+    {
+      "rank": 487,
+      "word": "onto",
+      "count": 137,
+      "relative_frequency": 0.0002315503393818113
+    },
+    {
+      "rank": 488,
+      "word": "produce",
+      "count": 137,
+      "relative_frequency": 0.0002315503393818113
+    },
+    {
+      "rank": 489,
+      "word": "gathered",
+      "count": 136,
+      "relative_frequency": 0.00022986019091917034
+    },
+    {
+      "rank": 490,
+      "word": "can",
+      "count": 136,
+      "relative_frequency": 0.00022986019091917034
+    },
+    {
+      "rank": 491,
+      "word": "boys",
+      "count": 136,
+      "relative_frequency": 0.00022986019091917034
+    },
+    {
+      "rank": 492,
+      "word": "rides",
+      "count": 136,
+      "relative_frequency": 0.00022986019091917034
+    },
+    {
+      "rank": 493,
+      "word": "racquet",
+      "count": 136,
+      "relative_frequency": 0.00022986019091917034
+    },
+    {
+      "rank": 494,
+      "word": "buses",
+      "count": 136,
+      "relative_frequency": 0.00022986019091917034
+    },
+    {
+      "rank": 495,
+      "word": "night",
+      "count": 135,
+      "relative_frequency": 0.00022817004245652937
+    },
+    {
+      "rank": 496,
+      "word": "equipment",
+      "count": 135,
+      "relative_frequency": 0.00022817004245652937
+    },
+    {
+      "rank": 497,
+      "word": "brick",
+      "count": 135,
+      "relative_frequency": 0.00022817004245652937
+    },
+    {
+      "rank": 498,
+      "word": "cats",
+      "count": 135,
+      "relative_frequency": 0.00022817004245652937
+    },
+    {
+      "rank": 499,
+      "word": "adult",
+      "count": 135,
+      "relative_frequency": 0.00022817004245652937
+    },
+    {
+      "rank": 500,
+      "word": "rice",
+      "count": 135,
+      "relative_frequency": 0.00022817004245652937
+    }
+  ],
+  "limitations": "Vocabulary depends on the stated tokenizer; casefolding merges case variants while preserving inflectional forms."
+}

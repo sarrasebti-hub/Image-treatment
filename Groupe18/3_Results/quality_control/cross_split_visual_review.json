@@ -1,0 +1,89 @@
+{
+  "revision": "1.1.0",
+  "decision": "PASS",
+  "unresolved_quality_warning": false,
+  "current_cross_split_candidate_count": 0,
+  "pairs": [],
+  "prior_revision_reviewed_pairs": [
+    {
+      "train_image_id": 291597,
+      "test_image_id": 525083,
+      "hamming_distance": 6,
+      "visual_evidence": "Very similar kitchen interior and camera viewpoint; small image/scene details differ.",
+      "classification": "same_scene_distinct_image",
+      "confidence": "moderate",
+      "pixel_comparison": {
+        "mean_absolute_rgb_difference_0_255": 28.1783,
+        "rgb_correlation": 0.7944,
+        "fraction_pixels_max_channel_delta_gt_25": 0.45
+      },
+      "clip_cosine_similarity": 0.98155,
+      "reason": "Same kitchen layout and near-identical viewpoint, but broad pixel differences exceed a simple recompression signature. Treat as separate selected images depicting the same kitchen view; source-provenance uncertainty remains.",
+      "sha256_equal": false,
+      "exact_duplicate": false,
+      "retain_and_flag": false,
+      "evidence_file": "reports/perceptual_hash/cross_split_pair_evidence.json"
+    },
+    {
+      "train_image_id": 58174,
+      "test_image_id": 133819,
+      "hamming_distance": 6,
+      "visual_evidence": "Same bus and street viewpoint; bus position and surrounding details differ.",
+      "classification": "different_images_similar_scene",
+      "confidence": "high",
+      "pixel_comparison": {
+        "mean_absolute_rgb_difference_0_255": 59.9205,
+        "rgb_correlation": 0.4615,
+        "fraction_pixels_max_channel_delta_gt_25": 0.6892
+      },
+      "clip_cosine_similarity": 0.93121,
+      "reason": "The buses have visibly different body/front designs, route displays, positions, and street details. This is a similar urban bus scene, not an image duplicate.",
+      "sha256_equal": false,
+      "exact_duplicate": false,
+      "retain_and_flag": false,
+      "evidence_file": "reports/perceptual_hash/cross_split_pair_evidence.json"
+    },
+    {
+      "train_image_id": 214648,
+      "test_image_id": 129062,
+      "hamming_distance": 6,
+      "visual_evidence": "Very similar restaurant storefront and sidewalk viewpoint; people/details differ.",
+      "classification": "same_scene_distinct_capture",
+      "confidence": "high",
+      "pixel_comparison": {
+        "mean_absolute_rgb_difference_0_255": 40.5002,
+        "rgb_correlation": 0.6044,
+        "fraction_pixels_max_channel_delta_gt_25": 0.6191
+      },
+      "clip_cosine_similarity": 0.96229,
+      "reason": "Same restaurant storefront and viewpoint, while pedestrians and other foreground details differ materially. This is best classified as a different capture of the same place/scene, not an image duplicate.",
+      "sha256_equal": false,
+      "exact_duplicate": false,
+      "retain_and_flag": false,
+      "evidence_file": "reports/perceptual_hash/cross_split_pair_evidence.json"
+    },
+    {
+      "train_image_id": 535889,
+      "test_image_id": 465129,
+      "hamming_distance": 2,
+      "visual_evidence": "Same kitchen and person composition; visible pose/details differ.",
+      "classification": "near_duplicate_unresolved_source_relation",
+      "confidence": "high_for_visual_nearness_low_for_provenance",
+      "pixel_comparison": {
+        "mean_absolute_rgb_difference_0_255": 4.0005,
+        "rgb_correlation": 0.99857,
+        "fraction_pixels_max_channel_delta_gt_10": 0.0816,
+        "fraction_pixels_max_channel_delta_gt_25": 0.0,
+        "fraction_pixels_max_channel_delta_gt_50": 0.0
+      },
+      "clip_cosine_similarity": 0.98888,
+      "reason": "Original-resolution images have the same 640x480 framing and nearly identical scene/pixel structure; small localized pose/detail differences are visible. Strong near-duplicate evidence. Distinct SHA-256 values rule out byte-identical files but do not distinguish a recompressed derivative from a near-identical adjacent capture.",
+      "sha256_equal": false,
+      "exact_duplicate": false,
+      "retain_and_flag": true,
+      "evidence_file": "reports/perceptual_hash/cross_split_pair_evidence.json"
+    }
+  ],
+  "replacement_action": "Four reviewed test IDs were replaced in controlled manifest revision 1.1.0; original files and prior hash/review reports remain archived. No image files were deleted or moved.",
+  "remaining_uncertainty": "The historical d=2 pair had strong visual near-duplicate evidence but no provenance metadata establishing whether it was the same source capture. Both IDs were removed from the current train/test combination through controlled test replacement. Current pHash found no cross-split candidates at inclusive Hamming threshold 6."
+}

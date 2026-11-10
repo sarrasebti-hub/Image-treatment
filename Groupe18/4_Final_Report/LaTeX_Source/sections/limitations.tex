@@ -1,0 +1,14 @@
+\section{Limitations and Conclusion}
+\label{ch:limitations}
+
+\subsection{Limitations and compliance}
+The requirement-level compliance report marks Phase 1 as \textbf{PARTIAL}. The documented limitations are:
+\begin{itemize}
+  \item The number of images whose EXIF orientation changed, and the number requiring RGB conversion, were not recorded in historical logs.
+  \item Caption records preserve raw and cleaned fields, but the compliance audit marks exact source-to-caption mapping verification as partial.
+  \item A unified run record with the complete Python environment and resolved dependency versions is missing.
+\end{itemize}
+
+COCO object annotations are not exhaustive descriptions of every visible object. Box geometry does not provide semantic relations or actions. CLIP prompt outputs and spaCy POS tags can be wrong, and CLIP scores are not calibrated probabilities. Pixel color and edge density are coarse global summaries; edge density does not recognize object shapes. The selected data are a subset of COCO, and the 20-query retrieval test is a smoke test rather than a broad benchmark.
+
+The quality-control report records \code{overall\_status: PASS} and \code{phase1\_complete: true} for its implemented checks. The separate compliance audit records \code{overall\_status: PARTIAL} against the assignment requirements because of the evidence gaps listed above. These statuses have different scopes; pipeline QC PASS does not establish full assignment compliance.

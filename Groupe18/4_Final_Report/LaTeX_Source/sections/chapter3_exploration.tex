@@ -1,0 +1,49 @@
+\section{Data Exploration and Statistical Analysis}
+\label{ch:exploration}
+
+\subsection{Object categories and scene complexity}
+COCO's train2017 annotations cover 80 object categories. The most common annotated class is \emph{person}, with 262,465 instances (30.52\% of all 860,001 instances). It is followed by \emph{car} (43,867; 5.10\%) and \emph{chair} (38,491; 4.48\%). The long-tailed category distribution is shown in \cref{fig:categories}. This analysis describes annotation frequency, not how often objects appear in every image pixel.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.82\textwidth,height=0.48\textheight,keepaspectratio]{top50_object_classes.png}
+\caption{The 50 most frequent object classes in train2017 COCO instance annotations. Counts are annotated object instances.}
+\label{fig:categories}
+\end{figure}
+
+Across all train2017 images, the mean number of annotated instances is 7.27 and the median is 4; counts range from 0 to 93. The project assigns simple, medium, or complex labels using quartiles of nonzero object counts (Q1 = 2, Q3 = 10). Images with no instances are treated as unknown for this classification. These are annotation-count summaries, not a learned measure of visual difficulty.
+
+\subsection{Caption lengths and vocabulary}
+Across 55,500 raw reference captions, the documented tokenizer counts 591,664 tokens and 9,793 distinct vocabulary items. The tokenizer applies Unicode NFKC normalization and case-folding, retains internal apostrophes, and does not stem or lemmatize. Captions average 10.66 tokens (median 10; range 6--49). Token counts depend on this explicit tokenizer, so results from a different tokenizer may differ.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.82\textwidth]{caption_length_distribution.png}
+\caption{Caption length distribution in the saved analysis. Length is measured in tokens using the project caption-analysis procedure.}
+\label{fig:caption-length}
+\end{figure}
+
+The most frequent token is \emph{a} (92,970 occurrences), followed by \emph{of} (19,889) and \emph{on} (18,767). The vocabulary rank-frequency curve illustrates that a small number of words occur very often, while many words are relatively rare.
+
+\subsection{Part-of-speech analysis}
+The project used spaCy with the \code{en\_core\_web\_sm} model to assign part-of-speech (POS) tags to all 55,500 reference captions \citep{spacydocs}. The analysis reports 642,147 model-tokenized tokens with no processing errors. Nouns make up 33.07\% of the tagged tokens, determiners 18.54\%, and adpositions 15.40\%. POS tags are model predictions, not manually checked labels. The counts also use spaCy tokenization, which differs from the tokenizer used for the 591,664-token vocabulary result.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.82\textwidth]{caption_pos_distribution.png}
+\caption{spaCy part-of-speech distribution across selected reference captions. Percentages describe model-tagged tokens.}
+\label{fig:pos}
+\end{figure}
+
+\subsection{Color and image-level visual diversity}
+The saved color analysis samples pixels and assigns them to coarse color families. Among the 11,100 selected images, red is the most frequent dominant family (4,430 images), followed by gray (3,948) and orange (883). These labels summarize pixels in an image; they do not tell us the color of a particular annotated object. The project also records luminance, saturation, and a global edge-density proxy. No independent, validated shape-recognition analysis is available: edge density reflects contours and texture but does not identify object shapes.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.78\textwidth]{color_family_distribution.png}
+\caption{Mean pixel share by coarse color family across the selected images. This is a pixel-level summary, not object-color recognition.}
+\label{fig:color}
+\end{figure}
+
+\subsection{Scene and spatial summaries}
+CLIP zero-shot predictions cover indoor/outdoor context, day/night, and scene labels for 11,100 images. The analysis marked 197 context, 582 time, and 1,063 scene predictions uncertain. These are model outputs with relative, uncalibrated scores---not COCO annotations. Box-derived geometric relations include 680,482 left-of, 676,706 right-of, 671,396 below, 584,569 above, 151,587 near, 47,381 overlapping, 28,366 contains, and 30,359 inside pairs. These relations describe box geometry, not actions or semantic interactions.

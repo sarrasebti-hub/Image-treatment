@@ -1,0 +1,41 @@
+{
+  "splits": {
+    "train": {
+      "requested": 10000,
+      "written": 10000,
+      "errors": []
+    },
+    "validation": {
+      "requested": 100,
+      "written": 100,
+      "errors": []
+    },
+    "test": {
+      "requested": 1000,
+      "written": 1000,
+      "errors": [],
+      "controlled_replacements": [
+        {
+          "image_id": 165039,
+          "processed_path": "data/processed/test/000000165039.jpg",
+          "sha256": "d605ef284dffcac3f4403a5e5e0551469a3cd75edcc9fbee04ca8e5768fec4a2"
+        },
+        {
+          "image_id": 294350,
+          "processed_path": "data/processed/test/000000294350.jpg",
+          "sha256": "bc6460581b7012da9df6d163fc8529683051313ad5eb6231c81ac94bbbae623e"
+        },
+        {
+          "image_id": 180487,
+          "processed_path": "data/processed/test/000000180487.jpg",
+          "sha256": "e93ce84923e84ced71a20c1180521030185bd516ef6a3b9eb8dc61f8b346fd5c"
+        },
+        {
+          "image_id": 195754,
+          "processed_path": "data/processed/test/000000195754.jpg",
+          "sha256": "2627d508d0d7351450d3b4ae65385aab9eb03174b68fad6a208a83f7c556df3e"
+        }
+      ]
+    }
+  }
+}

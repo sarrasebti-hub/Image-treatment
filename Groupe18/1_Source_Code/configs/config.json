@@ -1,0 +1,30 @@
+{
+  "seed": 20261106,
+  "image_size": 224,
+  "padding_rgb": [0, 0, 0],
+  "image_format": "JPEG",
+  "encoder_preprocessing": "RGB, aspect-preserving resize with letterboxing to 224x224; encoder-specific normalization is applied only during embedding generation",
+  "normalization": {"mean": [0.48145466, 0.4578275, 0.40821073], "std": [0.26862954, 0.26130258, 0.27577711], "source": "CLIP standard normalization; not baked into saved JPEGs"},
+  "split_sizes": {"train": 10000, "validation": 100, "test": 1000},
+  "selection": "Rarity-first greedy multi-label stratification, seed 20261106",
+  "hash": "SHA-256 exact duplicates",
+  "embedding_models": {"image": "openai/clip-vit-base-patch32", "text": "openai/clip-vit-base-patch32"},
+  "embedding_batch_size": 64,
+  "embedding_normalize_l2": true,
+  "embedding_device": "auto",
+  "embedding_output_dir": "embeddings/image_embeddings",
+  "text_embedding_output_dir": "embeddings/text_embeddings",
+  "retrieval": {"index_type": "IndexFlatIP", "gallery_split": "train", "top_k": 5, "query_count": 20},
+  "perceptual_hash": {"algorithm": "phash64_dct", "hamming_distance_threshold": 6, "block_size": 128},
+  "pos": {"spacy_model": "en_core_web_sm", "batch_size": 1000},
+  "visual_analysis": {
+    "model": "openai/clip-vit-base-patch32",
+    "device": "auto",
+    "batch_size": 64,
+    "confidence_threshold": 0.55,
+    "scene_confidence_threshold": 0.35,
+    "context_labels": ["indoor", "outdoor"],
+    "time_labels": ["daytime", "nighttime", "uncertain"],
+    "scene_labels": ["kitchen", "living room", "bedroom", "bathroom", "office", "street", "park", "beach", "sports field", "restaurant", "store", "airport", "train station", "countryside", "mountain", "other scene"]
+  }
+}

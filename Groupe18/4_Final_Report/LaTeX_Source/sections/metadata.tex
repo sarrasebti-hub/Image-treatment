@@ -1,0 +1,24 @@
+\section{Metadata Extraction}
+\label{ch:metadata}
+
+\subsection{Fields and provenance}
+Each image record links its COCO ID, filename, split, dimensions, and object records. Other fields come from pixel analysis, box geometry, or CLIP predictions; these sources are not interchangeable. In particular, a CLIP score is not a calibrated probability.
+
+\begin{table}[htbp]
+\centering
+\small
+\caption{Examples of metadata fields and their provenance.}
+\label{tab:metadata-provenance}
+\rowcolors{2}{ProjectGrey}{white}
+\begin{tabularx}{\textwidth}{@{}>{\raggedright\arraybackslash}p{0.29\textwidth}>{\raggedright\arraybackslash}p{0.27\textwidth}X@{}}
+\toprule
+\textbf{Metadata field} & \textbf{Example} & \textbf{Source}\\
+\midrule
+Object category & Person & COCO annotation\\
+Bounding box & \code{[x, y, width, height]} & COCO annotation\\
+Dominant color & Red & Pixel analysis\\
+Scene context & Indoor & CLIP prediction\\
+Spatial relation & Left of & Bounding-box geometry\\
+\bottomrule
+\end{tabularx}
+\end{table}

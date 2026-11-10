@@ -1,0 +1,62 @@
+{
+  "method": "96x96 RGB sampling from original COCO images after EXIF orientation correction; coarse HSV-family quantization, luminance/saturation moments, and Pillow FIND_EDGES threshold.",
+  "images": 11100,
+  "dominant_color_counts": {
+    "red": 4430,
+    "gray": 3948,
+    "magenta": 69,
+    "orange": 883,
+    "white": 581,
+    "yellow": 134,
+    "cyan": 813,
+    "black": 129,
+    "green": 41,
+    "blue": 61,
+    "purple": 11
+  },
+  "summary": {
+    "dominant_color_share": {
+      "mean": 0.5133180055055055,
+      "median": 0.4805772569444444,
+      "std": 0.17378320759723204
+    },
+    "mean_luminance": {
+      "mean": 0.4469902396356469,
+      "median": 0.4431128054857254,
+      "std": 0.10728828595361886
+    },
+    "luminance_std": {
+      "mean": 0.22517701418818653,
+      "median": 0.22581711411476135,
+      "std": 0.0504675227034055
+    },
+    "mean_saturation": {
+      "mean": 0.3126419029716418,
+      "median": 0.2951422929763794,
+      "std": 0.15355950954998848
+    },
+    "edge_density_proxy": {
+      "mean": 0.25119253042104606,
+      "median": 0.2522786458333333,
+      "std": 0.061515724466699506
+    }
+  },
+  "color_family_pixel_share_mean": {
+    "red": 0.2991658357576326,
+    "orange": 0.09612059324949951,
+    "yellow": 0.023443502095845843,
+    "green": 0.012512101945695697,
+    "cyan": 0.08447884407845345,
+    "blue": 0.02073320390703203,
+    "purple": 0.005621275572447448,
+    "magenta": 0.025485524587087083,
+    "white": 0.09979130497685186,
+    "gray": 0.2775568439533283,
+    "black": 0.05509096987612613
+  },
+  "limitations": [
+    "Color-family values are coarse pixel-level estimates, not object-level color labels.",
+    "Color families are coarse pixel-level estimates, not object-level color labels.",
+    "Edge density is a coarse image complexity proxy; semantic/object shape classification is not attempted."
+  ]
+}

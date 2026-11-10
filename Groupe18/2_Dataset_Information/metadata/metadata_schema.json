@@ -1,0 +1,143 @@
+{
+  "schema_name": "Existing COCO image metadata record",
+  "schema_version": "2.0.0",
+  "primary_files": {
+    "train.json": "10,000 image records",
+    "validation.json": "100 image records",
+    "test.json": "1,000 image records"
+  },
+  "record_key": "image_id",
+  "required_sections": [
+    "image_identification",
+    "scene_overview",
+    "object_annotations",
+    "geometric_relationship_summary",
+    "visual_attributes",
+    "caption_references",
+    "provenance"
+  ],
+  "field_guide": [
+    {
+      "field": "image_id",
+      "type": "integer",
+      "description": "Stable COCO image identifier.",
+      "source": "COCO image record",
+      "unit": null
+    },
+    {
+      "field": "image_identification",
+      "type": "object",
+      "description": "Original filename, frozen project split, source dataset, dimensions, aspect ratio, and orientation.",
+      "source": "COCO image record and existing raw image path",
+      "unit": "dimensions in pixels"
+    },
+    {
+      "field": "scene_overview.categories",
+      "type": "array of objects",
+      "description": "Readable category names and IDs with annotated instance counts.",
+      "source": "COCO ground-truth instance annotations",
+      "unit": null
+    },
+    {
+      "field": "scene_overview.scene_complexity",
+      "type": "object",
+      "description": "Quartile-based class from annotation count; zero-object records use status not_available.",
+      "source": "COCO annotation count and full source-split quartiles",
+      "unit": null
+    },
+    {
+      "field": "object_annotations[].bounding_box",
+      "type": "object",
+      "description": "x, y, width, height in original-image pixels from top-left origin.",
+      "source": "COCO ground-truth instance annotation",
+      "unit": "pixels"
+    },
+    {
+      "field": "object_annotations[].normalized_bounding_box",
+      "type": "object",
+      "description": "Coordinates normalized by original image width and height.",
+      "source": "Image processing calculation",
+      "unit": "fraction of image"
+    },
+    {
+      "field": "object_annotations[].spatial_position",
+      "type": "object",
+      "description": "Object center classified into equal thirds of the image.",
+      "source": "Geometric calculation from the COCO box",
+      "unit": null
+    },
+    {
+      "field": "object_annotations[].relative_size",
+      "type": "string",
+      "description": "Small, medium, or large by bounding-box area fraction.",
+      "source": "Geometric calculation from the COCO box",
+      "unit": null
+    },
+    {
+      "field": "object_annotations[].spatial_position",
+      "type": "object",
+      "description": "Object center classified into equal thirds of the image.",
+      "source": "Geometric calculation from the COCO box",
+      "unit": null
+    },
+    {
+      "field": "object_annotations[].relative_size",
+      "type": "string",
+      "description": "Small, medium, or large based on bounding-box area fraction; thresholds are defined below.",
+      "source": "Geometric calculation from the COCO box",
+      "unit": null
+    },
+    {
+      "field": "object_annotations[].coco_segmented_area_pixels_squared",
+      "type": "number or null",
+      "description": "COCO annotation area; distinct from bounding-box area.",
+      "source": "COCO ground-truth instance annotation",
+      "unit": "pixels squared"
+    },
+    {
+      "field": "geometric_relationship_summary",
+      "type": "object",
+      "description": "Per-image geometric relation counts; pair-level records remain in the referenced existing CSV.",
+      "source": "Geometric inference from COCO boxes",
+      "unit": "object pairs"
+    },
+    {
+      "field": "visual_attributes.color_statistics",
+      "type": "object",
+      "description": "Dominant coarse color families and pixel-level statistics from the original image.",
+      "source": "Image processing calculation",
+      "unit": "percentage, luminance/saturation from 0 to 1"
+    },
+    {
+      "field": "visual_attributes.scene_context_predictions",
+      "type": "object",
+      "description": "Scene, indoor/outdoor, and day/night CLIP predictions with score type, acceptance threshold, and model revision.",
+      "source": "CLIP model prediction",
+      "unit": "relative softmax score, not calibrated probability"
+    },
+    {
+      "field": "caption_references",
+      "type": "object",
+      "description": "Caption IDs and canonical data file reference; caption text is not duplicated.",
+      "source": "COCO caption annotations",
+      "unit": null
+    }
+  ],
+  "definitions": {
+    "complexity_thresholds": "NumPy linear quartiles across all non-empty image instance counts from the source pool: train2017 Q1=2,Q3=10; val2017 Q1=2,Q3=10. simple <=Q1, medium <=Q3, complex >Q3. Zero annotations are not_available.",
+    "object_position": "Bounding-box center assigned to left/center/right and top/middle/bottom using equal thirds of image dimensions.",
+    "relative_size": "Bounding-box area divided by image area: small <=1%, medium <=10%, large >10%; this is a geometric size band, not semantic object size.",
+    "relationships": "Existing relationship counts use box geometry only. They are not semantic ground truth, action, contact, or interaction labels.",
+    "prediction_statuses": {
+      "available": "Saved model label met its configured threshold.",
+      "not_available": "No accepted label; the model abstained below threshold.",
+      "prediction_failed": "A prediction record or calculation failed.",
+      "not_annotated": "The source annotation dataset does not provide this field.",
+      "not_computed": "No computation was performed.",
+      "not_applicable": "The field does not apply."
+    },
+    "color_limitations": "Coarse family percentages are pixel-level estimates on the EXIF-corrected original image (96x96 sample), not object-level color labels. Encoder-input color stats are separate and may include letterbox padding.",
+    "edge_density": "Global edge/texture complexity proxy, not object contour or shape recognition.",
+    "clip_scores": "Relative CLIP prompt softmax scores are not calibrated probabilities."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "query_count": 20,
+  "requested_query_count": 20,
+  "top_k": 5,
+  "successful_queries": 20,
+  "queries_without_results": [],
+  "gallery_count": 10000,
+  "gallery_split": "train",
+  "query_splits": [
+    "validation",
+    "test"
+  ],
+  "self_match_count": 0,
+  "mean_top1_cosine": 0.8260029643774033,
+  "index_readback_valid": true
+}

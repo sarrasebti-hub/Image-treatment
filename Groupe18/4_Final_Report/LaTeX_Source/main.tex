@@ -1,0 +1,144 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[margin=25mm,headheight=16pt,includeheadfoot]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{setspace}
+\setstretch{1.15}
+\usepackage[table]{xcolor}
+\definecolor{ProjectNavy}{HTML}{18324B}
+\definecolor{ProjectBlue}{HTML}{27658A}
+\definecolor{ProjectLight}{HTML}{EAF2F7}
+\definecolor{ProjectGrey}{HTML}{F3F5F7}
+\definecolor{ProjectInk}{HTML}{263442}
+\definecolor{ProjectMuted}{HTML}{647482}
+\usepackage{graphicx}
+\graphicspath{{figures/}{../../visualizations/}}
+\usepackage{booktabs,tabularx,longtable,array}
+\usepackage{amsmath}
+\usepackage{float}
+\usepackage{placeins}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{enumitem}
+\usepackage{listings}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning,shapes.geometric}
+\usepackage[most]{tcolorbox}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage[numbers,sort&compress]{natbib}
+\usepackage[colorlinks=true,linkcolor=ProjectBlue,citecolor=ProjectBlue,urlcolor=ProjectBlue]{hyperref}
+\usepackage[nameinlink,noabbrev]{cleveref}
+
+\hypersetup{
+  pdftitle={A Comparative Study of RAG Techniques for Generating Image Captions},
+  pdfauthor={Belarbia Tarek; Benamor Mohamed Wacim; Astite Aymen; Wail Bougaada},
+  pdfsubject={Phase 1: Dataset Exploration and Preprocessing},
+  bookmarksopen=true,
+  bookmarksnumbered=true
+}
+
+\titleformat{\section}{\Large\bfseries\color{ProjectNavy}}{\thesection}{0.7em}{}
+\titlespacing*{\section}{0pt}{2.0ex plus .3ex minus .2ex}{0.8ex}
+\titleformat{\subsection}{\large\bfseries\color{ProjectBlue}}{\thesubsection}{0.7em}{}
+\titlespacing*{\subsection}{0pt}{1.4ex plus .2ex minus .1ex}{0.4ex}
+\titleformat{\subsubsection}{\normalsize\bfseries\color{ProjectInk}}{\thesubsubsection}{0.7em}{}
+\titlespacing*{\subsubsection}{0pt}{1.1ex plus .2ex minus .1ex}{0.3ex}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\nouppercase{\rightmark}}
+\fancyhead[R]{\small Phase 1 Report}
+\fancyfoot[L]{\small Universit\'e d'Alger 1}
+\fancyfoot[R]{\small\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+\setlength{\parskip}{0.35em}
+\setlength{\parindent}{0pt}
+\setlength{\emergencystretch}{2em}
+\renewcommand{\arraystretch}{1.2}
+\setlist[itemize]{leftmargin=1.5em,itemsep=0.25em,topsep=0.3em}
+\setlist[enumerate]{leftmargin=1.7em,itemsep=0.25em,topsep=0.3em}
+\captionsetup{font=small,labelfont={bf,color=ProjectNavy},textfont=small}
+
+\newtcolorbox{keybox}{
+  colback=ProjectLight,
+  colframe=ProjectBlue,
+  boxrule=0.6pt,
+  arc=1.5mm,
+  left=3mm,right=3mm,top=2mm,bottom=2mm
+}
+\newtcolorbox{scopebox}{
+  colback=ProjectGrey,
+  colframe=ProjectMuted,
+  boxrule=0.5pt,
+  arc=1.5mm,
+  left=3mm,right=3mm,top=2mm,bottom=2mm
+}
+\newcommand{\code}[1]{\texttt{\small #1}}
+\newcommand{\pass}{\textcolor{ProjectBlue}{\textbf{PASS}}}
+\newcommand{\partialstatus}{\textcolor{ProjectMuted}{\textbf{PARTIAL}}}
+
+\begin{document}
+
+\hypersetup{pageanchor=false}
+\begin{titlepage}
+\pagecolor{ProjectNavy}
+\color{white}
+\thispagestyle{empty}
+\vspace*{18mm}
+\begin{flushleft}
+{\Large\bfseries UNIVERSITÉ D'ALGER 1}\\[2mm]
+{\large Academic Year 2025--2026}
+\end{flushleft}
+\vspace{24mm}
+\textcolor{ProjectLight}{\rule{\textwidth}{1.2pt}}\\[7mm]
+{\LARGE\bfseries A Comparative Study of RAG Techniques\\[2mm]for Generating Image Captions\par}
+\vspace{8mm}
+{\LARGE Phase 1: Dataset Exploration and Preprocessing\par}
+\vspace{7mm}
+{\large Dataset, metadata, embeddings, and retrieval infrastructure\par}
+\textcolor{ProjectLight}{\rule{\textwidth}{1.2pt}}
+\vfill
+\begin{tabularx}{\textwidth}{@{}>{\bfseries}lX@{}}
+Students & Belarbia Tarek; Benamor Mohamed Wacim; Astite Aymen; Wail Bougaada\\
+Institution & Universit\'e d'Alger 1\\
+Academic year & 2025--2026\\
+\end{tabularx}
+\vspace{18mm}
+\end{titlepage}
+\hypersetup{pageanchor=true}
+\pagecolor{white}
+\color{ProjectInk}
+
+\pagenumbering{roman}
+\setcounter{tocdepth}{1}
+\section*{Abstract}
+\addcontentsline{toc}{section}{Abstract}
+This report presents Phase 1 of a project on retrieval-augmented image captioning using 10,000 training, 100 validation, and 1,000 test images from MS COCO 2017. The 11,100 selected images have 55,500 reference captions. The pipeline preprocesses images, preserves raw captions, organizes metadata, creates normalized 512-dimensional CLIP embeddings, and builds training-only FAISS indexes. Pipeline quality checks pass for the implemented tests, while overall assignment compliance remains \textbf{PARTIAL}. A top-5 retrieval smoke test on 20 held-out queries had zero self-matches and mean top-1 cosine similarity 0.8260; this is not a caption-quality measure. Caption generation, RAG comparisons, and statistical evaluation remain future work.
+\tableofcontents
+\clearpage
+\pagenumbering{arabic}
+
+\input{sections/chapter1_introduction}
+\input{sections/chapter2_dataset}
+\input{sections/chapter3_exploration}
+\input{sections/preprocessing}
+\input{sections/metadata}
+\input{sections/embeddings}
+\input{sections/knowledge_base}
+\input{sections/retrieval}
+\input{sections/results_discussion}
+\input{sections/limitations}
+\input{sections/phase2_plan}
+
+\appendix
+\input{sections/appendix_artifacts_new}
+
+\clearpage
+\bibliographystyle{plainnat}
+\bibliography{references}
+\end{document}

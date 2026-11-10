@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "index_type": "IndexFlatIP",
+  "vectors": 50000,
+  "dimension": 512,
+  "caption_ids_unique": true,
+  "heldout_caption_ids_in_kb": 0,
+  "smoke_query_caption_id": 166081,
+  "top_neighbor_caption_id": 584581,
+  "top_neighbor_score": 0.9504145383834839,
+  "index_path": "vector_database/caption_text_cosine_train.index"
+}
