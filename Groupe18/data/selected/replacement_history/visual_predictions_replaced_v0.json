@@ -1,0 +1,292 @@
+[
+  {
+    "image_id": 133819,
+    "split": "test",
+    "model": "openai/clip-vit-base-patch32",
+    "predictions": {
+      "indoor_outdoor": {
+        "label": "outdoor",
+        "confidence": 0.8507978916168213,
+        "scores": {
+          "indoor": 0.14920204877853394,
+          "outdoor": 0.8507978916168213
+        }
+      },
+      "day_night": {
+        "label": "daytime",
+        "confidence": 0.9024215340614319,
+        "scores": {
+          "daytime": 0.9024215340614319,
+          "nighttime": 0.0975785180926323
+        }
+      },
+      "scene": {
+        "label": "street",
+        "confidence": 0.5932939648628235,
+        "scores": {
+          "kitchen": 0.00040917645674198866,
+          "living room": 0.00012443156447261572,
+          "bedroom": 0.00014809879940003157,
+          "bathroom": 0.0025028360541909933,
+          "office": 0.013018621131777763,
+          "street": 0.5932939648628235,
+          "park": 0.08713460713624954,
+          "beach": 0.00024387809389736503,
+          "sports field": 0.003321912372484803,
+          "restaurant": 0.001595918438397348,
+          "store": 0.006028317846357822,
+          "airport": 0.012976700440049171,
+          "train station": 0.038287729024887085,
+          "countryside": 0.04877043515443802,
+          "mountain": 0.010304216295480728,
+          "other scene": 0.18183912336826324
+        }
+      }
+    },
+    "coco_annotation_objects": {
+      "category_names": [
+        "person",
+        "bus",
+        "traffic light",
+        "parking meter",
+        "handbag"
+      ],
+      "category_ids": [
+        1,
+        6,
+        10,
+        14,
+        31
+      ],
+      "source": "COCO instance annotations; annotations, not model predictions"
+    },
+    "pixel_attributes": {
+      "dominant_hue_proxy": "cyan",
+      "hue_pixel_share_confidence": 0.5484238511203949,
+      "mean_luminance": 0.3006792664527893,
+      "mean_saturation": 0.15392425656318665,
+      "method": "coarse pixel histogram; not semantic object-color recognition"
+    },
+    "confidence_calibration": "CLIP prompt softmax scores are relative model scores, not calibrated probabilities; labels below configured thresholds are UNKNOWN"
+  },
+  {
+    "image_id": 465129,
+    "split": "test",
+    "model": "openai/clip-vit-base-patch32",
+    "predictions": {
+      "indoor_outdoor": {
+        "label": "indoor",
+        "confidence": 0.9974038004875183,
+        "scores": {
+          "indoor": 0.9974038004875183,
+          "outdoor": 0.0025961254723370075
+        }
+      },
+      "day_night": {
+        "label": "nighttime",
+        "confidence": 0.9690713286399841,
+        "scores": {
+          "daytime": 0.03092861734330654,
+          "nighttime": 0.9690713286399841
+        }
+      },
+      "scene": {
+        "label": "kitchen",
+        "confidence": 0.9720171093940735,
+        "scores": {
+          "kitchen": 0.9720171093940735,
+          "living room": 0.003961221780627966,
+          "bedroom": 0.0010427628876641393,
+          "bathroom": 0.015143410302698612,
+          "office": 0.0017410344444215298,
+          "street": 1.2675695870711934e-05,
+          "park": 5.59015606995672e-05,
+          "beach": 2.7954297365795355e-06,
+          "sports field": 3.8073424093454378e-06,
+          "restaurant": 0.0007807802758179605,
+          "store": 0.00064766377909109,
+          "airport": 7.156153151299804e-05,
+          "train station": 1.2872767001681495e-05,
+          "countryside": 0.00021136741270311177,
+          "mountain": 9.771120676305145e-05,
+          "other scene": 0.004197367466986179
+        }
+      }
+    },
+    "coco_annotation_objects": {
+      "category_names": [
+        "person",
+        "bottle",
+        "cup",
+        "bowl",
+        "banana",
+        "microwave",
+        "oven",
+        "sink",
+        "clock"
+      ],
+      "category_ids": [
+        1,
+        44,
+        47,
+        51,
+        52,
+        78,
+        79,
+        81,
+        85
+      ],
+      "source": "COCO instance annotations; annotations, not model predictions"
+    },
+    "pixel_attributes": {
+      "dominant_hue_proxy": "red",
+      "hue_pixel_share_confidence": 0.8933388669848517,
+      "mean_luminance": 0.25388991832733154,
+      "mean_saturation": 0.2777271270751953,
+      "method": "coarse pixel histogram; not semantic object-color recognition"
+    },
+    "confidence_calibration": "CLIP prompt softmax scores are relative model scores, not calibrated probabilities; labels below configured thresholds are UNKNOWN"
+  },
+  {
+    "image_id": 129062,
+    "split": "test",
+    "model": "openai/clip-vit-base-patch32",
+    "predictions": {
+      "indoor_outdoor": {
+        "label": "outdoor",
+        "confidence": 0.9632791876792908,
+        "scores": {
+          "indoor": 0.03672086074948311,
+          "outdoor": 0.9632791876792908
+        }
+      },
+      "day_night": {
+        "label": "daytime",
+        "confidence": 0.573469877243042,
+        "scores": {
+          "daytime": 0.573469877243042,
+          "nighttime": 0.426530122756958
+        }
+      },
+      "scene": {
+        "label": "restaurant",
+        "confidence": 0.7231632471084595,
+        "scores": {
+          "kitchen": 0.011607685126364231,
+          "living room": 0.0005200283485464752,
+          "bedroom": 0.00017349635891150683,
+          "bathroom": 0.0012435729149729013,
+          "office": 0.02232835814356804,
+          "street": 0.011212486773729324,
+          "park": 0.026056738570332527,
+          "beach": 8.89468501554802e-05,
+          "sports field": 0.00037920105387456715,
+          "restaurant": 0.7231632471084595,
+          "store": 0.12377245724201202,
+          "airport": 0.0004518541682045907,
+          "train station": 0.006466579157859087,
+          "countryside": 0.000817440974060446,
+          "mountain": 0.0002690184337552637,
+          "other scene": 0.07144896686077118
+        }
+      }
+    },
+    "coco_annotation_objects": {
+      "category_names": [
+        "person",
+        "parking meter",
+        "umbrella",
+        "dining table"
+      ],
+      "category_ids": [
+        1,
+        14,
+        28,
+        67
+      ],
+      "source": "COCO instance annotations; annotations, not model predictions"
+    },
+    "pixel_attributes": {
+      "dominant_hue_proxy": "red",
+      "hue_pixel_share_confidence": 0.2955595026642984,
+      "mean_luminance": 0.2864023745059967,
+      "mean_saturation": 0.28276029229164124,
+      "method": "coarse pixel histogram; not semantic object-color recognition"
+    },
+    "confidence_calibration": "CLIP prompt softmax scores are relative model scores, not calibrated probabilities; labels below configured thresholds are UNKNOWN"
+  },
+  {
+    "image_id": 525083,
+    "split": "test",
+    "model": "openai/clip-vit-base-patch32",
+    "predictions": {
+      "indoor_outdoor": {
+        "label": "indoor",
+        "confidence": 0.9984354376792908,
+        "scores": {
+          "indoor": 0.9984354376792908,
+          "outdoor": 0.0015645914245396852
+        }
+      },
+      "day_night": {
+        "label": "nighttime",
+        "confidence": 0.6830747723579407,
+        "scores": {
+          "daytime": 0.31692519783973694,
+          "nighttime": 0.6830747723579407
+        }
+      },
+      "scene": {
+        "label": "kitchen",
+        "confidence": 0.8898857831954956,
+        "scores": {
+          "kitchen": 0.8898857831954956,
+          "living room": 0.08495168387889862,
+          "bedroom": 0.004771011881530285,
+          "bathroom": 0.009720823727548122,
+          "office": 0.0067308624275028706,
+          "street": 5.438589505502023e-05,
+          "park": 0.0002317655016668141,
+          "beach": 2.51340552495094e-05,
+          "sports field": 9.117883018916473e-05,
+          "restaurant": 0.0003316280199214816,
+          "store": 0.0008861124515533447,
+          "airport": 1.7666285202722065e-05,
+          "train station": 1.0074261808767915e-05,
+          "countryside": 5.652003164868802e-05,
+          "mountain": 2.3846881958888844e-05,
+          "other scene": 0.0022114384919404984
+        }
+      }
+    },
+    "coco_annotation_objects": {
+      "category_names": [
+        "chair",
+        "couch",
+        "dining table",
+        "tv",
+        "microwave",
+        "sink",
+        "refrigerator"
+      ],
+      "category_ids": [
+        62,
+        63,
+        67,
+        72,
+        78,
+        81,
+        82
+      ],
+      "source": "COCO instance annotations; annotations, not model predictions"
+    },
+    "pixel_attributes": {
+      "dominant_hue_proxy": "red",
+      "hue_pixel_share_confidence": 0.9738735919899875,
+      "mean_luminance": 0.26998522877693176,
+      "mean_saturation": 0.5464112758636475,
+      "method": "coarse pixel histogram; not semantic object-color recognition"
+    },
+    "confidence_calibration": "CLIP prompt softmax scores are relative model scores, not calibrated probabilities; labels below configured thresholds are UNKNOWN"
+  }
+]

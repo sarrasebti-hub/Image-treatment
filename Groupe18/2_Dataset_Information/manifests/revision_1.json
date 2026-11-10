@@ -1,0 +1,249 @@
+{
+  "revision": "1.1.0",
+  "replacement_time_local": "recorded by filesystem timestamps",
+  "backup_directory": "data/selected/backups/phase1_pre_test_replacement_v1",
+  "manifest_files_before_sha256": {
+    "data/selected/train_ids.json": "eee87e12ff6c89a33035bcc2daf43e9433210079226d68d1ec44087688e34f3e",
+    "data/selected/train_ids.csv": "028ccc3144e30b9affcd76a3ebad8766b0eaba2b8703454239f27b0b15f2a7c5",
+    "data/selected/validation_ids.json": "1fa9a5d8ec55b7aca28d5c1faba9fc192527bf26df3601887fd09c3a01ca1537",
+    "data/selected/validation_ids.csv": "f255d02b47fc1f92ee3464bd5cf066922012eba88f530e0057a39c75c50423e0",
+    "data/selected/test_ids.json": "bec1305e5a2feb3f73b93e2509566934f35970756b455174f71ba2b7572a2fba",
+    "data/selected/test_ids.csv": "e230a816d2ebe37fb2aec4d81fde799d7a8cff44beb273113d8e6548f0ea6ea0",
+    "data/selected/selection_report.json": "c30ad127e2a3d1fc37f6c525a5840a925c6dd7eb59df636eaec171397a1f217c"
+  },
+  "manifest_files_after_sha256": {
+    "data/selected/train_ids.json": "eee87e12ff6c89a33035bcc2daf43e9433210079226d68d1ec44087688e34f3e",
+    "data/selected/train_ids.csv": "028ccc3144e30b9affcd76a3ebad8766b0eaba2b8703454239f27b0b15f2a7c5",
+    "data/selected/validation_ids.json": "1fa9a5d8ec55b7aca28d5c1faba9fc192527bf26df3601887fd09c3a01ca1537",
+    "data/selected/validation_ids.csv": "f255d02b47fc1f92ee3464bd5cf066922012eba88f530e0057a39c75c50423e0",
+    "data/selected/test_ids.json": "15bdf3dc09a74e7d5dfcd2805209f38dd4a3c4cbde147293926902d7f013d304",
+    "data/selected/test_ids.csv": "794d6e8f5f823cdd5a6d35133534a2743274e74043da1add6693b55641de26e2",
+    "data/selected/selection_report.json": "4f47529909f377ea8bcba58888ea32404986cc66ad647054df4eb4e7e50fe4ab"
+  },
+  "replacement_pairs": [
+    {
+      "old_test_image_id": 133819,
+      "new_test_image_id": 165039,
+      "reason": "replaced as a train/test pHash candidate from the prior review",
+      "selection_rationale": "same-stratum replacement ranked by rarity-weighted COCO category overlap, scene-complexity match, single/multiple-instance match, person-co-occurrence proxy match, and object-count proximity; deterministic tie-break seed",
+      "old_complexity": "complex",
+      "new_complexity": "complex",
+      "old_object_count": 21,
+      "new_object_count": 23,
+      "old_category_names": [
+        "person",
+        "bus",
+        "traffic light",
+        "parking meter",
+        "handbag"
+      ],
+      "new_category_names": [
+        "person",
+        "car",
+        "bus",
+        "traffic light"
+      ],
+      "old_labels": [
+        "cat:1",
+        "cat:10",
+        "cat:14",
+        "cat:31",
+        "cat:6",
+        "multiple",
+        "person_cooccurrence_proxy",
+        "scene:complex"
+      ],
+      "new_labels": [
+        "cat:1",
+        "cat:10",
+        "cat:3",
+        "cat:6",
+        "multiple",
+        "person_cooccurrence_proxy",
+        "scene:complex"
+      ],
+      "valid_caption_count": 5,
+      "candidate_min_hamming_to_train_validation": 10,
+      "hamming_threshold": 6,
+      "candidate_sha256": "e33ff0c52506ec5f5eea55ca9a3306f3bdc2ba6596ceedefcadf3b59541c1458",
+      "candidate_file": "data/raw/val2017/val2017/000000165039.jpg"
+    },
+    {
+      "old_test_image_id": 465129,
+      "new_test_image_id": 294350,
+      "reason": "replaced as a train/test pHash candidate from the prior review",
+      "selection_rationale": "same-stratum replacement ranked by rarity-weighted COCO category overlap, scene-complexity match, single/multiple-instance match, person-co-occurrence proxy match, and object-count proximity; deterministic tie-break seed",
+      "old_complexity": "complex",
+      "new_complexity": "complex",
+      "old_object_count": 15,
+      "new_object_count": 13,
+      "old_category_names": [
+        "person",
+        "bottle",
+        "cup",
+        "bowl",
+        "banana",
+        "microwave",
+        "oven",
+        "sink",
+        "clock"
+      ],
+      "new_category_names": [
+        "person",
+        "bottle",
+        "bowl",
+        "banana",
+        "oven"
+      ],
+      "old_labels": [
+        "cat:1",
+        "cat:44",
+        "cat:47",
+        "cat:51",
+        "cat:52",
+        "cat:78",
+        "cat:79",
+        "cat:81",
+        "cat:85",
+        "multiple",
+        "person_cooccurrence_proxy",
+        "scene:complex"
+      ],
+      "new_labels": [
+        "cat:1",
+        "cat:44",
+        "cat:51",
+        "cat:52",
+        "cat:79",
+        "multiple",
+        "person_cooccurrence_proxy",
+        "scene:complex"
+      ],
+      "valid_caption_count": 5,
+      "candidate_min_hamming_to_train_validation": 16,
+      "hamming_threshold": 6,
+      "candidate_sha256": "8236646946496fe2a6f4da3d6247573026051fd2fbfffc2a3dfb3f7766dc23cf",
+      "candidate_file": "data/raw/val2017/val2017/000000294350.jpg"
+    },
+    {
+      "old_test_image_id": 129062,
+      "new_test_image_id": 180487,
+      "reason": "replaced as a train/test pHash candidate from the prior review",
+      "selection_rationale": "same-stratum replacement ranked by rarity-weighted COCO category overlap, scene-complexity match, single/multiple-instance match, person-co-occurrence proxy match, and object-count proximity; deterministic tie-break seed",
+      "old_complexity": "medium",
+      "new_complexity": "medium",
+      "old_object_count": 7,
+      "new_object_count": 6,
+      "old_category_names": [
+        "person",
+        "parking meter",
+        "umbrella",
+        "dining table"
+      ],
+      "new_category_names": [
+        "person",
+        "umbrella",
+        "cup",
+        "chair",
+        "dining table"
+      ],
+      "old_labels": [
+        "cat:1",
+        "cat:14",
+        "cat:28",
+        "cat:67",
+        "multiple",
+        "person_cooccurrence_proxy",
+        "scene:medium"
+      ],
+      "new_labels": [
+        "cat:1",
+        "cat:28",
+        "cat:47",
+        "cat:62",
+        "cat:67",
+        "multiple",
+        "person_cooccurrence_proxy",
+        "scene:medium"
+      ],
+      "valid_caption_count": 5,
+      "candidate_min_hamming_to_train_validation": 12,
+      "hamming_threshold": 6,
+      "candidate_sha256": "b3e52b7701025765b73ecc9c1ce216db714b42e6f1a4a14c920ac1787ded0e20",
+      "candidate_file": "data/raw/val2017/val2017/000000180487.jpg"
+    },
+    {
+      "old_test_image_id": 525083,
+      "new_test_image_id": 195754,
+      "reason": "replaced as a train/test pHash candidate from the prior review",
+      "selection_rationale": "same-stratum replacement ranked by rarity-weighted COCO category overlap, scene-complexity match, single/multiple-instance match, person-co-occurrence proxy match, and object-count proximity; deterministic tie-break seed",
+      "old_complexity": "medium",
+      "new_complexity": "medium",
+      "old_object_count": 9,
+      "new_object_count": 8,
+      "old_category_names": [
+        "chair",
+        "couch",
+        "dining table",
+        "tv",
+        "microwave",
+        "sink",
+        "refrigerator"
+      ],
+      "new_category_names": [
+        "chair",
+        "couch",
+        "dining table",
+        "tv"
+      ],
+      "old_labels": [
+        "cat:62",
+        "cat:63",
+        "cat:67",
+        "cat:72",
+        "cat:78",
+        "cat:81",
+        "cat:82",
+        "multiple",
+        "scene:medium"
+      ],
+      "new_labels": [
+        "cat:62",
+        "cat:63",
+        "cat:67",
+        "cat:72",
+        "multiple",
+        "scene:medium"
+      ],
+      "valid_caption_count": 5,
+      "candidate_min_hamming_to_train_validation": 16,
+      "hamming_threshold": 6,
+      "candidate_sha256": "6a1dcfa6c85fd482fcfd9c20162d0433e5a554f19a5f80e0ada145463ea6c3e3",
+      "candidate_file": "data/raw/val2017/val2017/000000195754.jpg"
+    }
+  ],
+  "new_processed_images": [
+    {
+      "image_id": 165039,
+      "processed_path": "data/processed/test/000000165039.jpg",
+      "sha256": "d605ef284dffcac3f4403a5e5e0551469a3cd75edcc9fbee04ca8e5768fec4a2"
+    },
+    {
+      "image_id": 294350,
+      "processed_path": "data/processed/test/000000294350.jpg",
+      "sha256": "bc6460581b7012da9df6d163fc8529683051313ad5eb6231c81ac94bbbae623e"
+    },
+    {
+      "image_id": 180487,
+      "processed_path": "data/processed/test/000000180487.jpg",
+      "sha256": "e93ce84923e84ced71a20c1180521030185bd516ef6a3b9eb8dc61f8b346fd5c"
+    },
+    {
+      "image_id": 195754,
+      "processed_path": "data/processed/test/000000195754.jpg",
+      "sha256": "2627d508d0d7351450d3b4ae65385aab9eb03174b68fad6a208a83f7c556df3e"
+    }
+  ],
+  "train_validation_ids_unchanged": true,
+  "original_images_not_moved_or_deleted": true
+}

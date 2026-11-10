@@ -1,0 +1,1001 @@
+image_id,source_split,object_count,category_count,category_ids,category_names,complexity,person_cooccurrence_proxy,relationships,context,width,height
+540502,val2017,20,13,"[50, 51, 53, 55, 62, 64, 67, 78, 79, 80, 81, 82, 86]","['spoon', 'bowl', 'apple', 'orange', 'chair', 'potted plant', 'dining table', 'microwave', 'oven', 'toaster', 'sink', 'refrigerator', 'vase']",complex,False,not annotated,unknown,640,427
+435081,val2017,63,13,"[47, 48, 49, 50, 51, 54, 57, 59, 60, 61, 62, 67, 86]","['cup', 'fork', 'knife', 'spoon', 'bowl', 'sandwich', 'carrot', 'pizza', 'donut', 'cake', 'chair', 'dining table', 'vase']",complex,False,not annotated,unknown,500,500
+173008,val2017,18,9,"[1, 47, 52, 55, 61, 78, 79, 80, 87]","['person', 'cup', 'banana', 'orange', 'cake', 'microwave', 'oven', 'toaster', 'scissors']",complex,True,not annotated,unknown,640,480
+190236,val2017,28,12,"[27, 37, 44, 47, 62, 64, 72, 73, 74, 76, 84, 86]","['backpack', 'sports ball', 'bottle', 'cup', 'chair', 'potted plant', 'tv', 'laptop', 'mouse', 'keyboard', 'book', 'vase']",complex,False,not annotated,unknown,640,393
+500464,val2017,5,4,"[44, 81, 89, 90]","['bottle', 'sink', 'hair drier', 'toothbrush']",medium,False,not annotated,unknown,430,640
+139099,val2017,30,10,"[1, 2, 3, 4, 18, 27, 28, 31, 52, 53]","['person', 'bicycle', 'car', 'motorcycle', 'dog', 'backpack', 'umbrella', 'handbag', 'banana', 'apple']",complex,True,not annotated,unknown,640,453
+542625,val2017,15,6,"[3, 8, 10, 11, 14, 16]","['car', 'truck', 'traffic light', 'fire hydrant', 'parking meter', 'bird']",complex,False,not annotated,unknown,640,480
+455937,val2017,14,11,"[1, 31, 33, 47, 62, 63, 72, 73, 75, 84, 85]","['person', 'handbag', 'suitcase', 'cup', 'chair', 'couch', 'tv', 'laptop', 'remote', 'book', 'clock']",complex,True,not annotated,unknown,640,480
+435206,val2017,15,5,"[1, 9, 20, 21, 22]","['person', 'boat', 'sheep', 'cow', 'elephant']",complex,True,not annotated,unknown,640,427
+14038,val2017,25,11,"[44, 62, 63, 64, 65, 67, 72, 77, 78, 82, 84]","['bottle', 'chair', 'couch', 'potted plant', 'bed', 'dining table', 'tv', 'cell phone', 'microwave', 'refrigerator', 'book']",complex,False,not annotated,unknown,640,427
+76547,val2017,13,10,"[1, 2, 7, 10, 15, 27, 32, 62, 67, 73]","['person', 'bicycle', 'train', 'traffic light', 'bench', 'backpack', 'tie', 'chair', 'dining table', 'laptop']",complex,True,not annotated,unknown,640,480
+231822,val2017,14,10,"[44, 47, 48, 49, 50, 51, 54, 56, 61, 67]","['bottle', 'cup', 'fork', 'knife', 'spoon', 'bowl', 'sandwich', 'broccoli', 'cake', 'dining table']",complex,False,not annotated,unknown,500,361
+184324,val2017,32,9,"[1, 2, 3, 6, 8, 13, 27, 28, 31]","['person', 'bicycle', 'car', 'bus', 'truck', 'stop sign', 'backpack', 'umbrella', 'handbag']",complex,True,not annotated,unknown,640,425
+357888,val2017,36,9,"[1, 38, 44, 46, 47, 51, 53, 85, 86]","['person', 'kite', 'bottle', 'wine glass', 'cup', 'bowl', 'apple', 'clock', 'vase']",complex,True,not annotated,unknown,640,480
+54593,val2017,18,9,"[1, 3, 4, 27, 37, 39, 40, 44, 62]","['person', 'car', 'motorcycle', 'backpack', 'sports ball', 'baseball bat', 'baseball glove', 'bottle', 'chair']",complex,True,not annotated,unknown,640,427
+492362,val2017,13,7,"[1, 27, 28, 31, 41, 51, 58]","['person', 'backpack', 'umbrella', 'handbag', 'skateboard', 'bowl', 'hot dog']",complex,True,not annotated,unknown,427,640
+92091,val2017,9,7,"[1, 9, 62, 63, 72, 88, 90]","['person', 'boat', 'chair', 'couch', 'tv', 'teddy bear', 'toothbrush']",medium,True,not annotated,unknown,640,480
+245576,val2017,6,6,"[17, 47, 72, 76, 77, 87]","['cat', 'cup', 'tv', 'keyboard', 'cell phone', 'scissors']",medium,False,not annotated,unknown,640,472
+246968,val2017,22,12,"[1, 44, 46, 47, 50, 52, 62, 64, 75, 78, 79, 81]","['person', 'bottle', 'wine glass', 'cup', 'spoon', 'banana', 'chair', 'potted plant', 'remote', 'microwave', 'oven', 'sink']",complex,True,not annotated,unknown,640,428
+257169,val2017,4,4,"[1, 31, 70, 89]","['person', 'handbag', 'toilet', 'hair drier']",medium,True,not annotated,unknown,480,640
+159977,val2017,4,3,"[16, 24, 25]","['bird', 'zebra', 'giraffe']",medium,False,not annotated,unknown,640,424
+470779,val2017,10,4,"[1, 27, 35, 36]","['person', 'backpack', 'skis', 'snowboard']",medium,True,not annotated,unknown,640,479
+441247,val2017,24,14,"[1, 27, 31, 44, 52, 55, 62, 63, 67, 78, 79, 82, 85, 86]","['person', 'backpack', 'handbag', 'bottle', 'banana', 'orange', 'chair', 'couch', 'dining table', 'microwave', 'oven', 'refrigerator', 'clock', 'vase']",complex,True,not annotated,unknown,640,424
+175364,val2017,18,9,"[44, 46, 47, 50, 51, 67, 79, 80, 81]","['bottle', 'wine glass', 'cup', 'spoon', 'bowl', 'dining table', 'oven', 'toaster', 'sink']",complex,False,not annotated,unknown,614,461
+381971,val2017,16,7,"[1, 3, 11, 13, 19, 27, 31]","['person', 'car', 'fire hydrant', 'stop sign', 'horse', 'backpack', 'handbag']",complex,True,not annotated,unknown,640,427
+524850,val2017,41,7,"[1, 5, 6, 8, 27, 31, 33]","['person', 'airplane', 'bus', 'truck', 'backpack', 'handbag', 'suitcase']",complex,True,not annotated,unknown,500,319
+253452,val2017,15,8,"[47, 48, 49, 50, 57, 60, 61, 67]","['cup', 'fork', 'knife', 'spoon', 'carrot', 'donut', 'cake', 'dining table']",complex,False,not annotated,unknown,640,426
+367095,val2017,25,10,"[1, 47, 62, 64, 67, 72, 73, 74, 76, 87]","['person', 'cup', 'chair', 'potted plant', 'dining table', 'tv', 'laptop', 'mouse', 'keyboard', 'scissors']",complex,True,not annotated,unknown,640,427
+92839,val2017,1,1,[23],['bear'],simple,False,not annotated,unknown,640,517
+471789,val2017,15,4,"[1, 18, 34, 38]","['person', 'dog', 'frisbee', 'kite']",complex,True,not annotated,unknown,640,480
+67616,val2017,37,10,"[1, 2, 3, 8, 11, 14, 62, 64, 67, 86]","['person', 'bicycle', 'car', 'truck', 'fire hydrant', 'parking meter', 'chair', 'potted plant', 'dining table', 'vase']",complex,True,not annotated,unknown,640,480
+407614,val2017,13,10,"[42, 44, 47, 51, 62, 64, 78, 79, 81, 82]","['surfboard', 'bottle', 'cup', 'bowl', 'chair', 'potted plant', 'microwave', 'oven', 'sink', 'refrigerator']",complex,False,not annotated,unknown,640,426
+357816,val2017,10,7,"[1, 3, 15, 28, 37, 39, 40]","['person', 'car', 'bench', 'umbrella', 'sports ball', 'baseball bat', 'baseball glove']",medium,True,not annotated,unknown,500,455
+349480,val2017,17,10,"[31, 44, 47, 51, 52, 53, 55, 61, 64, 88]","['handbag', 'bottle', 'cup', 'bowl', 'banana', 'apple', 'orange', 'cake', 'potted plant', 'teddy bear']",complex,False,not annotated,unknown,640,450
+397133,val2017,19,11,"[1, 44, 47, 49, 50, 51, 56, 57, 67, 79, 81]","['person', 'bottle', 'cup', 'knife', 'spoon', 'bowl', 'broccoli', 'carrot', 'dining table', 'oven', 'sink']",complex,True,not annotated,unknown,640,427
+16228,val2017,21,6,"[1, 7, 15, 19, 28, 32]","['person', 'train', 'bench', 'horse', 'umbrella', 'tie']",complex,True,not annotated,unknown,640,440
+228771,val2017,0,0,[],[],unknown,False,not annotated,unknown,640,427
+425361,val2017,9,9,"[1, 46, 48, 49, 51, 59, 62, 73, 74]","['person', 'wine glass', 'fork', 'knife', 'bowl', 'pizza', 'chair', 'laptop', 'mouse']",medium,True,not annotated,unknown,640,491
+39405,val2017,30,7,"[1, 15, 27, 33, 37, 43, 62]","['person', 'bench', 'backpack', 'suitcase', 'sports ball', 'tennis racket', 'chair']",complex,True,not annotated,unknown,640,480
+231831,val2017,9,6,"[17, 62, 75, 77, 84, 87]","['cat', 'chair', 'remote', 'cell phone', 'book', 'scissors']",medium,False,not annotated,unknown,481,640
+17899,val2017,11,9,"[1, 16, 47, 50, 58, 61, 62, 63, 67]","['person', 'bird', 'cup', 'spoon', 'hot dog', 'cake', 'chair', 'couch', 'dining table']",complex,True,not annotated,unknown,480,640
+135561,val2017,8,7,"[44, 47, 51, 80, 81, 82, 85]","['bottle', 'cup', 'bowl', 'toaster', 'sink', 'refrigerator', 'clock']",medium,False,not annotated,unknown,640,480
+178028,val2017,10,5,"[44, 46, 47, 81, 89]","['bottle', 'wine glass', 'cup', 'sink', 'hair drier']",medium,False,not annotated,unknown,375,500
+571313,val2017,8,8,"[62, 65, 67, 72, 74, 76, 78, 82]","['chair', 'bed', 'dining table', 'tv', 'mouse', 'keyboard', 'microwave', 'refrigerator']",medium,False,not annotated,unknown,480,640
+193162,val2017,5,4,"[1, 18, 20, 21]","['person', 'dog', 'sheep', 'cow']",medium,True,not annotated,unknown,640,428
+416885,val2017,10,8,"[3, 46, 48, 49, 50, 54, 60, 67]","['car', 'wine glass', 'fork', 'knife', 'spoon', 'sandwich', 'donut', 'dining table']",medium,False,not annotated,unknown,500,375
+327769,val2017,7,6,"[17, 44, 47, 70, 81, 90]","['cat', 'bottle', 'cup', 'toilet', 'sink', 'toothbrush']",medium,False,not annotated,unknown,640,424
+345027,val2017,35,8,"[1, 4, 8, 9, 15, 28, 38, 62]","['person', 'motorcycle', 'truck', 'boat', 'bench', 'umbrella', 'kite', 'chair']",complex,True,not annotated,unknown,640,403
+94944,val2017,9,4,"[1, 27, 35, 36]","['person', 'backpack', 'skis', 'snowboard']",medium,True,not annotated,unknown,640,427
+74209,val2017,21,12,"[44, 47, 51, 52, 53, 55, 62, 67, 79, 81, 82, 85]","['bottle', 'cup', 'bowl', 'banana', 'apple', 'orange', 'chair', 'dining table', 'oven', 'sink', 'refrigerator', 'clock']",complex,False,not annotated,unknown,640,480
+125572,val2017,29,9,"[1, 2, 4, 6, 8, 10, 27, 31, 85]","['person', 'bicycle', 'motorcycle', 'bus', 'truck', 'traffic light', 'backpack', 'handbag', 'clock']",complex,True,not annotated,unknown,640,427
+289393,val2017,4,4,"[16, 21, 25, 64]","['bird', 'cow', 'giraffe', 'potted plant']",medium,False,not annotated,unknown,640,480
+25096,val2017,6,6,"[1, 24, 41, 49, 62, 67]","['person', 'zebra', 'skateboard', 'knife', 'chair', 'dining table']",medium,True,not annotated,unknown,375,500
+286182,val2017,35,10,"[1, 44, 48, 50, 51, 56, 57, 62, 67, 84]","['person', 'bottle', 'fork', 'spoon', 'bowl', 'broccoli', 'carrot', 'chair', 'dining table', 'book']",complex,True,not annotated,unknown,478,640
+97022,val2017,6,5,"[72, 78, 79, 80, 81]","['tv', 'microwave', 'oven', 'toaster', 'sink']",medium,False,not annotated,unknown,640,428
+453341,val2017,7,6,"[63, 72, 74, 76, 77, 88]","['couch', 'tv', 'mouse', 'keyboard', 'cell phone', 'teddy bear']",medium,False,not annotated,unknown,640,480
+312237,val2017,23,7,"[1, 9, 27, 28, 31, 38, 42]","['person', 'boat', 'backpack', 'umbrella', 'handbag', 'kite', 'surfboard']",complex,True,not annotated,unknown,500,334
+279714,val2017,5,4,"[3, 14, 37, 39]","['car', 'parking meter', 'sports ball', 'baseball bat']",medium,False,not annotated,unknown,425,640
+315219,val2017,1,1,[89],['hair drier'],simple,False,not annotated,unknown,333,500
+366884,val2017,16,8,"[1, 18, 33, 62, 65, 72, 76, 84]","['person', 'dog', 'suitcase', 'chair', 'bed', 'tv', 'keyboard', 'book']",complex,True,not annotated,unknown,640,480
+575970,val2017,29,12,"[47, 51, 52, 53, 62, 64, 67, 78, 79, 81, 82, 86]","['cup', 'bowl', 'banana', 'apple', 'chair', 'potted plant', 'dining table', 'microwave', 'oven', 'sink', 'refrigerator', 'vase']",complex,False,not annotated,unknown,640,480
+226147,val2017,21,13,"[1, 27, 31, 47, 48, 49, 50, 54, 62, 67, 77, 85, 86]","['person', 'backpack', 'handbag', 'cup', 'fork', 'knife', 'spoon', 'sandwich', 'chair', 'dining table', 'cell phone', 'clock', 'vase']",complex,True,not annotated,unknown,480,640
+229358,val2017,10,8,"[1, 32, 44, 47, 51, 77, 81, 90]","['person', 'tie', 'bottle', 'cup', 'bowl', 'cell phone', 'sink', 'toothbrush']",medium,True,not annotated,unknown,640,423
+572517,val2017,2,2,"[16, 23]","['bird', 'bear']",simple,False,not annotated,unknown,640,424
+273711,val2017,37,10,"[1, 47, 50, 51, 53, 54, 55, 57, 62, 67]","['person', 'cup', 'spoon', 'bowl', 'apple', 'sandwich', 'orange', 'carrot', 'chair', 'dining table']",complex,True,not annotated,unknown,640,480
+453302,val2017,7,6,"[44, 62, 78, 80, 81, 82]","['bottle', 'chair', 'microwave', 'toaster', 'sink', 'refrigerator']",medium,False,not annotated,unknown,500,375
+33114,val2017,8,2,"[5, 14]","['airplane', 'parking meter']",medium,False,not annotated,unknown,640,480
+387098,val2017,24,9,"[44, 47, 50, 72, 73, 74, 75, 76, 84]","['bottle', 'cup', 'spoon', 'tv', 'laptop', 'mouse', 'remote', 'keyboard', 'book']",complex,False,not annotated,unknown,640,480
+102805,val2017,10,6,"[1, 3, 8, 9, 27, 34]","['person', 'car', 'truck', 'boat', 'backpack', 'frisbee']",medium,True,not annotated,unknown,640,426
+413689,val2017,17,7,"[1, 2, 3, 10, 13, 28, 31]","['person', 'bicycle', 'car', 'traffic light', 'stop sign', 'umbrella', 'handbag']",complex,True,not annotated,unknown,640,426
+438226,val2017,6,5,"[46, 48, 54, 58, 67]","['wine glass', 'fork', 'sandwich', 'hot dog', 'dining table']",medium,False,not annotated,unknown,640,291
+379533,val2017,3,2,"[22, 24]","['elephant', 'zebra']",medium,False,not annotated,unknown,476,640
+192670,val2017,21,8,"[1, 3, 8, 37, 39, 40, 44, 62]","['person', 'car', 'truck', 'sports ball', 'baseball bat', 'baseball glove', 'bottle', 'chair']",complex,True,not annotated,unknown,640,433
+298396,val2017,27,9,"[49, 51, 52, 62, 67, 79, 81, 85, 87]","['knife', 'bowl', 'banana', 'chair', 'dining table', 'oven', 'sink', 'clock', 'scissors']",complex,False,not annotated,unknown,640,480
+306893,val2017,21,5,"[1, 4, 7, 10, 11]","['person', 'motorcycle', 'train', 'traffic light', 'fire hydrant']",complex,True,not annotated,unknown,500,368
+134882,val2017,18,5,"[17, 65, 73, 84, 88]","['cat', 'bed', 'laptop', 'book', 'teddy bear']",complex,False,not annotated,unknown,640,639
+562818,val2017,24,4,"[1, 27, 35, 36]","['person', 'backpack', 'skis', 'snowboard']",complex,True,not annotated,unknown,640,480
+104669,val2017,15,6,"[48, 49, 55, 56, 57, 67]","['fork', 'knife', 'orange', 'broccoli', 'carrot', 'dining table']",complex,False,not annotated,unknown,500,375
+374727,val2017,0,0,[],[],unknown,False,not annotated,unknown,640,426
+491008,val2017,26,8,"[1, 9, 32, 49, 59, 62, 64, 67]","['person', 'boat', 'tie', 'knife', 'pizza', 'chair', 'potted plant', 'dining table']",complex,True,not annotated,unknown,640,427
+239041,val2017,4,4,"[44, 72, 81, 89]","['bottle', 'tv', 'sink', 'hair drier']",medium,False,not annotated,unknown,640,427
+40471,val2017,20,11,"[44, 47, 49, 50, 51, 52, 53, 78, 79, 81, 82]","['bottle', 'cup', 'knife', 'spoon', 'bowl', 'banana', 'apple', 'microwave', 'oven', 'sink', 'refrigerator']",complex,False,not annotated,unknown,427,640
+245513,val2017,4,3,"[13, 16, 25]","['stop sign', 'bird', 'giraffe']",medium,False,not annotated,unknown,500,381
+190753,val2017,21,7,"[1, 2, 15, 27, 33, 41, 62]","['person', 'bicycle', 'bench', 'backpack', 'suitcase', 'skateboard', 'chair']",complex,True,not annotated,unknown,640,478
+55528,val2017,7,6,"[1, 63, 75, 84, 85, 90]","['person', 'couch', 'remote', 'book', 'clock', 'toothbrush']",medium,True,not annotated,unknown,640,480
+140583,val2017,22,4,"[1, 8, 20, 21]","['person', 'truck', 'sheep', 'cow']",complex,True,not annotated,unknown,640,478
+405195,val2017,18,4,"[1, 58, 60, 85]","['person', 'hot dog', 'donut', 'clock']",complex,True,not annotated,unknown,640,480
+350148,val2017,20,11,"[1, 3, 47, 48, 49, 54, 57, 61, 62, 67, 85]","['person', 'car', 'cup', 'fork', 'knife', 'sandwich', 'carrot', 'cake', 'chair', 'dining table', 'clock']",complex,True,not annotated,unknown,480,640
+35279,val2017,9,7,"[1, 31, 43, 44, 73, 77, 84]","['person', 'handbag', 'tennis racket', 'bottle', 'laptop', 'cell phone', 'book']",medium,True,not annotated,unknown,640,463
+179265,val2017,8,6,"[1, 3, 6, 8, 14, 15]","['person', 'car', 'bus', 'truck', 'parking meter', 'bench']",medium,True,not annotated,unknown,640,426
+458663,val2017,21,9,"[28, 47, 49, 62, 63, 67, 79, 81, 87]","['umbrella', 'cup', 'knife', 'chair', 'couch', 'dining table', 'oven', 'sink', 'scissors']",complex,False,not annotated,unknown,640,425
+261888,val2017,6,5,"[1, 2, 13, 19, 27]","['person', 'bicycle', 'stop sign', 'horse', 'backpack']",medium,True,not annotated,unknown,640,426
+419974,val2017,25,12,"[1, 15, 18, 44, 46, 47, 48, 49, 62, 64, 67, 79]","['person', 'bench', 'dog', 'bottle', 'wine glass', 'cup', 'fork', 'knife', 'chair', 'potted plant', 'dining table', 'oven']",complex,True,not annotated,unknown,426,640
+301421,val2017,10,8,"[3, 62, 72, 73, 74, 75, 76, 77]","['car', 'chair', 'tv', 'laptop', 'mouse', 'remote', 'keyboard', 'cell phone']",medium,False,not annotated,unknown,640,427
+132544,val2017,15,6,"[1, 3, 28, 37, 39, 40]","['person', 'car', 'umbrella', 'sports ball', 'baseball bat', 'baseball glove']",complex,True,not annotated,unknown,640,427
+227399,val2017,24,7,"[1, 2, 4, 7, 27, 31, 33]","['person', 'bicycle', 'motorcycle', 'train', 'backpack', 'handbag', 'suitcase']",complex,True,not annotated,unknown,640,482
+186422,val2017,2,2,"[16, 23]","['bird', 'bear']",simple,False,not annotated,unknown,640,427
+84241,val2017,18,10,"[1, 44, 48, 50, 51, 54, 56, 67, 79, 81]","['person', 'bottle', 'fork', 'spoon', 'bowl', 'sandwich', 'broccoli', 'dining table', 'oven', 'sink']",complex,True,not annotated,unknown,640,396
+407868,val2017,8,4,"[1, 15, 34, 38]","['person', 'bench', 'frisbee', 'kite']",medium,True,not annotated,unknown,640,480
+106389,val2017,12,5,"[17, 62, 65, 84, 87]","['cat', 'chair', 'bed', 'book', 'scissors']",complex,False,not annotated,unknown,640,480
+177489,val2017,21,10,"[1, 44, 46, 48, 50, 51, 55, 59, 62, 67]","['person', 'bottle', 'wine glass', 'fork', 'spoon', 'bowl', 'orange', 'pizza', 'chair', 'dining table']",complex,True,not annotated,unknown,640,478
+160556,val2017,9,7,"[1, 72, 73, 76, 77, 78, 88]","['person', 'tv', 'laptop', 'keyboard', 'cell phone', 'microwave', 'teddy bear']",medium,True,not annotated,unknown,640,428
+226417,val2017,25,8,"[1, 2, 3, 4, 10, 11, 27, 31]","['person', 'bicycle', 'car', 'motorcycle', 'traffic light', 'fire hydrant', 'backpack', 'handbag']",complex,True,not annotated,unknown,500,333
+232348,val2017,1,1,[80],['toaster'],simple,False,not annotated,unknown,640,502
+411530,val2017,22,4,"[1, 27, 35, 36]","['person', 'backpack', 'skis', 'snowboard']",complex,True,not annotated,unknown,640,480
+569917,val2017,5,4,"[44, 70, 81, 90]","['bottle', 'toilet', 'sink', 'toothbrush']",medium,False,not annotated,unknown,480,640
+350002,val2017,2,2,"[1, 89]","['person', 'hair drier']",simple,True,not annotated,unknown,427,640
+59598,val2017,10,8,"[1, 52, 61, 62, 73, 74, 76, 77]","['person', 'banana', 'cake', 'chair', 'laptop', 'mouse', 'keyboard', 'cell phone']",medium,True,not annotated,unknown,640,480
+325031,val2017,17,4,"[1, 15, 22, 32]","['person', 'bench', 'elephant', 'tie']",complex,True,not annotated,unknown,640,608
+78266,val2017,15,7,"[49, 51, 53, 55, 57, 81, 82]","['knife', 'bowl', 'apple', 'orange', 'carrot', 'sink', 'refrigerator']",complex,False,not annotated,unknown,640,428
+425221,val2017,23,6,"[1, 5, 15, 27, 33, 62]","['person', 'airplane', 'bench', 'backpack', 'suitcase', 'chair']",complex,True,not annotated,unknown,480,640
+273232,val2017,16,4,"[1, 18, 38, 42]","['person', 'dog', 'kite', 'surfboard']",complex,True,not annotated,unknown,640,425
+338905,val2017,38,12,"[1, 4, 28, 44, 46, 47, 49, 51, 54, 62, 64, 67]","['person', 'motorcycle', 'umbrella', 'bottle', 'wine glass', 'cup', 'knife', 'bowl', 'sandwich', 'chair', 'potted plant', 'dining table']",complex,True,not annotated,unknown,480,360
+165039,val2017,23,4,"[1, 3, 6, 10]","['person', 'car', 'bus', 'traffic light']",complex,True,not annotated,unknown,640,427
+322163,val2017,19,9,"[1, 44, 51, 59, 64, 67, 75, 78, 79]","['person', 'bottle', 'bowl', 'pizza', 'potted plant', 'dining table', 'remote', 'microwave', 'oven']",complex,True,not annotated,unknown,640,480
+433243,val2017,2,2,"[24, 25]","['zebra', 'giraffe']",simple,False,not annotated,unknown,640,424
+60507,val2017,20,6,"[1, 37, 39, 40, 62, 77]","['person', 'sports ball', 'baseball bat', 'baseball glove', 'chair', 'cell phone']",complex,True,not annotated,unknown,640,427
+25986,val2017,18,5,"[47, 50, 51, 56, 60]","['cup', 'spoon', 'bowl', 'broccoli', 'donut']",complex,False,not annotated,unknown,640,480
+261796,val2017,0,0,[],[],unknown,False,not annotated,unknown,523,640
+369442,val2017,24,4,"[1, 3, 13, 20]","['person', 'car', 'stop sign', 'sheep']",complex,True,not annotated,unknown,640,480
+530836,val2017,23,10,"[44, 47, 51, 52, 53, 67, 79, 81, 82, 86]","['bottle', 'cup', 'bowl', 'banana', 'apple', 'dining table', 'oven', 'sink', 'refrigerator', 'vase']",complex,False,not annotated,unknown,640,464
+543581,val2017,19,7,"[17, 18, 44, 63, 72, 75, 84]","['cat', 'dog', 'bottle', 'couch', 'tv', 'remote', 'book']",complex,False,not annotated,unknown,640,427
+171382,val2017,37,8,"[1, 3, 10, 27, 28, 31, 41, 77]","['person', 'car', 'traffic light', 'backpack', 'umbrella', 'handbag', 'skateboard', 'cell phone']",complex,True,not annotated,unknown,640,426
+118367,val2017,10,4,"[1, 54, 57, 58]","['person', 'sandwich', 'carrot', 'hot dog']",medium,True,not annotated,unknown,640,427
+384136,val2017,2,2,"[1, 89]","['person', 'hair drier']",simple,True,not annotated,unknown,640,414
+490936,val2017,36,7,"[1, 2, 3, 4, 8, 10, 11]","['person', 'bicycle', 'car', 'motorcycle', 'truck', 'traffic light', 'fire hydrant']",complex,True,not annotated,unknown,480,640
+189475,val2017,36,11,"[1, 44, 47, 48, 49, 59, 62, 64, 67, 82, 86]","['person', 'bottle', 'cup', 'fork', 'knife', 'pizza', 'chair', 'potted plant', 'dining table', 'refrigerator', 'vase']",complex,True,not annotated,unknown,500,375
+66841,val2017,7,3,"[44, 50, 80]","['bottle', 'spoon', 'toaster']",medium,False,not annotated,unknown,336,500
+371677,val2017,9,6,"[47, 72, 73, 74, 76, 88]","['cup', 'tv', 'laptop', 'mouse', 'keyboard', 'teddy bear']",medium,False,not annotated,unknown,640,480
+218439,val2017,13,6,"[1, 47, 65, 72, 77, 90]","['person', 'cup', 'bed', 'tv', 'cell phone', 'toothbrush']",complex,True,not annotated,unknown,480,640
+356612,val2017,21,6,"[1, 2, 3, 6, 8, 21]","['person', 'bicycle', 'car', 'bus', 'truck', 'cow']",complex,True,not annotated,unknown,640,416
+181753,val2017,14,8,"[19, 47, 51, 62, 63, 67, 84, 86]","['horse', 'cup', 'bowl', 'chair', 'couch', 'dining table', 'book', 'vase']",complex,False,not annotated,unknown,640,423
+66231,val2017,26,9,"[1, 44, 49, 51, 52, 53, 55, 81, 82]","['person', 'bottle', 'knife', 'bowl', 'banana', 'apple', 'orange', 'sink', 'refrigerator']",complex,True,not annotated,unknown,640,427
+42628,val2017,8,4,"[1, 11, 31, 36]","['person', 'fire hydrant', 'handbag', 'snowboard']",medium,True,not annotated,unknown,640,426
+229997,val2017,6,2,"[16, 23]","['bird', 'bear']",medium,False,not annotated,unknown,640,427
+303713,val2017,26,7,"[1, 27, 31, 37, 43, 62, 73]","['person', 'backpack', 'handbag', 'sports ball', 'tennis racket', 'chair', 'laptop']",complex,True,not annotated,unknown,427,640
+18380,val2017,54,11,"[1, 46, 47, 48, 49, 50, 51, 57, 62, 67, 86]","['person', 'wine glass', 'cup', 'fork', 'knife', 'spoon', 'bowl', 'carrot', 'chair', 'dining table', 'vase']",complex,True,not annotated,unknown,640,426
+393569,val2017,10,7,"[1, 27, 44, 65, 70, 73, 81]","['person', 'backpack', 'bottle', 'bed', 'toilet', 'laptop', 'sink']",medium,True,not annotated,unknown,640,480
+139,val2017,20,10,"[1, 62, 64, 67, 72, 78, 82, 84, 85, 86]","['person', 'chair', 'potted plant', 'dining table', 'tv', 'microwave', 'refrigerator', 'book', 'clock', 'vase']",complex,True,not annotated,unknown,640,426
+232088,val2017,7,7,"[62, 63, 72, 73, 74, 75, 76]","['chair', 'couch', 'tv', 'laptop', 'mouse', 'remote', 'keyboard']",medium,False,not annotated,unknown,640,480
+304984,val2017,8,6,"[46, 48, 51, 54, 55, 61]","['wine glass', 'fork', 'bowl', 'sandwich', 'orange', 'cake']",medium,False,not annotated,unknown,385,289
+530975,val2017,23,8,"[1, 28, 31, 48, 58, 62, 64, 67]","['person', 'umbrella', 'handbag', 'fork', 'hot dog', 'chair', 'potted plant', 'dining table']",complex,True,not annotated,unknown,640,480
+59386,val2017,10,3,"[3, 24, 25]","['car', 'zebra', 'giraffe']",medium,False,not annotated,unknown,427,640
+501368,val2017,4,3,"[1, 44, 89]","['person', 'bottle', 'hair drier']",medium,True,not annotated,unknown,375,500
+565153,val2017,2,2,"[13, 14]","['stop sign', 'parking meter']",simple,False,not annotated,unknown,379,500
+345466,val2017,11,6,"[1, 27, 37, 39, 40, 47]","['person', 'backpack', 'sports ball', 'baseball bat', 'baseball glove', 'cup']",complex,True,not annotated,unknown,500,375
+323751,val2017,9,5,"[1, 7, 10, 15, 32]","['person', 'train', 'traffic light', 'bench', 'tie']",medium,True,not annotated,unknown,640,424
+263966,val2017,3,3,"[1, 19, 20]","['person', 'horse', 'sheep']",medium,True,not annotated,unknown,640,424
+491216,val2017,16,9,"[17, 44, 50, 52, 62, 64, 79, 81, 82]","['cat', 'bottle', 'spoon', 'banana', 'chair', 'potted plant', 'oven', 'sink', 'refrigerator']",complex,False,not annotated,unknown,480,640
+551660,val2017,12,6,"[47, 50, 51, 53, 55, 56]","['cup', 'spoon', 'bowl', 'apple', 'orange', 'broccoli']",complex,False,not annotated,unknown,424,640
+341719,val2017,10,3,"[1, 35, 36]","['person', 'skis', 'snowboard']",medium,True,not annotated,unknown,640,480
+579158,val2017,9,3,"[5, 8, 33]","['airplane', 'truck', 'suitcase']",medium,False,not annotated,unknown,640,480
+92053,val2017,11,8,"[1, 47, 48, 49, 51, 54, 60, 67]","['person', 'cup', 'fork', 'knife', 'bowl', 'sandwich', 'donut', 'dining table']",complex,True,not annotated,unknown,640,427
+172595,val2017,15,10,"[27, 31, 44, 62, 72, 73, 74, 76, 77, 84]","['backpack', 'handbag', 'bottle', 'chair', 'tv', 'laptop', 'mouse', 'keyboard', 'cell phone', 'book']",complex,False,not annotated,unknown,640,360
+225670,val2017,16,3,"[15, 18, 34]","['bench', 'dog', 'frisbee']",complex,False,not annotated,unknown,640,427
+49091,val2017,0,0,[],[],unknown,False,not annotated,unknown,640,428
+186980,val2017,14,10,"[46, 49, 50, 51, 62, 67, 78, 79, 81, 82]","['wine glass', 'knife', 'spoon', 'bowl', 'chair', 'dining table', 'microwave', 'oven', 'sink', 'refrigerator']",complex,False,not annotated,unknown,457,640
+512657,val2017,10,5,"[1, 42, 63, 75, 85]","['person', 'surfboard', 'couch', 'remote', 'clock']",medium,True,not annotated,unknown,640,427
+58384,val2017,4,2,"[7, 22]","['train', 'elephant']",medium,False,not annotated,unknown,640,466
+375493,val2017,7,5,"[1, 11, 13, 17, 44]","['person', 'fire hydrant', 'stop sign', 'cat', 'bottle']",medium,True,not annotated,unknown,640,480
+449432,val2017,17,6,"[1, 6, 9, 27, 31, 33]","['person', 'bus', 'boat', 'backpack', 'handbag', 'suitcase']",complex,True,not annotated,unknown,640,427
+445658,val2017,12,7,"[44, 51, 78, 79, 81, 82, 88]","['bottle', 'bowl', 'microwave', 'oven', 'sink', 'refrigerator', 'teddy bear']",complex,False,not annotated,unknown,640,427
+99024,val2017,3,3,"[1, 38, 87]","['person', 'kite', 'scissors']",medium,True,not annotated,unknown,640,482
+572408,val2017,5,2,"[20, 21]","['sheep', 'cow']",medium,False,not annotated,unknown,424,640
+368212,val2017,3,3,"[1, 70, 90]","['person', 'toilet', 'toothbrush']",medium,True,not annotated,unknown,478,640
+569976,val2017,7,3,"[1, 62, 89]","['person', 'chair', 'hair drier']",medium,True,not annotated,unknown,480,640
+572678,val2017,34,11,"[46, 47, 48, 49, 50, 51, 62, 63, 64, 67, 86]","['wine glass', 'cup', 'fork', 'knife', 'spoon', 'bowl', 'chair', 'couch', 'potted plant', 'dining table', 'vase']",complex,False,not annotated,unknown,640,425
+203095,val2017,5,4,"[53, 56, 57, 79]","['apple', 'broccoli', 'carrot', 'oven']",medium,False,not annotated,unknown,640,480
+396200,val2017,14,6,"[1, 3, 8, 10, 37, 41]","['person', 'car', 'truck', 'traffic light', 'sports ball', 'skateboard']",complex,True,not annotated,unknown,640,427
+472678,val2017,14,9,"[1, 44, 62, 72, 74, 75, 76, 77, 84]","['person', 'bottle', 'chair', 'tv', 'mouse', 'remote', 'keyboard', 'cell phone', 'book']",complex,True,not annotated,unknown,640,480
+301376,val2017,21,6,"[1, 2, 3, 10, 14, 31]","['person', 'bicycle', 'car', 'traffic light', 'parking meter', 'handbag']",complex,True,not annotated,unknown,333,500
+308476,val2017,2,2,"[23, 37]","['bear', 'sports ball']",simple,False,not annotated,unknown,640,480
+213255,val2017,29,6,"[1, 3, 10, 44, 54, 58]","['person', 'car', 'traffic light', 'bottle', 'sandwich', 'hot dog']",complex,True,not annotated,unknown,480,640
+376307,val2017,27,8,"[1, 47, 52, 53, 55, 57, 62, 67]","['person', 'cup', 'banana', 'apple', 'orange', 'carrot', 'chair', 'dining table']",complex,True,not annotated,unknown,375,500
+294783,val2017,21,6,"[27, 33, 63, 65, 84, 85]","['backpack', 'suitcase', 'couch', 'bed', 'book', 'clock']",complex,False,not annotated,unknown,640,428
+142790,val2017,4,3,"[1, 35, 36]","['person', 'skis', 'snowboard']",medium,True,not annotated,unknown,500,375
+363666,val2017,40,8,"[1, 47, 48, 49, 54, 60, 62, 67]","['person', 'cup', 'fork', 'knife', 'sandwich', 'donut', 'chair', 'dining table']",complex,True,not annotated,unknown,640,419
+438774,val2017,17,10,"[1, 44, 46, 47, 61, 62, 67, 78, 81, 82]","['person', 'bottle', 'wine glass', 'cup', 'cake', 'chair', 'dining table', 'microwave', 'sink', 'refrigerator']",complex,True,not annotated,unknown,640,425
+548339,val2017,11,6,"[1, 15, 31, 39, 40, 44]","['person', 'bench', 'handbag', 'baseball bat', 'baseball glove', 'bottle']",complex,True,not annotated,unknown,640,576
+37740,val2017,23,8,"[62, 63, 64, 72, 73, 74, 76, 84]","['chair', 'couch', 'potted plant', 'tv', 'laptop', 'mouse', 'keyboard', 'book']",complex,False,not annotated,unknown,640,480
+268729,val2017,10,3,"[1, 24, 25]","['person', 'zebra', 'giraffe']",medium,True,not annotated,unknown,640,480
+565776,val2017,12,9,"[47, 50, 51, 53, 64, 79, 81, 82, 86]","['cup', 'spoon', 'bowl', 'apple', 'potted plant', 'oven', 'sink', 'refrigerator', 'vase']",complex,False,not annotated,unknown,640,421
+254814,val2017,43,7,"[1, 2, 3, 4, 6, 8, 10]","['person', 'bicycle', 'car', 'motorcycle', 'bus', 'truck', 'traffic light']",complex,True,not annotated,unknown,640,480
+385997,val2017,9,7,"[18, 37, 44, 62, 64, 65, 86]","['dog', 'sports ball', 'bottle', 'chair', 'potted plant', 'bed', 'vase']",medium,False,not annotated,unknown,640,480
+149222,val2017,9,6,"[1, 17, 57, 72, 74, 76]","['person', 'cat', 'carrot', 'tv', 'mouse', 'keyboard']",medium,True,not annotated,unknown,500,383
+213547,val2017,20,6,"[1, 19, 44, 61, 82, 85]","['person', 'horse', 'bottle', 'cake', 'refrigerator', 'clock']",complex,True,not annotated,unknown,480,640
+113589,val2017,7,5,"[51, 52, 53, 54, 59]","['bowl', 'banana', 'apple', 'sandwich', 'pizza']",medium,False,not annotated,unknown,640,480
+550939,val2017,0,0,[],[],unknown,False,not annotated,unknown,418,640
+119641,val2017,21,3,"[1, 22, 32]","['person', 'elephant', 'tie']",complex,True,not annotated,unknown,640,480
+369751,val2017,10,3,"[3, 13, 14]","['car', 'stop sign', 'parking meter']",medium,False,not annotated,unknown,426,640
+233567,val2017,7,2,"[20, 21]","['sheep', 'cow']",medium,False,not annotated,unknown,480,640
+428454,val2017,5,4,"[1, 3, 36, 38]","['person', 'car', 'snowboard', 'kite']",medium,True,not annotated,unknown,500,333
+463802,val2017,3,3,"[1, 43, 88]","['person', 'tennis racket', 'teddy bear']",medium,True,not annotated,unknown,640,480
+293324,val2017,10,3,"[5, 6, 8]","['airplane', 'bus', 'truck']",medium,False,not annotated,unknown,640,406
+326082,val2017,17,9,"[51, 52, 62, 63, 67, 72, 73, 75, 85]","['bowl', 'banana', 'chair', 'couch', 'dining table', 'tv', 'laptop', 'remote', 'clock']",complex,False,not annotated,unknown,640,426
+558213,val2017,6,4,"[1, 2, 7, 41]","['person', 'bicycle', 'train', 'skateboard']",medium,True,not annotated,unknown,640,432
+7574,val2017,12,8,"[44, 46, 51, 78, 79, 81, 82, 86]","['bottle', 'wine glass', 'bowl', 'microwave', 'oven', 'sink', 'refrigerator', 'vase']",complex,False,not annotated,unknown,640,480
+137246,val2017,17,6,"[1, 15, 28, 58, 64, 67]","['person', 'bench', 'umbrella', 'hot dog', 'potted plant', 'dining table']",complex,True,not annotated,unknown,500,333
+572900,val2017,11,4,"[1, 34, 54, 64]","['person', 'frisbee', 'sandwich', 'potted plant']",complex,True,not annotated,unknown,640,480
+460494,val2017,9,7,"[47, 48, 49, 51, 56, 57, 67]","['cup', 'fork', 'knife', 'bowl', 'broccoli', 'carrot', 'dining table']",medium,False,not annotated,unknown,640,426
+580294,val2017,9,7,"[1, 47, 50, 51, 79, 81, 90]","['person', 'cup', 'spoon', 'bowl', 'oven', 'sink', 'toothbrush']",medium,True,not annotated,unknown,640,443
+127092,val2017,8,6,"[1, 3, 11, 13, 31, 64]","['person', 'car', 'fire hydrant', 'stop sign', 'handbag', 'potted plant']",medium,True,not annotated,unknown,640,480
+196141,val2017,13,5,"[1, 3, 37, 39, 40]","['person', 'car', 'sports ball', 'baseball bat', 'baseball glove']",complex,True,not annotated,unknown,640,429
+84674,val2017,9,6,"[1, 60, 63, 72, 84, 85]","['person', 'donut', 'couch', 'tv', 'book', 'clock']",medium,True,not annotated,unknown,480,640
+135410,val2017,10,5,"[1, 2, 3, 4, 14]","['person', 'bicycle', 'car', 'motorcycle', 'parking meter']",medium,True,not annotated,unknown,480,640
+376322,val2017,43,10,"[1, 44, 46, 47, 48, 49, 50, 61, 67, 77]","['person', 'bottle', 'wine glass', 'cup', 'fork', 'knife', 'spoon', 'cake', 'dining table', 'cell phone']",complex,True,not annotated,unknown,478,640
+435208,val2017,11,10,"[1, 47, 62, 63, 67, 72, 73, 74, 76, 85]","['person', 'cup', 'chair', 'couch', 'dining table', 'tv', 'laptop', 'mouse', 'keyboard', 'clock']",complex,True,not annotated,unknown,480,640
+110972,val2017,1,1,[23],['bear'],simple,False,not annotated,unknown,640,487
+1268,val2017,11,6,"[1, 9, 16, 27, 31, 77]","['person', 'boat', 'bird', 'backpack', 'handbag', 'cell phone']",complex,True,not annotated,unknown,640,427
+532481,val2017,10,4,"[1, 3, 38, 42]","['person', 'car', 'kite', 'surfboard']",medium,True,not annotated,unknown,640,426
+311295,val2017,10,2,"[24, 25]","['zebra', 'giraffe']",medium,False,not annotated,unknown,640,427
+288685,val2017,23,5,"[1, 15, 18, 20, 31]","['person', 'bench', 'dog', 'sheep', 'handbag']",complex,True,not annotated,unknown,640,436
+520531,val2017,19,5,"[17, 62, 75, 84, 88]","['cat', 'chair', 'remote', 'book', 'teddy bear']",complex,False,not annotated,unknown,640,480
+447465,val2017,4,3,"[1, 35, 36]","['person', 'skis', 'snowboard']",medium,True,not annotated,unknown,640,426
+520264,val2017,18,7,"[1, 44, 46, 49, 59, 78, 81]","['person', 'bottle', 'wine glass', 'knife', 'pizza', 'microwave', 'sink']",complex,True,not annotated,unknown,640,480
+202339,val2017,7,5,"[1, 6, 31, 32, 33]","['person', 'bus', 'handbag', 'tie', 'suitcase']",medium,True,not annotated,unknown,480,640
+193926,val2017,12,7,"[1, 2, 27, 51, 52, 53, 55]","['person', 'bicycle', 'backpack', 'bowl', 'banana', 'apple', 'orange']",complex,True,not annotated,unknown,640,477
+569030,val2017,24,8,"[1, 3, 8, 10, 11, 15, 27, 31]","['person', 'car', 'truck', 'traffic light', 'fire hydrant', 'bench', 'backpack', 'handbag']",complex,True,not annotated,unknown,500,375
+379441,val2017,20,6,"[15, 63, 65, 73, 75, 84]","['bench', 'couch', 'bed', 'laptop', 'remote', 'book']",complex,False,not annotated,unknown,640,480
+389381,val2017,6,5,"[51, 53, 56, 57, 67]","['bowl', 'apple', 'broccoli', 'carrot', 'dining table']",medium,False,not annotated,unknown,640,543
+494913,val2017,27,11,"[1, 17, 31, 47, 48, 62, 63, 67, 72, 84, 85]","['person', 'cat', 'handbag', 'cup', 'fork', 'chair', 'couch', 'dining table', 'tv', 'book', 'clock']",complex,True,not annotated,unknown,640,428
+447789,val2017,0,0,[],[],unknown,False,not annotated,unknown,640,427
+5001,val2017,18,4,"[1, 2, 31, 87]","['person', 'bicycle', 'handbag', 'scissors']",complex,True,not annotated,unknown,640,480
+225757,val2017,9,6,"[72, 73, 74, 75, 76, 77]","['tv', 'laptop', 'mouse', 'remote', 'keyboard', 'cell phone']",medium,False,not annotated,unknown,500,367
+148999,val2017,17,4,"[1, 7, 10, 19]","['person', 'train', 'traffic light', 'horse']",complex,True,not annotated,unknown,640,427
+127182,val2017,10,7,"[49, 64, 78, 79, 81, 82, 86]","['knife', 'potted plant', 'microwave', 'oven', 'sink', 'refrigerator', 'vase']",medium,False,not annotated,unknown,427,640
+205401,val2017,4,3,"[1, 5, 9]","['person', 'airplane', 'boat']",medium,True,not annotated,unknown,640,408
+160864,val2017,18,5,"[1, 37, 39, 40, 62]","['person', 'sports ball', 'baseball bat', 'baseball glove', 'chair']",complex,True,not annotated,unknown,640,389
+467776,val2017,8,2,"[20, 21]","['sheep', 'cow']",medium,False,not annotated,unknown,640,427
+230450,val2017,10,4,"[3, 4, 10, 14]","['car', 'motorcycle', 'traffic light', 'parking meter']",medium,False,not annotated,unknown,640,480
+271116,val2017,35,9,"[1, 32, 46, 47, 48, 50, 62, 67, 77]","['person', 'tie', 'wine glass', 'cup', 'fork', 'spoon', 'chair', 'dining table', 'cell phone']",complex,True,not annotated,unknown,640,424
+30494,val2017,2,2,"[18, 34]","['dog', 'frisbee']",simple,False,not annotated,unknown,640,480
+37777,val2017,14,8,"[52, 55, 62, 64, 67, 79, 81, 82]","['banana', 'orange', 'chair', 'potted plant', 'dining table', 'oven', 'sink', 'refrigerator']",complex,False,not annotated,unknown,352,230
+87476,val2017,13,3,"[1, 41, 42]","['person', 'skateboard', 'surfboard']",complex,True,not annotated,unknown,427,640
+468505,val2017,14,7,"[1, 2, 44, 47, 58, 63, 67]","['person', 'bicycle', 'bottle', 'cup', 'hot dog', 'couch', 'dining table']",complex,True,not annotated,unknown,640,480
+284623,val2017,5,4,"[17, 44, 81, 90]","['cat', 'bottle', 'sink', 'toothbrush']",medium,False,not annotated,unknown,640,480
+163290,val2017,3,2,"[24, 25]","['zebra', 'giraffe']",medium,False,not annotated,unknown,480,640
+378244,val2017,3,3,"[1, 35, 36]","['person', 'skis', 'snowboard']",medium,True,not annotated,unknown,427,640
+322959,val2017,9,7,"[48, 49, 51, 52, 53, 55, 67]","['fork', 'knife', 'bowl', 'banana', 'apple', 'orange', 'dining table']",medium,False,not annotated,unknown,612,612
+376442,val2017,2,2,"[70, 88]","['toilet', 'teddy bear']",simple,False,not annotated,unknown,480,640
+194724,val2017,19,9,"[44, 47, 48, 59, 62, 67, 77, 82, 84]","['bottle', 'cup', 'fork', 'pizza', 'chair', 'dining table', 'cell phone', 'refrigerator', 'book']",complex,False,not annotated,unknown,640,480
+35682,val2017,18,7,"[1, 31, 47, 60, 61, 62, 67]","['person', 'handbag', 'cup', 'donut', 'cake', 'chair', 'dining table']",complex,True,not annotated,unknown,480,640
+460927,val2017,1,1,[23],['bear'],simple,False,not annotated,unknown,640,360
+237864,val2017,2,2,"[18, 22]","['dog', 'elephant']",simple,False,not annotated,unknown,640,425
+397354,val2017,35,11,"[1, 44, 46, 47, 51, 62, 67, 78, 79, 81, 82]","['person', 'bottle', 'wine glass', 'cup', 'bowl', 'chair', 'dining table', 'microwave', 'oven', 'sink', 'refrigerator']",complex,True,not annotated,unknown,640,480
+3845,val2017,12,6,"[47, 48, 50, 56, 57, 67]","['cup', 'fork', 'spoon', 'broccoli', 'carrot', 'dining table']",complex,False,not annotated,unknown,500,375
+97994,val2017,20,8,"[44, 47, 72, 73, 74, 76, 84, 85]","['bottle', 'cup', 'tv', 'laptop', 'mouse', 'keyboard', 'book', 'clock']",complex,False,not annotated,unknown,640,427
+414673,val2017,25,5,"[1, 37, 39, 40, 62]","['person', 'sports ball', 'baseball bat', 'baseball glove', 'chair']",complex,True,not annotated,unknown,500,332
+119233,val2017,9,6,"[16, 17, 47, 50, 73, 77]","['bird', 'cat', 'cup', 'spoon', 'laptop', 'cell phone']",medium,False,not annotated,unknown,500,334
+472046,val2017,19,9,"[51, 55, 62, 63, 64, 67, 79, 81, 86]","['bowl', 'orange', 'chair', 'couch', 'potted plant', 'dining table', 'oven', 'sink', 'vase']",complex,False,not annotated,unknown,640,425
+511599,val2017,23,6,"[1, 8, 9, 27, 31, 33]","['person', 'truck', 'boat', 'backpack', 'handbag', 'suitcase']",complex,True,not annotated,unknown,640,480
+580418,val2017,10,4,"[1, 3, 13, 21]","['person', 'car', 'stop sign', 'cow']",medium,True,not annotated,unknown,640,428
+9914,val2017,7,5,"[49, 51, 54, 58, 67]","['knife', 'bowl', 'sandwich', 'hot dog', 'dining table']",medium,False,not annotated,unknown,640,480
+123633,val2017,14,6,"[1, 51, 62, 67, 84, 87]","['person', 'bowl', 'chair', 'dining table', 'book', 'scissors']",complex,True,not annotated,unknown,640,480
+578922,val2017,7,5,"[44, 47, 64, 86, 90]","['bottle', 'cup', 'potted plant', 'vase', 'toothbrush']",medium,False,not annotated,unknown,598,640
+182923,val2017,16,3,"[1, 32, 43]","['person', 'tie', 'tennis racket']",complex,True,not annotated,unknown,375,500
+385719,val2017,17,6,"[72, 73, 74, 75, 76, 84]","['tv', 'laptop', 'mouse', 'remote', 'keyboard', 'book']",complex,False,not annotated,unknown,640,421
+259690,val2017,26,7,"[1, 3, 6, 8, 15, 39, 62]","['person', 'car', 'bus', 'truck', 'bench', 'baseball bat', 'chair']",complex,True,not annotated,unknown,640,480
+192904,val2017,7,4,"[47, 50, 60, 65]","['cup', 'spoon', 'donut', 'bed']",medium,False,not annotated,unknown,640,436
+279278,val2017,23,6,"[1, 2, 18, 31, 41, 47]","['person', 'bicycle', 'dog', 'handbag', 'skateboard', 'cup']",complex,True,not annotated,unknown,640,429
+461275,val2017,0,0,[],[],unknown,False,not annotated,unknown,500,335
+411938,val2017,17,7,"[1, 2, 3, 4, 27, 47, 88]","['person', 'bicycle', 'car', 'motorcycle', 'backpack', 'cup', 'teddy bear']",complex,True,not annotated,unknown,640,427
+564336,val2017,15,8,"[1, 3, 8, 14, 44, 62, 67, 73]","['person', 'car', 'truck', 'parking meter', 'bottle', 'chair', 'dining table', 'laptop']",complex,True,not annotated,unknown,640,360
+309655,val2017,19,3,"[1, 35, 36]","['person', 'skis', 'snowboard']",complex,True,not annotated,unknown,640,480
+397681,val2017,29,6,"[1, 48, 51, 55, 57, 61]","['person', 'fork', 'bowl', 'orange', 'carrot', 'cake']",complex,True,not annotated,unknown,640,640
+23937,val2017,6,2,"[20, 21]","['sheep', 'cow']",medium,False,not annotated,unknown,640,428
+159791,val2017,15,7,"[1, 16, 51, 62, 78, 79, 82]","['person', 'bird', 'bowl', 'chair', 'microwave', 'oven', 'refrigerator']",complex,True,not annotated,unknown,500,375
+64359,val2017,7,2,"[24, 25]","['zebra', 'giraffe']",medium,False,not annotated,unknown,500,332
+343496,val2017,6,5,"[1, 3, 11, 13, 31]","['person', 'car', 'fire hydrant', 'stop sign', 'handbag']",medium,True,not annotated,unknown,640,393
+191580,val2017,9,7,"[44, 48, 49, 54, 56, 62, 67]","['bottle', 'fork', 'knife', 'sandwich', 'broccoli', 'chair', 'dining table']",medium,False,not annotated,unknown,478,640
+502347,val2017,10,2,"[5, 9]","['airplane', 'boat']",medium,False,not annotated,unknown,500,375
+546823,val2017,26,6,"[1, 2, 3, 19, 28, 31]","['person', 'bicycle', 'car', 'horse', 'umbrella', 'handbag']",complex,True,not annotated,unknown,640,480
+572462,val2017,17,6,"[1, 7, 15, 27, 32, 44]","['person', 'train', 'bench', 'backpack', 'tie', 'bottle']",complex,True,not annotated,unknown,612,612
+119828,val2017,6,6,"[17, 47, 73, 74, 75, 77]","['cat', 'cup', 'laptop', 'mouse', 'remote', 'cell phone']",medium,False,not annotated,unknown,500,375
+477955,val2017,4,3,"[1, 38, 42]","['person', 'kite', 'surfboard']",medium,True,not annotated,unknown,480,640
+91615,val2017,12,9,"[44, 47, 51, 72, 78, 79, 81, 84, 86]","['bottle', 'cup', 'bowl', 'tv', 'microwave', 'oven', 'sink', 'book', 'vase']",complex,False,not annotated,unknown,640,425
+42296,val2017,4,2,"[23, 37]","['bear', 'sports ball']",medium,False,not annotated,unknown,640,425
+575357,val2017,2,2,"[18, 34]","['dog', 'frisbee']",simple,False,not annotated,unknown,640,453
+156076,val2017,19,10,"[1, 44, 47, 48, 49, 50, 51, 59, 67, 77]","['person', 'bottle', 'cup', 'fork', 'knife', 'spoon', 'bowl', 'pizza', 'dining table', 'cell phone']",complex,True,not annotated,unknown,640,478
+331817,val2017,17,9,"[1, 46, 48, 49, 51, 61, 64, 67, 72]","['person', 'wine glass', 'fork', 'knife', 'bowl', 'cake', 'potted plant', 'dining table', 'tv']",complex,True,not annotated,unknown,640,480
+340175,val2017,29,8,"[15, 53, 62, 63, 64, 67, 84, 86]","['bench', 'apple', 'chair', 'couch', 'potted plant', 'dining table', 'book', 'vase']",complex,False,not annotated,unknown,640,394
+304404,val2017,18,4,"[1, 28, 39, 40]","['person', 'umbrella', 'baseball bat', 'baseball glove']",complex,True,not annotated,unknown,640,428
+294350,val2017,13,5,"[1, 44, 51, 52, 79]","['person', 'bottle', 'bowl', 'banana', 'oven']",complex,True,not annotated,unknown,640,425
+293858,val2017,11,6,"[44, 47, 57, 58, 62, 67]","['bottle', 'cup', 'carrot', 'hot dog', 'chair', 'dining table']",complex,False,not annotated,unknown,500,451
+442323,val2017,5,5,"[33, 62, 65, 72, 75]","['suitcase', 'chair', 'bed', 'tv', 'remote']",medium,False,not annotated,unknown,640,480
+357501,val2017,1,1,[87],['scissors'],simple,False,not annotated,unknown,640,480
+463542,val2017,26,3,"[1, 35, 36]","['person', 'skis', 'snowboard']",complex,True,not annotated,unknown,640,426
+158548,val2017,20,5,"[1, 3, 4, 8, 20]","['person', 'car', 'motorcycle', 'truck', 'sheep']",complex,True,not annotated,unknown,640,482
+350122,val2017,32,6,"[1, 2, 6, 7, 27, 31]","['person', 'bicycle', 'bus', 'train', 'backpack', 'handbag']",complex,True,not annotated,unknown,640,480
+479448,val2017,18,5,"[47, 50, 52, 55, 59]","['cup', 'spoon', 'banana', 'orange', 'pizza']",complex,False,not annotated,unknown,500,375
+227491,val2017,6,5,"[1, 15, 44, 54, 60]","['person', 'bench', 'bottle', 'sandwich', 'donut']",medium,True,not annotated,unknown,640,480
+486046,val2017,3,2,"[24, 25]","['zebra', 'giraffe']",medium,False,not annotated,unknown,640,480
+484351,val2017,33,9,"[1, 31, 32, 44, 50, 53, 62, 67, 84]","['person', 'handbag', 'tie', 'bottle', 'spoon', 'apple', 'chair', 'dining table', 'book']",complex,True,not annotated,unknown,640,426
+158744,val2017,12,6,"[1, 3, 11, 33, 62, 63]","['person', 'car', 'fire hydrant', 'suitcase', 'chair', 'couch']",complex,True,not annotated,unknown,640,424
+209142,val2017,13,5,"[48, 49, 51, 56, 57]","['fork', 'knife', 'bowl', 'broccoli', 'carrot']",complex,False,not annotated,unknown,640,425
+365387,val2017,4,4,"[47, 65, 70, 81]","['cup', 'bed', 'toilet', 'sink']",medium,False,not annotated,unknown,640,425
+502910,val2017,0,0,[],[],unknown,False,not annotated,unknown,426,640
+565012,val2017,10,4,"[3, 8, 10, 14]","['car', 'truck', 'traffic light', 'parking meter']",medium,False,not annotated,unknown,640,425
+132796,val2017,9,5,"[1, 15, 22, 27, 62]","['person', 'bench', 'elephant', 'backpack', 'chair']",medium,True,not annotated,unknown,640,426
+131138,val2017,11,8,"[1, 47, 50, 64, 72, 73, 74, 76]","['person', 'cup', 'spoon', 'potted plant', 'tv', 'laptop', 'mouse', 'keyboard']",complex,True,not annotated,unknown,640,480
+361506,val2017,4,4,"[1, 3, 13, 41]","['person', 'car', 'stop sign', 'skateboard']",medium,True,not annotated,unknown,640,480
+319696,val2017,5,5,"[44, 64, 78, 85, 88]","['bottle', 'potted plant', 'microwave', 'clock', 'teddy bear']",medium,False,not annotated,unknown,500,333
+290179,val2017,16,6,"[1, 3, 6, 8, 9, 85]","['person', 'car', 'bus', 'truck', 'boat', 'clock']",complex,True,not annotated,unknown,640,426
+226903,val2017,22,8,"[1, 2, 44, 49, 50, 54, 61, 67]","['person', 'bicycle', 'bottle', 'knife', 'spoon', 'sandwich', 'cake', 'dining table']",complex,True,not annotated,unknown,640,480
+402615,val2017,20,4,"[1, 15, 37, 43]","['person', 'bench', 'sports ball', 'tennis racket']",complex,True,not annotated,unknown,640,427
+554291,val2017,8,7,"[17, 18, 51, 62, 63, 67, 74]","['cat', 'dog', 'bowl', 'chair', 'couch', 'dining table', 'mouse']",medium,False,not annotated,unknown,640,428
+425227,val2017,5,3,"[1, 38, 42]","['person', 'kite', 'surfboard']",medium,True,not annotated,unknown,428,640
+480122,val2017,21,10,"[44, 49, 50, 51, 52, 62, 67, 79, 81, 82]","['bottle', 'knife', 'spoon', 'bowl', 'banana', 'chair', 'dining table', 'oven', 'sink', 'refrigerator']",complex,False,not annotated,unknown,640,640
+560474,val2017,20,4,"[1, 3, 28, 90]","['person', 'car', 'umbrella', 'toothbrush']",complex,True,not annotated,unknown,640,480
+359540,val2017,9,4,"[1, 37, 39, 40]","['person', 'sports ball', 'baseball bat', 'baseball glove']",medium,True,not annotated,unknown,640,427
+377486,val2017,9,3,"[1, 19, 21]","['person', 'horse', 'cow']",medium,True,not annotated,unknown,640,427
+296649,val2017,26,6,"[1, 2, 3, 4, 8, 16]","['person', 'bicycle', 'car', 'motorcycle', 'truck', 'bird']",complex,True,not annotated,unknown,640,427
+285,val2017,1,1,[23],['bear'],simple,False,not annotated,unknown,586,640
+63740,val2017,11,7,"[1, 47, 52, 55, 72, 73, 76]","['person', 'cup', 'banana', 'orange', 'tv', 'laptop', 'keyboard']",complex,True,not annotated,unknown,640,480
+473869,val2017,11,8,"[1, 44, 46, 47, 50, 51, 59, 86]","['person', 'bottle', 'wine glass', 'cup', 'spoon', 'bowl', 'pizza', 'vase']",complex,True,not annotated,unknown,640,427
+138492,val2017,2,2,"[18, 34]","['dog', 'frisbee']",simple,False,not annotated,unknown,427,640
+387916,val2017,20,3,"[1, 35, 36]","['person', 'skis', 'snowboard']",complex,True,not annotated,unknown,640,423
+534041,val2017,15,8,"[1, 15, 27, 31, 44, 58, 62, 67]","['person', 'bench', 'backpack', 'handbag', 'bottle', 'hot dog', 'chair', 'dining table']",complex,True,not annotated,unknown,500,375
+348881,val2017,5,3,"[1, 5, 33]","['person', 'airplane', 'suitcase']",medium,True,not annotated,unknown,640,462
+324715,val2017,2,2,"[73, 87]","['laptop', 'scissors']",simple,False,not annotated,unknown,500,333
+146358,val2017,11,7,"[1, 32, 46, 49, 61, 62, 67]","['person', 'tie', 'wine glass', 'knife', 'cake', 'chair', 'dining table']",complex,True,not annotated,unknown,388,640
+36844,val2017,14,8,"[2, 47, 62, 63, 64, 72, 75, 82]","['bicycle', 'cup', 'chair', 'couch', 'potted plant', 'tv', 'remote', 'refrigerator']",complex,False,not annotated,unknown,640,480
+29640,val2017,14,4,"[50, 56, 57, 79]","['spoon', 'broccoli', 'carrot', 'oven']",complex,False,not annotated,unknown,640,426
+509735,val2017,5,2,"[24, 25]","['zebra', 'giraffe']",medium,False,not annotated,unknown,640,428
+388903,val2017,9,6,"[1, 2, 31, 33, 53, 77]","['person', 'bicycle', 'handbag', 'suitcase', 'apple', 'cell phone']",medium,True,not annotated,unknown,500,332
+470773,val2017,32,7,"[1, 47, 49, 50, 51, 60, 64]","['person', 'cup', 'knife', 'spoon', 'bowl', 'donut', 'potted plant']",complex,True,not annotated,unknown,640,480
+476810,val2017,9,5,"[17, 65, 72, 75, 84]","['cat', 'bed', 'tv', 'remote', 'book']",medium,False,not annotated,unknown,640,480
+88848,val2017,11,5,"[1, 9, 11, 27, 31]","['person', 'boat', 'fire hydrant', 'backpack', 'handbag']",complex,True,not annotated,unknown,640,640
+506707,val2017,16,6,"[1, 3, 15, 39, 40, 62]","['person', 'car', 'bench', 'baseball bat', 'baseball glove', 'chair']",complex,True,not annotated,unknown,640,427
+529568,val2017,35,9,"[46, 47, 51, 64, 67, 79, 81, 84, 86]","['wine glass', 'cup', 'bowl', 'potted plant', 'dining table', 'oven', 'sink', 'book', 'vase']",complex,False,not annotated,unknown,480,640
+480944,val2017,14,4,"[3, 6, 10, 13]","['car', 'bus', 'traffic light', 'stop sign']",complex,False,not annotated,unknown,480,640
+315492,val2017,4,3,"[1, 70, 88]","['person', 'toilet', 'teddy bear']",medium,True,not annotated,unknown,612,612
+368900,val2017,6,6,"[16, 27, 28, 62, 72, 82]","['bird', 'backpack', 'umbrella', 'chair', 'tv', 'refrigerator']",medium,False,not annotated,unknown,640,480
+110999,val2017,11,8,"[1, 47, 48, 49, 50, 51, 53, 55]","['person', 'cup', 'fork', 'knife', 'spoon', 'bowl', 'apple', 'orange']",complex,True,not annotated,unknown,359,640
+514540,val2017,0,0,[],[],unknown,False,not annotated,unknown,429,640
+492878,val2017,8,5,"[44, 47, 50, 81, 90]","['bottle', 'cup', 'spoon', 'sink', 'toothbrush']",medium,False,not annotated,unknown,640,640
+91779,val2017,8,6,"[47, 51, 54, 58, 62, 67]","['cup', 'bowl', 'sandwich', 'hot dog', 'chair', 'dining table']",medium,False,not annotated,unknown,640,480
+507575,val2017,8,6,"[72, 73, 74, 76, 77, 84]","['tv', 'laptop', 'mouse', 'keyboard', 'cell phone', 'book']",medium,False,not annotated,unknown,640,480
+128675,val2017,7,3,"[1, 38, 42]","['person', 'kite', 'surfboard']",medium,True,not annotated,unknown,640,480
+16010,val2017,5,2,"[21, 24]","['cow', 'zebra']",medium,False,not annotated,unknown,640,471
+361919,val2017,22,3,"[1, 35, 36]","['person', 'skis', 'snowboard']",complex,True,not annotated,unknown,640,425
+522007,val2017,9,7,"[47, 51, 53, 64, 78, 79, 81]","['cup', 'bowl', 'apple', 'potted plant', 'microwave', 'oven', 'sink']",medium,False,not annotated,unknown,640,480
+463522,val2017,22,5,"[1, 2, 18, 19, 27]","['person', 'bicycle', 'dog', 'horse', 'backpack']",complex,True,not annotated,unknown,640,480
+368982,val2017,1,1,[87],['scissors'],simple,False,not annotated,unknown,640,480
+74256,val2017,13,6,"[1, 6, 7, 27, 31, 77]","['person', 'bus', 'train', 'backpack', 'handbag', 'cell phone']",complex,True,not annotated,unknown,640,480
+434297,val2017,4,3,"[54, 56, 57]","['sandwich', 'broccoli', 'carrot']",medium,False,not annotated,unknown,640,480
+549220,val2017,8,5,"[1, 15, 18, 41, 84]","['person', 'bench', 'dog', 'skateboard', 'book']",medium,True,not annotated,unknown,480,640
+17714,val2017,17,7,"[47, 48, 49, 50, 52, 59, 67]","['cup', 'fork', 'knife', 'spoon', 'banana', 'pizza', 'dining table']",complex,False,not annotated,unknown,640,480
+84270,val2017,27,6,"[1, 27, 31, 32, 33, 85]","['person', 'backpack', 'handbag', 'tie', 'suitcase', 'clock']",complex,True,not annotated,unknown,640,480
+447187,val2017,7,4,"[1, 37, 39, 40]","['person', 'sports ball', 'baseball bat', 'baseball glove']",medium,True,not annotated,unknown,640,480
+85478,val2017,1,1,[23],['bear'],simple,False,not annotated,unknown,640,403
+419653,val2017,19,9,"[44, 51, 62, 64, 67, 72, 78, 79, 86]","['bottle', 'bowl', 'chair', 'potted plant', 'dining table', 'tv', 'microwave', 'oven', 'vase']",complex,False,not annotated,unknown,640,480
+539962,val2017,18,5,"[1, 28, 34, 62, 67]","['person', 'umbrella', 'frisbee', 'chair', 'dining table']",complex,True,not annotated,unknown,640,480
+156278,val2017,29,8,"[49, 51, 53, 62, 81, 82, 84, 85]","['knife', 'bowl', 'apple', 'chair', 'sink', 'refrigerator', 'book', 'clock']",complex,False,not annotated,unknown,640,425
+372317,val2017,2,2,"[6, 14]","['bus', 'parking meter']",simple,False,not annotated,unknown,640,428
+323496,val2017,16,4,"[1, 15, 37, 43]","['person', 'bench', 'sports ball', 'tennis racket']",complex,True,not annotated,unknown,500,398
+478393,val2017,4,3,"[17, 65, 88]","['cat', 'bed', 'teddy bear']",medium,False,not annotated,unknown,480,640
+114770,val2017,3,3,"[3, 4, 5]","['car', 'motorcycle', 'airplane']",medium,False,not annotated,unknown,640,403
+402720,val2017,15,7,"[1, 44, 46, 48, 49, 59, 77]","['person', 'bottle', 'wine glass', 'fork', 'knife', 'pizza', 'cell phone']",complex,True,not annotated,unknown,612,612
+21503,val2017,8,4,"[54, 74, 75, 76]","['sandwich', 'mouse', 'remote', 'keyboard']",medium,False,not annotated,unknown,640,480
+162543,val2017,6,2,"[22, 28]","['elephant', 'umbrella']",medium,False,not annotated,unknown,640,360
+425226,val2017,13,7,"[1, 44, 51, 52, 78, 82, 86]","['person', 'bottle', 'bowl', 'banana', 'microwave', 'refrigerator', 'vase']",complex,True,not annotated,unknown,480,640
+417779,val2017,6,4,"[1, 3, 11, 13]","['person', 'car', 'fire hydrant', 'stop sign']",medium,True,not annotated,unknown,640,480
+231097,val2017,11,6,"[47, 48, 51, 56, 57, 67]","['cup', 'fork', 'bowl', 'broccoli', 'carrot', 'dining table']",complex,False,not annotated,unknown,640,480
+495146,val2017,16,5,"[1, 3, 7, 8, 9]","['person', 'car', 'train', 'truck', 'boat']",complex,True,not annotated,unknown,640,480
+561958,val2017,27,3,"[1, 35, 36]","['person', 'skis', 'snowboard']",complex,True,not annotated,unknown,640,480
+226984,val2017,24,9,"[44, 46, 47, 49, 51, 64, 79, 81, 82]","['bottle', 'wine glass', 'cup', 'knife', 'bowl', 'potted plant', 'oven', 'sink', 'refrigerator']",complex,False,not annotated,unknown,640,427
+581100,val2017,4,2,"[21, 25]","['cow', 'giraffe']",medium,False,not annotated,unknown,640,480
+289938,val2017,28,6,"[1, 3, 28, 31, 44, 58]","['person', 'car', 'umbrella', 'handbag', 'bottle', 'hot dog']",complex,True,not annotated,unknown,640,426
+562843,val2017,3,3,"[47, 77, 87]","['cup', 'cell phone', 'scissors']",medium,False,not annotated,unknown,500,375
+15660,val2017,7,3,"[1, 38, 42]","['person', 'kite', 'surfboard']",medium,True,not annotated,unknown,640,348
+241602,val2017,7,5,"[44, 64, 70, 81, 86]","['bottle', 'potted plant', 'toilet', 'sink', 'vase']",medium,False,not annotated,unknown,640,427
+309484,val2017,4,3,"[1, 18, 90]","['person', 'dog', 'toothbrush']",medium,True,not annotated,unknown,533,640
+182611,val2017,25,9,"[1, 44, 47, 50, 51, 54, 61, 67, 79]","['person', 'bottle', 'cup', 'spoon', 'bowl', 'sandwich', 'cake', 'dining table', 'oven']",complex,True,not annotated,unknown,480,640
+350023,val2017,26,6,"[1, 2, 3, 4, 6, 10]","['person', 'bicycle', 'car', 'motorcycle', 'bus', 'traffic light']",complex,True,not annotated,unknown,640,480
+404601,val2017,0,0,[],[],unknown,False,not annotated,unknown,480,640
+119445,val2017,6,4,"[1, 37, 39, 40]","['person', 'sports ball', 'baseball bat', 'baseball glove']",medium,True,not annotated,unknown,640,426
+316015,val2017,9,6,"[17, 72, 73, 76, 77, 84]","['cat', 'tv', 'laptop', 'keyboard', 'cell phone', 'book']",medium,False,not annotated,unknown,500,400
+80340,val2017,20,7,"[1, 32, 33, 46, 47, 62, 67]","['person', 'tie', 'suitcase', 'wine glass', 'cup', 'chair', 'dining table']",complex,True,not annotated,unknown,640,427
+407825,val2017,5,5,"[16, 51, 53, 64, 85]","['bird', 'bowl', 'apple', 'potted plant', 'clock']",medium,False,not annotated,unknown,499,500
+276024,val2017,9,3,"[1, 19, 21]","['person', 'horse', 'cow']",medium,True,not annotated,unknown,640,480
+56344,val2017,7,5,"[72, 74, 75, 76, 77]","['tv', 'mouse', 'remote', 'keyboard', 'cell phone']",medium,False,not annotated,unknown,640,480
+434996,val2017,5,3,"[17, 65, 88]","['cat', 'bed', 'teddy bear']",medium,False,not annotated,unknown,500,375
+532071,val2017,1,1,[23],['bear'],simple,False,not annotated,unknown,640,360
+388258,val2017,4,4,"[2, 5, 15, 44]","['bicycle', 'airplane', 'bench', 'bottle']",medium,False,not annotated,unknown,640,478
+561889,val2017,8,4,"[48, 49, 56, 57]","['fork', 'knife', 'broccoli', 'carrot']",medium,False,not annotated,unknown,640,480
+204871,val2017,11,5,"[1, 3, 6, 10, 11]","['person', 'car', 'bus', 'traffic light', 'fire hydrant']",complex,True,not annotated,unknown,612,612
+516601,val2017,19,3,"[1, 35, 36]","['person', 'skis', 'snowboard']",complex,True,not annotated,unknown,640,360
+550322,val2017,6,4,"[47, 50, 67, 87]","['cup', 'spoon', 'dining table', 'scissors']",medium,False,not annotated,unknown,427,640
+182162,val2017,9,5,"[33, 63, 73, 75, 84]","['suitcase', 'couch', 'laptop', 'remote', 'book']",medium,False,not annotated,unknown,640,425
+30828,val2017,5,5,"[1, 3, 14, 15, 27]","['person', 'car', 'parking meter', 'bench', 'backpack']",medium,True,not annotated,unknown,640,427
+255664,val2017,2,2,"[18, 34]","['dog', 'frisbee']",simple,False,not annotated,unknown,500,375
+210032,val2017,15,8,"[1, 16, 47, 48, 49, 54, 62, 67]","['person', 'bird', 'cup', 'fork', 'knife', 'sandwich', 'chair', 'dining table']",complex,True,not annotated,unknown,640,401
+260470,val2017,23,4,"[1, 3, 60, 61]","['person', 'car', 'donut', 'cake']",complex,True,not annotated,unknown,640,427
+241319,val2017,10,5,"[31, 44, 47, 81, 90]","['handbag', 'bottle', 'cup', 'sink', 'toothbrush']",medium,False,not annotated,unknown,640,476
+383384,val2017,12,4,"[1, 37, 39, 40]","['person', 'sports ball', 'baseball bat', 'baseball glove']",complex,True,not annotated,unknown,640,360
+320664,val2017,5,5,"[48, 49, 50, 58, 67]","['fork', 'knife', 'spoon', 'hot dog', 'dining table']",medium,False,not annotated,unknown,640,480
+565989,val2017,2,2,"[22, 85]","['elephant', 'clock']",simple,False,not annotated,unknown,480,640
+440475,val2017,26,9,"[1, 51, 53, 62, 63, 67, 72, 84, 86]","['person', 'bowl', 'apple', 'chair', 'couch', 'dining table', 'tv', 'book', 'vase']",complex,True,not annotated,unknown,640,427
+229948,val2017,18,4,"[1, 8, 19, 32]","['person', 'truck', 'horse', 'tie']",complex,True,not annotated,unknown,640,428
+553221,val2017,20,3,"[1, 38, 42]","['person', 'kite', 'surfboard']",complex,True,not annotated,unknown,640,427
+371042,val2017,9,5,"[1, 27, 37, 43, 44]","['person', 'backpack', 'sports ball', 'tennis racket', 'bottle']",medium,True,not annotated,unknown,640,428
+99039,val2017,13,7,"[1, 46, 48, 49, 50, 51, 59]","['person', 'wine glass', 'fork', 'knife', 'spoon', 'bowl', 'pizza']",complex,True,not annotated,unknown,640,480
+523194,val2017,2,2,"[11, 13]","['fire hydrant', 'stop sign']",simple,False,not annotated,unknown,640,425
+370478,val2017,12,5,"[27, 33, 65, 73, 84]","['backpack', 'suitcase', 'bed', 'laptop', 'book']",complex,False,not annotated,unknown,640,480
+20553,val2017,11,7,"[28, 44, 47, 62, 67, 86, 88]","['umbrella', 'bottle', 'cup', 'chair', 'dining table', 'vase', 'teddy bear']",complex,False,not annotated,unknown,500,375
+340894,val2017,11,8,"[1, 47, 62, 72, 73, 74, 76, 77]","['person', 'cup', 'chair', 'tv', 'laptop', 'mouse', 'keyboard', 'cell phone']",complex,True,not annotated,unknown,640,480
+122166,val2017,29,7,"[1, 2, 3, 4, 8, 10, 27]","['person', 'bicycle', 'car', 'motorcycle', 'truck', 'traffic light', 'backpack']",complex,True,not annotated,unknown,640,480
+136355,val2017,19,8,"[44, 51, 55, 62, 64, 67, 82, 86]","['bottle', 'bowl', 'orange', 'chair', 'potted plant', 'dining table', 'refrigerator', 'vase']",complex,False,not annotated,unknown,640,427
+47010,val2017,4,2,"[21, 25]","['cow', 'giraffe']",medium,False,not annotated,unknown,640,480
+308391,val2017,0,0,[],[],unknown,False,not annotated,unknown,500,338
+567898,val2017,17,4,"[51, 55, 57, 61]","['bowl', 'orange', 'carrot', 'cake']",complex,False,not annotated,unknown,640,454
+36936,val2017,22,9,"[1, 47, 51, 63, 64, 72, 75, 77, 84]","['person', 'cup', 'bowl', 'couch', 'potted plant', 'tv', 'remote', 'cell phone', 'book']",complex,True,not annotated,unknown,640,404
+227044,val2017,8,5,"[17, 44, 47, 70, 81]","['cat', 'bottle', 'cup', 'toilet', 'sink']",medium,False,not annotated,unknown,640,480
+239773,val2017,6,4,"[1, 37, 39, 40]","['person', 'sports ball', 'baseball bat', 'baseball glove']",medium,True,not annotated,unknown,500,344
+461036,val2017,1,1,[23],['bear'],simple,False,not annotated,unknown,500,332
+183965,val2017,5,5,"[47, 51, 54, 58, 67]","['cup', 'bowl', 'sandwich', 'hot dog', 'dining table']",medium,False,not annotated,unknown,640,480
+280710,val2017,22,6,"[1, 6, 10, 27, 31, 33]","['person', 'bus', 'traffic light', 'backpack', 'handbag', 'suitcase']",complex,True,not annotated,unknown,640,480
+415716,val2017,7,6,"[62, 63, 73, 74, 85, 86]","['chair', 'couch', 'laptop', 'mouse', 'clock', 'vase']",medium,False,not annotated,unknown,640,480
+329456,val2017,9,4,"[1, 31, 54, 60]","['person', 'handbag', 'sandwich', 'donut']",medium,True,not annotated,unknown,640,427
+154213,val2017,1,1,[87],['scissors'],simple,False,not annotated,unknown,500,375
+437239,val2017,13,5,"[1, 3, 15, 27, 34]","['person', 'car', 'bench', 'backpack', 'frisbee']",complex,True,not annotated,unknown,640,425
+180487,val2017,6,5,"[1, 28, 47, 62, 67]","['person', 'umbrella', 'cup', 'chair', 'dining table']",medium,True,not annotated,unknown,640,427
+105014,val2017,6,5,"[48, 51, 56, 57, 67]","['fork', 'bowl', 'broccoli', 'carrot', 'dining table']",medium,False,not annotated,unknown,427,640
+156643,val2017,21,8,"[1, 44, 47, 49, 61, 62, 67, 88]","['person', 'bottle', 'cup', 'knife', 'cake', 'chair', 'dining table', 'teddy bear']",complex,True,not annotated,unknown,640,480
+414133,val2017,7,3,"[3, 11, 13]","['car', 'fire hydrant', 'stop sign']",medium,False,not annotated,unknown,640,480
+509131,val2017,9,4,"[52, 53, 55, 64]","['banana', 'apple', 'orange', 'potted plant']",medium,False,not annotated,unknown,640,425
+384949,val2017,14,3,"[9, 16, 85]","['boat', 'bird', 'clock']",complex,False,not annotated,unknown,640,457
+470924,val2017,56,9,"[1, 3, 46, 47, 48, 49, 59, 62, 67]","['person', 'car', 'wine glass', 'cup', 'fork', 'knife', 'pizza', 'chair', 'dining table']",complex,True,not annotated,unknown,640,480
+129756,val2017,9,3,"[1, 18, 20]","['person', 'dog', 'sheep']",medium,True,not annotated,unknown,640,480
+292060,val2017,17,7,"[44, 47, 49, 78, 79, 81, 82]","['bottle', 'cup', 'knife', 'microwave', 'oven', 'sink', 'refrigerator']",complex,False,not annotated,unknown,428,640
+39484,val2017,36,6,"[1, 3, 5, 10, 62, 67]","['person', 'car', 'airplane', 'traffic light', 'chair', 'dining table']",complex,True,not annotated,unknown,640,437
+287874,val2017,15,5,"[1, 7, 15, 31, 33]","['person', 'train', 'bench', 'handbag', 'suitcase']",complex,True,not annotated,unknown,640,434
+460147,val2017,27,6,"[1, 3, 4, 6, 8, 10]","['person', 'car', 'motorcycle', 'bus', 'truck', 'traffic light']",complex,True,not annotated,unknown,640,424
+482275,val2017,19,6,"[1, 32, 47, 49, 61, 86]","['person', 'tie', 'cup', 'knife', 'cake', 'vase']",complex,True,not annotated,unknown,640,480
+526103,val2017,3,2,"[22, 28]","['elephant', 'umbrella']",medium,False,not annotated,unknown,640,480
+84031,val2017,17,4,"[1, 37, 39, 40]","['person', 'sports ball', 'baseball bat', 'baseball glove']",complex,True,not annotated,unknown,640,427
+39769,val2017,6,4,"[17, 63, 65, 75]","['cat', 'couch', 'bed', 'remote']",medium,False,not annotated,unknown,640,480
+68833,val2017,9,7,"[51, 62, 72, 78, 81, 82, 85]","['bowl', 'chair', 'tv', 'microwave', 'sink', 'refrigerator', 'clock']",medium,False,not annotated,unknown,640,480
+87470,val2017,20,3,"[1, 19, 21]","['person', 'horse', 'cow']",complex,True,not annotated,unknown,640,470
+49761,val2017,18,2,"[16, 24]","['bird', 'zebra']",complex,False,not annotated,unknown,640,479
+167572,val2017,14,9,"[1, 47, 48, 49, 51, 54, 55, 62, 67]","['person', 'cup', 'fork', 'knife', 'bowl', 'sandwich', 'orange', 'chair', 'dining table']",complex,True,not annotated,unknown,640,425
+458790,val2017,0,0,[],[],unknown,False,not annotated,unknown,500,375
+135872,val2017,12,7,"[47, 62, 72, 73, 74, 76, 84]","['cup', 'chair', 'tv', 'laptop', 'mouse', 'keyboard', 'book']",complex,False,not annotated,unknown,640,427
+385029,val2017,10,8,"[1, 44, 46, 48, 50, 51, 59, 67]","['person', 'bottle', 'wine glass', 'fork', 'spoon', 'bowl', 'pizza', 'dining table']",medium,True,not annotated,unknown,640,480
+348012,val2017,1,1,[87],['scissors'],simple,False,not annotated,unknown,640,428
+441586,val2017,10,4,"[1, 2, 4, 13]","['person', 'bicycle', 'motorcycle', 'stop sign']",medium,True,not annotated,unknown,640,425
+160728,val2017,38,4,"[1, 3, 9, 42]","['person', 'car', 'boat', 'surfboard']",complex,True,not annotated,unknown,640,426
+34417,val2017,21,3,"[1, 32, 60]","['person', 'tie', 'donut']",complex,True,not annotated,unknown,500,375
+475484,val2017,12,4,"[1, 3, 10, 14]","['person', 'car', 'traffic light', 'parking meter']",complex,True,not annotated,unknown,426,640
+137727,val2017,26,6,"[1, 3, 7, 27, 31, 33]","['person', 'car', 'train', 'backpack', 'handbag', 'suitcase']",complex,True,not annotated,unknown,640,359
+221693,val2017,2,2,"[18, 34]","['dog', 'frisbee']",simple,False,not annotated,unknown,640,426
+298738,val2017,1,1,[23],['bear'],simple,False,not annotated,unknown,427,640
+538458,val2017,9,4,"[1, 8, 10, 41]","['person', 'truck', 'traffic light', 'skateboard']",medium,True,not annotated,unknown,640,427
+469067,val2017,5,5,"[1, 17, 65, 75, 77]","['person', 'cat', 'bed', 'remote', 'cell phone']",medium,True,not annotated,unknown,640,480
+474078,val2017,8,4,"[1, 37, 39, 40]","['person', 'sports ball', 'baseball bat', 'baseball glove']",medium,True,not annotated,unknown,640,480
+482719,val2017,6,5,"[51, 52, 53, 62, 78]","['bowl', 'banana', 'apple', 'chair', 'microwave']",medium,False,not annotated,unknown,640,480
+419312,val2017,12,7,"[47, 48, 49, 51, 57, 61, 67]","['cup', 'fork', 'knife', 'bowl', 'carrot', 'cake', 'dining table']",complex,False,not annotated,unknown,375,500
+516916,val2017,10,6,"[62, 72, 73, 74, 76, 77]","['chair', 'tv', 'laptop', 'mouse', 'keyboard', 'cell phone']",medium,False,not annotated,unknown,640,480
+573094,val2017,14,7,"[2, 62, 63, 64, 72, 75, 84]","['bicycle', 'chair', 'couch', 'potted plant', 'tv', 'remote', 'book']",complex,False,not annotated,unknown,375,500
+322574,val2017,4,4,"[47, 51, 54, 58]","['cup', 'bowl', 'sandwich', 'hot dog']",medium,False,not annotated,unknown,640,480
+200421,val2017,3,3,"[1, 43, 65]","['person', 'tennis racket', 'bed']",medium,True,not annotated,unknown,640,480
+378873,val2017,23,7,"[1, 8, 31, 51, 55, 57, 67]","['person', 'truck', 'handbag', 'bowl', 'orange', 'carrot', 'dining table']",complex,True,not annotated,unknown,640,426
+507473,val2017,3,3,"[1, 77, 90]","['person', 'cell phone', 'toothbrush']",medium,True,not annotated,unknown,640,480
+209613,val2017,9,2,"[18, 20]","['dog', 'sheep']",medium,False,not annotated,unknown,640,427
+195754,val2017,8,4,"[62, 63, 67, 72]","['chair', 'couch', 'dining table', 'tv']",medium,False,not annotated,unknown,640,425
+516316,val2017,11,2,"[16, 24]","['bird', 'zebra']",complex,False,not annotated,unknown,640,480
+430073,val2017,28,7,"[1, 4, 21, 31, 47, 62, 67]","['person', 'motorcycle', 'cow', 'handbag', 'cup', 'chair', 'dining table']",complex,True,not annotated,unknown,640,480
+286553,val2017,18,9,"[1, 28, 44, 47, 48, 49, 59, 62, 67]","['person', 'umbrella', 'bottle', 'cup', 'fork', 'knife', 'pizza', 'chair', 'dining table']",complex,True,not annotated,unknown,640,480
+367680,val2017,14,5,"[1, 3, 6, 8, 19]","['person', 'car', 'bus', 'truck', 'horse']",complex,True,not annotated,unknown,450,338
+546826,val2017,1,1,[87],['scissors'],simple,False,not annotated,unknown,640,480
+68078,val2017,4,4,"[18, 44, 70, 81]","['dog', 'bottle', 'toilet', 'sink']",medium,False,not annotated,unknown,360,640
+288430,val2017,15,3,"[1, 9, 38]","['person', 'boat', 'kite']",complex,True,not annotated,unknown,500,375
+455267,val2017,15,3,"[56, 57, 79]","['broccoli', 'carrot', 'oven']",complex,False,not annotated,unknown,640,480
+368961,val2017,5,3,"[1, 22, 37]","['person', 'elephant', 'sports ball']",medium,True,not annotated,unknown,640,480
+192871,val2017,10,5,"[51, 52, 53, 55, 67]","['bowl', 'banana', 'apple', 'orange', 'dining table']",medium,False,not annotated,unknown,640,427
+571857,val2017,14,6,"[1, 2, 5, 44, 47, 62]","['person', 'bicycle', 'airplane', 'bottle', 'cup', 'chair']",complex,True,not annotated,unknown,640,426
+464089,val2017,14,4,"[1, 37, 39, 40]","['person', 'sports ball', 'baseball bat', 'baseball glove']",complex,True,not annotated,unknown,640,480
+570782,val2017,8,5,"[44, 73, 74, 75, 76]","['bottle', 'laptop', 'mouse', 'remote', 'keyboard']",medium,False,not annotated,unknown,640,427
+296657,val2017,14,4,"[1, 11, 32, 77]","['person', 'fire hydrant', 'tie', 'cell phone']",complex,True,not annotated,unknown,640,427
+557916,val2017,4,4,"[1, 65, 86, 88]","['person', 'bed', 'vase', 'teddy bear']",medium,True,not annotated,unknown,640,426
+25593,val2017,0,0,[],[],unknown,False,not annotated,unknown,640,480
+430871,val2017,2,2,"[10, 14]","['traffic light', 'parking meter']",simple,False,not annotated,unknown,640,428
+450399,val2017,32,5,"[1, 50, 51, 60, 77]","['person', 'spoon', 'bowl', 'donut', 'cell phone']",complex,True,not annotated,unknown,640,480
+379800,val2017,7,3,"[3, 7, 13]","['car', 'train', 'stop sign']",medium,False,not annotated,unknown,640,493
+179392,val2017,6,5,"[17, 18, 72, 76, 84]","['cat', 'dog', 'tv', 'keyboard', 'book']",medium,False,not annotated,unknown,480,640
+405691,val2017,13,8,"[44, 46, 48, 50, 51, 64, 67, 86]","['bottle', 'wine glass', 'fork', 'spoon', 'bowl', 'potted plant', 'dining table', 'vase']",complex,False,not annotated,unknown,640,427
+485844,val2017,11,8,"[1, 49, 53, 62, 67, 79, 81, 82]","['person', 'knife', 'apple', 'chair', 'dining table', 'oven', 'sink', 'refrigerator']",complex,True,not annotated,unknown,576,396
+157601,val2017,5,5,"[1, 47, 54, 58, 67]","['person', 'cup', 'sandwich', 'hot dog', 'dining table']",medium,True,not annotated,unknown,612,612
+555050,val2017,18,7,"[1, 3, 10, 21, 62, 63, 67]","['person', 'car', 'traffic light', 'cow', 'chair', 'couch', 'dining table']",complex,True,not annotated,unknown,500,322
+573391,val2017,1,1,[23],['bear'],simple,False,not annotated,unknown,640,480
+328238,val2017,13,5,"[1, 15, 27, 34, 62]","['person', 'bench', 'backpack', 'frisbee', 'chair']",complex,True,not annotated,unknown,640,426
+482319,val2017,12,4,"[1, 62, 84, 90]","['person', 'chair', 'book', 'toothbrush']",complex,True,not annotated,unknown,640,480
+144003,val2017,13,8,"[1, 49, 51, 61, 62, 67, 75, 82]","['person', 'knife', 'bowl', 'cake', 'chair', 'dining table', 'remote', 'refrigerator']",complex,True,not annotated,unknown,500,375
+82821,val2017,32,6,"[1, 2, 3, 8, 9, 15]","['person', 'bicycle', 'car', 'truck', 'boat', 'bench']",complex,True,not annotated,unknown,640,427
+16451,val2017,12,6,"[1, 27, 28, 31, 42, 62]","['person', 'backpack', 'umbrella', 'handbag', 'surfboard', 'chair']",complex,True,not annotated,unknown,612,612
+142585,val2017,11,6,"[1, 3, 4, 6, 8, 10]","['person', 'car', 'motorcycle', 'bus', 'truck', 'traffic light']",complex,True,not annotated,unknown,375,500
+456143,val2017,8,4,"[51, 54, 57, 59]","['bowl', 'sandwich', 'carrot', 'pizza']",medium,False,not annotated,unknown,640,361
+334521,val2017,4,3,"[1, 16, 25]","['person', 'bird', 'giraffe']",medium,True,not annotated,unknown,500,375
+543047,val2017,16,9,"[31, 47, 51, 62, 63, 67, 78, 81, 84]","['handbag', 'cup', 'bowl', 'chair', 'couch', 'dining table', 'microwave', 'sink', 'book']",complex,False,not annotated,unknown,640,480
+363840,val2017,12,8,"[1, 31, 44, 62, 72, 73, 74, 76]","['person', 'handbag', 'bottle', 'chair', 'tv', 'laptop', 'mouse', 'keyboard']",complex,True,not annotated,unknown,640,480
+559547,val2017,6,4,"[1, 37, 39, 40]","['person', 'sports ball', 'baseball bat', 'baseball glove']",medium,True,not annotated,unknown,640,491
+338304,val2017,26,4,"[1, 20, 31, 77]","['person', 'sheep', 'handbag', 'cell phone']",complex,True,not annotated,unknown,425,640
+161008,val2017,1,1,[87],['scissors'],simple,False,not annotated,unknown,640,480
+369771,val2017,10,5,"[48, 51, 54, 56, 67]","['fork', 'bowl', 'sandwich', 'broccoli', 'dining table']",medium,False,not annotated,unknown,640,480
+306437,val2017,7,4,"[1, 2, 15, 41]","['person', 'bicycle', 'bench', 'skateboard']",medium,True,not annotated,unknown,426,640
+271728,val2017,8,6,"[17, 47, 63, 73, 75, 84]","['cat', 'cup', 'couch', 'laptop', 'remote', 'book']",medium,False,not annotated,unknown,640,427
+225946,val2017,2,2,"[7, 13]","['train', 'stop sign']",simple,False,not annotated,unknown,640,463
+496722,val2017,13,3,"[3, 10, 14]","['car', 'traffic light', 'parking meter']",complex,False,not annotated,unknown,640,360
+177065,val2017,11,4,"[1, 27, 37, 43]","['person', 'backpack', 'sports ball', 'tennis racket']",complex,True,not annotated,unknown,640,564
+61171,val2017,7,2,"[19, 21]","['horse', 'cow']",medium,False,not annotated,unknown,640,480
+471869,val2017,3,3,"[32, 63, 88]","['tie', 'couch', 'teddy bear']",medium,False,not annotated,unknown,413,500
+478136,val2017,6,3,"[60, 61, 67]","['donut', 'cake', 'dining table']",medium,False,not annotated,unknown,533,640
+199395,val2017,13,3,"[1, 9, 38]","['person', 'boat', 'kite']",complex,True,not annotated,unknown,427,640
+479155,val2017,19,5,"[1, 18, 31, 53, 55]","['person', 'dog', 'handbag', 'apple', 'orange']",complex,True,not annotated,unknown,500,332
+246436,val2017,7,6,"[1, 47, 51, 59, 78, 79]","['person', 'cup', 'bowl', 'pizza', 'microwave', 'oven']",medium,True,not annotated,unknown,480,640
+26564,val2017,19,6,"[44, 72, 73, 74, 76, 84]","['bottle', 'tv', 'laptop', 'mouse', 'keyboard', 'book']",complex,False,not annotated,unknown,640,426
+210520,val2017,17,8,"[46, 47, 48, 49, 50, 51, 67, 86]","['wine glass', 'cup', 'fork', 'knife', 'spoon', 'bowl', 'dining table', 'vase']",complex,False,not annotated,unknown,612,612
+58636,val2017,0,0,[],[],unknown,False,not annotated,unknown,634,640
+161128,val2017,14,5,"[1, 3, 6, 8, 11]","['person', 'car', 'bus', 'truck', 'fire hydrant']",complex,True,not annotated,unknown,375,500
+123480,val2017,4,3,"[1, 77, 90]","['person', 'cell phone', 'toothbrush']",medium,True,not annotated,unknown,640,480
+513580,val2017,3,3,"[1, 4, 5]","['person', 'motorcycle', 'airplane']",medium,True,not annotated,unknown,640,484
+375278,val2017,6,5,"[1, 17, 18, 33, 84]","['person', 'cat', 'dog', 'suitcase', 'book']",medium,True,not annotated,unknown,333,500
+30213,val2017,14,8,"[44, 51, 53, 62, 67, 79, 81, 82]","['bottle', 'bowl', 'apple', 'chair', 'dining table', 'oven', 'sink', 'refrigerator']",complex,False,not annotated,unknown,640,449
+391290,val2017,6,4,"[1, 3, 28, 34]","['person', 'car', 'umbrella', 'frisbee']",medium,True,not annotated,unknown,640,426
+65798,val2017,18,4,"[1, 37, 39, 40]","['person', 'sports ball', 'baseball bat', 'baseball glove']",complex,True,not annotated,unknown,640,480
+417465,val2017,1,1,[23],['bear'],simple,False,not annotated,unknown,640,425
+369757,val2017,5,2,"[58, 59]","['hot dog', 'pizza']",medium,False,not annotated,unknown,640,480
+532761,val2017,6,6,"[62, 63, 64, 72, 74, 75]","['chair', 'couch', 'potted plant', 'tv', 'mouse', 'remote']",medium,False,not annotated,unknown,640,480
+417876,val2017,6,2,"[16, 25]","['bird', 'giraffe']",medium,False,not annotated,unknown,500,375
+336053,val2017,25,8,"[1, 46, 47, 48, 50, 57, 62, 67]","['person', 'wine glass', 'cup', 'fork', 'spoon', 'carrot', 'chair', 'dining table']",complex,True,not annotated,unknown,640,480
+571804,val2017,9,4,"[51, 70, 81, 86]","['bowl', 'toilet', 'sink', 'vase']",medium,False,not annotated,unknown,640,426
+395388,val2017,12,3,"[1, 20, 28]","['person', 'sheep', 'umbrella']",complex,True,not annotated,unknown,480,640
+253835,val2017,9,6,"[1, 7, 10, 27, 44, 85]","['person', 'train', 'traffic light', 'backpack', 'bottle', 'clock']",medium,True,not annotated,unknown,640,480
+2587,val2017,2,2,"[52, 60]","['banana', 'donut']",simple,False,not annotated,unknown,500,375
+475572,val2017,6,5,"[1, 15, 64, 86, 88]","['person', 'bench', 'potted plant', 'vase', 'teddy bear']",medium,True,not annotated,unknown,640,431
+433774,val2017,7,3,"[3, 10, 14]","['car', 'traffic light', 'parking meter']",medium,False,not annotated,unknown,640,427
+52996,val2017,23,10,"[1, 27, 31, 47, 49, 51, 67, 79, 82, 84]","['person', 'backpack', 'handbag', 'cup', 'knife', 'bowl', 'dining table', 'oven', 'refrigerator', 'book']",complex,True,not annotated,unknown,640,426
+333772,val2017,8,6,"[17, 47, 62, 72, 74, 76]","['cat', 'cup', 'chair', 'tv', 'mouse', 'keyboard']",medium,False,not annotated,unknown,500,375
+65350,val2017,15,5,"[1, 2, 3, 27, 41]","['person', 'bicycle', 'car', 'backpack', 'skateboard']",complex,True,not annotated,unknown,640,427
+251824,val2017,3,3,"[1, 84, 87]","['person', 'book', 'scissors']",medium,True,not annotated,unknown,500,375
+298697,val2017,4,2,"[19, 21]","['horse', 'cow']",medium,False,not annotated,unknown,640,480
+308587,val2017,17,3,"[1, 9, 38]","['person', 'boat', 'kite']",complex,True,not annotated,unknown,480,640
+231747,val2017,15,4,"[1, 37, 39, 40]","['person', 'sports ball', 'baseball bat', 'baseball glove']",complex,True,not annotated,unknown,640,400
+521405,val2017,2,2,"[81, 90]","['sink', 'toothbrush']",simple,False,not annotated,unknown,426,640
+334417,val2017,4,4,"[1, 32, 54, 59]","['person', 'tie', 'sandwich', 'pizza']",medium,True,not annotated,unknown,640,423
+491366,val2017,10,6,"[1, 63, 72, 75, 76, 85]","['person', 'couch', 'tv', 'remote', 'keyboard', 'clock']",medium,True,not annotated,unknown,500,375
+301061,val2017,3,3,"[1, 8, 22]","['person', 'truck', 'elephant']",medium,True,not annotated,unknown,480,640
+165831,val2017,23,5,"[44, 51, 56, 57, 67]","['bottle', 'bowl', 'broccoli', 'carrot', 'dining table']",complex,False,not annotated,unknown,640,480
+198915,val2017,0,0,[],[],unknown,False,not annotated,unknown,640,404
+465718,val2017,12,6,"[1, 72, 73, 74, 76, 77]","['person', 'tv', 'laptop', 'mouse', 'keyboard', 'cell phone']",complex,True,not annotated,unknown,640,429
+367386,val2017,19,8,"[47, 62, 63, 64, 67, 75, 84, 86]","['cup', 'chair', 'couch', 'potted plant', 'dining table', 'remote', 'book', 'vase']",complex,False,not annotated,unknown,640,480
+475387,val2017,16,5,"[1, 7, 27, 31, 33]","['person', 'train', 'backpack', 'handbag', 'suitcase']",complex,True,not annotated,unknown,640,431
+210230,val2017,17,3,"[1, 57, 58]","['person', 'carrot', 'hot dog']",complex,True,not annotated,unknown,640,457
+132622,val2017,1,1,[23],['bear'],simple,False,not annotated,unknown,640,512
+561465,val2017,6,3,"[60, 61, 67]","['donut', 'cake', 'dining table']",medium,False,not annotated,unknown,612,612
+546219,val2017,42,11,"[1, 31, 44, 46, 47, 48, 49, 50, 51, 62, 67]","['person', 'handbag', 'bottle', 'wine glass', 'cup', 'fork', 'knife', 'spoon', 'bowl', 'chair', 'dining table']",complex,True,not annotated,unknown,640,427
+172935,val2017,5,3,"[1, 9, 35]","['person', 'boat', 'skis']",medium,True,not annotated,unknown,488,364
+331799,val2017,19,4,"[1, 52, 53, 55]","['person', 'banana', 'apple', 'orange']",complex,True,not annotated,unknown,640,464
+17029,val2017,4,3,"[3, 18, 34]","['car', 'dog', 'frisbee']",medium,False,not annotated,unknown,640,640
+216739,val2017,4,2,"[16, 25]","['bird', 'giraffe']",medium,False,not annotated,unknown,640,427
+6471,val2017,16,5,"[1, 15, 39, 40, 44]","['person', 'bench', 'baseball bat', 'baseball glove', 'bottle']",complex,True,not annotated,unknown,500,333
+384527,val2017,27,8,"[2, 47, 62, 64, 67, 84, 85, 86]","['bicycle', 'cup', 'chair', 'potted plant', 'dining table', 'book', 'clock', 'vase']",complex,False,not annotated,unknown,640,480
+33221,val2017,18,5,"[1, 3, 8, 31, 43]","['person', 'car', 'truck', 'handbag', 'tennis racket']",complex,True,not annotated,unknown,500,333
+168337,val2017,6,4,"[1, 11, 27, 33]","['person', 'fire hydrant', 'backpack', 'suitcase']",medium,True,not annotated,unknown,640,480
+255483,val2017,3,3,"[1, 84, 87]","['person', 'book', 'scissors']",medium,True,not annotated,unknown,452,500
+169076,val2017,6,5,"[1, 17, 18, 65, 72]","['person', 'cat', 'dog', 'bed', 'tv']",medium,True,not annotated,unknown,612,612
+336356,val2017,14,8,"[1, 44, 46, 48, 49, 59, 62, 67]","['person', 'bottle', 'wine glass', 'fork', 'knife', 'pizza', 'chair', 'dining table']",complex,True,not annotated,unknown,427,640
+141671,val2017,26,4,"[1, 4, 15, 19]","['person', 'motorcycle', 'bench', 'horse']",complex,True,not annotated,unknown,640,335
+293390,val2017,5,3,"[44, 81, 90]","['bottle', 'sink', 'toothbrush']",medium,False,not annotated,unknown,640,480
+265518,val2017,5,4,"[47, 48, 54, 56]","['cup', 'fork', 'sandwich', 'broccoli']",medium,False,not annotated,unknown,612,612
+248314,val2017,8,7,"[44, 50, 51, 62, 73, 74, 76]","['bottle', 'spoon', 'bowl', 'chair', 'laptop', 'mouse', 'keyboard']",medium,False,not annotated,unknown,640,480
+189436,val2017,5,4,"[32, 67, 72, 88]","['tie', 'dining table', 'tv', 'teddy bear']",medium,False,not annotated,unknown,480,640
+225184,val2017,4,2,"[18, 20]","['dog', 'sheep']",medium,False,not annotated,unknown,457,640
+377946,val2017,20,7,"[1, 3, 6, 8, 10, 48, 49]","['person', 'car', 'bus', 'truck', 'traffic light', 'fork', 'knife']",complex,True,not annotated,unknown,640,426
+579902,val2017,8,4,"[1, 3, 4, 41]","['person', 'car', 'motorcycle', 'skateboard']",medium,True,not annotated,unknown,556,640
+157807,val2017,3,3,"[17, 70, 81]","['cat', 'toilet', 'sink']",medium,False,not annotated,unknown,640,427
+120420,val2017,26,5,"[1, 15, 16, 28, 77]","['person', 'bench', 'bird', 'umbrella', 'cell phone']",complex,True,not annotated,unknown,640,480
+555597,val2017,16,4,"[1, 3, 8, 14]","['person', 'car', 'truck', 'parking meter']",complex,True,not annotated,unknown,640,517
+43816,val2017,5,4,"[1, 37, 39, 40]","['person', 'sports ball', 'baseball bat', 'baseball glove']",medium,True,not annotated,unknown,640,426
+222559,val2017,27,3,"[1, 9, 42]","['person', 'boat', 'surfboard']",complex,True,not annotated,unknown,640,426
+279730,val2017,7,4,"[1, 47, 54, 58]","['person', 'cup', 'sandwich', 'hot dog']",medium,True,not annotated,unknown,500,333
+560256,val2017,28,3,"[52, 53, 55]","['banana', 'apple', 'orange']",complex,False,not annotated,unknown,640,480
+553664,val2017,18,5,"[73, 74, 76, 77, 84]","['laptop', 'mouse', 'keyboard', 'cell phone', 'book']",complex,False,not annotated,unknown,640,414
+313034,val2017,11,7,"[1, 44, 47, 48, 61, 85, 86]","['person', 'bottle', 'cup', 'fork', 'cake', 'clock', 'vase']",complex,True,not annotated,unknown,640,480
+320706,val2017,0,0,[],[],unknown,False,not annotated,unknown,480,640
+82812,val2017,24,5,"[1, 7, 27, 31, 33]","['person', 'train', 'backpack', 'handbag', 'suitcase']",complex,True,not annotated,unknown,640,360
+521231,val2017,1,1,[23],['bear'],simple,False,not annotated,unknown,424,640
+238410,val2017,38,8,"[1, 28, 44, 46, 62, 64, 67, 85]","['person', 'umbrella', 'bottle', 'wine glass', 'chair', 'potted plant', 'dining table', 'clock']",complex,True,not annotated,unknown,640,480
+84362,val2017,8,7,"[1, 8, 17, 62, 63, 72, 75]","['person', 'truck', 'cat', 'chair', 'couch', 'tv', 'remote']",medium,True,not annotated,unknown,640,480
+295809,val2017,20,5,"[1, 2, 3, 10, 11]","['person', 'bicycle', 'car', 'traffic light', 'fire hydrant']",complex,True,not annotated,unknown,640,512
+304817,val2017,1,1,[36],['snowboard'],simple,False,not annotated,unknown,640,480
+459809,val2017,8,3,"[1, 9, 38]","['person', 'boat', 'kite']",medium,True,not annotated,unknown,640,428
+48504,val2017,6,3,"[1, 15, 22]","['person', 'bench', 'elephant']",medium,True,not annotated,unknown,640,427
+334555,val2017,20,6,"[1, 3, 8, 21, 31, 77]","['person', 'car', 'truck', 'cow', 'handbag', 'cell phone']",complex,True,not annotated,unknown,640,426
+404484,val2017,5,5,"[1, 18, 64, 72, 88]","['person', 'dog', 'potted plant', 'tv', 'teddy bear']",medium,True,not annotated,unknown,320,240
+415194,val2017,11,8,"[47, 50, 51, 52, 62, 67, 81, 82]","['cup', 'spoon', 'bowl', 'banana', 'chair', 'dining table', 'sink', 'refrigerator']",complex,False,not annotated,unknown,640,480
+283038,val2017,6,4,"[3, 8, 10, 13]","['car', 'truck', 'traffic light', 'stop sign']",medium,False,not annotated,unknown,500,281
+189752,val2017,13,8,"[1, 46, 47, 48, 49, 59, 62, 67]","['person', 'wine glass', 'cup', 'fork', 'knife', 'pizza', 'chair', 'dining table']",complex,True,not annotated,unknown,640,480
+311002,val2017,9,4,"[1, 37, 39, 40]","['person', 'sports ball', 'baseball bat', 'baseball glove']",medium,True,not annotated,unknown,640,427
+255165,val2017,23,6,"[47, 72, 73, 74, 76, 84]","['cup', 'tv', 'laptop', 'mouse', 'keyboard', 'book']",complex,False,not annotated,unknown,640,480
+365385,val2017,6,3,"[47, 81, 90]","['cup', 'sink', 'toothbrush']",medium,False,not annotated,unknown,640,427
+285788,val2017,4,2,"[16, 25]","['bird', 'giraffe']",medium,False,not annotated,unknown,640,481
+50828,val2017,4,4,"[33, 62, 65, 75]","['suitcase', 'chair', 'bed', 'remote']",medium,False,not annotated,unknown,640,480
+38678,val2017,7,4,"[1, 47, 54, 60]","['person', 'cup', 'sandwich', 'donut']",medium,True,not annotated,unknown,480,640
+400922,val2017,2,2,"[5, 85]","['airplane', 'clock']",simple,False,not annotated,unknown,640,480
+429281,val2017,18,3,"[52, 53, 55]","['banana', 'apple', 'orange']",complex,False,not annotated,unknown,480,640
+427655,val2017,14,5,"[1, 3, 6, 19, 84]","['person', 'car', 'bus', 'horse', 'book']",complex,True,not annotated,unknown,427,640
+488075,val2017,14,6,"[44, 51, 62, 78, 79, 82]","['bottle', 'bowl', 'chair', 'microwave', 'oven', 'refrigerator']",complex,False,not annotated,unknown,640,480
+119516,val2017,9,6,"[1, 2, 4, 10, 31, 77]","['person', 'bicycle', 'motorcycle', 'traffic light', 'handbag', 'cell phone']",medium,True,not annotated,unknown,640,427
+210855,val2017,5,4,"[44, 70, 81, 86]","['bottle', 'toilet', 'sink', 'vase']",medium,False,not annotated,unknown,640,427
+370208,val2017,4,3,"[1, 2, 14]","['person', 'bicycle', 'parking meter']",medium,True,not annotated,unknown,500,375
+251119,val2017,2,2,"[54, 58]","['sandwich', 'hot dog']",simple,False,not annotated,unknown,500,375
+319935,val2017,13,7,"[62, 63, 64, 65, 67, 72, 84]","['chair', 'couch', 'potted plant', 'bed', 'dining table', 'tv', 'book']",complex,False,not annotated,unknown,640,398
+297562,val2017,15,4,"[1, 3, 62, 87]","['person', 'car', 'chair', 'scissors']",complex,True,not annotated,unknown,640,480
+194940,val2017,12,4,"[47, 51, 56, 57]","['cup', 'bowl', 'broccoli', 'carrot']",complex,False,not annotated,unknown,500,375
+198641,val2017,7,5,"[17, 72, 73, 76, 85]","['cat', 'tv', 'laptop', 'keyboard', 'clock']",medium,False,not annotated,unknown,640,479
+12062,val2017,4,2,"[20, 37]","['sheep', 'sports ball']",medium,False,not annotated,unknown,640,427
+519611,val2017,1,1,[23],['bear'],simple,False,not annotated,unknown,640,480
+346703,val2017,19,6,"[1, 46, 47, 50, 61, 63]","['person', 'wine glass', 'cup', 'spoon', 'cake', 'couch']",complex,True,not annotated,unknown,550,640
+542073,val2017,0,0,[],[],unknown,False,not annotated,unknown,375,500
+189078,val2017,7,3,"[52, 53, 55]","['banana', 'apple', 'orange']",medium,False,not annotated,unknown,500,334
+312489,val2017,4,3,"[1, 9, 42]","['person', 'boat', 'surfboard']",medium,True,not annotated,unknown,500,333
+348481,val2017,6,5,"[73, 74, 75, 77, 84]","['laptop', 'mouse', 'remote', 'cell phone', 'book']",medium,False,not annotated,unknown,640,480
+235241,val2017,7,3,"[1, 28, 34]","['person', 'umbrella', 'frisbee']",medium,True,not annotated,unknown,640,427
+529122,val2017,20,5,"[1, 31, 49, 60, 72]","['person', 'handbag', 'knife', 'donut', 'tv']",complex,True,not annotated,unknown,500,281
+429109,val2017,10,5,"[1, 2, 3, 6, 7]","['person', 'bicycle', 'car', 'bus', 'train']",medium,True,not annotated,unknown,640,427
+127270,val2017,9,5,"[1, 15, 31, 43, 62]","['person', 'bench', 'handbag', 'tennis racket', 'chair']",medium,True,not annotated,unknown,328,500
+60823,val2017,29,4,"[1, 16, 21, 51]","['person', 'bird', 'cow', 'bowl']",complex,True,not annotated,unknown,640,480
+468965,val2017,15,3,"[1, 32, 38]","['person', 'tie', 'kite']",complex,True,not annotated,unknown,640,480
+316666,val2017,40,8,"[44, 46, 47, 51, 67, 84, 85, 86]","['bottle', 'wine glass', 'cup', 'bowl', 'dining table', 'book', 'clock', 'vase']",complex,False,not annotated,unknown,640,480
+216497,val2017,8,6,"[62, 63, 67, 78, 79, 81]","['chair', 'couch', 'dining table', 'microwave', 'oven', 'sink']",medium,False,not annotated,unknown,640,480
+305695,val2017,7,3,"[3, 8, 24]","['car', 'truck', 'zebra']",medium,False,not annotated,unknown,640,480
+160666,val2017,1,1,[90],['toothbrush'],simple,False,not annotated,unknown,640,480
+462904,val2017,39,6,"[1, 19, 28, 62, 64, 67]","['person', 'horse', 'umbrella', 'chair', 'potted plant', 'dining table']",complex,True,not annotated,unknown,640,480
+46031,val2017,6,5,"[72, 73, 74, 76, 77]","['tv', 'laptop', 'mouse', 'keyboard', 'cell phone']",medium,False,not annotated,unknown,640,480
+123213,val2017,16,5,"[1, 15, 39, 40, 62]","['person', 'bench', 'baseball bat', 'baseball glove', 'chair']",complex,True,not annotated,unknown,640,392
+25386,val2017,8,4,"[1, 54, 58, 62]","['person', 'sandwich', 'hot dog', 'chair']",medium,True,not annotated,unknown,427,640
+490515,val2017,3,3,"[1, 27, 36]","['person', 'backpack', 'snowboard']",medium,True,not annotated,unknown,640,427
+71226,val2017,6,4,"[17, 18, 65, 84]","['cat', 'dog', 'bed', 'book']",medium,False,not annotated,unknown,640,426
+203488,val2017,2,2,"[14, 15]","['parking meter', 'bench']",simple,False,not annotated,unknown,640,480
+119452,val2017,6,3,"[52, 53, 55]","['banana', 'apple', 'orange']",medium,False,not annotated,unknown,640,480
+157390,val2017,23,4,"[51, 56, 57, 67]","['bowl', 'broccoli', 'carrot', 'dining table']",complex,False,not annotated,unknown,640,480
+312421,val2017,12,5,"[1, 4, 28, 33, 67]","['person', 'motorcycle', 'umbrella', 'suitcase', 'dining table']",complex,True,not annotated,unknown,640,427
+445846,val2017,4,4,"[78, 79, 81, 82]","['microwave', 'oven', 'sink', 'refrigerator']",medium,False,not annotated,unknown,640,427
+439854,val2017,14,4,"[1, 2, 27, 41]","['person', 'bicycle', 'backpack', 'skateboard']",complex,True,not annotated,unknown,500,333
+369037,val2017,4,4,"[1, 22, 31, 44]","['person', 'elephant', 'handbag', 'bottle']",medium,True,not annotated,unknown,425,640
+318114,val2017,6,6,"[47, 48, 51, 55, 61, 67]","['cup', 'fork', 'bowl', 'orange', 'cake', 'dining table']",medium,False,not annotated,unknown,385,308
+410880,val2017,10,6,"[1, 3, 15, 37, 62, 88]","['person', 'car', 'bench', 'sports ball', 'chair', 'teddy bear']",medium,True,not annotated,unknown,500,375
+176606,val2017,4,4,"[1, 3, 20, 77]","['person', 'car', 'sheep', 'cell phone']",medium,True,not annotated,unknown,640,480
+302030,val2017,20,6,"[62, 72, 73, 74, 76, 84]","['chair', 'tv', 'laptop', 'mouse', 'keyboard', 'book']",complex,False,not annotated,unknown,640,359
+442746,val2017,6,4,"[1, 3, 10, 34]","['person', 'car', 'traffic light', 'frisbee']",medium,True,not annotated,unknown,500,375
+96960,val2017,1,1,[23],['bear'],simple,False,not annotated,unknown,640,478
+134096,val2017,4,3,"[17, 70, 81]","['cat', 'toilet', 'sink']",medium,False,not annotated,unknown,640,480
+579635,val2017,3,3,"[1, 9, 42]","['person', 'boat', 'surfboard']",medium,True,not annotated,unknown,640,429
+92660,val2017,17,4,"[44, 47, 56, 59]","['bottle', 'cup', 'broccoli', 'pizza']",complex,False,not annotated,unknown,640,427
+186345,val2017,8,2,"[16, 38]","['bird', 'kite']",medium,False,not annotated,unknown,640,431
+481404,val2017,0,0,[],[],unknown,False,not annotated,unknown,640,424
+57149,val2017,6,4,"[3, 6, 7, 10]","['car', 'bus', 'train', 'traffic light']",medium,False,not annotated,unknown,640,427
+381639,val2017,15,4,"[1, 5, 27, 31]","['person', 'airplane', 'backpack', 'handbag']",complex,True,not annotated,unknown,584,640
+349152,val2017,16,4,"[49, 50, 60, 67]","['knife', 'spoon', 'donut', 'dining table']",complex,False,not annotated,unknown,480,640
+453841,val2017,15,5,"[1, 3, 8, 10, 11]","['person', 'car', 'truck', 'traffic light', 'fire hydrant']",complex,True,not annotated,unknown,500,339
+500716,val2017,2,2,"[1, 87]","['person', 'scissors']",simple,True,not annotated,unknown,445,500
+568710,val2017,8,8,"[1, 62, 63, 64, 67, 79, 84, 86]","['person', 'chair', 'couch', 'potted plant', 'dining table', 'oven', 'book', 'vase']",medium,True,not annotated,unknown,640,427
+333956,val2017,2,2,"[14, 15]","['parking meter', 'bench']",simple,False,not annotated,unknown,428,640
+460229,val2017,4,3,"[8, 10, 13]","['truck', 'traffic light', 'stop sign']",medium,False,not annotated,unknown,383,640
+77396,val2017,9,7,"[17, 62, 67, 72, 73, 75, 84]","['cat', 'chair', 'dining table', 'tv', 'laptop', 'remote', 'book']",medium,False,not annotated,unknown,640,480
+326128,val2017,3,3,"[1, 27, 36]","['person', 'backpack', 'snowboard']",medium,True,not annotated,unknown,480,640
+164602,val2017,6,3,"[1, 81, 90]","['person', 'sink', 'toothbrush']",medium,True,not annotated,unknown,640,480
+179898,val2017,26,6,"[1, 27, 58, 62, 67, 84]","['person', 'backpack', 'hot dog', 'chair', 'dining table', 'book']",complex,True,not annotated,unknown,640,480
+250766,val2017,5,5,"[48, 49, 54, 57, 67]","['fork', 'knife', 'sandwich', 'carrot', 'dining table']",medium,False,not annotated,unknown,500,410
+209530,val2017,23,7,"[1, 44, 46, 47, 49, 59, 72]","['person', 'bottle', 'wine glass', 'cup', 'knife', 'pizza', 'tv']",complex,True,not annotated,unknown,640,428
+286458,val2017,5,3,"[27, 33, 88]","['backpack', 'suitcase', 'teddy bear']",medium,False,not annotated,unknown,455,310
+326248,val2017,20,4,"[1, 28, 43, 62]","['person', 'umbrella', 'tennis racket', 'chair']",complex,True,not annotated,unknown,640,427
+492992,val2017,2,2,"[16, 21]","['bird', 'cow']",simple,False,not annotated,unknown,427,640
+194875,val2017,39,9,"[1, 4, 31, 44, 47, 62, 64, 67, 86]","['person', 'motorcycle', 'handbag', 'bottle', 'cup', 'chair', 'potted plant', 'dining table', 'vase']",complex,True,not annotated,unknown,640,574
+454798,val2017,7,4,"[1, 6, 8, 19]","['person', 'bus', 'truck', 'horse']",medium,True,not annotated,unknown,640,425
+428111,val2017,7,4,"[1, 2, 27, 41]","['person', 'bicycle', 'backpack', 'skateboard']",medium,True,not annotated,unknown,640,429
+50811,val2017,9,7,"[1, 32, 44, 51, 67, 75, 77]","['person', 'tie', 'bottle', 'bowl', 'dining table', 'remote', 'cell phone']",medium,True,not annotated,unknown,640,605
+18491,val2017,14,4,"[1, 15, 39, 40]","['person', 'bench', 'baseball bat', 'baseball glove']",complex,True,not annotated,unknown,640,427
+375015,val2017,1,1,[23],['bear'],simple,False,not annotated,unknown,640,404
+357459,val2017,3,3,"[1, 18, 34]","['person', 'dog', 'frisbee']",medium,True,not annotated,unknown,640,427
+496954,val2017,6,5,"[44, 48, 51, 55, 61]","['bottle', 'fork', 'bowl', 'orange', 'cake']",medium,False,not annotated,unknown,640,480
+547336,val2017,7,6,"[1, 11, 31, 47, 77, 84]","['person', 'fire hydrant', 'handbag', 'cup', 'cell phone', 'book']",medium,True,not annotated,unknown,640,480
+310622,val2017,0,0,[],[],unknown,False,not annotated,unknown,640,428
+311180,val2017,2,2,"[1, 87]","['person', 'scissors']",simple,True,not annotated,unknown,480,640
+377882,val2017,14,2,"[9, 42]","['boat', 'surfboard']",complex,False,not annotated,unknown,640,480
+303566,val2017,56,6,"[1, 3, 27, 31, 53, 55]","['person', 'car', 'backpack', 'handbag', 'apple', 'orange']",complex,True,not annotated,unknown,640,426
+357978,val2017,14,7,"[1, 62, 63, 64, 72, 75, 86]","['person', 'chair', 'couch', 'potted plant', 'tv', 'remote', 'vase']",complex,True,not annotated,unknown,500,375
+463527,val2017,11,6,"[44, 47, 48, 51, 54, 57]","['bottle', 'cup', 'fork', 'bowl', 'sandwich', 'carrot']",complex,False,not annotated,unknown,640,480
+475779,val2017,1,1,[22],['elephant'],simple,False,not annotated,unknown,640,480
+154705,val2017,8,5,"[72, 73, 74, 76, 84]","['tv', 'laptop', 'mouse', 'keyboard', 'book']",medium,False,not annotated,unknown,640,464
+323828,val2017,9,3,"[3, 7, 19]","['car', 'train', 'horse']",medium,False,not annotated,unknown,427,640
+515579,val2017,7,5,"[1, 15, 37, 40, 64]","['person', 'bench', 'sports ball', 'baseball glove', 'potted plant']",medium,True,not annotated,unknown,500,332
+494634,val2017,8,5,"[17, 44, 46, 73, 79]","['cat', 'bottle', 'wine glass', 'laptop', 'oven']",medium,False,not annotated,unknown,640,480
+328683,val2017,2,2,"[14, 64]","['parking meter', 'potted plant']",simple,False,not annotated,unknown,480,640
+91500,val2017,18,9,"[1, 44, 47, 51, 59, 62, 67, 75, 81]","['person', 'bottle', 'cup', 'bowl', 'pizza', 'chair', 'dining table', 'remote', 'sink']",complex,True,not annotated,unknown,640,480
+88462,val2017,16,3,"[3, 6, 13]","['car', 'bus', 'stop sign']",complex,False,not annotated,unknown,640,383
+372349,val2017,5,4,"[1, 44, 51, 90]","['person', 'bottle', 'bowl', 'toothbrush']",medium,True,not annotated,unknown,640,437
+105335,val2017,11,4,"[1, 51, 56, 57]","['person', 'bowl', 'broccoli', 'carrot']",complex,True,not annotated,unknown,612,612
+84752,val2017,13,3,"[3, 5, 8]","['car', 'airplane', 'truck']",complex,False,not annotated,unknown,640,427
+496854,val2017,15,5,"[1, 10, 28, 31, 32]","['person', 'traffic light', 'umbrella', 'handbag', 'tie']",complex,True,not annotated,unknown,640,480
+468925,val2017,7,5,"[47, 49, 50, 52, 54]","['cup', 'knife', 'spoon', 'banana', 'sandwich']",medium,False,not annotated,unknown,640,480
+7386,val2017,5,4,"[2, 4, 8, 18]","['bicycle', 'motorcycle', 'truck', 'dog']",medium,False,not annotated,unknown,600,400
+199681,val2017,2,2,"[78, 88]","['microwave', 'teddy bear']",simple,False,not annotated,unknown,640,480
+384808,val2017,7,5,"[1, 44, 70, 77, 81]","['person', 'bottle', 'toilet', 'cell phone', 'sink']",medium,True,not annotated,unknown,375,500
+133969,val2017,17,4,"[1, 15, 39, 40]","['person', 'bench', 'baseball bat', 'baseball glove']",complex,True,not annotated,unknown,640,427
+139684,val2017,12,7,"[17, 62, 63, 67, 72, 84, 86]","['cat', 'chair', 'couch', 'dining table', 'tv', 'book', 'vase']",complex,False,not annotated,unknown,500,333
+343218,val2017,23,4,"[1, 3, 37, 43]","['person', 'car', 'sports ball', 'tennis racket']",complex,True,not annotated,unknown,640,428
+456303,val2017,6,3,"[1, 31, 36]","['person', 'handbag', 'snowboard']",medium,True,not annotated,unknown,321,500
+172571,val2017,8,6,"[1, 46, 47, 48, 49, 59]","['person', 'wine glass', 'cup', 'fork', 'knife', 'pizza']",medium,True,not annotated,unknown,640,361
+351096,val2017,2,2,"[1, 87]","['person', 'scissors']",simple,True,not annotated,unknown,500,375
+396729,val2017,5,5,"[51, 65, 75, 77, 84]","['bowl', 'bed', 'remote', 'cell phone', 'book']",medium,False,not annotated,unknown,640,425
+116362,val2017,8,5,"[50, 51, 53, 57, 67]","['spoon', 'bowl', 'apple', 'carrot', 'dining table']",medium,False,not annotated,unknown,612,612
+308753,val2017,1,1,[23],['bear'],simple,False,not annotated,unknown,640,480
+393014,val2017,4,2,"[54, 58]","['sandwich', 'hot dog']",medium,False,not annotated,unknown,640,480
+149568,val2017,4,3,"[1, 18, 34]","['person', 'dog', 'frisbee']",medium,True,not annotated,unknown,640,549
+389451,val2017,17,3,"[1, 9, 21]","['person', 'boat', 'cow']",complex,True,not annotated,unknown,640,479
+516318,val2017,3,3,"[1, 16, 42]","['person', 'bird', 'surfboard']",medium,True,not annotated,unknown,640,427
+312549,val2017,0,0,[],[],unknown,False,not annotated,unknown,640,480
+437898,val2017,13,6,"[47, 49, 50, 79, 81, 82]","['cup', 'knife', 'spoon', 'oven', 'sink', 'refrigerator']",complex,False,not annotated,unknown,640,427
+292456,val2017,8,5,"[1, 4, 31, 33, 64]","['person', 'motorcycle', 'handbag', 'suitcase', 'potted plant']",medium,True,not annotated,unknown,500,375
+270244,val2017,1,1,[24],['zebra'],simple,False,not annotated,unknown,640,428
+568195,val2017,13,7,"[1, 44, 48, 49, 61, 67, 85]","['person', 'bottle', 'fork', 'knife', 'cake', 'dining table', 'clock']",complex,True,not annotated,unknown,427,640
+555009,val2017,9,6,"[44, 47, 72, 73, 74, 76]","['bottle', 'cup', 'tv', 'laptop', 'mouse', 'keyboard']",medium,False,not annotated,unknown,500,375
+80153,val2017,3,3,"[1, 18, 35]","['person', 'dog', 'skis']",medium,True,not annotated,unknown,428,640
+158660,val2017,10,5,"[1, 51, 52, 53, 79]","['person', 'bowl', 'banana', 'apple', 'oven']",medium,True,not annotated,unknown,612,612
+361103,val2017,27,7,"[1, 2, 10, 27, 31, 64, 77]","['person', 'bicycle', 'traffic light', 'backpack', 'handbag', 'potted plant', 'cell phone']",complex,True,not annotated,unknown,640,427
+405432,val2017,4,3,"[60, 67, 75]","['donut', 'dining table', 'remote']",medium,False,not annotated,unknown,500,375
+89045,val2017,9,7,"[62, 63, 64, 67, 84, 85, 86]","['chair', 'couch', 'potted plant', 'dining table', 'book', 'clock', 'vase']",medium,False,not annotated,unknown,640,425
+491683,val2017,2,2,"[7, 19]","['train', 'horse']",simple,False,not annotated,unknown,366,500
+98287,val2017,17,4,"[1, 15, 39, 40]","['person', 'bench', 'baseball bat', 'baseball glove']",complex,True,not annotated,unknown,415,640
+559956,val2017,9,4,"[1, 20, 31, 44]","['person', 'sheep', 'handbag', 'bottle']",medium,True,not annotated,unknown,640,480
+324158,val2017,15,4,"[1, 3, 18, 41]","['person', 'car', 'dog', 'skateboard']",complex,True,not annotated,unknown,500,334
+259640,val2017,21,6,"[1, 2, 8, 27, 31, 55]","['person', 'bicycle', 'truck', 'backpack', 'handbag', 'orange']",complex,True,not annotated,unknown,640,427
+533206,val2017,8,6,"[44, 46, 48, 49, 51, 54]","['bottle', 'wine glass', 'fork', 'knife', 'bowl', 'sandwich']",medium,False,not annotated,unknown,640,427
+31620,val2017,10,6,"[1, 32, 47, 49, 61, 62]","['person', 'tie', 'cup', 'knife', 'cake', 'chair']",medium,True,not annotated,unknown,480,640
+556765,val2017,1,1,[22],['elephant'],simple,False,not annotated,unknown,640,428
+296634,val2017,12,3,"[51, 56, 57]","['bowl', 'broccoli', 'carrot']",complex,False,not annotated,unknown,640,453
+52412,val2017,17,3,"[3, 5, 8]","['car', 'airplane', 'truck']",complex,False,not annotated,unknown,640,426
+368294,val2017,2,2,"[1, 87]","['person', 'scissors']",simple,True,not annotated,unknown,640,426
+275198,val2017,40,10,"[1, 28, 44, 47, 48, 49, 50, 51, 62, 67]","['person', 'umbrella', 'bottle', 'cup', 'fork', 'knife', 'spoon', 'bowl', 'chair', 'dining table']",complex,True,not annotated,unknown,640,480
+246963,val2017,11,3,"[1, 4, 13]","['person', 'motorcycle', 'stop sign']",complex,True,not annotated,unknown,640,420
+325838,val2017,18,6,"[1, 62, 73, 74, 76, 77]","['person', 'chair', 'laptop', 'mouse', 'keyboard', 'cell phone']",complex,True,not annotated,unknown,640,480
+510095,val2017,3,3,"[1, 11, 39]","['person', 'fire hydrant', 'baseball bat']",medium,True,not annotated,unknown,640,428
+249129,val2017,17,6,"[47, 49, 62, 67, 85, 88]","['cup', 'knife', 'chair', 'dining table', 'clock', 'teddy bear']",complex,False,not annotated,unknown,640,427
+103585,val2017,4,3,"[70, 81, 86]","['toilet', 'sink', 'vase']",medium,False,not annotated,unknown,425,640
+218091,val2017,7,5,"[62, 63, 65, 72, 75]","['chair', 'couch', 'bed', 'tv', 'remote']",medium,False,not annotated,unknown,640,429
+577932,val2017,21,7,"[1, 2, 3, 10, 27, 28, 31]","['person', 'bicycle', 'car', 'traffic light', 'backpack', 'umbrella', 'handbag']",complex,True,not annotated,unknown,640,543
+234757,val2017,3,2,"[14, 15]","['parking meter', 'bench']",medium,False,not annotated,unknown,640,480
+278463,val2017,15,7,"[17, 44, 47, 64, 73, 77, 84]","['cat', 'bottle', 'cup', 'potted plant', 'laptop', 'cell phone', 'book']",complex,False,not annotated,unknown,640,480
+274411,val2017,5,4,"[1, 3, 37, 43]","['person', 'car', 'sports ball', 'tennis racket']",medium,True,not annotated,unknown,426,640
+547519,val2017,1,1,[23],['bear'],simple,False,not annotated,unknown,640,425
+9891,val2017,13,5,"[1, 3, 27, 32, 33]","['person', 'car', 'backpack', 'tie', 'suitcase']",complex,True,not annotated,unknown,640,480
+41488,val2017,0,0,[],[],unknown,False,not annotated,unknown,640,369
+314034,val2017,26,2,"[16, 21]","['bird', 'cow']",complex,False,not annotated,unknown,640,480
+529762,val2017,7,7,"[1, 46, 51, 54, 67, 77, 84]","['person', 'wine glass', 'bowl', 'sandwich', 'dining table', 'cell phone', 'book']",medium,True,not annotated,unknown,640,480
+185250,val2017,5,3,"[1, 18, 34]","['person', 'dog', 'frisbee']",medium,True,not annotated,unknown,399,640
+108253,val2017,13,8,"[1, 44, 47, 48, 49, 50, 59, 67]","['person', 'bottle', 'cup', 'fork', 'knife', 'spoon', 'pizza', 'dining table']",complex,True,not annotated,unknown,480,640
+187144,val2017,18,5,"[1, 6, 7, 27, 31]","['person', 'bus', 'train', 'backpack', 'handbag']",complex,True,not annotated,unknown,640,480
+203931,val2017,17,4,"[1, 15, 39, 40]","['person', 'bench', 'baseball bat', 'baseball glove']",complex,True,not annotated,unknown,428,640
+123321,val2017,21,3,"[51, 56, 57]","['bowl', 'broccoli', 'carrot']",complex,False,not annotated,unknown,612,612
+36494,val2017,52,9,"[1, 44, 47, 51, 62, 67, 82, 85, 86]","['person', 'bottle', 'cup', 'bowl', 'chair', 'dining table', 'refrigerator', 'clock', 'vase']",complex,True,not annotated,unknown,640,434
+491613,val2017,1,1,[24],['zebra'],simple,False,not annotated,unknown,480,640
+157756,val2017,20,7,"[1, 2, 3, 8, 10, 31, 85]","['person', 'bicycle', 'car', 'truck', 'traffic light', 'handbag', 'clock']",complex,True,not annotated,unknown,480,640
+237928,val2017,4,3,"[78, 79, 82]","['microwave', 'oven', 'refrigerator']",medium,False,not annotated,unknown,457,640
+147415,val2017,10,8,"[1, 44, 47, 62, 73, 75, 76, 84]","['person', 'bottle', 'cup', 'chair', 'laptop', 'remote', 'keyboard', 'book']",medium,True,not annotated,unknown,640,480
+452084,val2017,5,4,"[48, 51, 58, 67]","['fork', 'bowl', 'hot dog', 'dining table']",medium,False,not annotated,unknown,640,639
+146667,val2017,24,6,"[1, 3, 4, 27, 31, 53]","['person', 'car', 'motorcycle', 'backpack', 'handbag', 'apple']",complex,True,not annotated,unknown,640,539
+355325,val2017,11,7,"[1, 46, 47, 50, 51, 59, 67]","['person', 'wine glass', 'cup', 'spoon', 'bowl', 'pizza', 'dining table']",complex,True,not annotated,unknown,478,640
+73946,val2017,5,3,"[1, 42, 65]","['person', 'surfboard', 'bed']",medium,True,not annotated,unknown,640,428
+572388,val2017,5,2,"[17, 60]","['cat', 'donut']",medium,False,not annotated,unknown,349,500
+340930,val2017,2,1,[87],['scissors'],simple,False,not annotated,unknown,640,480
+391722,val2017,9,5,"[1, 32, 61, 67, 77]","['person', 'tie', 'cake', 'dining table', 'cell phone']",medium,True,not annotated,unknown,635,640
+97679,val2017,5,3,"[1, 3, 36]","['person', 'car', 'snowboard']",medium,True,not annotated,unknown,640,480
+153669,val2017,17,4,"[1, 15, 39, 40]","['person', 'bench', 'baseball bat', 'baseball glove']",complex,True,not annotated,unknown,640,427
+111951,val2017,4,3,"[70, 81, 86]","['toilet', 'sink', 'vase']",medium,False,not annotated,unknown,640,425
+485237,val2017,8,3,"[3, 5, 8]","['car', 'airplane', 'truck']",medium,False,not annotated,unknown,640,174
+166563,val2017,1,1,[22],['elephant'],simple,False,not annotated,unknown,640,408
+534270,val2017,10,4,"[1, 9, 18, 28]","['person', 'boat', 'dog', 'umbrella']",medium,True,not annotated,unknown,521,421
+66635,val2017,4,4,"[72, 74, 75, 76]","['tv', 'mouse', 'remote', 'keyboard']",medium,False,not annotated,unknown,640,480
+544519,val2017,2,2,"[1, 90]","['person', 'toothbrush']",simple,True,not annotated,unknown,640,427
+120853,val2017,10,6,"[47, 51, 54, 57, 67, 77]","['cup', 'bowl', 'sandwich', 'carrot', 'dining table', 'cell phone']",medium,False,not annotated,unknown,640,428
+166287,val2017,17,2,"[16, 21]","['bird', 'cow']",complex,False,not annotated,unknown,640,480
+361730,val2017,31,4,"[1, 15, 27, 38]","['person', 'bench', 'backpack', 'kite']",complex,True,not annotated,unknown,640,480
+361180,val2017,1,1,[23],['bear'],simple,False,not annotated,unknown,640,426
+302452,val2017,12,4,"[1, 25, 44, 77]","['person', 'giraffe', 'bottle', 'cell phone']",complex,True,not annotated,unknown,403,403
+321887,val2017,1,1,[20],['sheep'],simple,False,not annotated,unknown,640,424
+504415,val2017,8,4,"[1, 3, 37, 43]","['person', 'car', 'sports ball', 'tennis racket']",medium,True,not annotated,unknown,640,427
+314182,val2017,9,3,"[51, 56, 57]","['bowl', 'broccoli', 'carrot']",medium,False,not annotated,unknown,375,500
+536343,val2017,0,0,[],[],unknown,False,not annotated,unknown,263,175
+52891,val2017,8,3,"[1, 18, 34]","['person', 'dog', 'frisbee']",medium,True,not annotated,unknown,640,427
+15440,val2017,3,2,"[6, 13]","['bus', 'stop sign']",medium,False,not annotated,unknown,404,640
+47112,val2017,25,8,"[1, 44, 46, 49, 51, 59, 62, 67]","['person', 'bottle', 'wine glass', 'knife', 'bowl', 'pizza', 'chair', 'dining table']",complex,True,not annotated,unknown,640,480
+310980,val2017,3,3,"[73, 76, 88]","['laptop', 'keyboard', 'teddy bear']",medium,False,not annotated,unknown,640,427
+26690,val2017,16,3,"[1, 41, 82]","['person', 'skateboard', 'refrigerator']",complex,True,not annotated,unknown,427,640
+386210,val2017,15,4,"[3, 53, 55, 64]","['car', 'apple', 'orange', 'potted plant']",complex,False,not annotated,unknown,478,640
+250127,val2017,5,5,"[1, 7, 28, 31, 77]","['person', 'train', 'umbrella', 'handbag', 'cell phone']",medium,True,not annotated,unknown,640,640
+88432,val2017,5,3,"[8, 10, 11]","['truck', 'traffic light', 'fire hydrant']",medium,False,not annotated,unknown,480,640
+446005,val2017,5,4,"[78, 79, 81, 84]","['microwave', 'oven', 'sink', 'book']",medium,False,not annotated,unknown,500,333
+486104,val2017,18,4,"[1, 15, 39, 40]","['person', 'bench', 'baseball bat', 'baseball glove']",complex,True,not annotated,unknown,500,375
+162366,val2017,1,1,[14],['parking meter'],simple,False,not annotated,unknown,640,451
+445722,val2017,6,4,"[1, 9, 27, 33]","['person', 'boat', 'backpack', 'suitcase']",medium,True,not annotated,unknown,318,500
+70774,val2017,12,3,"[2, 4, 16]","['bicycle', 'motorcycle', 'bird']",complex,False,not annotated,unknown,640,425
+233825,val2017,20,6,"[63, 67, 72, 75, 84, 86]","['couch', 'dining table', 'tv', 'remote', 'book', 'vase']",complex,False,not annotated,unknown,640,480
+516677,val2017,22,4,"[1, 27, 31, 35]","['person', 'backpack', 'handbag', 'skis']",complex,True,not annotated,unknown,640,480
+384661,val2017,7,5,"[44, 50, 79, 82, 85]","['bottle', 'spoon', 'oven', 'refrigerator', 'clock']",medium,False,not annotated,unknown,500,375
+166747,val2017,18,5,"[1, 8, 15, 19, 31]","['person', 'truck', 'bench', 'horse', 'handbag']",complex,True,not annotated,unknown,375,500
+180101,val2017,11,6,"[1, 48, 59, 61, 62, 67]","['person', 'fork', 'pizza', 'cake', 'chair', 'dining table']",complex,True,not annotated,unknown,640,480
+377497,val2017,1,1,[24],['zebra'],simple,False,not annotated,unknown,432,640
+193348,val2017,2,2,"[1, 90]","['person', 'toothbrush']",simple,True,not annotated,unknown,426,640
+416451,val2017,28,7,"[1, 44, 46, 47, 63, 75, 84]","['person', 'bottle', 'wine glass', 'cup', 'couch', 'remote', 'book']",complex,True,not annotated,unknown,640,480
+31296,val2017,53,8,"[1, 32, 44, 47, 62, 67, 77, 85]","['person', 'tie', 'bottle', 'cup', 'chair', 'dining table', 'cell phone', 'clock']",complex,True,not annotated,unknown,640,425
+528980,val2017,9,3,"[3, 13, 28]","['car', 'stop sign', 'umbrella']",medium,False,not annotated,unknown,426,640
+105912,val2017,17,4,"[1, 3, 6, 11]","['person', 'car', 'bus', 'fire hydrant']",complex,True,not annotated,unknown,500,375
+338624,val2017,18,6,"[1, 3, 10, 18, 55, 62]","['person', 'car', 'traffic light', 'dog', 'orange', 'chair']",complex,True,not annotated,unknown,640,360
+30785,val2017,10,4,"[51, 54, 56, 67]","['bowl', 'sandwich', 'broccoli', 'dining table']",medium,False,not annotated,unknown,640,480
+243075,val2017,1,1,[23],['bear'],simple,False,not annotated,unknown,640,573
+65288,val2017,39,6,"[1, 2, 16, 27, 62, 64]","['person', 'bicycle', 'bird', 'backpack', 'chair', 'potted plant']",complex,True,not annotated,unknown,640,427
+492968,val2017,2,2,"[1, 36]","['person', 'snowboard']",simple,True,not annotated,unknown,640,425
+306733,val2017,7,4,"[44, 64, 70, 81]","['bottle', 'potted plant', 'toilet', 'sink']",medium,False,not annotated,unknown,640,426
+215778,val2017,19,5,"[47, 73, 74, 76, 84]","['cup', 'laptop', 'mouse', 'keyboard', 'book']",complex,False,not annotated,unknown,640,427
+64574,val2017,0,0,[],[],unknown,False,not annotated,unknown,479,640
+552775,val2017,11,7,"[1, 44, 49, 50, 51, 79, 82]","['person', 'bottle', 'knife', 'spoon', 'bowl', 'oven', 'refrigerator']",complex,True,not annotated,unknown,375,500
+139872,val2017,4,3,"[1, 18, 34]","['person', 'dog', 'frisbee']",medium,True,not annotated,unknown,640,480
+457884,val2017,10,5,"[1, 3, 4, 8, 40]","['person', 'car', 'motorcycle', 'truck', 'baseball glove']",medium,True,not annotated,unknown,640,458
+312192,val2017,11,7,"[1, 44, 46, 48, 51, 59, 67]","['person', 'bottle', 'wine glass', 'fork', 'bowl', 'pizza', 'dining table']",complex,True,not annotated,unknown,640,480
+440184,val2017,13,4,"[1, 37, 43, 47]","['person', 'sports ball', 'tennis racket', 'cup']",complex,True,not annotated,unknown,640,425
+29596,val2017,11,8,"[47, 62, 63, 64, 67, 72, 84, 86]","['cup', 'chair', 'couch', 'potted plant', 'dining table', 'tv', 'book', 'vase']",complex,False,not annotated,unknown,640,428
+238039,val2017,1,1,[20],['sheep'],simple,False,not annotated,unknown,480,640
+310200,val2017,3,3,"[50, 51, 60]","['spoon', 'bowl', 'donut']",medium,False,not annotated,unknown,640,480
+166642,val2017,1,1,[22],['elephant'],simple,False,not annotated,unknown,640,480
+434204,val2017,9,4,"[1, 15, 27, 41]","['person', 'bench', 'backpack', 'skateboard']",medium,True,not annotated,unknown,500,333
+272049,val2017,2,2,"[5, 8]","['airplane', 'truck']",simple,False,not annotated,unknown,640,427
+419098,val2017,3,1,[87],['scissors'],medium,False,not annotated,unknown,640,554
+51961,val2017,1,1,[14],['parking meter'],simple,False,not annotated,unknown,427,640
+462371,val2017,11,5,"[1, 32, 47, 49, 61]","['person', 'tie', 'cup', 'knife', 'cake']",complex,True,not annotated,unknown,500,401
+113235,val2017,4,4,"[1, 3, 19, 57]","['person', 'car', 'horse', 'carrot']",medium,True,not annotated,unknown,640,480
+219283,val2017,5,3,"[51, 52, 88]","['bowl', 'banana', 'teddy bear']",medium,False,not annotated,unknown,500,500
+304365,val2017,4,4,"[1, 7, 31, 33]","['person', 'train', 'handbag', 'suitcase']",medium,True,not annotated,unknown,640,427
+199771,val2017,20,8,"[1, 44, 47, 49, 51, 54, 84, 85]","['person', 'bottle', 'cup', 'knife', 'bowl', 'sandwich', 'book', 'clock']",complex,True,not annotated,unknown,640,425
+324614,val2017,2,2,"[1, 90]","['person', 'toothbrush']",simple,True,not annotated,unknown,640,427
+548780,val2017,16,6,"[1, 15, 16, 27, 31, 64]","['person', 'bench', 'bird', 'backpack', 'handbag', 'potted plant']",complex,True,not annotated,unknown,640,427
+82846,val2017,3,2,"[6, 13]","['bus', 'stop sign']",medium,False,not annotated,unknown,640,454
+363461,val2017,6,5,"[62, 72, 73, 74, 76]","['chair', 'tv', 'laptop', 'mouse', 'keyboard']",medium,False,not annotated,unknown,640,478
+193717,val2017,12,5,"[1, 3, 10, 11, 31]","['person', 'car', 'traffic light', 'fire hydrant', 'handbag']",complex,True,not annotated,unknown,521,640
+335427,val2017,10,4,"[48, 50, 51, 56]","['fork', 'spoon', 'bowl', 'broccoli']",medium,False,not annotated,unknown,640,448
+382743,val2017,8,2,"[28, 38]","['umbrella', 'kite']",medium,False,not annotated,unknown,640,480
+400082,val2017,4,4,"[47, 58, 67, 84]","['cup', 'hot dog', 'dining table', 'book']",medium,False,not annotated,unknown,500,283
+293625,val2017,8,6,"[1, 44, 46, 63, 64, 75]","['person', 'bottle', 'wine glass', 'couch', 'potted plant', 'remote']",medium,True,not annotated,unknown,640,480
+92177,val2017,3,2,"[42, 61]","['surfboard', 'cake']",medium,False,not annotated,unknown,626,640
+142620,val2017,15,9,"[1, 44, 47, 49, 50, 51, 55, 62, 67]","['person', 'bottle', 'cup', 'knife', 'spoon', 'bowl', 'orange', 'chair', 'dining table']",complex,True,not annotated,unknown,640,426
+136915,val2017,9,5,"[1, 32, 39, 62, 84]","['person', 'tie', 'baseball bat', 'chair', 'book']",medium,True,not annotated,unknown,640,427
+509403,val2017,5,3,"[1, 18, 34]","['person', 'dog', 'frisbee']",medium,True,not annotated,unknown,640,427
+449406,val2017,1,1,[24],['zebra'],simple,False,not annotated,unknown,500,333
+203546,val2017,1,1,[23],['bear'],simple,False,not annotated,unknown,640,457
+74860,val2017,2,2,"[1, 36]","['person', 'snowboard']",simple,True,not annotated,unknown,640,427
+177015,val2017,6,5,"[1, 17, 63, 73, 82]","['person', 'cat', 'couch', 'laptop', 'refrigerator']",medium,True,not annotated,unknown,640,480
+477118,val2017,0,0,[],[],unknown,False,not annotated,unknown,500,333
+436883,val2017,12,5,"[1, 3, 6, 8, 33]","['person', 'car', 'bus', 'truck', 'suitcase']",complex,True,not annotated,unknown,640,421
+305609,val2017,12,8,"[1, 44, 48, 49, 50, 51, 54, 67]","['person', 'bottle', 'fork', 'knife', 'spoon', 'bowl', 'sandwich', 'dining table']",complex,True,not annotated,unknown,612,612
+569059,val2017,14,6,"[1, 62, 72, 74, 76, 77]","['person', 'chair', 'tv', 'mouse', 'keyboard', 'cell phone']",complex,True,not annotated,unknown,640,480
+327701,val2017,8,4,"[1, 37, 43, 47]","['person', 'sports ball', 'tennis racket', 'cup']",medium,True,not annotated,unknown,640,428
+64495,val2017,1,1,[14],['parking meter'],simple,False,not annotated,unknown,640,480
+394510,val2017,6,4,"[1, 2, 3, 41]","['person', 'bicycle', 'car', 'skateboard']",medium,True,not annotated,unknown,640,480
+226408,val2017,3,3,"[1, 65, 88]","['person', 'bed', 'teddy bear']",medium,True,not annotated,unknown,640,469
+281179,val2017,10,3,"[10, 11, 15]","['traffic light', 'fire hydrant', 'bench']",medium,False,not annotated,unknown,640,480
+460841,val2017,4,4,"[1, 17, 44, 70]","['person', 'cat', 'bottle', 'toilet']",medium,True,not annotated,unknown,500,375
+563281,val2017,2,2,"[1, 90]","['person', 'toothbrush']",simple,True,not annotated,unknown,489,500
+154947,val2017,1,1,[20],['sheep'],simple,False,not annotated,unknown,640,640
+180383,val2017,4,4,"[1, 21, 72, 85]","['person', 'cow', 'tv', 'clock']",medium,True,not annotated,unknown,640,480
+255912,val2017,5,4,"[44, 54, 56, 67]","['bottle', 'sandwich', 'broccoli', 'dining table']",medium,False,not annotated,unknown,640,359
+195918,val2017,6,5,"[62, 72, 73, 74, 76]","['chair', 'tv', 'laptop', 'mouse', 'keyboard']",medium,False,not annotated,unknown,640,428
+422886,val2017,3,3,"[1, 58, 63]","['person', 'hot dog', 'couch']",medium,True,not annotated,unknown,640,640
+57760,val2017,19,3,"[1, 18, 38]","['person', 'dog', 'kite']",complex,True,not annotated,unknown,500,313
+280891,val2017,23,5,"[1, 31, 44, 53, 55]","['person', 'handbag', 'bottle', 'apple', 'orange']",complex,True,not annotated,unknown,427,640
+133631,val2017,1,1,[22],['elephant'],simple,False,not annotated,unknown,425,640
+485972,val2017,6,4,"[48, 57, 61, 67]","['fork', 'carrot', 'cake', 'dining table']",medium,False,not annotated,unknown,426,640
+542776,val2017,4,4,"[1, 16, 65, 84]","['person', 'bird', 'bed', 'book']",medium,True,not annotated,unknown,640,426
+274460,val2017,20,4,"[1, 2, 27, 42]","['person', 'bicycle', 'backpack', 'surfboard']",complex,True,not annotated,unknown,640,454
+417632,val2017,17,7,"[1, 31, 32, 44, 46, 47, 51]","['person', 'handbag', 'tie', 'bottle', 'wine glass', 'cup', 'bowl']",complex,True,not annotated,unknown,640,480
+114884,val2017,33,5,"[1, 6, 27, 31, 33]","['person', 'bus', 'backpack', 'handbag', 'suitcase']",complex,True,not annotated,unknown,500,329
+231508,val2017,26,6,"[1, 3, 15, 37, 40, 62]","['person', 'car', 'bench', 'sports ball', 'baseball glove', 'chair']",complex,True,not annotated,unknown,335,500
+157928,val2017,8,4,"[1, 3, 27, 35]","['person', 'car', 'backpack', 'skis']",medium,True,not annotated,unknown,640,480
+369541,val2017,7,3,"[1, 18, 34]","['person', 'dog', 'frisbee']",medium,True,not annotated,unknown,375,500
+435003,val2017,7,5,"[62, 72, 73, 74, 76]","['chair', 'tv', 'laptop', 'mouse', 'keyboard']",medium,False,not annotated,unknown,640,427
+109900,val2017,13,3,"[1, 5, 8]","['person', 'airplane', 'truck']",complex,True,not annotated,unknown,640,478
+307658,val2017,1,1,[23],['bear'],simple,False,not annotated,unknown,589,640
+434247,val2017,27,3,"[1, 16, 19]","['person', 'bird', 'horse']",complex,True,not annotated,unknown,640,482
+343937,val2017,2,2,"[1, 36]","['person', 'snowboard']",simple,True,not annotated,unknown,640,428
+214720,val2017,11,7,"[1, 49, 61, 62, 63, 64, 67]","['person', 'knife', 'cake', 'chair', 'couch', 'potted plant', 'dining table']",complex,True,not annotated,unknown,375,500
+382734,val2017,0,0,[],[],unknown,False,not annotated,unknown,480,640
+508917,val2017,18,5,"[1, 7, 15, 31, 85]","['person', 'train', 'bench', 'handbag', 'clock']",complex,True,not annotated,unknown,640,370
+280325,val2017,1,1,[14],['parking meter'],simple,False,not annotated,unknown,500,377
+311394,val2017,2,2,"[1, 90]","['person', 'toothbrush']",simple,True,not annotated,unknown,480,640
+329219,val2017,21,7,"[1, 18, 47, 48, 49, 50, 81]","['person', 'dog', 'cup', 'fork', 'knife', 'spoon', 'sink']",complex,True,not annotated,unknown,640,427
+319607,val2017,10,6,"[1, 2, 3, 6, 10, 27]","['person', 'bicycle', 'car', 'bus', 'traffic light', 'backpack']",medium,True,not annotated,unknown,640,640
+163640,val2017,6,4,"[1, 27, 51, 60]","['person', 'backpack', 'bowl', 'donut']",medium,True,not annotated,unknown,640,457
+549674,val2017,6,5,"[47, 72, 74, 76, 77]","['cup', 'tv', 'mouse', 'keyboard', 'cell phone']",medium,False,not annotated,unknown,640,480
+521719,val2017,8,2,"[28, 38]","['umbrella', 'kite']",medium,False,not annotated,unknown,427,640
+462614,val2017,4,4,"[62, 64, 70, 81]","['chair', 'potted plant', 'toilet', 'sink']",medium,False,not annotated,unknown,640,484
+248980,val2017,10,2,"[55, 56]","['orange', 'broccoli']",medium,False,not annotated,unknown,500,375
+172977,val2017,1,1,[24],['zebra'],simple,False,not annotated,unknown,640,486
+499181,val2017,13,4,"[1, 3, 10, 13]","['person', 'car', 'traffic light', 'stop sign']",complex,True,not annotated,unknown,640,480
+488166,val2017,6,6,"[1, 47, 48, 54, 59, 67]","['person', 'cup', 'fork', 'sandwich', 'pizza', 'dining table']",medium,True,not annotated,unknown,361,640
+575187,val2017,3,3,"[1, 25, 84]","['person', 'giraffe', 'book']",medium,True,not annotated,unknown,500,375
+16502,val2017,1,1,[20],['sheep'],simple,False,not annotated,unknown,375,500
+297085,val2017,6,3,"[17, 72, 88]","['cat', 'tv', 'teddy bear']",medium,False,not annotated,unknown,500,375
+383842,val2017,16,5,"[1, 31, 32, 73, 75]","['person', 'handbag', 'tie', 'laptop', 'remote']",complex,True,not annotated,unknown,640,434
+47819,val2017,4,3,"[1, 19, 33]","['person', 'horse', 'suitcase']",medium,True,not annotated,unknown,500,375
+177714,val2017,11,3,"[48, 53, 57]","['fork', 'apple', 'carrot']",complex,False,not annotated,unknown,640,409
+12120,val2017,25,4,"[1, 37, 43, 62]","['person', 'sports ball', 'tennis racket', 'chair']",complex,True,not annotated,unknown,640,428
+458325,val2017,35,4,"[1, 3, 10, 41]","['person', 'car', 'traffic light', 'skateboard']",complex,True,not annotated,unknown,640,427
+276434,val2017,11,5,"[1, 49, 55, 61, 67]","['person', 'knife', 'orange', 'cake', 'dining table']",complex,True,not annotated,unknown,640,427
+205514,val2017,26,7,"[62, 63, 64, 67, 72, 84, 86]","['chair', 'couch', 'potted plant', 'dining table', 'tv', 'book', 'vase']",complex,False,not annotated,unknown,640,426
+246308,val2017,5,5,"[62, 72, 73, 74, 76]","['chair', 'tv', 'laptop', 'mouse', 'keyboard']",medium,False,not annotated,unknown,480,640
+318238,val2017,4,3,"[17, 18, 65]","['cat', 'dog', 'bed']",medium,False,not annotated,unknown,478,640
+380706,val2017,9,5,"[1, 3, 4, 6, 10]","['person', 'car', 'motorcycle', 'bus', 'traffic light']",medium,True,not annotated,unknown,640,426
+420230,val2017,1,1,[22],['elephant'],simple,False,not annotated,unknown,427,640
+313454,val2017,7,6,"[1, 32, 44, 46, 62, 64]","['person', 'tie', 'bottle', 'wine glass', 'chair', 'potted plant']",medium,True,not annotated,unknown,640,388
+13348,val2017,12,3,"[1, 5, 8]","['person', 'airplane', 'truck']",complex,True,not annotated,unknown,640,427
+217872,val2017,2,2,"[1, 36]","['person', 'snowboard']",simple,True,not annotated,unknown,334,500
+445999,val2017,2,2,"[1, 90]","['person', 'toothbrush']",simple,True,not annotated,unknown,411,640
+235064,val2017,1,1,[23],['bear'],simple,False,not annotated,unknown,640,480
+240767,val2017,0,0,[],[],unknown,False,not annotated,unknown,500,375
+560178,val2017,4,3,"[1, 56, 57]","['person', 'broccoli', 'carrot']",medium,True,not annotated,unknown,640,480
+166918,val2017,45,8,"[1, 44, 46, 47, 48, 49, 50, 67]","['person', 'bottle', 'wine glass', 'cup', 'fork', 'knife', 'spoon', 'dining table']",complex,True,not annotated,unknown,480,640
+289417,val2017,12,3,"[1, 15, 35]","['person', 'bench', 'skis']",complex,True,not annotated,unknown,500,375
+296231,val2017,21,7,"[1, 62, 64, 72, 84, 85, 86]","['person', 'chair', 'potted plant', 'tv', 'book', 'clock', 'vase']",complex,True,not annotated,unknown,640,480
+365766,val2017,3,3,"[78, 79, 81]","['microwave', 'oven', 'sink']",medium,False,not annotated,unknown,640,480
+574315,val2017,5,5,"[1, 17, 63, 73, 76]","['person', 'cat', 'couch', 'laptop', 'keyboard']",medium,True,not annotated,unknown,640,480
+90003,val2017,3,2,"[18, 34]","['dog', 'frisbee']",medium,False,not annotated,unknown,640,480
+535253,val2017,8,4,"[47, 52, 59, 84]","['cup', 'banana', 'pizza', 'book']",medium,False,not annotated,unknown,612,612
+213593,val2017,10,4,"[1, 3, 10, 13]","['person', 'car', 'traffic light', 'stop sign']",medium,True,not annotated,unknown,640,426
+12670,val2017,29,5,"[1, 27, 31, 77, 88]","['person', 'backpack', 'handbag', 'cell phone', 'teddy bear']",complex,True,not annotated,unknown,640,428
+93353,val2017,5,4,"[1, 58, 62, 84]","['person', 'hot dog', 'chair', 'book']",medium,True,not annotated,unknown,640,480
+275791,val2017,8,2,"[7, 9]","['train', 'boat']",medium,False,not annotated,unknown,640,427
+428562,val2017,15,3,"[1, 20, 31]","['person', 'sheep', 'handbag']",complex,True,not annotated,unknown,640,480
+476704,val2017,8,5,"[2, 3, 6, 8, 15]","['bicycle', 'car', 'bus', 'truck', 'bench']",medium,False,not annotated,unknown,640,428
+222299,val2017,9,5,"[44, 65, 73, 77, 84]","['bottle', 'bed', 'laptop', 'cell phone', 'book']",medium,False,not annotated,unknown,500,375
+552902,val2017,1,1,[24],['zebra'],simple,False,not annotated,unknown,640,427
+541123,val2017,24,4,"[1, 37, 43, 62]","['person', 'sports ball', 'tennis racket', 'chair']",complex,True,not annotated,unknown,640,427
+189820,val2017,16,6,"[47, 62, 72, 74, 76, 84]","['cup', 'chair', 'tv', 'mouse', 'keyboard', 'book']",complex,False,not annotated,unknown,640,427
+341973,val2017,5,3,"[1, 15, 60]","['person', 'bench', 'donut']",medium,True,not annotated,unknown,500,375
+350679,val2017,26,5,"[1, 32, 49, 61, 67]","['person', 'tie', 'knife', 'cake', 'dining table']",complex,True,not annotated,unknown,640,428
+419201,val2017,7,2,"[16, 19]","['bird', 'horse']",medium,False,not annotated,unknown,640,425
+13923,val2017,19,8,"[44, 51, 62, 63, 64, 67, 72, 86]","['bottle', 'bowl', 'chair', 'couch', 'potted plant', 'dining table', 'tv', 'vase']",complex,False,not annotated,unknown,640,427
+56127,val2017,8,5,"[15, 47, 79, 81, 82]","['bench', 'cup', 'oven', 'sink', 'refrigerator']",medium,False,not annotated,unknown,580,640
+74058,val2017,27,8,"[1, 2, 3, 8, 28, 31, 62, 67]","['person', 'bicycle', 'car', 'truck', 'umbrella', 'handbag', 'chair', 'dining table']",complex,True,not annotated,unknown,640,427
+175251,val2017,2,2,"[1, 90]","['person', 'toothbrush']",simple,True,not annotated,unknown,612,612
+26465,val2017,6,6,"[1, 62, 73, 75, 76, 77]","['person', 'chair', 'laptop', 'remote', 'keyboard', 'cell phone']",medium,True,not annotated,unknown,500,375
+205776,val2017,1,1,[23],['bear'],simple,False,not annotated,unknown,640,425
+157365,val2017,9,4,"[1, 3, 10, 41]","['person', 'car', 'traffic light', 'skateboard']",medium,True,not annotated,unknown,427,640
+193429,val2017,2,2,"[1, 36]","['person', 'snowboard']",simple,True,not annotated,unknown,640,428
+402096,val2017,0,0,[],[],unknown,False,not annotated,unknown,480,640
+359219,val2017,5,4,"[48, 49, 59, 79]","['fork', 'knife', 'pizza', 'oven']",medium,False,not annotated,unknown,640,480
+465585,val2017,18,2,"[56, 57]","['broccoli', 'carrot']",complex,False,not annotated,unknown,427,640
+33759,val2017,5,5,"[1, 3, 8, 37, 39]","['person', 'car', 'truck', 'sports ball', 'baseball bat']",medium,True,not annotated,unknown,640,457
+520659,val2017,31,4,"[1, 28, 42, 62]","['person', 'umbrella', 'surfboard', 'chair']",complex,True,not annotated,unknown,640,480
+427055,val2017,9,3,"[3, 13, 85]","['car', 'stop sign', 'clock']",medium,False,not annotated,unknown,640,480
+374545,val2017,16,3,"[1, 2, 38]","['person', 'bicycle', 'kite']",complex,True,not annotated,unknown,549,640
+335081,val2017,4,2,"[16, 88]","['bird', 'teddy bear']",medium,False,not annotated,unknown,640,427
+376625,val2017,17,5,"[1, 3, 4, 7, 44]","['person', 'car', 'motorcycle', 'train', 'bottle']",complex,True,not annotated,unknown,640,427
+125405,val2017,3,2,"[18, 34]","['dog', 'frisbee']",medium,False,not annotated,unknown,640,428
+232244,val2017,1,1,[22],['elephant'],simple,False,not annotated,unknown,500,375
+367569,val2017,5,5,"[63, 73, 75, 77, 84]","['couch', 'laptop', 'remote', 'cell phone', 'book']",medium,False,not annotated,unknown,469,640
+497568,val2017,5,3,"[1, 5, 8]","['person', 'airplane', 'truck']",medium,True,not annotated,unknown,640,424
+7818,val2017,11,6,"[46, 48, 49, 62, 67, 86]","['wine glass', 'fork', 'knife', 'chair', 'dining table', 'vase']",complex,False,not annotated,unknown,640,427
+568147,val2017,7,3,"[1, 3, 14]","['person', 'car', 'parking meter']",medium,True,not annotated,unknown,480,640
+480936,val2017,5,4,"[1, 58, 62, 84]","['person', 'hot dog', 'chair', 'book']",medium,True,not annotated,unknown,482,640
+401991,val2017,4,3,"[17, 18, 65]","['cat', 'dog', 'bed']",medium,False,not annotated,unknown,640,379
+293044,val2017,4,4,"[50, 54, 57, 67]","['spoon', 'sandwich', 'carrot', 'dining table']",medium,False,not annotated,unknown,288,160
+92416,val2017,8,4,"[1, 9, 32, 44]","['person', 'boat', 'tie', 'bottle']",medium,True,not annotated,unknown,480,640
+370818,val2017,3,3,"[64, 70, 81]","['potted plant', 'toilet', 'sink']",medium,False,not annotated,unknown,472,640
+94871,val2017,10,3,"[1, 20, 31]","['person', 'sheep', 'handbag']",medium,True,not annotated,unknown,480,640
+33104,val2017,9,3,"[1, 15, 35]","['person', 'bench', 'skis']",medium,True,not annotated,unknown,428,500
+259382,val2017,1,1,[25],['giraffe'],simple,False,not annotated,unknown,640,480
+546717,val2017,6,6,"[1, 47, 63, 64, 73, 74]","['person', 'cup', 'couch', 'potted plant', 'laptop', 'mouse']",medium,True,not annotated,unknown,471,640
+248111,val2017,6,6,"[31, 44, 47, 79, 81, 82]","['handbag', 'bottle', 'cup', 'oven', 'sink', 'refrigerator']",medium,False,not annotated,unknown,640,427
+147740,val2017,13,5,"[1, 3, 4, 31, 52]","['person', 'car', 'motorcycle', 'handbag', 'banana']",complex,True,not annotated,unknown,640,480
+281409,val2017,19,4,"[1, 39, 40, 62]","['person', 'baseball bat', 'baseball glove', 'chair']",complex,True,not annotated,unknown,640,427
+195842,val2017,9,7,"[1, 51, 62, 63, 72, 75, 85]","['person', 'bowl', 'chair', 'couch', 'tv', 'remote', 'clock']",medium,True,not annotated,unknown,640,480
+84650,val2017,7,4,"[17, 27, 31, 33]","['cat', 'backpack', 'handbag', 'suitcase']",medium,False,not annotated,unknown,640,480
+410650,val2017,30,4,"[1, 37, 43, 62]","['person', 'sports ball', 'tennis racket', 'chair']",complex,True,not annotated,unknown,640,480
+350488,val2017,1,1,[24],['zebra'],simple,False,not annotated,unknown,640,427
+233771,val2017,17,5,"[1, 6, 28, 31, 85]","['person', 'bus', 'umbrella', 'handbag', 'clock']",complex,True,not annotated,unknown,640,640
+513484,val2017,1,1,[23],['bear'],simple,False,not annotated,unknown,640,425
+352900,val2017,9,4,"[48, 49, 51, 56]","['fork', 'knife', 'bowl', 'broccoli']",medium,False,not annotated,unknown,640,427
+146489,val2017,6,5,"[44, 46, 59, 67, 77]","['bottle', 'wine glass', 'pizza', 'dining table', 'cell phone']",medium,False,not annotated,unknown,640,480
+451043,val2017,2,2,"[1, 36]","['person', 'snowboard']",simple,True,not annotated,unknown,640,427
+776,val2017,4,2,"[65, 88]","['bed', 'teddy bear']",medium,False,not annotated,unknown,428,640
+344611,val2017,0,0,[],[],unknown,False,not annotated,unknown,640,426
+286908,val2017,20,4,"[47, 51, 60, 67]","['cup', 'bowl', 'donut', 'dining table']",complex,False,not annotated,unknown,640,640
+465549,val2017,12,6,"[1, 63, 64, 67, 75, 86]","['person', 'couch', 'potted plant', 'dining table', 'remote', 'vase']",complex,True,not annotated,unknown,640,428
+258793,val2017,4,3,"[1, 3, 14]","['person', 'car', 'parking meter']",medium,True,not annotated,unknown,640,476
+426241,val2017,7,5,"[1, 72, 73, 74, 76]","['person', 'tv', 'laptop', 'mouse', 'keyboard']",medium,True,not annotated,unknown,500,375
+547502,val2017,5,2,"[18, 34]","['dog', 'frisbee']",medium,False,not annotated,unknown,640,480
+307074,val2017,20,3,"[3, 10, 13]","['car', 'traffic light', 'stop sign']",complex,False,not annotated,unknown,500,333
+145597,val2017,19,6,"[1, 31, 44, 46, 47, 55]","['person', 'handbag', 'bottle', 'wine glass', 'cup', 'orange']",complex,True,not annotated,unknown,640,480
+513567,val2017,14,4,"[1, 3, 31, 58]","['person', 'car', 'handbag', 'hot dog']",complex,True,not annotated,unknown,640,480

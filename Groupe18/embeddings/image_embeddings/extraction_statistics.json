@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "model": "openai/clip-vit-base-patch32",
+  "model_revision": "3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268",
+  "dimension": 512,
+  "dtype": "float32",
+  "normalization": "L2",
+  "device": "cpu",
+  "batch_size": 64,
+  "torch_version": "2.15.0+cpu",
+  "transformers_version": "5.22.1",
+  "elapsed_seconds": 2.07,
+  "splits": {
+    "train": {
+      "count": 10000,
+      "cached": true
+    },
+    "validation": {
+      "count": 100,
+      "cached": true
+    },
+    "test": {
+      "count": 1000,
+      "cached": false,
+      "errors": 0
+    }
+  },
+  "output_dir": "embeddings\\image_embeddings"
+}

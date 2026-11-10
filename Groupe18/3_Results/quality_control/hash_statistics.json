@@ -1,0 +1,23 @@
+{
+  "algorithm": "phash64_dct",
+  "hash_bits": 64,
+  "threshold_hamming_inclusive": 6,
+  "images_hashed": 11100,
+  "errors": [],
+  "pairs_within_split": {
+    "train-train": 9
+  },
+  "pairs_across_splits": {},
+  "candidate_pair_count": 9,
+  "exact_phash_match_count": 1,
+  "nonzero_perceptual_candidate_count": 8,
+  "hamming_distance_counts": {
+    "0": 1,
+    "2": 2,
+    "4": 2,
+    "6": 4
+  },
+  "mean_candidate_distance": 4.0,
+  "threshold_interpretation": "Candidates only; not a declaration of duplicate identity. Verify visually before any action.",
+  "elapsed_seconds": 34.38
+}

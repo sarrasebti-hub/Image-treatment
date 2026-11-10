@@ -1,0 +1,15 @@
+{
+  "model": "openai/clip-vit-base-patch32",
+  "model_revision": "3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268",
+  "count": 50000,
+  "dimension": 512,
+  "dtype": "float32",
+  "normalization": "L2",
+  "device": "cpu",
+  "max_token_length": 77,
+  "text_source": "caption_raw, training split only",
+  "elapsed_seconds": 1121.3,
+  "torch_version": "2.15.0+cpu",
+  "transformers_version": "5.22.1",
+  "batch_size": 64
+}

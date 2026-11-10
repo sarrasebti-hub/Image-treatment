@@ -1,0 +1,6 @@
+{
+  "model": "en_core_web_sm",
+  "count": 50000,
+  "source": "data/captions/train.json",
+  "preserves_caption_raw": true
+}

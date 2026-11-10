@@ -1,0 +1,210 @@
+{
+  "phase": "Data Exploration & Preprocessing",
+  "overall_status": "PARTIAL",
+  "audit_basis": {
+    "project_root": "C:/Users/uu/Desktop/projet image",
+    "assignment_pdf_reviewed": true,
+    "assignment_pdf_review_source": "Original assignment PDF reviewed; detailed requirements and data-audit instructions specify 1,000 test images.",
+    "provided_task_specification_used": true,
+    "existing_quality_control_status": "PASS",
+    "existing_quality_control_regenerated": false,
+    "extended_analysis_rerun": true
+  },
+  "dataset": {
+    "train_images": 10000,
+    "validation_images": 100,
+    "test_images": 1000,
+    "total_images": 11100,
+    "captions_per_image": 5,
+    "total_captions": 55500,
+    "seed": 20261106,
+    "manifests_modified": false
+  },
+  "requirements": {
+    "dataset_selection": "PASS",
+    "dataset_integrity": "PASS",
+    "split_leakage": "PASS",
+    "image_decode_and_output_integrity": "PASS",
+    "exif_orientation_operation": "PASS",
+    "exif_correction_counts": "NOT_VERIFIABLE",
+    "rgb_conversion_and_resize": "PASS",
+    "encoder_normalization": "PASS",
+    "raw_caption_preservation": "PARTIAL",
+    "cleaned_caption_separation": "PASS",
+    "caption_mapping_integrity": "PARTIAL",
+    "caption_statistics": "PASS",
+    "vocabulary_statistics": "PASS",
+    "pos_analysis": "PASS",
+    "object_statistics": "PASS",
+    "spatial_relationships": "PASS",
+    "visual_diversity": "PASS",
+    "metadata_completeness": "PASS",
+    "image_embeddings": "PASS",
+    "text_embeddings": "PASS",
+    "faiss_integrity": "PASS",
+    "anti_leakage": "PASS",
+    "validation_configuration": "PASS_NEW_GEOMETRY_ONLY_COMPARISON",
+    "reproducibility": "PARTIAL",
+    "assignment_pdf_comparison": "PASS",
+    "test_size_requirement": "PASS"
+  },
+  "verified_results": {
+    "quality_control": {
+      "overall_status": "PASS",
+      "phase1_complete": true,
+      "failed_checks": 0,
+      "warning_checks": 0,
+      "not_run_checks": 0
+    },
+    "split_integrity": {
+      "overlap_count": 0,
+      "exact_sha256_duplicate_groups": 0,
+      "phash_images_hashed": 11100,
+      "phash_candidate_pairs": 9,
+      "cross_split_phash_candidates": 0,
+      "processed_images_decoded": 11100,
+      "missing_processed_images": 0
+    },
+    "captions": {
+      "train": 50000,
+      "validation": 500,
+      "test": 5000,
+      "exactly_five_per_image": true,
+      "pos_caption_count": 55500,
+      "pos_token_count": 642147,
+      "pos_errors": 0
+    },
+    "embeddings": {
+      "model": "openai/clip-vit-base-patch32",
+      "model_revision": "3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268",
+      "dimension": 512,
+      "dtype": "float32",
+      "normalization": "L2",
+      "image_vectors": {
+        "train": 10000,
+        "validation": 100,
+        "test": 1000
+      },
+      "training_caption_vectors": 50000,
+      "embedding_mappings_match": true
+    },
+    "faiss": {
+      "index_type": "IndexFlatIP",
+      "image_index_vectors": 10000,
+      "caption_index_vectors": 50000,
+      "dimension": 512,
+      "heldout_caption_ids_in_index": 0,
+      "retrieval_query_count": 20,
+      "retrieval_self_matches": 0,
+      "retrieval_index_readback_valid": true
+    },
+    "image_preprocessing": {
+      "source_operation": "PIL ImageOps.exif_transpose, RGB conversion, LANCZOS thumbnail preserving aspect ratio, centered black letterbox",
+      "target_size": [
+        224,
+        224
+      ],
+      "normalization": "CLIP processor at embedding time; normalization is not baked into JPEGs",
+      "orientation_correction_count_recorded": false,
+      "rgb_conversion_count_recorded": false
+    },
+    "extended_analysis": {
+      "captions": {
+        "count": 55500,
+        "tokens": 591664,
+        "vocabulary_size": 9793,
+        "unique_word_count": 9793,
+        "tokenization": "NFKC; casefold; Unicode letter/number tokens; internal straight/curly apostrophes retained; no stemming/lemmatization"
+      },
+      "visual_diversity": {
+        "images": 11100,
+        "dominant_color_counts": {
+          "red": 4430,
+          "gray": 3948,
+          "magenta": 69,
+          "orange": 883,
+          "white": 581,
+          "yellow": 134,
+          "cyan": 813,
+          "black": 129,
+          "green": 41,
+          "blue": 61,
+          "purple": 11
+        },
+        "method": "96x96 RGB samples; coarse HSV family quantization; luminance/saturation; Pillow FIND_EDGES threshold proxy"
+      },
+      "spatial_relationships": {
+        "left_of": 680482,
+        "below": 671396,
+        "right_of": 676706,
+        "above": 584569,
+        "overlapping": 47381,
+        "near": 151587,
+        "contains": 28366,
+        "inside": 30359
+      },
+      "validation_preprocessing": {
+        "images": 100,
+        "configurations": [
+          "letterbox_224",
+          "stretch_224",
+          "center_crop_224"
+        ],
+        "selected": "letterbox_224",
+        "historical_evidence_found": false,
+        "evaluation_scope": "geometry criteria only; not downstream model performance"
+      }
+    }
+  },
+  "test_size_note": {
+    "detailed_requirement_images": 1000,
+    "isolated_typographical_value": "1,00",
+    "current_images": 1000,
+    "changed": false,
+    "interpretation": "The original assignment's detailed dataset and preprocessing requirements specify 1,000 test images. One occurrence contains the typographical value 1,00; the detailed requirements and data-audit instructions establish 1,000 as intended.",
+    "source_note": "Original assignment PDF reviewed."
+  },
+  "missing_requirements": [
+    "Historical per-image EXIF correction and grayscale/RGBA conversion counts were not retained.",
+    "Exact source-to-caption-ID/text mapping verification remains partial.",
+    "Unified reproducibility snapshot (OS, complete dependency versions, timestamp and manifest revision) remains incomplete."
+  ],
+  "limitations": [
+    "No caption generation or caption metric evaluation is implemented in Phase 1.",
+    "CLIP scene/context/time scores are relative prompt scores, not calibrated probabilities.",
+    "COCO object co-occurrence is not a verified spatial or semantic relationship.",
+    "Nine current pHash candidates are within-split review candidates and are not asserted duplicates."
+  ],
+  "warnings": [],
+  "failed_checks": [],
+  "not_verifiable": [
+    "Historical per-image EXIF correction and RGB/color-conversion counts."
+  ],
+  "implementation_changes": [
+    "Added reproducible extended analysis entry point: python main.py extended_analysis.",
+    "Generated caption vocabulary/tokenization statistics, token-frequency/token-count tables and vocabulary visualizations.",
+    "Generated per-image coarse color, luminance, saturation, and edge-density proxy statistics and visualizations; semantic and object-shape recognition were not attempted.",
+    "Generated COCO-box geometric relation tables, summaries, per-image metadata and frequency visualization; semantic relation claims explicitly excluded.",
+    "Compared letterbox, stretch and center-crop geometry on the existing 100 validation images; no historical experiment claimed."
+  ],
+  "audit_outputs": [
+    "reports/PHASE1_FINAL_COMPLIANCE_REPORT.md",
+    "reports/phase1_final_compliance.json",
+    "reports/statistical_analysis/caption_vocabulary_statistics.json",
+    "reports/statistical_analysis/caption_word_frequencies.csv",
+    "reports/statistical_analysis/caption_token_counts.csv",
+    "data/metadata/color_shape_diversity.json",
+    "data/metadata/color_shape_diversity.csv",
+    "reports/statistical_analysis/geometric_spatial_relationships_summary.json",
+    "reports/statistical_analysis/geometric_spatial_relationships.csv",
+    "data/metadata/spatial_relationships_per_image.json",
+    "reports/statistical_analysis/validation_preprocessing_comparison.json",
+    "reports/statistical_analysis/validation_preprocessing_comparison.csv",
+    "visualizations/caption_vocabulary_top30.png",
+    "visualizations/caption_vocabulary_rank_frequency.png",
+    "visualizations/color_family_distribution.png",
+    "visualizations/image_edge_density_distribution.png",
+    "visualizations/geometric_relationship_frequencies.png",
+    "visualizations/validation_preprocessing_comparison.png"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "model": "en_core_web_sm",
+  "count": 5000,
+  "source": "data/captions/test.json",
+  "preserves_caption_raw": true
+}

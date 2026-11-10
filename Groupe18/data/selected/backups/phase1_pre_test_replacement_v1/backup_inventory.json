@@ -1,0 +1,96 @@
+{
+  "revision": "1.1.0",
+  "files": [
+    {
+      "path": "data/selected/train_ids.json",
+      "backup_path": "data/selected/backups/phase1_pre_test_replacement_v1/data/selected/train_ids.json",
+      "sha256": "eee87e12ff6c89a33035bcc2daf43e9433210079226d68d1ec44087688e34f3e",
+      "backup_sha256": "eee87e12ff6c89a33035bcc2daf43e9433210079226d68d1ec44087688e34f3e"
+    },
+    {
+      "path": "data/selected/train_ids.csv",
+      "backup_path": "data/selected/backups/phase1_pre_test_replacement_v1/data/selected/train_ids.csv",
+      "sha256": "028ccc3144e30b9affcd76a3ebad8766b0eaba2b8703454239f27b0b15f2a7c5",
+      "backup_sha256": "028ccc3144e30b9affcd76a3ebad8766b0eaba2b8703454239f27b0b15f2a7c5"
+    },
+    {
+      "path": "data/selected/validation_ids.json",
+      "backup_path": "data/selected/backups/phase1_pre_test_replacement_v1/data/selected/validation_ids.json",
+      "sha256": "1fa9a5d8ec55b7aca28d5c1faba9fc192527bf26df3601887fd09c3a01ca1537",
+      "backup_sha256": "1fa9a5d8ec55b7aca28d5c1faba9fc192527bf26df3601887fd09c3a01ca1537"
+    },
+    {
+      "path": "data/selected/validation_ids.csv",
+      "backup_path": "data/selected/backups/phase1_pre_test_replacement_v1/data/selected/validation_ids.csv",
+      "sha256": "f255d02b47fc1f92ee3464bd5cf066922012eba88f530e0057a39c75c50423e0",
+      "backup_sha256": "f255d02b47fc1f92ee3464bd5cf066922012eba88f530e0057a39c75c50423e0"
+    },
+    {
+      "path": "data/selected/test_ids.json",
+      "backup_path": "data/selected/backups/phase1_pre_test_replacement_v1/data/selected/test_ids.json",
+      "sha256": "bec1305e5a2feb3f73b93e2509566934f35970756b455174f71ba2b7572a2fba",
+      "backup_sha256": "bec1305e5a2feb3f73b93e2509566934f35970756b455174f71ba2b7572a2fba"
+    },
+    {
+      "path": "data/selected/test_ids.csv",
+      "backup_path": "data/selected/backups/phase1_pre_test_replacement_v1/data/selected/test_ids.csv",
+      "sha256": "e230a816d2ebe37fb2aec4d81fde799d7a8cff44beb273113d8e6548f0ea6ea0",
+      "backup_sha256": "e230a816d2ebe37fb2aec4d81fde799d7a8cff44beb273113d8e6548f0ea6ea0"
+    },
+    {
+      "path": "data/selected/selection_report.json",
+      "backup_path": "data/selected/backups/phase1_pre_test_replacement_v1/data/selected/selection_report.json",
+      "sha256": "c30ad127e2a3d1fc37f6c525a5840a925c6dd7eb59df636eaec171397a1f217c",
+      "backup_sha256": "c30ad127e2a3d1fc37f6c525a5840a925c6dd7eb59df636eaec171397a1f217c"
+    },
+    {
+      "path": "reports/perceptual_hash/duplicate_candidates.json",
+      "backup_path": "data/selected/backups/phase1_pre_test_replacement_v1/reports/perceptual_hash/duplicate_candidates.json",
+      "sha256": "8ef9bfb0fcf4fd5ca834a16c52d749b540fa6b26a5b44d16f2e35094926d53d1",
+      "backup_sha256": "8ef9bfb0fcf4fd5ca834a16c52d749b540fa6b26a5b44d16f2e35094926d53d1"
+    },
+    {
+      "path": "reports/perceptual_hash/hash_statistics.json",
+      "backup_path": "data/selected/backups/phase1_pre_test_replacement_v1/reports/perceptual_hash/hash_statistics.json",
+      "sha256": "c94489cd4bf679d17dbcb4bffa49e1ea83a318919ed82ef8d4057bf6711eacee",
+      "backup_sha256": "c94489cd4bf679d17dbcb4bffa49e1ea83a318919ed82ef8d4057bf6711eacee"
+    },
+    {
+      "path": "reports/perceptual_hash/phash_database.npz",
+      "backup_path": "data/selected/backups/phase1_pre_test_replacement_v1/reports/perceptual_hash/phash_database.npz",
+      "sha256": "df5a2865e3c2b717ee21c39f5171cd0c08b29eb2ba1679854e6284e58c33b2d6",
+      "backup_sha256": "df5a2865e3c2b717ee21c39f5171cd0c08b29eb2ba1679854e6284e58c33b2d6"
+    },
+    {
+      "path": "reports/dataset_audit/selected_images_integrity.json",
+      "backup_path": "data/selected/backups/phase1_pre_test_replacement_v1/reports/dataset_audit/selected_images_integrity.json",
+      "sha256": "e2e8bbf8fc75a670a2287871cfe6f53bfe5f173be389a14f8d19fd737bc20467",
+      "backup_sha256": "e2e8bbf8fc75a670a2287871cfe6f53bfe5f173be389a14f8d19fd737bc20467"
+    },
+    {
+      "path": "reports/perceptual_hash/cross_split_visual_review.json",
+      "backup_path": "data/selected/backups/phase1_pre_test_replacement_v1/reports/perceptual_hash/cross_split_visual_review.json",
+      "sha256": "92a7120dd0c04cb75205c595b6c9b8c78cb1943ecf912ce3d1802413afbdc66b",
+      "backup_sha256": "92a7120dd0c04cb75205c595b6c9b8c78cb1943ecf912ce3d1802413afbdc66b"
+    },
+    {
+      "path": "reports/perceptual_hash/cross_split_pair_evidence.json",
+      "backup_path": "data/selected/backups/phase1_pre_test_replacement_v1/reports/perceptual_hash/cross_split_pair_evidence.json",
+      "sha256": "f12db5214a3932864b0275212b44231492602e97ed0d33d3a85f0fc919cb3ef2",
+      "backup_sha256": "f12db5214a3932864b0275212b44231492602e97ed0d33d3a85f0fc919cb3ef2"
+    },
+    {
+      "path": "reports/perceptual_hash/cross_split_candidates.png",
+      "backup_path": "data/selected/backups/phase1_pre_test_replacement_v1/reports/perceptual_hash/cross_split_candidates.png",
+      "sha256": "b9b6efac11c61e47790af852e1e79bd561da68a8e2d05874af0745a6944db501",
+      "backup_sha256": "b9b6efac11c61e47790af852e1e79bd561da68a8e2d05874af0745a6944db501"
+    },
+    {
+      "path": "reports/FINAL_SCIENTIFIC_AUDIT.md",
+      "backup_path": "data/selected/backups/phase1_pre_test_replacement_v1/reports/FINAL_SCIENTIFIC_AUDIT.md",
+      "sha256": "ce8490b158d11a12cc91f31c832ae9ed750bdb58a43635a5ea0fcf971a37eac3",
+      "backup_sha256": "ce8490b158d11a12cc91f31c832ae9ed750bdb58a43635a5ea0fcf971a37eac3"
+    }
+  ],
+  "note": "Original manifests and pHash/SHA audit outputs are immutable historical backups; do not delete."
+}

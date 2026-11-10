@@ -1,0 +1,6 @@
+\section{Image and Text Embeddings}
+\label{ch:embeddings}
+
+An embedding is a numeric vector representing an image or text for similarity search. The project uses pretrained CLIP ViT-B/32, \code{openai/clip-vit-base-patch32} \citep{radford2021clip}, to encode images and training captions. Unit-length vectors allow inner-product search to be interpreted as cosine similarity. The model revision, vector settings, environment details, and saved outputs are summarized in \cref{tab:configuration}.
+
+Image and caption vectors are saved as NumPy \code{.npy} arrays and mapped to frozen IDs. QC verifies expected counts and dimensions, finite values, unit norms, and row order; it does not establish semantic correctness.

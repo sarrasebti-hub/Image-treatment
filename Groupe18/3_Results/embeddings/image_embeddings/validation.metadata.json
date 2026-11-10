@@ -1,0 +1,613 @@
+{
+  "model": "openai/clip-vit-base-patch32",
+  "count": 100,
+  "dimension": 512,
+  "dtype": "float32",
+  "normalization": "L2",
+  "embeddings": [
+    {
+      "image_id": 496571,
+      "split": "validation",
+      "filename": "000000496571.jpg",
+      "processed_path": "data/processed/validation/000000496571.jpg"
+    },
+    {
+      "image_id": 500565,
+      "split": "validation",
+      "filename": "000000500565.jpg",
+      "processed_path": "data/processed/validation/000000500565.jpg"
+    },
+    {
+      "image_id": 275749,
+      "split": "validation",
+      "filename": "000000275749.jpg",
+      "processed_path": "data/processed/validation/000000275749.jpg"
+    },
+    {
+      "image_id": 53994,
+      "split": "validation",
+      "filename": "000000053994.jpg",
+      "processed_path": "data/processed/validation/000000053994.jpg"
+    },
+    {
+      "image_id": 565853,
+      "split": "validation",
+      "filename": "000000565853.jpg",
+      "processed_path": "data/processed/validation/000000565853.jpg"
+    },
+    {
+      "image_id": 308430,
+      "split": "validation",
+      "filename": "000000308430.jpg",
+      "processed_path": "data/processed/validation/000000308430.jpg"
+    },
+    {
+      "image_id": 313130,
+      "split": "validation",
+      "filename": "000000313130.jpg",
+      "processed_path": "data/processed/validation/000000313130.jpg"
+    },
+    {
+      "image_id": 18575,
+      "split": "validation",
+      "filename": "000000018575.jpg",
+      "processed_path": "data/processed/validation/000000018575.jpg"
+    },
+    {
+      "image_id": 34873,
+      "split": "validation",
+      "filename": "000000034873.jpg",
+      "processed_path": "data/processed/validation/000000034873.jpg"
+    },
+    {
+      "image_id": 424162,
+      "split": "validation",
+      "filename": "000000424162.jpg",
+      "processed_path": "data/processed/validation/000000424162.jpg"
+    },
+    {
+      "image_id": 580410,
+      "split": "validation",
+      "filename": "000000580410.jpg",
+      "processed_path": "data/processed/validation/000000580410.jpg"
+    },
+    {
+      "image_id": 429690,
+      "split": "validation",
+      "filename": "000000429690.jpg",
+      "processed_path": "data/processed/validation/000000429690.jpg"
+    },
+    {
+      "image_id": 184384,
+      "split": "validation",
+      "filename": "000000184384.jpg",
+      "processed_path": "data/processed/validation/000000184384.jpg"
+    },
+    {
+      "image_id": 42889,
+      "split": "validation",
+      "filename": "000000042889.jpg",
+      "processed_path": "data/processed/validation/000000042889.jpg"
+    },
+    {
+      "image_id": 465179,
+      "split": "validation",
+      "filename": "000000465179.jpg",
+      "processed_path": "data/processed/validation/000000465179.jpg"
+    },
+    {
+      "image_id": 550349,
+      "split": "validation",
+      "filename": "000000550349.jpg",
+      "processed_path": "data/processed/validation/000000550349.jpg"
+    },
+    {
+      "image_id": 311950,
+      "split": "validation",
+      "filename": "000000311950.jpg",
+      "processed_path": "data/processed/validation/000000311950.jpg"
+    },
+    {
+      "image_id": 579900,
+      "split": "validation",
+      "filename": "000000579900.jpg",
+      "processed_path": "data/processed/validation/000000579900.jpg"
+    },
+    {
+      "image_id": 390826,
+      "split": "validation",
+      "filename": "000000390826.jpg",
+      "processed_path": "data/processed/validation/000000390826.jpg"
+    },
+    {
+      "image_id": 293794,
+      "split": "validation",
+      "filename": "000000293794.jpg",
+      "processed_path": "data/processed/validation/000000293794.jpg"
+    },
+    {
+      "image_id": 278006,
+      "split": "validation",
+      "filename": "000000278006.jpg",
+      "processed_path": "data/processed/validation/000000278006.jpg"
+    },
+    {
+      "image_id": 442993,
+      "split": "validation",
+      "filename": "000000442993.jpg",
+      "processed_path": "data/processed/validation/000000442993.jpg"
+    },
+    {
+      "image_id": 181796,
+      "split": "validation",
+      "filename": "000000181796.jpg",
+      "processed_path": "data/processed/validation/000000181796.jpg"
+    },
+    {
+      "image_id": 458702,
+      "split": "validation",
+      "filename": "000000458702.jpg",
+      "processed_path": "data/processed/validation/000000458702.jpg"
+    },
+    {
+      "image_id": 443303,
+      "split": "validation",
+      "filename": "000000443303.jpg",
+      "processed_path": "data/processed/validation/000000443303.jpg"
+    },
+    {
+      "image_id": 117645,
+      "split": "validation",
+      "filename": "000000117645.jpg",
+      "processed_path": "data/processed/validation/000000117645.jpg"
+    },
+    {
+      "image_id": 366225,
+      "split": "validation",
+      "filename": "000000366225.jpg",
+      "processed_path": "data/processed/validation/000000366225.jpg"
+    },
+    {
+      "image_id": 109976,
+      "split": "validation",
+      "filename": "000000109976.jpg",
+      "processed_path": "data/processed/validation/000000109976.jpg"
+    },
+    {
+      "image_id": 10092,
+      "split": "validation",
+      "filename": "000000010092.jpg",
+      "processed_path": "data/processed/validation/000000010092.jpg"
+    },
+    {
+      "image_id": 100723,
+      "split": "validation",
+      "filename": "000000100723.jpg",
+      "processed_path": "data/processed/validation/000000100723.jpg"
+    },
+    {
+      "image_id": 188465,
+      "split": "validation",
+      "filename": "000000188465.jpg",
+      "processed_path": "data/processed/validation/000000188465.jpg"
+    },
+    {
+      "image_id": 69224,
+      "split": "validation",
+      "filename": "000000069224.jpg",
+      "processed_path": "data/processed/validation/000000069224.jpg"
+    },
+    {
+      "image_id": 142324,
+      "split": "validation",
+      "filename": "000000142324.jpg",
+      "processed_path": "data/processed/validation/000000142324.jpg"
+    },
+    {
+      "image_id": 413552,
+      "split": "validation",
+      "filename": "000000413552.jpg",
+      "processed_path": "data/processed/validation/000000413552.jpg"
+    },
+    {
+      "image_id": 473406,
+      "split": "validation",
+      "filename": "000000473406.jpg",
+      "processed_path": "data/processed/validation/000000473406.jpg"
+    },
+    {
+      "image_id": 553511,
+      "split": "validation",
+      "filename": "000000553511.jpg",
+      "processed_path": "data/processed/validation/000000553511.jpg"
+    },
+    {
+      "image_id": 449190,
+      "split": "validation",
+      "filename": "000000449190.jpg",
+      "processed_path": "data/processed/validation/000000449190.jpg"
+    },
+    {
+      "image_id": 415990,
+      "split": "validation",
+      "filename": "000000415990.jpg",
+      "processed_path": "data/processed/validation/000000415990.jpg"
+    },
+    {
+      "image_id": 46804,
+      "split": "validation",
+      "filename": "000000046804.jpg",
+      "processed_path": "data/processed/validation/000000046804.jpg"
+    },
+    {
+      "image_id": 435880,
+      "split": "validation",
+      "filename": "000000435880.jpg",
+      "processed_path": "data/processed/validation/000000435880.jpg"
+    },
+    {
+      "image_id": 409198,
+      "split": "validation",
+      "filename": "000000409198.jpg",
+      "processed_path": "data/processed/validation/000000409198.jpg"
+    },
+    {
+      "image_id": 479248,
+      "split": "validation",
+      "filename": "000000479248.jpg",
+      "processed_path": "data/processed/validation/000000479248.jpg"
+    },
+    {
+      "image_id": 483999,
+      "split": "validation",
+      "filename": "000000483999.jpg",
+      "processed_path": "data/processed/validation/000000483999.jpg"
+    },
+    {
+      "image_id": 163117,
+      "split": "validation",
+      "filename": "000000163117.jpg",
+      "processed_path": "data/processed/validation/000000163117.jpg"
+    },
+    {
+      "image_id": 412531,
+      "split": "validation",
+      "filename": "000000412531.jpg",
+      "processed_path": "data/processed/validation/000000412531.jpg"
+    },
+    {
+      "image_id": 292236,
+      "split": "validation",
+      "filename": "000000292236.jpg",
+      "processed_path": "data/processed/validation/000000292236.jpg"
+    },
+    {
+      "image_id": 352618,
+      "split": "validation",
+      "filename": "000000352618.jpg",
+      "processed_path": "data/processed/validation/000000352618.jpg"
+    },
+    {
+      "image_id": 488251,
+      "split": "validation",
+      "filename": "000000488251.jpg",
+      "processed_path": "data/processed/validation/000000488251.jpg"
+    },
+    {
+      "image_id": 529148,
+      "split": "validation",
+      "filename": "000000529148.jpg",
+      "processed_path": "data/processed/validation/000000529148.jpg"
+    },
+    {
+      "image_id": 445792,
+      "split": "validation",
+      "filename": "000000445792.jpg",
+      "processed_path": "data/processed/validation/000000445792.jpg"
+    },
+    {
+      "image_id": 498463,
+      "split": "validation",
+      "filename": "000000498463.jpg",
+      "processed_path": "data/processed/validation/000000498463.jpg"
+    },
+    {
+      "image_id": 298994,
+      "split": "validation",
+      "filename": "000000298994.jpg",
+      "processed_path": "data/processed/validation/000000298994.jpg"
+    },
+    {
+      "image_id": 442480,
+      "split": "validation",
+      "filename": "000000442480.jpg",
+      "processed_path": "data/processed/validation/000000442480.jpg"
+    },
+    {
+      "image_id": 176634,
+      "split": "validation",
+      "filename": "000000176634.jpg",
+      "processed_path": "data/processed/validation/000000176634.jpg"
+    },
+    {
+      "image_id": 519569,
+      "split": "validation",
+      "filename": "000000519569.jpg",
+      "processed_path": "data/processed/validation/000000519569.jpg"
+    },
+    {
+      "image_id": 195165,
+      "split": "validation",
+      "filename": "000000195165.jpg",
+      "processed_path": "data/processed/validation/000000195165.jpg"
+    },
+    {
+      "image_id": 403122,
+      "split": "validation",
+      "filename": "000000403122.jpg",
+      "processed_path": "data/processed/validation/000000403122.jpg"
+    },
+    {
+      "image_id": 87038,
+      "split": "validation",
+      "filename": "000000087038.jpg",
+      "processed_path": "data/processed/validation/000000087038.jpg"
+    },
+    {
+      "image_id": 155571,
+      "split": "validation",
+      "filename": "000000155571.jpg",
+      "processed_path": "data/processed/validation/000000155571.jpg"
+    },
+    {
+      "image_id": 260105,
+      "split": "validation",
+      "filename": "000000260105.jpg",
+      "processed_path": "data/processed/validation/000000260105.jpg"
+    },
+    {
+      "image_id": 83531,
+      "split": "validation",
+      "filename": "000000083531.jpg",
+      "processed_path": "data/processed/validation/000000083531.jpg"
+    },
+    {
+      "image_id": 350054,
+      "split": "validation",
+      "filename": "000000350054.jpg",
+      "processed_path": "data/processed/validation/000000350054.jpg"
+    },
+    {
+      "image_id": 405249,
+      "split": "validation",
+      "filename": "000000405249.jpg",
+      "processed_path": "data/processed/validation/000000405249.jpg"
+    },
+    {
+      "image_id": 359781,
+      "split": "validation",
+      "filename": "000000359781.jpg",
+      "processed_path": "data/processed/validation/000000359781.jpg"
+    },
+    {
+      "image_id": 262048,
+      "split": "validation",
+      "filename": "000000262048.jpg",
+      "processed_path": "data/processed/validation/000000262048.jpg"
+    },
+    {
+      "image_id": 541055,
+      "split": "validation",
+      "filename": "000000541055.jpg",
+      "processed_path": "data/processed/validation/000000541055.jpg"
+    },
+    {
+      "image_id": 101022,
+      "split": "validation",
+      "filename": "000000101022.jpg",
+      "processed_path": "data/processed/validation/000000101022.jpg"
+    },
+    {
+      "image_id": 341094,
+      "split": "validation",
+      "filename": "000000341094.jpg",
+      "processed_path": "data/processed/validation/000000341094.jpg"
+    },
+    {
+      "image_id": 36861,
+      "split": "validation",
+      "filename": "000000036861.jpg",
+      "processed_path": "data/processed/validation/000000036861.jpg"
+    },
+    {
+      "image_id": 217285,
+      "split": "validation",
+      "filename": "000000217285.jpg",
+      "processed_path": "data/processed/validation/000000217285.jpg"
+    },
+    {
+      "image_id": 449198,
+      "split": "validation",
+      "filename": "000000449198.jpg",
+      "processed_path": "data/processed/validation/000000449198.jpg"
+    },
+    {
+      "image_id": 1503,
+      "split": "validation",
+      "filename": "000000001503.jpg",
+      "processed_path": "data/processed/validation/000000001503.jpg"
+    },
+    {
+      "image_id": 481390,
+      "split": "validation",
+      "filename": "000000481390.jpg",
+      "processed_path": "data/processed/validation/000000481390.jpg"
+    },
+    {
+      "image_id": 97278,
+      "split": "validation",
+      "filename": "000000097278.jpg",
+      "processed_path": "data/processed/validation/000000097278.jpg"
+    },
+    {
+      "image_id": 527784,
+      "split": "validation",
+      "filename": "000000527784.jpg",
+      "processed_path": "data/processed/validation/000000527784.jpg"
+    },
+    {
+      "image_id": 7795,
+      "split": "validation",
+      "filename": "000000007795.jpg",
+      "processed_path": "data/processed/validation/000000007795.jpg"
+    },
+    {
+      "image_id": 31322,
+      "split": "validation",
+      "filename": "000000031322.jpg",
+      "processed_path": "data/processed/validation/000000031322.jpg"
+    },
+    {
+      "image_id": 221708,
+      "split": "validation",
+      "filename": "000000221708.jpg",
+      "processed_path": "data/processed/validation/000000221708.jpg"
+    },
+    {
+      "image_id": 222455,
+      "split": "validation",
+      "filename": "000000222455.jpg",
+      "processed_path": "data/processed/validation/000000222455.jpg"
+    },
+    {
+      "image_id": 191761,
+      "split": "validation",
+      "filename": "000000191761.jpg",
+      "processed_path": "data/processed/validation/000000191761.jpg"
+    },
+    {
+      "image_id": 210394,
+      "split": "validation",
+      "filename": "000000210394.jpg",
+      "processed_path": "data/processed/validation/000000210394.jpg"
+    },
+    {
+      "image_id": 34257,
+      "split": "validation",
+      "filename": "000000034257.jpg",
+      "processed_path": "data/processed/validation/000000034257.jpg"
+    },
+    {
+      "image_id": 535523,
+      "split": "validation",
+      "filename": "000000535523.jpg",
+      "processed_path": "data/processed/validation/000000535523.jpg"
+    },
+    {
+      "image_id": 224200,
+      "split": "validation",
+      "filename": "000000224200.jpg",
+      "processed_path": "data/processed/validation/000000224200.jpg"
+    },
+    {
+      "image_id": 334309,
+      "split": "validation",
+      "filename": "000000334309.jpg",
+      "processed_path": "data/processed/validation/000000334309.jpg"
+    },
+    {
+      "image_id": 92939,
+      "split": "validation",
+      "filename": "000000092939.jpg",
+      "processed_path": "data/processed/validation/000000092939.jpg"
+    },
+    {
+      "image_id": 10707,
+      "split": "validation",
+      "filename": "000000010707.jpg",
+      "processed_path": "data/processed/validation/000000010707.jpg"
+    },
+    {
+      "image_id": 130699,
+      "split": "validation",
+      "filename": "000000130699.jpg",
+      "processed_path": "data/processed/validation/000000130699.jpg"
+    },
+    {
+      "image_id": 34071,
+      "split": "validation",
+      "filename": "000000034071.jpg",
+      "processed_path": "data/processed/validation/000000034071.jpg"
+    },
+    {
+      "image_id": 406997,
+      "split": "validation",
+      "filename": "000000406997.jpg",
+      "processed_path": "data/processed/validation/000000406997.jpg"
+    },
+    {
+      "image_id": 262682,
+      "split": "validation",
+      "filename": "000000262682.jpg",
+      "processed_path": "data/processed/validation/000000262682.jpg"
+    },
+    {
+      "image_id": 409424,
+      "split": "validation",
+      "filename": "000000409424.jpg",
+      "processed_path": "data/processed/validation/000000409424.jpg"
+    },
+    {
+      "image_id": 329447,
+      "split": "validation",
+      "filename": "000000329447.jpg",
+      "processed_path": "data/processed/validation/000000329447.jpg"
+    },
+    {
+      "image_id": 148620,
+      "split": "validation",
+      "filename": "000000148620.jpg",
+      "processed_path": "data/processed/validation/000000148620.jpg"
+    },
+    {
+      "image_id": 469246,
+      "split": "validation",
+      "filename": "000000469246.jpg",
+      "processed_path": "data/processed/validation/000000469246.jpg"
+    },
+    {
+      "image_id": 240940,
+      "split": "validation",
+      "filename": "000000240940.jpg",
+      "processed_path": "data/processed/validation/000000240940.jpg"
+    },
+    {
+      "image_id": 538236,
+      "split": "validation",
+      "filename": "000000538236.jpg",
+      "processed_path": "data/processed/validation/000000538236.jpg"
+    },
+    {
+      "image_id": 431876,
+      "split": "validation",
+      "filename": "000000431876.jpg",
+      "processed_path": "data/processed/validation/000000431876.jpg"
+    },
+    {
+      "image_id": 405279,
+      "split": "validation",
+      "filename": "000000405279.jpg",
+      "processed_path": "data/processed/validation/000000405279.jpg"
+    },
+    {
+      "image_id": 66817,
+      "split": "validation",
+      "filename": "000000066817.jpg",
+      "processed_path": "data/processed/validation/000000066817.jpg"
+    }
+  ],
+  "model_revision": "3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268",
+  "torch_version": "2.15.0+cpu",
+  "transformers_version": "5.22.1",
+  "batch_size": 64
+}

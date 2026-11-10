@@ -1,0 +1,10 @@
+\section{Results and Discussion}
+\label{ch:discussion}
+
+\subsection{What the evidence shows}
+The saved artifacts show that the project assembled the selected COCO splits, processed the images, prepared caption and metadata records, generated CLIP embeddings, built separate training-only indexes, and completed its recorded retrieval and quality-control checks. The category and caption analyses also describe the composition of the selected data. The retrieval test shows that the image index can return neighbors for the sampled held-out queries without returning the query image itself.
+
+\subsection{What it does not show}
+The retrieval similarity mean has no relevance judgments behind it. The category, color, POS, and scene statistics describe the dataset or model outputs; they are not caption-generation outcomes. No generated captions are available for comparison. Consequently, the current evidence cannot show that one RAG technique is better, that captions are more accurate, or that hallucinations have been reduced.
+
+The train-only memory and frozen held-out splits support a controlled future comparison. Methods should use the same generator and decoding settings, exclude query-associated references, retain per-image outcomes, and pair text metrics with human checks of image support.

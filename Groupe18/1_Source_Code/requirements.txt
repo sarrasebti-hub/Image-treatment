@@ -1,0 +1,10 @@
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+seaborn>=0.13
+Pillow>=10.0
+torch>=2.2
+transformers>=4.40
+faiss-cpu>=1.8
+spacy>=3.7,<4
+# Install model once with: python -m spacy download en_core_web_sm

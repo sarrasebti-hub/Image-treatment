@@ -1,0 +1,36 @@
+{
+  "seed": 20261106,
+  "splits": {
+    "train": {
+      "expected_count": 10000,
+      "decoded_count": 10000,
+      "files_missing_or_corrupt": [],
+      "images_with_five_captions": 10000,
+      "images_with_wrong_caption_count": {},
+      "all_five_captions": true
+    },
+    "validation": {
+      "expected_count": 100,
+      "decoded_count": 100,
+      "files_missing_or_corrupt": [],
+      "images_with_five_captions": 100,
+      "images_with_wrong_caption_count": {},
+      "all_five_captions": true
+    },
+    "test": {
+      "expected_count": 1000,
+      "decoded_count": 1000,
+      "files_missing_or_corrupt": [],
+      "images_with_five_captions": 1000,
+      "images_with_wrong_caption_count": {},
+      "all_five_captions": true
+    }
+  },
+  "hash_duplicate_groups": [],
+  "perceptual_hash": "not run (optional imagehash dependency); exact SHA-256 computed",
+  "overlap": {
+    "train_validation": 0,
+    "train_test": 0,
+    "validation_test": 0
+  }
+}

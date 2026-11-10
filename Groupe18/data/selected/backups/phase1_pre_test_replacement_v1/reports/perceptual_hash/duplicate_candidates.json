@@ -1,0 +1,131 @@
+{
+  "algorithm": "phash64_dct",
+  "hash_bits": 64,
+  "threshold_hamming_inclusive": 6,
+  "images_hashed": 11100,
+  "errors": [],
+  "pairs_within_split": {
+    "train-train": 9
+  },
+  "pairs_across_splits": {
+    "train-test": 4
+  },
+  "candidate_pair_count": 13,
+  "exact_phash_match_count": 1,
+  "nonzero_perceptual_candidate_count": 12,
+  "hamming_distance_counts": {
+    "0": 1,
+    "2": 3,
+    "4": 2,
+    "6": 7
+  },
+  "mean_candidate_distance": 4.3076923076923075,
+  "threshold_interpretation": "Candidates only; not a declaration of duplicate identity. Verify visually before any action.",
+  "elapsed_seconds": 27.75,
+  "candidates": [
+    {
+      "image_id_a": 4259,
+      "split_a": "train",
+      "image_id_b": 447941,
+      "split_b": "train",
+      "hamming_distance": 0,
+      "evidence": "64-bit DCT pHash; candidate threshold configured by project"
+    },
+    {
+      "image_id_a": 291597,
+      "split_a": "train",
+      "image_id_b": 525083,
+      "split_b": "test",
+      "hamming_distance": 6,
+      "evidence": "64-bit DCT pHash; candidate threshold configured by project"
+    },
+    {
+      "image_id_a": 74241,
+      "split_a": "train",
+      "image_id_b": 201145,
+      "split_b": "train",
+      "hamming_distance": 6,
+      "evidence": "64-bit DCT pHash; candidate threshold configured by project"
+    },
+    {
+      "image_id_a": 69340,
+      "split_a": "train",
+      "image_id_b": 369594,
+      "split_b": "train",
+      "hamming_distance": 4,
+      "evidence": "64-bit DCT pHash; candidate threshold configured by project"
+    },
+    {
+      "image_id_a": 233916,
+      "split_a": "train",
+      "image_id_b": 396188,
+      "split_b": "train",
+      "hamming_distance": 6,
+      "evidence": "64-bit DCT pHash; candidate threshold configured by project"
+    },
+    {
+      "image_id_a": 58174,
+      "split_a": "train",
+      "image_id_b": 133819,
+      "split_b": "test",
+      "hamming_distance": 6,
+      "evidence": "64-bit DCT pHash; candidate threshold configured by project"
+    },
+    {
+      "image_id_a": 512576,
+      "split_a": "train",
+      "image_id_b": 146078,
+      "split_b": "train",
+      "hamming_distance": 2,
+      "evidence": "64-bit DCT pHash; candidate threshold configured by project"
+    },
+    {
+      "image_id_a": 214648,
+      "split_a": "train",
+      "image_id_b": 129062,
+      "split_b": "test",
+      "hamming_distance": 6,
+      "evidence": "64-bit DCT pHash; candidate threshold configured by project"
+    },
+    {
+      "image_id_a": 99645,
+      "split_a": "train",
+      "image_id_b": 108923,
+      "split_b": "train",
+      "hamming_distance": 6,
+      "evidence": "64-bit DCT pHash; candidate threshold configured by project"
+    },
+    {
+      "image_id_a": 514650,
+      "split_a": "train",
+      "image_id_b": 430192,
+      "split_b": "train",
+      "hamming_distance": 6,
+      "evidence": "64-bit DCT pHash; candidate threshold configured by project"
+    },
+    {
+      "image_id_a": 494434,
+      "split_a": "train",
+      "image_id_b": 43719,
+      "split_b": "train",
+      "hamming_distance": 4,
+      "evidence": "64-bit DCT pHash; candidate threshold configured by project"
+    },
+    {
+      "image_id_a": 328295,
+      "split_a": "train",
+      "image_id_b": 261043,
+      "split_b": "train",
+      "hamming_distance": 2,
+      "evidence": "64-bit DCT pHash; candidate threshold configured by project"
+    },
+    {
+      "image_id_a": 535889,
+      "split_a": "train",
+      "image_id_b": 465129,
+      "split_b": "test",
+      "hamming_distance": 2,
+      "evidence": "64-bit DCT pHash; candidate threshold configured by project"
+    }
+  ]
+}

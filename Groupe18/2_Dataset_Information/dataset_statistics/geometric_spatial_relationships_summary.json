@@ -1,0 +1,624 @@
+{
+  "source": "COCO object bounding boxes from selected metadata",
+  "images": 11100,
+  "relation_counts": {
+    "left_of": 680482,
+    "below": 671396,
+    "right_of": 676706,
+    "above": 584569,
+    "overlapping": 47381,
+    "near": 151587,
+    "contains": 28366,
+    "inside": 30359
+  },
+  "top_category_pairs": [
+    {
+      "relation": "left_of",
+      "category_a": "person",
+      "category_b": "person",
+      "count": 66531
+    },
+    {
+      "relation": "right_of",
+      "category_a": "person",
+      "category_b": "person",
+      "count": 65242
+    },
+    {
+      "relation": "below",
+      "category_a": "person",
+      "category_b": "person",
+      "count": 64495
+    },
+    {
+      "relation": "above",
+      "category_a": "person",
+      "category_b": "person",
+      "count": 38484
+    },
+    {
+      "relation": "near",
+      "category_a": "person",
+      "category_b": "person",
+      "count": 20742
+    },
+    {
+      "relation": "right_of",
+      "category_a": "person",
+      "category_b": "chair",
+      "count": 11740
+    },
+    {
+      "relation": "left_of",
+      "category_a": "person",
+      "category_b": "chair",
+      "count": 11123
+    },
+    {
+      "relation": "above",
+      "category_a": "person",
+      "category_b": "chair",
+      "count": 11089
+    },
+    {
+      "relation": "below",
+      "category_a": "person",
+      "category_b": "car",
+      "count": 10564
+    },
+    {
+      "relation": "below",
+      "category_a": "person",
+      "category_b": "chair",
+      "count": 10317
+    },
+    {
+      "relation": "below",
+      "category_a": "chair",
+      "category_b": "person",
+      "count": 9550
+    },
+    {
+      "relation": "left_of",
+      "category_a": "book",
+      "category_b": "book",
+      "count": 9522
+    },
+    {
+      "relation": "near",
+      "category_a": "book",
+      "category_b": "book",
+      "count": 9468
+    },
+    {
+      "relation": "left_of",
+      "category_a": "car",
+      "category_b": "car",
+      "count": 9344
+    },
+    {
+      "relation": "left_of",
+      "category_a": "chair",
+      "category_b": "chair",
+      "count": 9018
+    },
+    {
+      "relation": "left_of",
+      "category_a": "car",
+      "category_b": "person",
+      "count": 8934
+    },
+    {
+      "relation": "below",
+      "category_a": "chair",
+      "category_b": "chair",
+      "count": 8927
+    },
+    {
+      "relation": "right_of",
+      "category_a": "book",
+      "category_b": "book",
+      "count": 8862
+    },
+    {
+      "relation": "above",
+      "category_a": "book",
+      "category_b": "book",
+      "count": 8762
+    },
+    {
+      "relation": "right_of",
+      "category_a": "car",
+      "category_b": "car",
+      "count": 8725
+    },
+    {
+      "relation": "right_of",
+      "category_a": "car",
+      "category_b": "person",
+      "count": 8657
+    },
+    {
+      "relation": "right_of",
+      "category_a": "chair",
+      "category_b": "chair",
+      "count": 8575
+    },
+    {
+      "relation": "left_of",
+      "category_a": "person",
+      "category_b": "car",
+      "count": 8525
+    },
+    {
+      "relation": "below",
+      "category_a": "book",
+      "category_b": "book",
+      "count": 8438
+    },
+    {
+      "relation": "above",
+      "category_a": "car",
+      "category_b": "person",
+      "count": 8152
+    },
+    {
+      "relation": "right_of",
+      "category_a": "person",
+      "category_b": "car",
+      "count": 8070
+    },
+    {
+      "relation": "left_of",
+      "category_a": "chair",
+      "category_b": "person",
+      "count": 7721
+    },
+    {
+      "relation": "below",
+      "category_a": "car",
+      "category_b": "car",
+      "count": 7713
+    },
+    {
+      "relation": "right_of",
+      "category_a": "chair",
+      "category_b": "person",
+      "count": 7667
+    },
+    {
+      "relation": "above",
+      "category_a": "person",
+      "category_b": "cup",
+      "count": 7372
+    },
+    {
+      "relation": "below",
+      "category_a": "person",
+      "category_b": "traffic light",
+      "count": 7355
+    },
+    {
+      "relation": "overlapping",
+      "category_a": "person",
+      "category_b": "person",
+      "count": 6703
+    },
+    {
+      "relation": "above",
+      "category_a": "person",
+      "category_b": "handbag",
+      "count": 6309
+    },
+    {
+      "relation": "right_of",
+      "category_a": "person",
+      "category_b": "handbag",
+      "count": 6254
+    },
+    {
+      "relation": "below",
+      "category_a": "car",
+      "category_b": "traffic light",
+      "count": 6247
+    },
+    {
+      "relation": "right_of",
+      "category_a": "bottle",
+      "category_b": "bottle",
+      "count": 6096
+    },
+    {
+      "relation": "left_of",
+      "category_a": "bottle",
+      "category_b": "bottle",
+      "count": 6045
+    },
+    {
+      "relation": "left_of",
+      "category_a": "person",
+      "category_b": "handbag",
+      "count": 6020
+    },
+    {
+      "relation": "above",
+      "category_a": "chair",
+      "category_b": "chair",
+      "count": 5992
+    },
+    {
+      "relation": "below",
+      "category_a": "car",
+      "category_b": "person",
+      "count": 5750
+    },
+    {
+      "relation": "below",
+      "category_a": "person",
+      "category_b": "kite",
+      "count": 5734
+    },
+    {
+      "relation": "below",
+      "category_a": "person",
+      "category_b": "umbrella",
+      "count": 5628
+    },
+    {
+      "relation": "near",
+      "category_a": "bottle",
+      "category_b": "bottle",
+      "count": 5414
+    },
+    {
+      "relation": "inside",
+      "category_a": "person",
+      "category_b": "person",
+      "count": 5333
+    },
+    {
+      "relation": "left_of",
+      "category_a": "person",
+      "category_b": "cup",
+      "count": 5287
+    },
+    {
+      "relation": "near",
+      "category_a": "car",
+      "category_b": "car",
+      "count": 5098
+    },
+    {
+      "relation": "above",
+      "category_a": "umbrella",
+      "category_b": "person",
+      "count": 5098
+    },
+    {
+      "relation": "right_of",
+      "category_a": "person",
+      "category_b": "cup",
+      "count": 5093
+    },
+    {
+      "relation": "above",
+      "category_a": "chair",
+      "category_b": "person",
+      "count": 5005
+    },
+    {
+      "relation": "below",
+      "category_a": "bottle",
+      "category_b": "bottle",
+      "count": 4908
+    },
+    {
+      "relation": "above",
+      "category_a": "traffic light",
+      "category_b": "person",
+      "count": 4877
+    },
+    {
+      "relation": "below",
+      "category_a": "cup",
+      "category_b": "cup",
+      "count": 4685
+    },
+    {
+      "relation": "left_of",
+      "category_a": "cup",
+      "category_b": "cup",
+      "count": 4635
+    },
+    {
+      "relation": "right_of",
+      "category_a": "cup",
+      "category_b": "cup",
+      "count": 4545
+    },
+    {
+      "relation": "below",
+      "category_a": "person",
+      "category_b": "handbag",
+      "count": 4528
+    },
+    {
+      "relation": "above",
+      "category_a": "kite",
+      "category_b": "person",
+      "count": 4523
+    },
+    {
+      "relation": "below",
+      "category_a": "bicycle",
+      "category_b": "person",
+      "count": 4423
+    },
+    {
+      "relation": "above",
+      "category_a": "bottle",
+      "category_b": "bottle",
+      "count": 4356
+    },
+    {
+      "relation": "above",
+      "category_a": "person",
+      "category_b": "skis",
+      "count": 4273
+    },
+    {
+      "relation": "right_of",
+      "category_a": "sheep",
+      "category_b": "sheep",
+      "count": 4208
+    },
+    {
+      "relation": "above",
+      "category_a": "bottle",
+      "category_b": "cup",
+      "count": 4145
+    },
+    {
+      "relation": "below",
+      "category_a": "dining table",
+      "category_b": "person",
+      "count": 4108
+    },
+    {
+      "relation": "below",
+      "category_a": "handbag",
+      "category_b": "person",
+      "count": 4082
+    },
+    {
+      "relation": "left_of",
+      "category_a": "sheep",
+      "category_b": "sheep",
+      "count": 4082
+    },
+    {
+      "relation": "below",
+      "category_a": "motorcycle",
+      "category_b": "person",
+      "count": 3977
+    },
+    {
+      "relation": "left_of",
+      "category_a": "person",
+      "category_b": "backpack",
+      "count": 3952
+    },
+    {
+      "relation": "below",
+      "category_a": "sheep",
+      "category_b": "sheep",
+      "count": 3928
+    },
+    {
+      "relation": "above",
+      "category_a": "person",
+      "category_b": "wine glass",
+      "count": 3909
+    },
+    {
+      "relation": "right_of",
+      "category_a": "person",
+      "category_b": "backpack",
+      "count": 3854
+    },
+    {
+      "relation": "above",
+      "category_a": "person",
+      "category_b": "bench",
+      "count": 3792
+    },
+    {
+      "relation": "above",
+      "category_a": "person",
+      "category_b": "bowl",
+      "count": 3784
+    },
+    {
+      "relation": "below",
+      "category_a": "bottle",
+      "category_b": "person",
+      "count": 3751
+    },
+    {
+      "relation": "below",
+      "category_a": "chair",
+      "category_b": "book",
+      "count": 3668
+    },
+    {
+      "relation": "right_of",
+      "category_a": "person",
+      "category_b": "traffic light",
+      "count": 3656
+    },
+    {
+      "relation": "left_of",
+      "category_a": "person",
+      "category_b": "traffic light",
+      "count": 3618
+    },
+    {
+      "relation": "below",
+      "category_a": "person",
+      "category_b": "backpack",
+      "count": 3568
+    },
+    {
+      "relation": "left_of",
+      "category_a": "bottle",
+      "category_b": "cup",
+      "count": 3534
+    },
+    {
+      "relation": "above",
+      "category_a": "person",
+      "category_b": "backpack",
+      "count": 3517
+    },
+    {
+      "relation": "right_of",
+      "category_a": "handbag",
+      "category_b": "person",
+      "count": 3454
+    },
+    {
+      "relation": "left_of",
+      "category_a": "handbag",
+      "category_b": "person",
+      "count": 3442
+    },
+    {
+      "relation": "left_of",
+      "category_a": "person",
+      "category_b": "bench",
+      "count": 3409
+    },
+    {
+      "relation": "right_of",
+      "category_a": "person",
+      "category_b": "umbrella",
+      "count": 3380
+    },
+    {
+      "relation": "above",
+      "category_a": "person",
+      "category_b": "dining table",
+      "count": 3351
+    },
+    {
+      "relation": "left_of",
+      "category_a": "person",
+      "category_b": "umbrella",
+      "count": 3347
+    },
+    {
+      "relation": "right_of",
+      "category_a": "bottle",
+      "category_b": "cup",
+      "count": 3311
+    },
+    {
+      "relation": "above",
+      "category_a": "cup",
+      "category_b": "cup",
+      "count": 3307
+    },
+    {
+      "relation": "right_of",
+      "category_a": "bottle",
+      "category_b": "person",
+      "count": 3295
+    },
+    {
+      "relation": "below",
+      "category_a": "cup",
+      "category_b": "person",
+      "count": 3279
+    },
+    {
+      "relation": "above",
+      "category_a": "person",
+      "category_b": "car",
+      "count": 3262
+    },
+    {
+      "relation": "left_of",
+      "category_a": "umbrella",
+      "category_b": "person",
+      "count": 3262
+    },
+    {
+      "relation": "above",
+      "category_a": "traffic light",
+      "category_b": "car",
+      "count": 3253
+    },
+    {
+      "relation": "right_of",
+      "category_a": "car",
+      "category_b": "traffic light",
+      "count": 3237
+    },
+    {
+      "relation": "right_of",
+      "category_a": "carrot",
+      "category_b": "carrot",
+      "count": 3204
+    },
+    {
+      "relation": "above",
+      "category_a": "car",
+      "category_b": "car",
+      "count": 3204
+    },
+    {
+      "relation": "below",
+      "category_a": "carrot",
+      "category_b": "carrot",
+      "count": 3171
+    },
+    {
+      "relation": "near",
+      "category_a": "chair",
+      "category_b": "chair",
+      "count": 3147
+    },
+    {
+      "relation": "near",
+      "category_a": "cup",
+      "category_b": "cup",
+      "count": 3129
+    },
+    {
+      "relation": "right_of",
+      "category_a": "person",
+      "category_b": "bench",
+      "count": 3108
+    },
+    {
+      "relation": "left_of",
+      "category_a": "car",
+      "category_b": "traffic light",
+      "count": 3097
+    },
+    {
+      "relation": "left_of",
+      "category_a": "bottle",
+      "category_b": "person",
+      "count": 3048
+    }
+  ],
+  "definitions": {
+    "left_of/right_of": "object A/B centroid x ordering with normalized separation >= 0.02 image width",
+    "above/below": "object A/B centroid y ordering with normalized separation >= 0.02 image height",
+    "inside/contains": "strict box containment with unequal areas",
+    "overlapping": "intersection over union >= 0.10",
+    "near": "center-to-center distance <= 0.10 after normalizing x/y by image width/height"
+  },
+  "semantics": "All relations are geometric inferences, not COCO ground-truth semantic relations. They do not imply actions, support, contact, or functional relations."
+}

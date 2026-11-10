@@ -1,0 +1,41 @@
+{
+  "verification": "SHA256 comparison before/after final scientific-audit quality-control run",
+  "unchanged_during_combined_resume": true,
+  "files": [
+    {
+      "path": "data/selected/train_ids.json",
+      "sha256": "eee87e12ff6c89a33035bcc2daf43e9433210079226d68d1ec44087688e34f3e",
+      "after_sha256": "eee87e12ff6c89a33035bcc2daf43e9433210079226d68d1ec44087688e34f3e"
+    },
+    {
+      "path": "data/selected/train_ids.csv",
+      "sha256": "028ccc3144e30b9affcd76a3ebad8766b0eaba2b8703454239f27b0b15f2a7c5",
+      "after_sha256": "028ccc3144e30b9affcd76a3ebad8766b0eaba2b8703454239f27b0b15f2a7c5"
+    },
+    {
+      "path": "data/selected/validation_ids.json",
+      "sha256": "1fa9a5d8ec55b7aca28d5c1faba9fc192527bf26df3601887fd09c3a01ca1537",
+      "after_sha256": "1fa9a5d8ec55b7aca28d5c1faba9fc192527bf26df3601887fd09c3a01ca1537"
+    },
+    {
+      "path": "data/selected/validation_ids.csv",
+      "sha256": "f255d02b47fc1f92ee3464bd5cf066922012eba88f530e0057a39c75c50423e0",
+      "after_sha256": "f255d02b47fc1f92ee3464bd5cf066922012eba88f530e0057a39c75c50423e0"
+    },
+    {
+      "path": "data/selected/test_ids.json",
+      "sha256": "bec1305e5a2feb3f73b93e2509566934f35970756b455174f71ba2b7572a2fba",
+      "after_sha256": "bec1305e5a2feb3f73b93e2509566934f35970756b455174f71ba2b7572a2fba"
+    },
+    {
+      "path": "data/selected/test_ids.csv",
+      "sha256": "e230a816d2ebe37fb2aec4d81fde799d7a8cff44beb273113d8e6548f0ea6ea0",
+      "after_sha256": "e230a816d2ebe37fb2aec4d81fde799d7a8cff44beb273113d8e6548f0ea6ea0"
+    },
+    {
+      "path": "data/selected/selection_report.json",
+      "sha256": "c30ad127e2a3d1fc37f6c525a5840a925c6dd7eb59df636eaec171397a1f217c",
+      "after_sha256": "c30ad127e2a3d1fc37f6c525a5840a925c6dd7eb59df636eaec171397a1f217c"
+    }
+  ]
+}

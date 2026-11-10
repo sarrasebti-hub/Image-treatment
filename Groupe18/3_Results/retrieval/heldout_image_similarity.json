@@ -1,0 +1,522 @@
+[
+  {
+    "query_image_id": 496571,
+    "query_split": "validation",
+    "neighbors": [
+      {
+        "image_id": 528892,
+        "score_cosine": 0.8153526782989502
+      },
+      {
+        "image_id": 11198,
+        "score_cosine": 0.8038431406021118
+      },
+      {
+        "image_id": 340943,
+        "score_cosine": 0.7975889444351196
+      },
+      {
+        "image_id": 21993,
+        "score_cosine": 0.7958853244781494
+      },
+      {
+        "image_id": 145845,
+        "score_cosine": 0.7927716970443726
+      }
+    ]
+  },
+  {
+    "query_image_id": 87038,
+    "query_split": "validation",
+    "neighbors": [
+      {
+        "image_id": 50409,
+        "score_cosine": 0.8048199415206909
+      },
+      {
+        "image_id": 342666,
+        "score_cosine": 0.7687869071960449
+      },
+      {
+        "image_id": 492583,
+        "score_cosine": 0.7682073712348938
+      },
+      {
+        "image_id": 574792,
+        "score_cosine": 0.7673507332801819
+      },
+      {
+        "image_id": 90359,
+        "score_cosine": 0.7652590274810791
+      }
+    ]
+  },
+  {
+    "query_image_id": 492362,
+    "query_split": "test",
+    "neighbors": [
+      {
+        "image_id": 365340,
+        "score_cosine": 0.757714569568634
+      },
+      {
+        "image_id": 203989,
+        "score_cosine": 0.7539843320846558
+      },
+      {
+        "image_id": 275412,
+        "score_cosine": 0.7267671823501587
+      },
+      {
+        "image_id": 385196,
+        "score_cosine": 0.7247194051742554
+      },
+      {
+        "image_id": 216524,
+        "score_cosine": 0.7213355302810669
+      }
+    ]
+  },
+  {
+    "query_image_id": 298396,
+    "query_split": "test",
+    "neighbors": [
+      {
+        "image_id": 331326,
+        "score_cosine": 0.8545767068862915
+      },
+      {
+        "image_id": 71726,
+        "score_cosine": 0.8535060882568359
+      },
+      {
+        "image_id": 262093,
+        "score_cosine": 0.8521162271499634
+      },
+      {
+        "image_id": 234277,
+        "score_cosine": 0.8467662930488586
+      },
+      {
+        "image_id": 426548,
+        "score_cosine": 0.8447726368904114
+      }
+    ]
+  },
+  {
+    "query_image_id": 181753,
+    "query_split": "test",
+    "neighbors": [
+      {
+        "image_id": 299273,
+        "score_cosine": 0.879469096660614
+      },
+      {
+        "image_id": 290076,
+        "score_cosine": 0.867063581943512
+      },
+      {
+        "image_id": 168643,
+        "score_cosine": 0.8376741409301758
+      },
+      {
+        "image_id": 405004,
+        "score_cosine": 0.8357722759246826
+      },
+      {
+        "image_id": 6720,
+        "score_cosine": 0.8355915546417236
+      }
+    ]
+  },
+  {
+    "query_image_id": 369751,
+    "query_split": "test",
+    "neighbors": [
+      {
+        "image_id": 543393,
+        "score_cosine": 0.8280937075614929
+      },
+      {
+        "image_id": 426758,
+        "score_cosine": 0.8279989957809448
+      },
+      {
+        "image_id": 203870,
+        "score_cosine": 0.8163554072380066
+      },
+      {
+        "image_id": 44341,
+        "score_cosine": 0.8104341626167297
+      },
+      {
+        "image_id": 523002,
+        "score_cosine": 0.8003144264221191
+      }
+    ]
+  },
+  {
+    "query_image_id": 414673,
+    "query_split": "test",
+    "neighbors": [
+      {
+        "image_id": 102256,
+        "score_cosine": 0.8392754197120667
+      },
+      {
+        "image_id": 70687,
+        "score_cosine": 0.8257899284362793
+      },
+      {
+        "image_id": 126538,
+        "score_cosine": 0.822959303855896
+      },
+      {
+        "image_id": 409628,
+        "score_cosine": 0.8142338395118713
+      },
+      {
+        "image_id": 445425,
+        "score_cosine": 0.8123699426651001
+      }
+    ]
+  },
+  {
+    "query_image_id": 402615,
+    "query_split": "test",
+    "neighbors": [
+      {
+        "image_id": 445249,
+        "score_cosine": 0.8922460079193115
+      },
+      {
+        "image_id": 333440,
+        "score_cosine": 0.8397517204284668
+      },
+      {
+        "image_id": 490875,
+        "score_cosine": 0.8376750349998474
+      },
+      {
+        "image_id": 78986,
+        "score_cosine": 0.8226273655891418
+      },
+      {
+        "image_id": 259877,
+        "score_cosine": 0.820580005645752
+      }
+    ]
+  },
+  {
+    "query_image_id": 417779,
+    "query_split": "test",
+    "neighbors": [
+      {
+        "image_id": 215124,
+        "score_cosine": 0.8325552940368652
+      },
+      {
+        "image_id": 218830,
+        "score_cosine": 0.8169833421707153
+      },
+      {
+        "image_id": 514248,
+        "score_cosine": 0.8039867281913757
+      },
+      {
+        "image_id": 24779,
+        "score_cosine": 0.7968958616256714
+      },
+      {
+        "image_id": 551441,
+        "score_cosine": 0.7950761318206787
+      }
+    ]
+  },
+  {
+    "query_image_id": 154213,
+    "query_split": "test",
+    "neighbors": [
+      {
+        "image_id": 211423,
+        "score_cosine": 0.7381220459938049
+      },
+      {
+        "image_id": 80927,
+        "score_cosine": 0.7329496741294861
+      },
+      {
+        "image_id": 90171,
+        "score_cosine": 0.723571240901947
+      },
+      {
+        "image_id": 431234,
+        "score_cosine": 0.7108250856399536
+      },
+      {
+        "image_id": 448161,
+        "score_cosine": 0.7069399952888489
+      }
+    ]
+  },
+  {
+    "query_image_id": 570782,
+    "query_split": "test",
+    "neighbors": [
+      {
+        "image_id": 324012,
+        "score_cosine": 0.9005800485610962
+      },
+      {
+        "image_id": 481851,
+        "score_cosine": 0.8841135501861572
+      },
+      {
+        "image_id": 230987,
+        "score_cosine": 0.8770673871040344
+      },
+      {
+        "image_id": 292792,
+        "score_cosine": 0.8728121519088745
+      },
+      {
+        "image_id": 571654,
+        "score_cosine": 0.8709113001823425
+      }
+    ]
+  },
+  {
+    "query_image_id": 433774,
+    "query_split": "test",
+    "neighbors": [
+      {
+        "image_id": 557804,
+        "score_cosine": 0.8047304153442383
+      },
+      {
+        "image_id": 565807,
+        "score_cosine": 0.79996258020401
+      },
+      {
+        "image_id": 140006,
+        "score_cosine": 0.7888906598091125
+      },
+      {
+        "image_id": 534016,
+        "score_cosine": 0.7870631217956543
+      },
+      {
+        "image_id": 316441,
+        "score_cosine": 0.7848629951477051
+      }
+    ]
+  },
+  {
+    "query_image_id": 334555,
+    "query_split": "test",
+    "neighbors": [
+      {
+        "image_id": 8965,
+        "score_cosine": 0.8011240363121033
+      },
+      {
+        "image_id": 445603,
+        "score_cosine": 0.7939578294754028
+      },
+      {
+        "image_id": 343504,
+        "score_cosine": 0.7799022197723389
+      },
+      {
+        "image_id": 316499,
+        "score_cosine": 0.7770525813102722
+      },
+      {
+        "image_id": 4739,
+        "score_cosine": 0.7738220691680908
+      }
+    ]
+  },
+  {
+    "query_image_id": 442746,
+    "query_split": "test",
+    "neighbors": [
+      {
+        "image_id": 47548,
+        "score_cosine": 0.8234906792640686
+      },
+      {
+        "image_id": 214266,
+        "score_cosine": 0.8212922811508179
+      },
+      {
+        "image_id": 287402,
+        "score_cosine": 0.8193461894989014
+      },
+      {
+        "image_id": 43625,
+        "score_cosine": 0.8046203851699829
+      },
+      {
+        "image_id": 503015,
+        "score_cosine": 0.8042822480201721
+      }
+    ]
+  },
+  {
+    "query_image_id": 456303,
+    "query_split": "test",
+    "neighbors": [
+      {
+        "image_id": 290804,
+        "score_cosine": 0.8611106872558594
+      },
+      {
+        "image_id": 433198,
+        "score_cosine": 0.8533138036727905
+      },
+      {
+        "image_id": 283107,
+        "score_cosine": 0.8412491083145142
+      },
+      {
+        "image_id": 444659,
+        "score_cosine": 0.8383219242095947
+      },
+      {
+        "image_id": 98318,
+        "score_cosine": 0.8317750692367554
+      }
+    ]
+  },
+  {
+    "query_image_id": 452084,
+    "query_split": "test",
+    "neighbors": [
+      {
+        "image_id": 516205,
+        "score_cosine": 0.7781693935394287
+      },
+      {
+        "image_id": 474186,
+        "score_cosine": 0.777545154094696
+      },
+      {
+        "image_id": 529102,
+        "score_cosine": 0.7745535969734192
+      },
+      {
+        "image_id": 519271,
+        "score_cosine": 0.7681583762168884
+      },
+      {
+        "image_id": 449675,
+        "score_cosine": 0.7678030729293823
+      }
+    ]
+  },
+  {
+    "query_image_id": 457884,
+    "query_split": "test",
+    "neighbors": [
+      {
+        "image_id": 507551,
+        "score_cosine": 0.8778870701789856
+      },
+      {
+        "image_id": 291346,
+        "score_cosine": 0.8705856204032898
+      },
+      {
+        "image_id": 92269,
+        "score_cosine": 0.8699193000793457
+      },
+      {
+        "image_id": 129437,
+        "score_cosine": 0.8683710098266602
+      },
+      {
+        "image_id": 268008,
+        "score_cosine": 0.8666203022003174
+      }
+    ]
+  },
+  {
+    "query_image_id": 157928,
+    "query_split": "test",
+    "neighbors": [
+      {
+        "image_id": 279203,
+        "score_cosine": 0.8195064067840576
+      },
+      {
+        "image_id": 418680,
+        "score_cosine": 0.8115807771682739
+      },
+      {
+        "image_id": 471946,
+        "score_cosine": 0.8082811832427979
+      },
+      {
+        "image_id": 200289,
+        "score_cosine": 0.8068565130233765
+      },
+      {
+        "image_id": 389935,
+        "score_cosine": 0.7949953079223633
+      }
+    ]
+  },
+  {
+    "query_image_id": 541123,
+    "query_split": "test",
+    "neighbors": [
+      {
+        "image_id": 487659,
+        "score_cosine": 0.8346702456474304
+      },
+      {
+        "image_id": 46101,
+        "score_cosine": 0.8313218951225281
+      },
+      {
+        "image_id": 194414,
+        "score_cosine": 0.8153731822967529
+      },
+      {
+        "image_id": 264846,
+        "score_cosine": 0.812167763710022
+      },
+      {
+        "image_id": 72095,
+        "score_cosine": 0.7897194623947144
+      }
+    ]
+  },
+  {
+    "query_image_id": 513567,
+    "query_split": "test",
+    "neighbors": [
+      {
+        "image_id": 84313,
+        "score_cosine": 0.7765648365020752
+      },
+      {
+        "image_id": 335500,
+        "score_cosine": 0.7307164669036865
+      },
+      {
+        "image_id": 526312,
+        "score_cosine": 0.7206199169158936
+      },
+      {
+        "image_id": 387208,
+        "score_cosine": 0.717835545539856
+      },
+      {
+        "image_id": 546832,
+        "score_cosine": 0.7144105434417725
+      }
+    ]
+  }
+]

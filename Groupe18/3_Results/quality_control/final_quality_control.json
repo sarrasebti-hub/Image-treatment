@@ -1,0 +1,286 @@
+{
+  "phase1_complete": true,
+  "overall_status": "PASS",
+  "checks": {
+    "count_train": {
+      "status": "PASS",
+      "detail": {
+        "expected": 10000,
+        "actual": 10000
+      }
+    },
+    "five_captions_train": {
+      "status": "PASS",
+      "detail": {
+        "images_with_wrong_caption_count": {},
+        "caption_records": 50000
+      }
+    },
+    "processed_files_train": {
+      "status": "PASS",
+      "detail": {
+        "missing_count": 0,
+        "examples": []
+      }
+    },
+    "decode_train": {
+      "status": "PASS",
+      "detail": {
+        "decoded": 10000,
+        "errors": []
+      }
+    },
+    "count_validation": {
+      "status": "PASS",
+      "detail": {
+        "expected": 100,
+        "actual": 100
+      }
+    },
+    "five_captions_validation": {
+      "status": "PASS",
+      "detail": {
+        "images_with_wrong_caption_count": {},
+        "caption_records": 500
+      }
+    },
+    "processed_files_validation": {
+      "status": "PASS",
+      "detail": {
+        "missing_count": 0,
+        "examples": []
+      }
+    },
+    "decode_validation": {
+      "status": "PASS",
+      "detail": {
+        "decoded": 100,
+        "errors": []
+      }
+    },
+    "count_test": {
+      "status": "PASS",
+      "detail": {
+        "expected": 1000,
+        "actual": 1000
+      }
+    },
+    "five_captions_test": {
+      "status": "PASS",
+      "detail": {
+        "images_with_wrong_caption_count": {},
+        "caption_records": 5000
+      }
+    },
+    "processed_files_test": {
+      "status": "PASS",
+      "detail": {
+        "missing_count": 0,
+        "examples": []
+      }
+    },
+    "decode_test": {
+      "status": "PASS",
+      "detail": {
+        "decoded": 1000,
+        "errors": []
+      }
+    },
+    "overlap_train_validation": {
+      "status": "PASS",
+      "detail": {
+        "count": 0,
+        "examples": []
+      }
+    },
+    "overlap_train_test": {
+      "status": "PASS",
+      "detail": {
+        "count": 0,
+        "examples": []
+      }
+    },
+    "overlap_validation_test": {
+      "status": "PASS",
+      "detail": {
+        "count": 0,
+        "examples": []
+      }
+    },
+    "exact_sha256": {
+      "status": "PASS",
+      "detail": {
+        "duplicate_groups": 0
+      }
+    },
+    "perceptual_hash": {
+      "status": "PASS",
+      "detail": {
+        "images_hashed": 11100,
+        "candidate_pairs": 9,
+        "threshold": 6,
+        "cross_split_candidates": 0,
+        "cross_split_pairs_reviewed": 0,
+        "review_classifications": {},
+        "unresolved_pairs": [],
+        "manual_review_report_present": true,
+        "errors": 0
+      }
+    },
+    "historical_sha256_and_phash_results_archived": {
+      "status": "PASS",
+      "detail": {
+        "artifacts_checked": 4,
+        "all_archived_byte_for_byte": true,
+        "current_revision_recomputed": true
+      }
+    },
+    "image_embeddings": {
+      "status": "PASS",
+      "detail": {
+        "train": {
+          "shape": [
+            10000,
+            512
+          ],
+          "finite": true,
+          "unit_norm": true
+        },
+        "validation": {
+          "shape": [
+            100,
+            512
+          ],
+          "finite": true,
+          "unit_norm": true
+        },
+        "test": {
+          "shape": [
+            1000,
+            512
+          ],
+          "finite": true,
+          "unit_norm": true
+        }
+      }
+    },
+    "embedding_id_mapping": {
+      "status": "PASS",
+      "detail": {
+        "train": {
+          "rows": 10000,
+          "matches_manifest_order": true
+        },
+        "validation": {
+          "rows": 100,
+          "matches_manifest_order": true
+        },
+        "test": {
+          "rows": 1000,
+          "matches_manifest_order": true
+        }
+      }
+    },
+    "faiss_index": {
+      "status": "PASS",
+      "detail": {
+        "ntotal": 10000,
+        "dimension": 512,
+        "index_type": "IndexFlatIP"
+      }
+    },
+    "retrieval": {
+      "status": "PASS",
+      "detail": {
+        "status": "PASS",
+        "query_count": 20,
+        "requested_query_count": 20,
+        "top_k": 5,
+        "successful_queries": 20,
+        "queries_without_results": [],
+        "gallery_count": 10000,
+        "gallery_split": "train",
+        "query_splits": [
+          "validation",
+          "test"
+        ],
+        "self_match_count": 0,
+        "mean_top1_cosine": 0.8260029643774033,
+        "index_readback_valid": true
+      }
+    },
+    "caption_text_embeddings_and_caption_vector_database": {
+      "status": "PASS",
+      "detail": {
+        "shape": [
+          50000,
+          512
+        ],
+        "mapping_matches_source": true,
+        "unique_train_caption_ids": 50000,
+        "heldout_caption_ids_in_index": 0,
+        "faiss_count": 50000
+      }
+    },
+    "pos_tagging": {
+      "status": "PASS",
+      "detail": {
+        "caption_counts": {
+          "train": {
+            "records": 50000,
+            "malformed": []
+          },
+          "validation": {
+            "records": 500,
+            "malformed": []
+          },
+          "test": {
+            "records": 5000,
+            "malformed": []
+          }
+        },
+        "expected": {
+          "train": 50000,
+          "validation": 500,
+          "test": 5000
+        }
+      }
+    },
+    "visual_analysis": {
+      "status": "PASS",
+      "detail": {
+        "records": 11100,
+        "expected": 11100,
+        "malformed_records": 0
+      }
+    },
+    "frozen_manifest_consistency": {
+      "status": "PASS",
+      "detail": {
+        "matches_selection_report": {
+          "train": true,
+          "validation": true,
+          "test": true
+        },
+        "configured_seed": 20261106
+      }
+    },
+    "controlled_manifest_revision_integrity": {
+      "status": "PASS",
+      "detail": {
+        "backup_files": 15,
+        "originals_match_backup": true,
+        "train_validation_unchanged": true,
+        "current_hashes_match_revision_record": true,
+        "test_manifest_intentionally_revised": true
+      }
+    }
+  },
+  "not_run_checks": [],
+  "failed_checks": [],
+  "warning_checks": [],
+  "notes": [
+    "Image and caption embeddings are stored in separately verifiable FAISS indexes; both galleries contain training data only.",
+    "Visual model confidence is a relative CLIP prompt score, not calibrated probability."
+  ]
+}
