@@ -1,0 +1,1724 @@
+{
+    "number_of_queries": 100,
+    "lambda_values": [
+        0.5,
+        0.7,
+        0.9
+    ],
+    "summary": {
+        "0.5": {
+            "mean_similarity": 0.5024167236685753,
+            "mean_diversity": 0.49758327633142474
+        },
+        "0.7": {
+            "mean_similarity": 0.5573399439454079,
+            "mean_diversity": 0.44266005605459213
+        },
+        "0.9": {
+            "mean_similarity": 0.6966231018304825,
+            "mean_diversity": 0.3033768981695175
+        }
+    },
+    "detailed_results": [
+        {
+            "query_id": "000000270244",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5742820501327515,
+                    "diversity_score": 0.42571794986724854
+                },
+                "0.7": {
+                    "mean_similarity": 0.5984275937080383,
+                    "diversity_score": 0.40157240629196167
+                },
+                "0.9": {
+                    "mean_similarity": 0.8633082509040833,
+                    "diversity_score": 0.13669174909591675
+                }
+            }
+        },
+        {
+            "query_id": "000000476258",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5789370536804199,
+                    "diversity_score": 0.4210629463195801
+                },
+                "0.7": {
+                    "mean_similarity": 0.6110267639160156,
+                    "diversity_score": 0.3889732360839844
+                },
+                "0.9": {
+                    "mean_similarity": 0.6573516726493835,
+                    "diversity_score": 0.34264832735061646
+                }
+            }
+        },
+        {
+            "query_id": "000000166391",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.4897734224796295,
+                    "diversity_score": 0.5102265775203705
+                },
+                "0.7": {
+                    "mean_similarity": 0.6128720045089722,
+                    "diversity_score": 0.38712799549102783
+                },
+                "0.9": {
+                    "mean_similarity": 0.7991064190864563,
+                    "diversity_score": 0.2008935809135437
+                }
+            }
+        },
+        {
+            "query_id": "000000544605",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.4892362654209137,
+                    "diversity_score": 0.5107637345790863
+                },
+                "0.7": {
+                    "mean_similarity": 0.5209715962409973,
+                    "diversity_score": 0.4790284037590027
+                },
+                "0.9": {
+                    "mean_similarity": 0.5900846719741821,
+                    "diversity_score": 0.40991532802581787
+                }
+            }
+        },
+        {
+            "query_id": "000000015079",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5406248569488525,
+                    "diversity_score": 0.45937514305114746
+                },
+                "0.7": {
+                    "mean_similarity": 0.6045228242874146,
+                    "diversity_score": 0.39547717571258545
+                },
+                "0.9": {
+                    "mean_similarity": 0.6198281049728394,
+                    "diversity_score": 0.38017189502716064
+                }
+            }
+        },
+        {
+            "query_id": "000000578489",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.4384482502937317,
+                    "diversity_score": 0.5615517497062683
+                },
+                "0.7": {
+                    "mean_similarity": 0.5407914519309998,
+                    "diversity_score": 0.45920854806900024
+                },
+                "0.9": {
+                    "mean_similarity": 0.7999741435050964,
+                    "diversity_score": 0.20002585649490356
+                }
+            }
+        },
+        {
+            "query_id": "000000251065",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.590988039970398,
+                    "diversity_score": 0.40901196002960205
+                },
+                "0.7": {
+                    "mean_similarity": 0.6695395708084106,
+                    "diversity_score": 0.33046042919158936
+                },
+                "0.9": {
+                    "mean_similarity": 0.7306448221206665,
+                    "diversity_score": 0.2693551778793335
+                }
+            }
+        },
+        {
+            "query_id": "000000326248",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.6185199618339539,
+                    "diversity_score": 0.38148003816604614
+                },
+                "0.7": {
+                    "mean_similarity": 0.6673822402954102,
+                    "diversity_score": 0.33261775970458984
+                },
+                "0.9": {
+                    "mean_similarity": 0.8063913583755493,
+                    "diversity_score": 0.19360864162445068
+                }
+            }
+        },
+        {
+            "query_id": "000000248752",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.6877487897872925,
+                    "diversity_score": 0.3122512102127075
+                },
+                "0.7": {
+                    "mean_similarity": 0.7657109498977661,
+                    "diversity_score": 0.2342890501022339
+                },
+                "0.9": {
+                    "mean_similarity": 0.8764060139656067,
+                    "diversity_score": 0.12359398603439331
+                }
+            }
+        },
+        {
+            "query_id": "000000080666",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.4310234487056732,
+                    "diversity_score": 0.5689765512943268
+                },
+                "0.7": {
+                    "mean_similarity": 0.496549516916275,
+                    "diversity_score": 0.503450483083725
+                },
+                "0.9": {
+                    "mean_similarity": 0.6533886194229126,
+                    "diversity_score": 0.3466113805770874
+                }
+            }
+        },
+        {
+            "query_id": "000000101420",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.4803151488304138,
+                    "diversity_score": 0.5196848511695862
+                },
+                "0.7": {
+                    "mean_similarity": 0.5321462154388428,
+                    "diversity_score": 0.4678537845611572
+                },
+                "0.9": {
+                    "mean_similarity": 0.6530104875564575,
+                    "diversity_score": 0.3469895124435425
+                }
+            }
+        },
+        {
+            "query_id": "000000488673",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.358684241771698,
+                    "diversity_score": 0.641315758228302
+                },
+                "0.7": {
+                    "mean_similarity": 0.4460658133029938,
+                    "diversity_score": 0.5539341866970062
+                },
+                "0.9": {
+                    "mean_similarity": 0.695209801197052,
+                    "diversity_score": 0.304790198802948
+                }
+            }
+        },
+        {
+            "query_id": "000000102707",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.4748574197292328,
+                    "diversity_score": 0.5251425802707672
+                },
+                "0.7": {
+                    "mean_similarity": 0.511269748210907,
+                    "diversity_score": 0.488730251789093
+                },
+                "0.9": {
+                    "mean_similarity": 0.5733495950698853,
+                    "diversity_score": 0.42665040493011475
+                }
+            }
+        },
+        {
+            "query_id": "000000530854",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.4301852583885193,
+                    "diversity_score": 0.5698147416114807
+                },
+                "0.7": {
+                    "mean_similarity": 0.5012548565864563,
+                    "diversity_score": 0.4987451434135437
+                },
+                "0.9": {
+                    "mean_similarity": 0.6065656542778015,
+                    "diversity_score": 0.3934343457221985
+                }
+            }
+        },
+        {
+            "query_id": "000000119445",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.6161583662033081,
+                    "diversity_score": 0.3838416337966919
+                },
+                "0.7": {
+                    "mean_similarity": 0.659786581993103,
+                    "diversity_score": 0.340213418006897
+                },
+                "0.9": {
+                    "mean_similarity": 0.8763408660888672,
+                    "diversity_score": 0.12365913391113281
+                }
+            }
+        },
+        {
+            "query_id": "000000227765",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.4492560029029846,
+                    "diversity_score": 0.5507439970970154
+                },
+                "0.7": {
+                    "mean_similarity": 0.49066415429115295,
+                    "diversity_score": 0.509335845708847
+                },
+                "0.9": {
+                    "mean_similarity": 0.592551589012146,
+                    "diversity_score": 0.407448410987854
+                }
+            }
+        },
+        {
+            "query_id": "000000065736",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.6597284078598022,
+                    "diversity_score": 0.34027159214019775
+                },
+                "0.7": {
+                    "mean_similarity": 0.6597284078598022,
+                    "diversity_score": 0.34027159214019775
+                },
+                "0.9": {
+                    "mean_similarity": 0.7804913520812988,
+                    "diversity_score": 0.21950864791870117
+                }
+            }
+        },
+        {
+            "query_id": "000000146457",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.48181456327438354,
+                    "diversity_score": 0.5181854367256165
+                },
+                "0.7": {
+                    "mean_similarity": 0.5194852352142334,
+                    "diversity_score": 0.4805147647857666
+                },
+                "0.9": {
+                    "mean_similarity": 0.6438360214233398,
+                    "diversity_score": 0.35616397857666016
+                }
+            }
+        },
+        {
+            "query_id": "000000521052",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.39228981733322144,
+                    "diversity_score": 0.6077101826667786
+                },
+                "0.7": {
+                    "mean_similarity": 0.5313855409622192,
+                    "diversity_score": 0.46861445903778076
+                },
+                "0.9": {
+                    "mean_similarity": 0.5951659679412842,
+                    "diversity_score": 0.4048340320587158
+                }
+            }
+        },
+        {
+            "query_id": "000000213547",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.44065532088279724,
+                    "diversity_score": 0.5593446791172028
+                },
+                "0.7": {
+                    "mean_similarity": 0.4595547616481781,
+                    "diversity_score": 0.5404452383518219
+                },
+                "0.9": {
+                    "mean_similarity": 0.6389561295509338,
+                    "diversity_score": 0.36104387044906616
+                }
+            }
+        },
+        {
+            "query_id": "000000480944",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5007731318473816,
+                    "diversity_score": 0.4992268681526184
+                },
+                "0.7": {
+                    "mean_similarity": 0.5260605216026306,
+                    "diversity_score": 0.4739394783973694
+                },
+                "0.9": {
+                    "mean_similarity": 0.6644841432571411,
+                    "diversity_score": 0.3355158567428589
+                }
+            }
+        },
+        {
+            "query_id": "000000311928",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.3927333950996399,
+                    "diversity_score": 0.6072666049003601
+                },
+                "0.7": {
+                    "mean_similarity": 0.5237807631492615,
+                    "diversity_score": 0.4762192368507385
+                },
+                "0.9": {
+                    "mean_similarity": 0.630476176738739,
+                    "diversity_score": 0.369523823261261
+                }
+            }
+        },
+        {
+            "query_id": "000000418961",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.4714744985103607,
+                    "diversity_score": 0.5285255014896393
+                },
+                "0.7": {
+                    "mean_similarity": 0.49695783853530884,
+                    "diversity_score": 0.5030421614646912
+                },
+                "0.9": {
+                    "mean_similarity": 0.6992162466049194,
+                    "diversity_score": 0.30078375339508057
+                }
+            }
+        },
+        {
+            "query_id": "000000567197",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.4440979063510895,
+                    "diversity_score": 0.5559020936489105
+                },
+                "0.7": {
+                    "mean_similarity": 0.46881088614463806,
+                    "diversity_score": 0.5311891138553619
+                },
+                "0.9": {
+                    "mean_similarity": 0.5712944269180298,
+                    "diversity_score": 0.4287055730819702
+                }
+            }
+        },
+        {
+            "query_id": "000000563604",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.4768264889717102,
+                    "diversity_score": 0.5231735110282898
+                },
+                "0.7": {
+                    "mean_similarity": 0.5489639043807983,
+                    "diversity_score": 0.45103609561920166
+                },
+                "0.9": {
+                    "mean_similarity": 0.6390939354896545,
+                    "diversity_score": 0.36090606451034546
+                }
+            }
+        },
+        {
+            "query_id": "000000493864",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5987946391105652,
+                    "diversity_score": 0.4012053608894348
+                },
+                "0.7": {
+                    "mean_similarity": 0.6146878600120544,
+                    "diversity_score": 0.38531213998794556
+                },
+                "0.9": {
+                    "mean_similarity": 0.7331370711326599,
+                    "diversity_score": 0.2668629288673401
+                }
+            }
+        },
+        {
+            "query_id": "000000239318",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5977473855018616,
+                    "diversity_score": 0.4022526144981384
+                },
+                "0.7": {
+                    "mean_similarity": 0.6978082060813904,
+                    "diversity_score": 0.3021917939186096
+                },
+                "0.9": {
+                    "mean_similarity": 0.8155349493026733,
+                    "diversity_score": 0.18446505069732666
+                }
+            }
+        },
+        {
+            "query_id": "000000131938",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.40591636300086975,
+                    "diversity_score": 0.5940836369991302
+                },
+                "0.7": {
+                    "mean_similarity": 0.4687529504299164,
+                    "diversity_score": 0.5312470495700836
+                },
+                "0.9": {
+                    "mean_similarity": 0.5670496821403503,
+                    "diversity_score": 0.43295031785964966
+                }
+            }
+        },
+        {
+            "query_id": "000000090003",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.4359251856803894,
+                    "diversity_score": 0.5640748143196106
+                },
+                "0.7": {
+                    "mean_similarity": 0.5445942282676697,
+                    "diversity_score": 0.4554057717323303
+                },
+                "0.9": {
+                    "mean_similarity": 0.6728165745735168,
+                    "diversity_score": 0.32718342542648315
+                }
+            }
+        },
+        {
+            "query_id": "000000509824",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.4855046272277832,
+                    "diversity_score": 0.5144953727722168
+                },
+                "0.7": {
+                    "mean_similarity": 0.4980109632015228,
+                    "diversity_score": 0.5019890367984772
+                },
+                "0.9": {
+                    "mean_similarity": 0.7579461336135864,
+                    "diversity_score": 0.24205386638641357
+                }
+            }
+        },
+        {
+            "query_id": "000000186282",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.6250911951065063,
+                    "diversity_score": 0.37490880489349365
+                },
+                "0.7": {
+                    "mean_similarity": 0.634979248046875,
+                    "diversity_score": 0.365020751953125
+                },
+                "0.9": {
+                    "mean_similarity": 0.8040348291397095,
+                    "diversity_score": 0.19596517086029053
+                }
+            }
+        },
+        {
+            "query_id": "000000376856",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5395747423171997,
+                    "diversity_score": 0.4604252576828003
+                },
+                "0.7": {
+                    "mean_similarity": 0.5631550550460815,
+                    "diversity_score": 0.43684494495391846
+                },
+                "0.9": {
+                    "mean_similarity": 0.7273796200752258,
+                    "diversity_score": 0.27262037992477417
+                }
+            }
+        },
+        {
+            "query_id": "000000492077",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5173438787460327,
+                    "diversity_score": 0.4826561212539673
+                },
+                "0.7": {
+                    "mean_similarity": 0.6734402179718018,
+                    "diversity_score": 0.32655978202819824
+                },
+                "0.9": {
+                    "mean_similarity": 0.7026140093803406,
+                    "diversity_score": 0.2973859906196594
+                }
+            }
+        },
+        {
+            "query_id": "000000357737",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.4925561845302582,
+                    "diversity_score": 0.5074438154697418
+                },
+                "0.7": {
+                    "mean_similarity": 0.5854738354682922,
+                    "diversity_score": 0.41452616453170776
+                },
+                "0.9": {
+                    "mean_similarity": 0.7073578834533691,
+                    "diversity_score": 0.29264211654663086
+                }
+            }
+        },
+        {
+            "query_id": "000000315219",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.4487527310848236,
+                    "diversity_score": 0.5512472689151764
+                },
+                "0.7": {
+                    "mean_similarity": 0.4726962149143219,
+                    "diversity_score": 0.5273037850856781
+                },
+                "0.9": {
+                    "mean_similarity": 0.589494526386261,
+                    "diversity_score": 0.410505473613739
+                }
+            }
+        },
+        {
+            "query_id": "000000532481",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5543246865272522,
+                    "diversity_score": 0.4456753134727478
+                },
+                "0.7": {
+                    "mean_similarity": 0.624784529209137,
+                    "diversity_score": 0.37521547079086304
+                },
+                "0.9": {
+                    "mean_similarity": 0.7519350051879883,
+                    "diversity_score": 0.24806499481201172
+                }
+            }
+        },
+        {
+            "query_id": "000000054605",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5598610043525696,
+                    "diversity_score": 0.4401389956474304
+                },
+                "0.7": {
+                    "mean_similarity": 0.5839158296585083,
+                    "diversity_score": 0.4160841703414917
+                },
+                "0.9": {
+                    "mean_similarity": 0.7283157110214233,
+                    "diversity_score": 0.27168428897857666
+                }
+            }
+        },
+        {
+            "query_id": "000000389812",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5227731466293335,
+                    "diversity_score": 0.4772268533706665
+                },
+                "0.7": {
+                    "mean_similarity": 0.6076160669326782,
+                    "diversity_score": 0.3923839330673218
+                },
+                "0.9": {
+                    "mean_similarity": 0.7215155363082886,
+                    "diversity_score": 0.2784844636917114
+                }
+            }
+        },
+        {
+            "query_id": "000000079188",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5879170298576355,
+                    "diversity_score": 0.4120829701423645
+                },
+                "0.7": {
+                    "mean_similarity": 0.6354645490646362,
+                    "diversity_score": 0.36453545093536377
+                },
+                "0.9": {
+                    "mean_similarity": 0.84416264295578,
+                    "diversity_score": 0.15583735704421997
+                }
+            }
+        },
+        {
+            "query_id": "000000283318",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.4604455828666687,
+                    "diversity_score": 0.5395544171333313
+                },
+                "0.7": {
+                    "mean_similarity": 0.5059937238693237,
+                    "diversity_score": 0.49400627613067627
+                },
+                "0.9": {
+                    "mean_similarity": 0.5932182669639587,
+                    "diversity_score": 0.40678173303604126
+                }
+            }
+        },
+        {
+            "query_id": "000000160556",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.6030943989753723,
+                    "diversity_score": 0.3969056010246277
+                },
+                "0.7": {
+                    "mean_similarity": 0.6836868524551392,
+                    "diversity_score": 0.31631314754486084
+                },
+                "0.9": {
+                    "mean_similarity": 0.7331252098083496,
+                    "diversity_score": 0.2668747901916504
+                }
+            }
+        },
+        {
+            "query_id": "000000344268",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.3353579640388489,
+                    "diversity_score": 0.6646420359611511
+                },
+                "0.7": {
+                    "mean_similarity": 0.3970291316509247,
+                    "diversity_score": 0.6029708683490753
+                },
+                "0.9": {
+                    "mean_similarity": 0.504447340965271,
+                    "diversity_score": 0.495552659034729
+                }
+            }
+        },
+        {
+            "query_id": "000000400082",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.4536634087562561,
+                    "diversity_score": 0.5463365912437439
+                },
+                "0.7": {
+                    "mean_similarity": 0.4536634087562561,
+                    "diversity_score": 0.5463365912437439
+                },
+                "0.9": {
+                    "mean_similarity": 0.5658570528030396,
+                    "diversity_score": 0.43414294719696045
+                }
+            }
+        },
+        {
+            "query_id": "000000361142",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5511495471000671,
+                    "diversity_score": 0.44885045289993286
+                },
+                "0.7": {
+                    "mean_similarity": 0.577796995639801,
+                    "diversity_score": 0.422203004360199
+                },
+                "0.9": {
+                    "mean_similarity": 0.7421441674232483,
+                    "diversity_score": 0.2578558325767517
+                }
+            }
+        },
+        {
+            "query_id": "000000367818",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5434764623641968,
+                    "diversity_score": 0.4565235376358032
+                },
+                "0.7": {
+                    "mean_similarity": 0.5434764623641968,
+                    "diversity_score": 0.4565235376358032
+                },
+                "0.9": {
+                    "mean_similarity": 0.7627369165420532,
+                    "diversity_score": 0.23726308345794678
+                }
+            }
+        },
+        {
+            "query_id": "000000050638",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.43128862977027893,
+                    "diversity_score": 0.5687113702297211
+                },
+                "0.7": {
+                    "mean_similarity": 0.481004536151886,
+                    "diversity_score": 0.518995463848114
+                },
+                "0.9": {
+                    "mean_similarity": 0.48624342679977417,
+                    "diversity_score": 0.5137565732002258
+                }
+            }
+        },
+        {
+            "query_id": "000000180751",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.536971926689148,
+                    "diversity_score": 0.46302807331085205
+                },
+                "0.7": {
+                    "mean_similarity": 0.6206448674201965,
+                    "diversity_score": 0.37935513257980347
+                },
+                "0.9": {
+                    "mean_similarity": 0.7332271337509155,
+                    "diversity_score": 0.2667728662490845
+                }
+            }
+        },
+        {
+            "query_id": "000000228436",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.4386204183101654,
+                    "diversity_score": 0.5613795816898346
+                },
+                "0.7": {
+                    "mean_similarity": 0.4918064475059509,
+                    "diversity_score": 0.5081935524940491
+                },
+                "0.9": {
+                    "mean_similarity": 0.5859761238098145,
+                    "diversity_score": 0.41402387619018555
+                }
+            }
+        },
+        {
+            "query_id": "000000182441",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5319293737411499,
+                    "diversity_score": 0.4680706262588501
+                },
+                "0.7": {
+                    "mean_similarity": 0.5765160322189331,
+                    "diversity_score": 0.4234839677810669
+                },
+                "0.9": {
+                    "mean_similarity": 0.6403580904006958,
+                    "diversity_score": 0.3596419095993042
+                }
+            }
+        },
+        {
+            "query_id": "000000308793",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5383394956588745,
+                    "diversity_score": 0.4616605043411255
+                },
+                "0.7": {
+                    "mean_similarity": 0.5897248983383179,
+                    "diversity_score": 0.41027510166168213
+                },
+                "0.9": {
+                    "mean_similarity": 0.7121788263320923,
+                    "diversity_score": 0.2878211736679077
+                }
+            }
+        },
+        {
+            "query_id": "000000549055",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.6595882177352905,
+                    "diversity_score": 0.3404117822647095
+                },
+                "0.7": {
+                    "mean_similarity": 0.7101460099220276,
+                    "diversity_score": 0.2898539900779724
+                },
+                "0.9": {
+                    "mean_similarity": 0.8270111083984375,
+                    "diversity_score": 0.1729888916015625
+                }
+            }
+        },
+        {
+            "query_id": "000000463199",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.45931148529052734,
+                    "diversity_score": 0.5406885147094727
+                },
+                "0.7": {
+                    "mean_similarity": 0.5224071145057678,
+                    "diversity_score": 0.4775928854942322
+                },
+                "0.9": {
+                    "mean_similarity": 0.6762384176254272,
+                    "diversity_score": 0.32376158237457275
+                }
+            }
+        },
+        {
+            "query_id": "000000108864",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.666237473487854,
+                    "diversity_score": 0.333762526512146
+                },
+                "0.7": {
+                    "mean_similarity": 0.6756126284599304,
+                    "diversity_score": 0.3243873715400696
+                },
+                "0.9": {
+                    "mean_similarity": 0.785275936126709,
+                    "diversity_score": 0.21472406387329102
+                }
+            }
+        },
+        {
+            "query_id": "000000127494",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5603023767471313,
+                    "diversity_score": 0.43969762325286865
+                },
+                "0.7": {
+                    "mean_similarity": 0.5797792673110962,
+                    "diversity_score": 0.4202207326889038
+                },
+                "0.9": {
+                    "mean_similarity": 0.6793640851974487,
+                    "diversity_score": 0.32063591480255127
+                }
+            }
+        },
+        {
+            "query_id": "000000228981",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5888354182243347,
+                    "diversity_score": 0.4111645817756653
+                },
+                "0.7": {
+                    "mean_similarity": 0.5888354182243347,
+                    "diversity_score": 0.4111645817756653
+                },
+                "0.9": {
+                    "mean_similarity": 0.7513364553451538,
+                    "diversity_score": 0.2486635446548462
+                }
+            }
+        },
+        {
+            "query_id": "000000478862",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5018588900566101,
+                    "diversity_score": 0.4981411099433899
+                },
+                "0.7": {
+                    "mean_similarity": 0.6116269826889038,
+                    "diversity_score": 0.3883730173110962
+                },
+                "0.9": {
+                    "mean_similarity": 0.7229989767074585,
+                    "diversity_score": 0.2770010232925415
+                }
+            }
+        },
+        {
+            "query_id": "000000186637",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5237835049629211,
+                    "diversity_score": 0.47621649503707886
+                },
+                "0.7": {
+                    "mean_similarity": 0.5602661371231079,
+                    "diversity_score": 0.4397338628768921
+                },
+                "0.9": {
+                    "mean_similarity": 0.7736388444900513,
+                    "diversity_score": 0.22636115550994873
+                }
+            }
+        },
+        {
+            "query_id": "000000542625",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.43980854749679565,
+                    "diversity_score": 0.5601914525032043
+                },
+                "0.7": {
+                    "mean_similarity": 0.46410098671913147,
+                    "diversity_score": 0.5358990132808685
+                },
+                "0.9": {
+                    "mean_similarity": 0.6162216663360596,
+                    "diversity_score": 0.38377833366394043
+                }
+            }
+        },
+        {
+            "query_id": "000000258911",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.6240302324295044,
+                    "diversity_score": 0.3759697675704956
+                },
+                "0.7": {
+                    "mean_similarity": 0.6027194261550903,
+                    "diversity_score": 0.39728057384490967
+                },
+                "0.9": {
+                    "mean_similarity": 0.7559210062026978,
+                    "diversity_score": 0.24407899379730225
+                }
+            }
+        },
+        {
+            "query_id": "000000161875",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.35555896162986755,
+                    "diversity_score": 0.6444410383701324
+                },
+                "0.7": {
+                    "mean_similarity": 0.3799888491630554,
+                    "diversity_score": 0.6200111508369446
+                },
+                "0.9": {
+                    "mean_similarity": 0.6060963869094849,
+                    "diversity_score": 0.39390361309051514
+                }
+            }
+        },
+        {
+            "query_id": "000000015956",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5203148126602173,
+                    "diversity_score": 0.4796851873397827
+                },
+                "0.7": {
+                    "mean_similarity": 0.6355906128883362,
+                    "diversity_score": 0.3644093871116638
+                },
+                "0.9": {
+                    "mean_similarity": 0.6789387464523315,
+                    "diversity_score": 0.32106125354766846
+                }
+            }
+        },
+        {
+            "query_id": "000000535253",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.4537871778011322,
+                    "diversity_score": 0.5462128221988678
+                },
+                "0.7": {
+                    "mean_similarity": 0.5752037763595581,
+                    "diversity_score": 0.4247962236404419
+                },
+                "0.9": {
+                    "mean_similarity": 0.6681550741195679,
+                    "diversity_score": 0.33184492588043213
+                }
+            }
+        },
+        {
+            "query_id": "000000310980",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.553145170211792,
+                    "diversity_score": 0.446854829788208
+                },
+                "0.7": {
+                    "mean_similarity": 0.6121662855148315,
+                    "diversity_score": 0.38783371448516846
+                },
+                "0.9": {
+                    "mean_similarity": 0.7493541836738586,
+                    "diversity_score": 0.25064581632614136
+                }
+            }
+        },
+        {
+            "query_id": "000000350405",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.6460901498794556,
+                    "diversity_score": 0.35390985012054443
+                },
+                "0.7": {
+                    "mean_similarity": 0.6549806594848633,
+                    "diversity_score": 0.3450193405151367
+                },
+                "0.9": {
+                    "mean_similarity": 0.7149952054023743,
+                    "diversity_score": 0.28500479459762573
+                }
+            }
+        },
+        {
+            "query_id": "000000399296",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.46802443265914917,
+                    "diversity_score": 0.5319755673408508
+                },
+                "0.7": {
+                    "mean_similarity": 0.5663428902626038,
+                    "diversity_score": 0.43365710973739624
+                },
+                "0.9": {
+                    "mean_similarity": 0.6182075142860413,
+                    "diversity_score": 0.38179248571395874
+                }
+            }
+        },
+        {
+            "query_id": "000000086582",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.4883132576942444,
+                    "diversity_score": 0.5116867423057556
+                },
+                "0.7": {
+                    "mean_similarity": 0.4883132576942444,
+                    "diversity_score": 0.5116867423057556
+                },
+                "0.9": {
+                    "mean_similarity": 0.6106013059616089,
+                    "diversity_score": 0.3893986940383911
+                }
+            }
+        },
+        {
+            "query_id": "000000005600",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.48527365922927856,
+                    "diversity_score": 0.5147263407707214
+                },
+                "0.7": {
+                    "mean_similarity": 0.5578708648681641,
+                    "diversity_score": 0.44212913513183594
+                },
+                "0.9": {
+                    "mean_similarity": 0.7276290059089661,
+                    "diversity_score": 0.27237099409103394
+                }
+            }
+        },
+        {
+            "query_id": "000000338304",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.39076346158981323,
+                    "diversity_score": 0.6092365384101868
+                },
+                "0.7": {
+                    "mean_similarity": 0.4582093358039856,
+                    "diversity_score": 0.5417906641960144
+                },
+                "0.9": {
+                    "mean_similarity": 0.6785932183265686,
+                    "diversity_score": 0.3214067816734314
+                }
+            }
+        },
+        {
+            "query_id": "000000417249",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.540401816368103,
+                    "diversity_score": 0.459598183631897
+                },
+                "0.7": {
+                    "mean_similarity": 0.5404018759727478,
+                    "diversity_score": 0.4595981240272522
+                },
+                "0.9": {
+                    "mean_similarity": 0.6715307831764221,
+                    "diversity_score": 0.3284692168235779
+                }
+            }
+        },
+        {
+            "query_id": "000000412362",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5348677635192871,
+                    "diversity_score": 0.4651322364807129
+                },
+                "0.7": {
+                    "mean_similarity": 0.5530427694320679,
+                    "diversity_score": 0.44695723056793213
+                },
+                "0.9": {
+                    "mean_similarity": 0.6686762571334839,
+                    "diversity_score": 0.3313237428665161
+                }
+            }
+        },
+        {
+            "query_id": "000000042102",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.3861413598060608,
+                    "diversity_score": 0.6138586401939392
+                },
+                "0.7": {
+                    "mean_similarity": 0.42395439743995667,
+                    "diversity_score": 0.5760456025600433
+                },
+                "0.9": {
+                    "mean_similarity": 0.7141948938369751,
+                    "diversity_score": 0.2858051061630249
+                }
+            }
+        },
+        {
+            "query_id": "000000183049",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.513457179069519,
+                    "diversity_score": 0.48654282093048096
+                },
+                "0.7": {
+                    "mean_similarity": 0.5977948307991028,
+                    "diversity_score": 0.4022051692008972
+                },
+                "0.9": {
+                    "mean_similarity": 0.716525673866272,
+                    "diversity_score": 0.283474326133728
+                }
+            }
+        },
+        {
+            "query_id": "000000176847",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.457751989364624,
+                    "diversity_score": 0.542248010635376
+                },
+                "0.7": {
+                    "mean_similarity": 0.5198730230331421,
+                    "diversity_score": 0.4801269769668579
+                },
+                "0.9": {
+                    "mean_similarity": 0.6476532220840454,
+                    "diversity_score": 0.3523467779159546
+                }
+            }
+        },
+        {
+            "query_id": "000000167159",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.3379674553871155,
+                    "diversity_score": 0.6620325446128845
+                },
+                "0.7": {
+                    "mean_similarity": 0.5650911927223206,
+                    "diversity_score": 0.43490880727767944
+                },
+                "0.9": {
+                    "mean_similarity": 0.6130399703979492,
+                    "diversity_score": 0.3869600296020508
+                }
+            }
+        },
+        {
+            "query_id": "000000154000",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5062617063522339,
+                    "diversity_score": 0.4937382936477661
+                },
+                "0.7": {
+                    "mean_similarity": 0.5373274087905884,
+                    "diversity_score": 0.4626725912094116
+                },
+                "0.9": {
+                    "mean_similarity": 0.6851953268051147,
+                    "diversity_score": 0.31480467319488525
+                }
+            }
+        },
+        {
+            "query_id": "000000303499",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.385757714509964,
+                    "diversity_score": 0.614242285490036
+                },
+                "0.7": {
+                    "mean_similarity": 0.44123953580856323,
+                    "diversity_score": 0.5587604641914368
+                },
+                "0.9": {
+                    "mean_similarity": 0.6342061161994934,
+                    "diversity_score": 0.3657938838005066
+                }
+            }
+        },
+        {
+            "query_id": "000000161397",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.4694359302520752,
+                    "diversity_score": 0.5305640697479248
+                },
+                "0.7": {
+                    "mean_similarity": 0.5145828723907471,
+                    "diversity_score": 0.48541712760925293
+                },
+                "0.9": {
+                    "mean_similarity": 0.7011297345161438,
+                    "diversity_score": 0.2988702654838562
+                }
+            }
+        },
+        {
+            "query_id": "000000050006",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.482562780380249,
+                    "diversity_score": 0.517437219619751
+                },
+                "0.7": {
+                    "mean_similarity": 0.5424813628196716,
+                    "diversity_score": 0.45751863718032837
+                },
+                "0.9": {
+                    "mean_similarity": 0.742714524269104,
+                    "diversity_score": 0.257285475730896
+                }
+            }
+        },
+        {
+            "query_id": "000000275198",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.4555087089538574,
+                    "diversity_score": 0.5444912910461426
+                },
+                "0.7": {
+                    "mean_similarity": 0.4882911145687103,
+                    "diversity_score": 0.5117088854312897
+                },
+                "0.9": {
+                    "mean_similarity": 0.7334378957748413,
+                    "diversity_score": 0.2665621042251587
+                }
+            }
+        },
+        {
+            "query_id": "000000183437",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.553925096988678,
+                    "diversity_score": 0.446074903011322
+                },
+                "0.7": {
+                    "mean_similarity": 0.5539250373840332,
+                    "diversity_score": 0.4460749626159668
+                },
+                "0.9": {
+                    "mean_similarity": 0.8039857149124146,
+                    "diversity_score": 0.19601428508758545
+                }
+            }
+        },
+        {
+            "query_id": "000000358427",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5281198620796204,
+                    "diversity_score": 0.47188013792037964
+                },
+                "0.7": {
+                    "mean_similarity": 0.5424814224243164,
+                    "diversity_score": 0.4575185775756836
+                },
+                "0.9": {
+                    "mean_similarity": 0.6807085871696472,
+                    "diversity_score": 0.3192914128303528
+                }
+            }
+        },
+        {
+            "query_id": "000000423944",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.32430002093315125,
+                    "diversity_score": 0.6756999790668488
+                },
+                "0.7": {
+                    "mean_similarity": 0.3602755665779114,
+                    "diversity_score": 0.6397244334220886
+                },
+                "0.9": {
+                    "mean_similarity": 0.646952211856842,
+                    "diversity_score": 0.35304778814315796
+                }
+            }
+        },
+        {
+            "query_id": "000000465180",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.6622310876846313,
+                    "diversity_score": 0.33776891231536865
+                },
+                "0.7": {
+                    "mean_similarity": 0.6747143864631653,
+                    "diversity_score": 0.3252856135368347
+                },
+                "0.9": {
+                    "mean_similarity": 0.7859569787979126,
+                    "diversity_score": 0.2140430212020874
+                }
+            }
+        },
+        {
+            "query_id": "000000521717",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5769668817520142,
+                    "diversity_score": 0.42303311824798584
+                },
+                "0.7": {
+                    "mean_similarity": 0.6350810527801514,
+                    "diversity_score": 0.36491894721984863
+                },
+                "0.9": {
+                    "mean_similarity": 0.8359212875366211,
+                    "diversity_score": 0.1640787124633789
+                }
+            }
+        },
+        {
+            "query_id": "000000575372",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.46092772483825684,
+                    "diversity_score": 0.5390722751617432
+                },
+                "0.7": {
+                    "mean_similarity": 0.5150117874145508,
+                    "diversity_score": 0.4849882125854492
+                },
+                "0.9": {
+                    "mean_similarity": 0.6625665426254272,
+                    "diversity_score": 0.33743345737457275
+                }
+            }
+        },
+        {
+            "query_id": "000000152465",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.4071134924888611,
+                    "diversity_score": 0.5928865075111389
+                },
+                "0.7": {
+                    "mean_similarity": 0.5019687414169312,
+                    "diversity_score": 0.49803125858306885
+                },
+                "0.9": {
+                    "mean_similarity": 0.5682743787765503,
+                    "diversity_score": 0.4317256212234497
+                }
+            }
+        },
+        {
+            "query_id": "000000060507",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.6338446140289307,
+                    "diversity_score": 0.36615538597106934
+                },
+                "0.7": {
+                    "mean_similarity": 0.659506618976593,
+                    "diversity_score": 0.340493381023407
+                },
+                "0.9": {
+                    "mean_similarity": 0.7887360453605652,
+                    "diversity_score": 0.21126395463943481
+                }
+            }
+        },
+        {
+            "query_id": "000000440508",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.618489682674408,
+                    "diversity_score": 0.38151031732559204
+                },
+                "0.7": {
+                    "mean_similarity": 0.7156336307525635,
+                    "diversity_score": 0.2843663692474365
+                },
+                "0.9": {
+                    "mean_similarity": 0.7820927500724792,
+                    "diversity_score": 0.21790724992752075
+                }
+            }
+        },
+        {
+            "query_id": "000000414673",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5294383764266968,
+                    "diversity_score": 0.4705616235733032
+                },
+                "0.7": {
+                    "mean_similarity": 0.6194033026695251,
+                    "diversity_score": 0.38059669733047485
+                },
+                "0.9": {
+                    "mean_similarity": 0.7057519555091858,
+                    "diversity_score": 0.2942480444908142
+                }
+            }
+        },
+        {
+            "query_id": "000000414510",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.4468297064304352,
+                    "diversity_score": 0.5531702935695648
+                },
+                "0.7": {
+                    "mean_similarity": 0.49947673082351685,
+                    "diversity_score": 0.5005232691764832
+                },
+                "0.9": {
+                    "mean_similarity": 0.6489227414131165,
+                    "diversity_score": 0.35107725858688354
+                }
+            }
+        },
+        {
+            "query_id": "000000157390",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5327266454696655,
+                    "diversity_score": 0.4672733545303345
+                },
+                "0.7": {
+                    "mean_similarity": 0.5524495840072632,
+                    "diversity_score": 0.4475504159927368
+                },
+                "0.9": {
+                    "mean_similarity": 0.65915846824646,
+                    "diversity_score": 0.34084153175354004
+                }
+            }
+        },
+        {
+            "query_id": "000000119677",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.4623107314109802,
+                    "diversity_score": 0.5376892685890198
+                },
+                "0.7": {
+                    "mean_similarity": 0.6133678555488586,
+                    "diversity_score": 0.38663214445114136
+                },
+                "0.9": {
+                    "mean_similarity": 0.7421388626098633,
+                    "diversity_score": 0.2578611373901367
+                }
+            }
+        },
+        {
+            "query_id": "000000206579",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.440085232257843,
+                    "diversity_score": 0.559914767742157
+                },
+                "0.7": {
+                    "mean_similarity": 0.49343758821487427,
+                    "diversity_score": 0.5065624117851257
+                },
+                "0.9": {
+                    "mean_similarity": 0.7382150292396545,
+                    "diversity_score": 0.26178497076034546
+                }
+            }
+        },
+        {
+            "query_id": "000000271457",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.4556332230567932,
+                    "diversity_score": 0.5443667769432068
+                },
+                "0.7": {
+                    "mean_similarity": 0.4556332230567932,
+                    "diversity_score": 0.5443667769432068
+                },
+                "0.9": {
+                    "mean_similarity": 0.8508472442626953,
+                    "diversity_score": 0.1491527557373047
+                }
+            }
+        },
+        {
+            "query_id": "000000376625",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.3867853283882141,
+                    "diversity_score": 0.6132146716117859
+                },
+                "0.7": {
+                    "mean_similarity": 0.42194217443466187,
+                    "diversity_score": 0.5780578255653381
+                },
+                "0.9": {
+                    "mean_similarity": 0.6656801104545593,
+                    "diversity_score": 0.3343198895454407
+                }
+            }
+        },
+        {
+            "query_id": "000000520832",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.3834562599658966,
+                    "diversity_score": 0.6165437400341034
+                },
+                "0.7": {
+                    "mean_similarity": 0.4767245352268219,
+                    "diversity_score": 0.5232754647731781
+                },
+                "0.9": {
+                    "mean_similarity": 0.5225668549537659,
+                    "diversity_score": 0.47743314504623413
+                }
+            }
+        },
+        {
+            "query_id": "000000121417",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.47748127579689026,
+                    "diversity_score": 0.5225187242031097
+                },
+                "0.7": {
+                    "mean_similarity": 0.5612068772315979,
+                    "diversity_score": 0.4387931227684021
+                },
+                "0.9": {
+                    "mean_similarity": 0.6871439218521118,
+                    "diversity_score": 0.3128560781478882
+                }
+            }
+        },
+        {
+            "query_id": "000000341469",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.5509517788887024,
+                    "diversity_score": 0.4490482211112976
+                },
+                "0.7": {
+                    "mean_similarity": 0.584161102771759,
+                    "diversity_score": 0.41583889722824097
+                },
+                "0.9": {
+                    "mean_similarity": 0.7339863777160645,
+                    "diversity_score": 0.26601362228393555
+                }
+            }
+        },
+        {
+            "query_id": "000000401244",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.43095821142196655,
+                    "diversity_score": 0.5690417885780334
+                },
+                "0.7": {
+                    "mean_similarity": 0.5660794973373413,
+                    "diversity_score": 0.4339205026626587
+                },
+                "0.9": {
+                    "mean_similarity": 0.7386336326599121,
+                    "diversity_score": 0.2613663673400879
+                }
+            }
+        },
+        {
+            "query_id": "000000531135",
+            "lambda_results": {
+                "0.5": {
+                    "mean_similarity": 0.6181033849716187,
+                    "diversity_score": 0.38189661502838135
+                },
+                "0.7": {
+                    "mean_similarity": 0.6728399395942688,
+                    "diversity_score": 0.3271600604057312
+                },
+                "0.9": {
+                    "mean_similarity": 0.8058557510375977,
+                    "diversity_score": 0.19414424896240234
+                }
+            }
+        }
+    ]
+}

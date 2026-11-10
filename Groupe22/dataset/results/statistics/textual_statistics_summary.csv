@@ -1,0 +1,14 @@
+﻿Metric,Value
+Total captions,109273
+Total words,1143103
+Vocabulary size,13324
+Average caption length,10.46
+Median caption length,10
+Minimum caption length,6
+Maximum caption length,50
+
+POS Category,Count
+Nouns,406236
+Adjectives,92888
+Verbs,133290
+Adverbs,7679

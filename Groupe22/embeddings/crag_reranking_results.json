@@ -1,0 +1,802 @@
+[
+    {
+        "query_id": "000000270244",
+        "initial_score": 0.35573065280914307,
+        "classification": "CORRECT",
+        "action": "KEEP_INITIAL_RESULTS",
+        "number_of_candidates": 20,
+        "number_of_captions": 100,
+        "top_results": [
+            {
+                "image_id": "000000434668",
+                "faiss_score": 0.8976424336433411,
+                "clip_score": 0.35573065280914307,
+                "caption": "A zebra standing in a field full of lush green grass."
+            },
+            {
+                "image_id": "000000249676",
+                "faiss_score": 0.9094412326812744,
+                "clip_score": 0.35002073645591736,
+                "caption": "The single zebra stands in a field of tall grass."
+            },
+            {
+                "image_id": "000000249676",
+                "faiss_score": 0.9094412326812744,
+                "clip_score": 0.34997135400772095,
+                "caption": "A zebra standing in a grassy field next to trees."
+            },
+            {
+                "image_id": "000000249676",
+                "faiss_score": 0.9094412326812744,
+                "clip_score": 0.34897419810295105,
+                "caption": "A zebra standing in tall brown grass near some trees."
+            },
+            {
+                "image_id": "000000522477",
+                "faiss_score": 0.9033750891685486,
+                "clip_score": 0.34786736965179443,
+                "caption": "A zebra standing alone in a grassy field."
+            }
+        ]
+    },
+    {
+        "query_id": "000000476258",
+        "initial_score": 0.34456169605255127,
+        "classification": "CORRECT",
+        "action": "KEEP_INITIAL_RESULTS",
+        "number_of_candidates": 20,
+        "number_of_captions": 100,
+        "top_results": [
+            {
+                "image_id": "000000093127",
+                "faiss_score": 0.8202269673347473,
+                "clip_score": 0.34456169605255127,
+                "caption": "A skier on a ski board is wearing a bright yellow and black ski suit."
+            },
+            {
+                "image_id": "000000117014",
+                "faiss_score": 0.8264562487602234,
+                "clip_score": 0.3057601749897003,
+                "caption": "A person performing a trick on a snowboard."
+            },
+            {
+                "image_id": "000000117014",
+                "faiss_score": 0.8264562487602234,
+                "clip_score": 0.3044666647911072,
+                "caption": "A person on a snowboard who is performing a jump."
+            },
+            {
+                "image_id": "000000522054",
+                "faiss_score": 0.8255541324615479,
+                "clip_score": 0.3032994866371155,
+                "caption": "A man flying through the air while riding a snowboard."
+            },
+            {
+                "image_id": "000000578849",
+                "faiss_score": 0.8030238747596741,
+                "clip_score": 0.3014584183692932,
+                "caption": "The skiing racer in goggles tucks the poles under his arms."
+            }
+        ]
+    },
+    {
+        "query_id": "000000166391",
+        "initial_score": 0.3403119146823883,
+        "classification": "CORRECT",
+        "action": "KEEP_INITIAL_RESULTS",
+        "number_of_candidates": 20,
+        "number_of_captions": 100,
+        "top_results": [
+            {
+                "image_id": "000000446861",
+                "faiss_score": 0.9754222631454468,
+                "clip_score": 0.3403119444847107,
+                "caption": "A row of traffic lights hanging over a suburban intersection."
+            },
+            {
+                "image_id": "000000047638",
+                "faiss_score": 0.8304169178009033,
+                "clip_score": 0.3358423113822937,
+                "caption": "A picture of some stop and go lights at an busy intersection."
+            },
+            {
+                "image_id": "000000446861",
+                "faiss_score": 0.9754222631454468,
+                "clip_score": 0.33356496691703796,
+                "caption": "Multiple traffic lights are strung across a wide intersection."
+            },
+            {
+                "image_id": "000000446861",
+                "faiss_score": 0.9754222631454468,
+                "clip_score": 0.3331310749053955,
+                "caption": "A bunch of stop lights hanging over an intersection."
+            },
+            {
+                "image_id": "000000173132",
+                "faiss_score": 0.8433936238288879,
+                "clip_score": 0.32664111256599426,
+                "caption": "An empty highway intersection with a traffic signal showing red."
+            }
+        ]
+    },
+    {
+        "query_id": "000000544605",
+        "initial_score": 0.3162154257297516,
+        "classification": "INCORRECT",
+        "action": "FALLBACK_EXPANDED_RETRIEVAL",
+        "number_of_candidates": 50,
+        "number_of_captions": 251,
+        "top_results": [
+            {
+                "image_id": "000000035940",
+                "faiss_score": 0.7666178345680237,
+                "clip_score": 0.32349449396133423,
+                "caption": "A \"one-Way\" street sign in front of a concrete wall at a street corner."
+            },
+            {
+                "image_id": "000000396882",
+                "faiss_score": 0.7733231782913208,
+                "clip_score": 0.323086142539978,
+                "caption": "A \"No Parking\" sign erected for the Summer Streets festival."
+            },
+            {
+                "image_id": "000000035793",
+                "faiss_score": 0.7667054533958435,
+                "clip_score": 0.3201419711112976,
+                "caption": "Dirty 5th Ave and 5th St street signs at an intersection."
+            },
+            {
+                "image_id": "000000231984",
+                "faiss_score": 0.7984435558319092,
+                "clip_score": 0.3162153661251068,
+                "caption": "A few street signs with one pointing to a ticket meter."
+            },
+            {
+                "image_id": "000000345711",
+                "faiss_score": 0.7804604172706604,
+                "clip_score": 0.3133127987384796,
+                "caption": "A sign for East 42 street and Tudor City."
+            }
+        ]
+    },
+    {
+        "query_id": "000000015079",
+        "initial_score": 0.31409740447998047,
+        "classification": "INCORRECT",
+        "action": "FALLBACK_EXPANDED_RETRIEVAL",
+        "number_of_candidates": 50,
+        "number_of_captions": 250,
+        "top_results": [
+            {
+                "image_id": "000000163589",
+                "faiss_score": 0.7387726306915283,
+                "clip_score": 0.3211442232131958,
+                "caption": "A table with a sandwich, sandwich makings and glasses of red wine."
+            },
+            {
+                "image_id": "000000115419",
+                "faiss_score": 0.7500920295715332,
+                "clip_score": 0.318491667509079,
+                "caption": "a close up of a sandwich on a plate with fruit"
+            },
+            {
+                "image_id": "000000061946",
+                "faiss_score": 0.8040540218353271,
+                "clip_score": 0.31409746408462524,
+                "caption": "A plate that has a half of a peanut butter and jelly sandwich and a small lamb stuffed animal."
+            },
+            {
+                "image_id": "000000061946",
+                "faiss_score": 0.8040540218353271,
+                "clip_score": 0.3083774745464325,
+                "caption": "Tiny toy stuffed animal and a half peanut butter and jelly sandwich on a plate."
+            },
+            {
+                "image_id": "000000061946",
+                "faiss_score": 0.8040540218353271,
+                "clip_score": 0.3068265914916992,
+                "caption": "A teddy bear sitting next to a sandwich halve on a plate."
+            }
+        ]
+    },
+    {
+        "query_id": "000000578489",
+        "initial_score": 0.3793751001358032,
+        "classification": "CORRECT",
+        "action": "KEEP_INITIAL_RESULTS",
+        "number_of_candidates": 20,
+        "number_of_captions": 100,
+        "top_results": [
+            {
+                "image_id": "000000187072",
+                "faiss_score": 0.7649863958358765,
+                "clip_score": 0.3793751001358032,
+                "caption": "Two little kids, a girl and a boy, playing a Wii game."
+            },
+            {
+                "image_id": "000000034835",
+                "faiss_score": 0.8320188522338867,
+                "clip_score": 0.362667053937912,
+                "caption": "A family playing Wii in a living room."
+            },
+            {
+                "image_id": "000000466549",
+                "faiss_score": 0.8356294631958008,
+                "clip_score": 0.36125633120536804,
+                "caption": "A man and woman are playing Wii while kids watch."
+            },
+            {
+                "image_id": "000000172874",
+                "faiss_score": 0.7793791890144348,
+                "clip_score": 0.35893183946609497,
+                "caption": "A young lady is playing the Wii while others look on."
+            },
+            {
+                "image_id": "000000025423",
+                "faiss_score": 0.7628815770149231,
+                "clip_score": 0.35787105560302734,
+                "caption": "A young child plays Wii in the living room."
+            }
+        ]
+    },
+    {
+        "query_id": "000000251065",
+        "initial_score": 0.34330102801322937,
+        "classification": "CORRECT",
+        "action": "KEEP_INITIAL_RESULTS",
+        "number_of_candidates": 20,
+        "number_of_captions": 100,
+        "top_results": [
+            {
+                "image_id": "000000309944",
+                "faiss_score": 0.8021883368492126,
+                "clip_score": 0.343300998210907,
+                "caption": "A toilet with one of its lids up is visible."
+            },
+            {
+                "image_id": "000000504997",
+                "faiss_score": 0.8060478568077087,
+                "clip_score": 0.3420524597167969,
+                "caption": "An oval shaped toilet on a black floor."
+            },
+            {
+                "image_id": "000000504997",
+                "faiss_score": 0.8060478568077087,
+                "clip_score": 0.3407854437828064,
+                "caption": "A white toilet in a public bathroom."
+            },
+            {
+                "image_id": "000000139633",
+                "faiss_score": 0.8126246929168701,
+                "clip_score": 0.33866649866104126,
+                "caption": "A small toilet with an Indian toilet seat with flush."
+            },
+            {
+                "image_id": "000000044604",
+                "faiss_score": 0.7992391586303711,
+                "clip_score": 0.3381768465042114,
+                "caption": "A white standing toilet sitting inside of a stall."
+            }
+        ]
+    },
+    {
+        "query_id": "000000326248",
+        "initial_score": 0.3466266095638275,
+        "classification": "CORRECT",
+        "action": "KEEP_INITIAL_RESULTS",
+        "number_of_candidates": 20,
+        "number_of_captions": 100,
+        "top_results": [
+            {
+                "image_id": "000000477010",
+                "faiss_score": 0.806694746017456,
+                "clip_score": 0.3466265797615051,
+                "caption": "A tennis player serves a ball as a crowd watches."
+            },
+            {
+                "image_id": "000000581018",
+                "faiss_score": 0.8182638883590698,
+                "clip_score": 0.34325021505355835,
+                "caption": "A tennis player serves a ball at the US Open."
+            },
+            {
+                "image_id": "000000444953",
+                "faiss_score": 0.8521314859390259,
+                "clip_score": 0.3426486551761627,
+                "caption": "Two men playing tennis on a court while people watch from the side lines and the stands."
+            },
+            {
+                "image_id": "000000357967",
+                "faiss_score": 0.8766751885414124,
+                "clip_score": 0.3418562412261963,
+                "caption": "A professional tennis game with a player swinging his racket."
+            },
+            {
+                "image_id": "000000376843",
+                "faiss_score": 0.8290263414382935,
+                "clip_score": 0.3382706642150879,
+                "caption": "A tennis player is hitting a ball in front of a small crowd."
+            }
+        ]
+    },
+    {
+        "query_id": "000000248752",
+        "initial_score": 0.34436464309692383,
+        "classification": "CORRECT",
+        "action": "KEEP_INITIAL_RESULTS",
+        "number_of_candidates": 20,
+        "number_of_captions": 100,
+        "top_results": [
+            {
+                "image_id": "000000221470",
+                "faiss_score": 0.7158347964286804,
+                "clip_score": 0.34436458349227905,
+                "caption": "A baseball player is up to bat and readies on the high side."
+            },
+            {
+                "image_id": "000000462931",
+                "faiss_score": 0.7071598768234253,
+                "clip_score": 0.337518572807312,
+                "caption": "A professorial baseball player hitting a ball in a game."
+            },
+            {
+                "image_id": "000000224499",
+                "faiss_score": 0.740702748298645,
+                "clip_score": 0.3368651866912842,
+                "caption": "A batter is preparing to hit an oncoming pitch."
+            },
+            {
+                "image_id": "000000437996",
+                "faiss_score": 0.6933693885803223,
+                "clip_score": 0.33502820134162903,
+                "caption": "A baseball player swinging a bat over home plate."
+            },
+            {
+                "image_id": "000000417347",
+                "faiss_score": 0.6954045295715332,
+                "clip_score": 0.33501964807510376,
+                "caption": "A baseball hitter stands in position to hit the ball."
+            }
+        ]
+    },
+    {
+        "query_id": "000000080666",
+        "initial_score": 0.34248220920562744,
+        "classification": "CORRECT",
+        "action": "KEEP_INITIAL_RESULTS",
+        "number_of_candidates": 20,
+        "number_of_captions": 100,
+        "top_results": [
+            {
+                "image_id": "000000564371",
+                "faiss_score": 0.740801215171814,
+                "clip_score": 0.3424821197986603,
+                "caption": "A cat sits on pad on a wooden bench."
+            },
+            {
+                "image_id": "000000564371",
+                "faiss_score": 0.740801215171814,
+                "clip_score": 0.3413030803203583,
+                "caption": "An adult cat sitting on a wooden bench"
+            },
+            {
+                "image_id": "000000483139",
+                "faiss_score": 0.7428889274597168,
+                "clip_score": 0.32858580350875854,
+                "caption": "orange and white cat sitting on a wooden table"
+            },
+            {
+                "image_id": "000000564371",
+                "faiss_score": 0.740801215171814,
+                "clip_score": 0.3275991976261139,
+                "caption": "A cat is sitting on a bench with a cushion."
+            },
+            {
+                "image_id": "000000412807",
+                "faiss_score": 0.747401237487793,
+                "clip_score": 0.32497918605804443,
+                "caption": "A cat sitting on a brown bench looking forward."
+            }
+        ]
+    },
+    {
+        "query_id": "000000101420",
+        "initial_score": 0.3333095610141754,
+        "classification": "AMBIGUOUS",
+        "action": "EXPANDED_RETRIEVAL",
+        "number_of_candidates": 50,
+        "number_of_captions": 250,
+        "top_results": [
+            {
+                "image_id": "000000069758",
+                "faiss_score": 0.8476662635803223,
+                "clip_score": 0.3333095908164978,
+                "caption": "A cat laying on the back of a couch in front of a window."
+            },
+            {
+                "image_id": "000000069758",
+                "faiss_score": 0.8476662635803223,
+                "clip_score": 0.3315603733062744,
+                "caption": "A couch with a cat sitting on the back."
+            },
+            {
+                "image_id": "000000564655",
+                "faiss_score": 0.8380075693130493,
+                "clip_score": 0.32771557569503784,
+                "caption": "A cat laying on top of a white couch next to a blanket."
+            },
+            {
+                "image_id": "000000309237",
+                "faiss_score": 0.8383141756057739,
+                "clip_score": 0.32737186551094055,
+                "caption": "A brown white and black cat is sitting on a sofa."
+            },
+            {
+                "image_id": "000000273885",
+                "faiss_score": 0.8078986406326294,
+                "clip_score": 0.3268643021583557,
+                "caption": "A cat looking at a dog from on top of a couch."
+            }
+        ]
+    },
+    {
+        "query_id": "000000488673",
+        "initial_score": 0.3144529461860657,
+        "classification": "INCORRECT",
+        "action": "FALLBACK_EXPANDED_RETRIEVAL",
+        "number_of_candidates": 50,
+        "number_of_captions": 250,
+        "top_results": [
+            {
+                "image_id": "000000080131",
+                "faiss_score": 0.6915817260742188,
+                "clip_score": 0.3144529461860657,
+                "caption": "three older people sitting in a kitchen with a stove and counters"
+            },
+            {
+                "image_id": "000000353510",
+                "faiss_score": 0.6988097429275513,
+                "clip_score": 0.3116578459739685,
+                "caption": "An elderly man and woman in the kitchen standing up."
+            },
+            {
+                "image_id": "000000353510",
+                "faiss_score": 0.6988097429275513,
+                "clip_score": 0.30926164984703064,
+                "caption": "An elderly couple in a wood furnished kitchen."
+            },
+            {
+                "image_id": "000000353510",
+                "faiss_score": 0.6988097429275513,
+                "clip_score": 0.30582863092422485,
+                "caption": "An older man and woman in the kitchen leaning on the counter."
+            },
+            {
+                "image_id": "000000317764",
+                "faiss_score": 0.6598507761955261,
+                "clip_score": 0.2966488003730774,
+                "caption": "A gathering of people in a kitchen chatting."
+            }
+        ]
+    },
+    {
+        "query_id": "000000102707",
+        "initial_score": 0.30968552827835083,
+        "classification": "INCORRECT",
+        "action": "FALLBACK_EXPANDED_RETRIEVAL",
+        "number_of_candidates": 50,
+        "number_of_captions": 250,
+        "top_results": [
+            {
+                "image_id": "000000200503",
+                "faiss_score": 0.7197117805480957,
+                "clip_score": 0.3096855580806732,
+                "caption": "a sink with a bottle of booze some spritzer and an ice bucket"
+            },
+            {
+                "image_id": "000000443949",
+                "faiss_score": 0.7337477803230286,
+                "clip_score": 0.30639204382896423,
+                "caption": "Cooking utensils in a glass next to an oven."
+            },
+            {
+                "image_id": "000000221828",
+                "faiss_score": 0.7090253829956055,
+                "clip_score": 0.30098339915275574,
+                "caption": "a glass blender on a kitchen counter with a toaster oven"
+            },
+            {
+                "image_id": "000000460417",
+                "faiss_score": 0.6920930743217468,
+                "clip_score": 0.2985278367996216,
+                "caption": "a bottle sitting on some plastic covering a sink"
+            },
+            {
+                "image_id": "000000246409",
+                "faiss_score": 0.7204544544219971,
+                "clip_score": 0.2974238991737366,
+                "caption": "A bottle of wine and a toaster on a counter top."
+            }
+        ]
+    },
+    {
+        "query_id": "000000530854",
+        "initial_score": 0.3191826343536377,
+        "classification": "AMBIGUOUS",
+        "action": "EXPANDED_RETRIEVAL",
+        "number_of_candidates": 50,
+        "number_of_captions": 250,
+        "top_results": [
+            {
+                "image_id": "000000286939",
+                "faiss_score": 0.7859610319137573,
+                "clip_score": 0.3191826045513153,
+                "caption": "Shot from the ground, three blurred figures with umbrellas in the rain."
+            },
+            {
+                "image_id": "000000567287",
+                "faiss_score": 0.8491060137748718,
+                "clip_score": 0.3120418190956116,
+                "caption": "A group of people open neon colored umbrellas above their heads."
+            },
+            {
+                "image_id": "000000252448",
+                "faiss_score": 0.7826217412948608,
+                "clip_score": 0.3114261329174042,
+                "caption": "Many people hold their umbrellas in a rainy city."
+            },
+            {
+                "image_id": "000000502366",
+                "faiss_score": 0.7987773418426514,
+                "clip_score": 0.3103809654712677,
+                "caption": "People carrying colorful umbrellas walking in the rain."
+            },
+            {
+                "image_id": "000000567287",
+                "faiss_score": 0.8491060137748718,
+                "clip_score": 0.3101871609687805,
+                "caption": "Brightly colored umbrellas glow in the night above an outdoor crowd."
+            }
+        ]
+    },
+    {
+        "query_id": "000000119445",
+        "initial_score": 0.35688453912734985,
+        "classification": "CORRECT",
+        "action": "KEEP_INITIAL_RESULTS",
+        "number_of_candidates": 20,
+        "number_of_captions": 100,
+        "top_results": [
+            {
+                "image_id": "000000083174",
+                "faiss_score": 0.8188069462776184,
+                "clip_score": 0.35688453912734985,
+                "caption": "A catcher prepares to catch while the batter attempts to hit the ball"
+            },
+            {
+                "image_id": "000000492605",
+                "faiss_score": 0.8757987022399902,
+                "clip_score": 0.3568617105484009,
+                "caption": "A batter attempts to swing at the pitch."
+            },
+            {
+                "image_id": "000000507551",
+                "faiss_score": 0.8600918650627136,
+                "clip_score": 0.35120442509651184,
+                "caption": "A batter pulls back as the ball approaches him."
+            },
+            {
+                "image_id": "000000260500",
+                "faiss_score": 0.8184084296226501,
+                "clip_score": 0.34988993406295776,
+                "caption": "A batter in a baseball game swinging the bat."
+            },
+            {
+                "image_id": "000000112574",
+                "faiss_score": 0.8232999444007874,
+                "clip_score": 0.3477899134159088,
+                "caption": "A baseball player is up to bat dodging a ball."
+            }
+        ]
+    },
+    {
+        "query_id": "000000227765",
+        "initial_score": 0.333089679479599,
+        "classification": "AMBIGUOUS",
+        "action": "EXPANDED_RETRIEVAL",
+        "number_of_candidates": 50,
+        "number_of_captions": 250,
+        "top_results": [
+            {
+                "image_id": "000000269395",
+                "faiss_score": 0.813088595867157,
+                "clip_score": 0.333089679479599,
+                "caption": "An aerial view of a large pot of beans and cheddar cheese."
+            },
+            {
+                "image_id": "000000490286",
+                "faiss_score": 0.727170467376709,
+                "clip_score": 0.32269054651260376,
+                "caption": "a pot of food cooking on a stove"
+            },
+            {
+                "image_id": "000000532128",
+                "faiss_score": 0.8229755163192749,
+                "clip_score": 0.3179888427257538,
+                "caption": "Cooked vegetables are in a pot on the stove."
+            },
+            {
+                "image_id": "000000098220",
+                "faiss_score": 0.7362654209136963,
+                "clip_score": 0.3140523433685303,
+                "caption": "A skillet containing food in the process of cooking."
+            },
+            {
+                "image_id": "000000187949",
+                "faiss_score": 0.7550603151321411,
+                "clip_score": 0.31180712580680847,
+                "caption": "Many vegetables have been chopped into a bowl."
+            }
+        ]
+    },
+    {
+        "query_id": "000000065736",
+        "initial_score": 0.3106282949447632,
+        "classification": "INCORRECT",
+        "action": "FALLBACK_EXPANDED_RETRIEVAL",
+        "number_of_candidates": 50,
+        "number_of_captions": 250,
+        "top_results": [
+            {
+                "image_id": "000000533454",
+                "faiss_score": 0.7032017707824707,
+                "clip_score": 0.3147413730621338,
+                "caption": "A tennis player stretches out her arm in preparation of hitting the ball."
+            },
+            {
+                "image_id": "000000155705",
+                "faiss_score": 0.8185425996780396,
+                "clip_score": 0.3106282949447632,
+                "caption": "A woman wearing glasses and a short skirt plays tennis inside a tennis court"
+            },
+            {
+                "image_id": "000000171017",
+                "faiss_score": 0.7499039173126221,
+                "clip_score": 0.3099779188632965,
+                "caption": "A female tennis player straining to return a serve."
+            },
+            {
+                "image_id": "000000576963",
+                "faiss_score": 0.8900763988494873,
+                "clip_score": 0.3078344166278839,
+                "caption": "A woman with a tennis racquet prepares to hit a ball."
+            },
+            {
+                "image_id": "000000261793",
+                "faiss_score": 0.8228885531425476,
+                "clip_score": 0.30718573927879333,
+                "caption": "A woman playing tennis standing in a ready stance"
+            }
+        ]
+    },
+    {
+        "query_id": "000000146457",
+        "initial_score": 0.3421627879142761,
+        "classification": "CORRECT",
+        "action": "KEEP_INITIAL_RESULTS",
+        "number_of_candidates": 20,
+        "number_of_captions": 100,
+        "top_results": [
+            {
+                "image_id": "000000249086",
+                "faiss_score": 0.7778146862983704,
+                "clip_score": 0.3421627879142761,
+                "caption": "Two small children topping a homemade pizza with cheese."
+            },
+            {
+                "image_id": "000000348973",
+                "faiss_score": 0.7518935799598694,
+                "clip_score": 0.32911866903305054,
+                "caption": "The child smiles brightly while putting toppings on pizza dough."
+            },
+            {
+                "image_id": "000000249086",
+                "faiss_score": 0.7778146862983704,
+                "clip_score": 0.3129473924636841,
+                "caption": "Two kids standing at a table putting cheese on a homemade pizza."
+            },
+            {
+                "image_id": "000000249086",
+                "faiss_score": 0.7778146862983704,
+                "clip_score": 0.2974296808242798,
+                "caption": "Twin little boys putting cheese on a homemade pizza."
+            },
+            {
+                "image_id": "000000497915",
+                "faiss_score": 0.7073122262954712,
+                "clip_score": 0.2948240339756012,
+                "caption": "A girl is digging into a piece of pizza while two wine bottles rest in the background."
+            }
+        ]
+    },
+    {
+        "query_id": "000000521052",
+        "initial_score": 0.30744463205337524,
+        "classification": "INCORRECT",
+        "action": "FALLBACK_EXPANDED_RETRIEVAL",
+        "number_of_candidates": 50,
+        "number_of_captions": 250,
+        "top_results": [
+            {
+                "image_id": "000000420964",
+                "faiss_score": 0.65985107421875,
+                "clip_score": 0.30744463205337524,
+                "caption": "A painted elephant sculpture rides on the back of a Ford truck."
+            },
+            {
+                "image_id": "000000387136",
+                "faiss_score": 0.6448783278465271,
+                "clip_score": 0.30512934923171997,
+                "caption": "A large truck with animals painted on it's front end."
+            },
+            {
+                "image_id": "000000123469",
+                "faiss_score": 0.6994231343269348,
+                "clip_score": 0.29593926668167114,
+                "caption": "A truck riding by with graffiti on it."
+            },
+            {
+                "image_id": "000000079905",
+                "faiss_score": 0.6885251402854919,
+                "clip_score": 0.2954619526863098,
+                "caption": "A refrigerator on the side of the streets."
+            },
+            {
+                "image_id": "000000420964",
+                "faiss_score": 0.65985107421875,
+                "clip_score": 0.29430466890335083,
+                "caption": "A painted sculpture of an elephant is being moved."
+            }
+        ]
+    },
+    {
+        "query_id": "000000213547",
+        "initial_score": 0.3234427273273468,
+        "classification": "AMBIGUOUS",
+        "action": "EXPANDED_RETRIEVAL",
+        "number_of_candidates": 50,
+        "number_of_captions": 250,
+        "top_results": [
+            {
+                "image_id": "000000060945",
+                "faiss_score": 0.6033127307891846,
+                "clip_score": 0.3234427273273468,
+                "caption": "A woman lights candles on a birthday cake with a girl standing next to her."
+            },
+            {
+                "image_id": "000000567877",
+                "faiss_score": 0.5810633897781372,
+                "clip_score": 0.3161269724369049,
+                "caption": "Employees light candles on cakes for little girls on inflatable thrones."
+            },
+            {
+                "image_id": "000000143901",
+                "faiss_score": 0.6344351768493652,
+                "clip_score": 0.30645692348480225,
+                "caption": "A woman carrying a birthday cake with lit candles on it"
+            },
+            {
+                "image_id": "000000070307",
+                "faiss_score": 0.5750648975372314,
+                "clip_score": 0.30618417263031006,
+                "caption": "A couple blowing out an enormous candle on a small chocolate cake"
+            },
+            {
+                "image_id": "000000134386",
+                "faiss_score": 0.7945907115936279,
+                "clip_score": 0.30328309535980225,
+                "caption": "A woman sitting in a store holding a cake with lit candles."
+            }
+        ]
+    }
+]

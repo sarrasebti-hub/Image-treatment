@@ -1,0 +1,21 @@
+# Ignorer les jeux de données
+train2017/
+val2017/
+annotations/
+
+# Environnements Python
+.venv/
+venv/
+**/.venv/
+**/venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Variables d'environnement
+.env
+
+# IDE
+.vscode/

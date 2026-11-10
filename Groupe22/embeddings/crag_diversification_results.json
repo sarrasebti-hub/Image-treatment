@@ -1,0 +1,682 @@
+[
+    {
+        "query_image_id": "000000270244",
+        "initial_score": 0.3557,
+        "classification": "CORRECT",
+        "action": "RETRIEVE_TOP_20",
+        "lambda_mmr": 0.9,
+        "selected_captions": [
+            {
+                "image_id": "000000434668",
+                "caption": "A zebra standing in a field full of lush green grass.",
+                "relevance_score": 0.3557
+            },
+            {
+                "image_id": "000000249676",
+                "caption": "A zebra standing in tall brown grass near some trees.",
+                "relevance_score": 0.349
+            },
+            {
+                "image_id": "000000384643",
+                "caption": "A zebra eating grass in a field of tall grass.",
+                "relevance_score": 0.3474
+            },
+            {
+                "image_id": "000000522477",
+                "caption": "A zebra stands alone in some tall grass.",
+                "relevance_score": 0.3467
+            },
+            {
+                "image_id": "000000435323",
+                "caption": "A zebra grazes on grasses by a wooden fence.",
+                "relevance_score": 0.3344
+            }
+        ]
+    },
+    {
+        "query_image_id": "000000476258",
+        "initial_score": 0.3446,
+        "classification": "CORRECT",
+        "action": "RETRIEVE_TOP_20",
+        "lambda_mmr": 0.9,
+        "selected_captions": [
+            {
+                "image_id": "000000093127",
+                "caption": "A skier on a ski board is wearing a bright yellow and black ski suit.",
+                "relevance_score": 0.3446
+            },
+            {
+                "image_id": "000000408081",
+                "caption": "Silhouette of a skateboarder, wearing protective gear, going down a ramp.",
+                "relevance_score": 0.3009
+            },
+            {
+                "image_id": "000000578849",
+                "caption": "The skiing racer in goggles tucks the poles under his arms.",
+                "relevance_score": 0.3015
+            },
+            {
+                "image_id": "000000117014",
+                "caption": "A person performing a trick on a snowboard.",
+                "relevance_score": 0.3058
+            },
+            {
+                "image_id": "000000529065",
+                "caption": "an image of a person playing on a skateboard",
+                "relevance_score": 0.301
+            }
+        ]
+    },
+    {
+        "query_image_id": "000000166391",
+        "initial_score": 0.3403,
+        "classification": "CORRECT",
+        "action": "RETRIEVE_TOP_20",
+        "lambda_mmr": 0.9,
+        "selected_captions": [
+            {
+                "image_id": "000000446861",
+                "caption": "A row of traffic lights hanging over a suburban intersection.",
+                "relevance_score": 0.3403
+            },
+            {
+                "image_id": "000000047638",
+                "caption": "A picture of some stop and go lights at an busy intersection.",
+                "relevance_score": 0.3358
+            },
+            {
+                "image_id": "000000173132",
+                "caption": "An empty highway intersection with a traffic signal showing red.",
+                "relevance_score": 0.3266
+            },
+            {
+                "image_id": "000000358817",
+                "caption": "A traffic signal at an intersection is suspended on wire.",
+                "relevance_score": 0.3247
+            },
+            {
+                "image_id": "000000166126",
+                "caption": "Traffic signals with cars streaking by at roadway intersection.",
+                "relevance_score": 0.3158
+            }
+        ]
+    },
+    {
+        "query_image_id": "000000544605",
+        "initial_score": 0.3162,
+        "classification": "INCORRECT",
+        "action": "FALLBACK_RETRIEVAL_TOP_50",
+        "lambda_mmr": 0.9,
+        "selected_captions": [
+            {
+                "image_id": "000000035940",
+                "caption": "A \"one-Way\" street sign in front of a concrete wall at a street corner.",
+                "relevance_score": 0.3235
+            },
+            {
+                "image_id": "000000396882",
+                "caption": "A \"No Parking\" sign erected for the Summer Streets festival.",
+                "relevance_score": 0.3231
+            },
+            {
+                "image_id": "000000035793",
+                "caption": "Dirty 5th Ave and 5th St street signs at an intersection.",
+                "relevance_score": 0.3201
+            },
+            {
+                "image_id": "000000231984",
+                "caption": "A few street signs with one pointing to a ticket meter.",
+                "relevance_score": 0.3162
+            },
+            {
+                "image_id": "000000345711",
+                "caption": "A sign for East 42 street and Tudor City.",
+                "relevance_score": 0.3133
+            }
+        ]
+    },
+    {
+        "query_image_id": "000000015079",
+        "initial_score": 0.3141,
+        "classification": "INCORRECT",
+        "action": "FALLBACK_RETRIEVAL_TOP_50",
+        "lambda_mmr": 0.9,
+        "selected_captions": [
+            {
+                "image_id": "000000163589",
+                "caption": "A table with a sandwich, sandwich makings and glasses of red wine.",
+                "relevance_score": 0.3211
+            },
+            {
+                "image_id": "000000115419",
+                "caption": "a close up of a sandwich on a plate with fruit",
+                "relevance_score": 0.3185
+            },
+            {
+                "image_id": "000000061946",
+                "caption": "A plate that has a half of a peanut butter and jelly sandwich and a small lamb stuffed animal.",
+                "relevance_score": 0.3141
+            },
+            {
+                "image_id": "000000343903",
+                "caption": "A bagel with grape jelly and milk glass",
+                "relevance_score": 0.3051
+            },
+            {
+                "image_id": "000000073925",
+                "caption": "A woman holds a partially eaten chicken sandwich.",
+                "relevance_score": 0.2965
+            }
+        ]
+    },
+    {
+        "query_image_id": "000000578489",
+        "initial_score": 0.3794,
+        "classification": "CORRECT",
+        "action": "RETRIEVE_TOP_20",
+        "lambda_mmr": 0.9,
+        "selected_captions": [
+            {
+                "image_id": "000000187072",
+                "caption": "Two little kids, a girl and a boy, playing a Wii game.",
+                "relevance_score": 0.3794
+            },
+            {
+                "image_id": "000000034835",
+                "caption": "A woman and two children sit in a living room playing a video game.",
+                "relevance_score": 0.3526
+            },
+            {
+                "image_id": "000000025423",
+                "caption": "A young child plays Wii in the living room.",
+                "relevance_score": 0.3579
+            },
+            {
+                "image_id": "000000067560",
+                "caption": "A group of people sitting on a couch playing a game on the Nintendo Wii.",
+                "relevance_score": 0.3546
+            },
+            {
+                "image_id": "000000466549",
+                "caption": "A man and woman are playing Wii while kids watch.",
+                "relevance_score": 0.3613
+            }
+        ]
+    },
+    {
+        "query_image_id": "000000251065",
+        "initial_score": 0.3433,
+        "classification": "CORRECT",
+        "action": "RETRIEVE_TOP_20",
+        "lambda_mmr": 0.9,
+        "selected_captions": [
+            {
+                "image_id": "000000309944",
+                "caption": "A toilet with one of its lids up is visible.",
+                "relevance_score": 0.3433
+            },
+            {
+                "image_id": "000000504997",
+                "caption": "An oval shaped toilet on a black floor.",
+                "relevance_score": 0.3421
+            },
+            {
+                "image_id": "000000214519",
+                "caption": "A urinal stall with two white urinals with black and white tiles",
+                "relevance_score": 0.3113
+            },
+            {
+                "image_id": "000000139633",
+                "caption": "A standing toilet with a large roll of toilet paper.",
+                "relevance_score": 0.3341
+            },
+            {
+                "image_id": "000000044604",
+                "caption": "A white standing toilet sitting inside of a stall.",
+                "relevance_score": 0.3382
+            }
+        ]
+    },
+    {
+        "query_image_id": "000000326248",
+        "initial_score": 0.3466,
+        "classification": "CORRECT",
+        "action": "RETRIEVE_TOP_20",
+        "lambda_mmr": 0.9,
+        "selected_captions": [
+            {
+                "image_id": "000000477010",
+                "caption": "A tennis player serves a ball as a crowd watches.",
+                "relevance_score": 0.3466
+            },
+            {
+                "image_id": "000000392990",
+                "caption": "Two men playing a professional tennis match in a stadium.",
+                "relevance_score": 0.337
+            },
+            {
+                "image_id": "000000581018",
+                "caption": "A tennis player serves a ball at the US Open.",
+                "relevance_score": 0.3433
+            },
+            {
+                "image_id": "000000357967",
+                "caption": "A professional tennis game with a player swinging his racket.",
+                "relevance_score": 0.3419
+            },
+            {
+                "image_id": "000000444953",
+                "caption": "Two men playing tennis on a court while people watch from the side lines and the stands.",
+                "relevance_score": 0.3426
+            }
+        ]
+    },
+    {
+        "query_image_id": "000000248752",
+        "initial_score": 0.3444,
+        "classification": "CORRECT",
+        "action": "RETRIEVE_TOP_20",
+        "lambda_mmr": 0.9,
+        "selected_captions": [
+            {
+                "image_id": "000000221470",
+                "caption": "A baseball player is up to bat and readies on the high side.",
+                "relevance_score": 0.3444
+            },
+            {
+                "image_id": "000000462931",
+                "caption": "A professorial baseball player hitting a ball in a game.",
+                "relevance_score": 0.3375
+            },
+            {
+                "image_id": "000000040938",
+                "caption": "A baseball player holding a baseball bat during a baseball game.",
+                "relevance_score": 0.3337
+            },
+            {
+                "image_id": "000000437996",
+                "caption": "A baseball player swinging a bat over home plate.",
+                "relevance_score": 0.335
+            },
+            {
+                "image_id": "000000224499",
+                "caption": "A batter about to swing at a pitch during a baseball game.",
+                "relevance_score": 0.3332
+            }
+        ]
+    },
+    {
+        "query_image_id": "000000080666",
+        "initial_score": 0.3425,
+        "classification": "CORRECT",
+        "action": "RETRIEVE_TOP_20",
+        "lambda_mmr": 0.9,
+        "selected_captions": [
+            {
+                "image_id": "000000564371",
+                "caption": "A cat sits on pad on a wooden bench.",
+                "relevance_score": 0.3425
+            },
+            {
+                "image_id": "000000483139",
+                "caption": "orange and white cat sitting on a wooden table",
+                "relevance_score": 0.3286
+            },
+            {
+                "image_id": "000000058306",
+                "caption": "A gold and white cat is sitting on a chair.",
+                "relevance_score": 0.3241
+            },
+            {
+                "image_id": "000000411832",
+                "caption": "A cat standing on a  dirt yard near apples",
+                "relevance_score": 0.3114
+            },
+            {
+                "image_id": "000000412807",
+                "caption": "A cat sitting on a brown bench looking forward.",
+                "relevance_score": 0.325
+            }
+        ]
+    },
+    {
+        "query_image_id": "000000101420",
+        "initial_score": 0.3333,
+        "classification": "AMBIGUOUS",
+        "action": "EXPANDED_RETRIEVAL_TOP_50",
+        "lambda_mmr": 0.9,
+        "selected_captions": [
+            {
+                "image_id": "000000069758",
+                "caption": "A cat laying on the back of a couch in front of a window.",
+                "relevance_score": 0.3333
+            },
+            {
+                "image_id": "000000375960",
+                "caption": "A grey and black cat in a living room under a black umbrella.",
+                "relevance_score": 0.3144
+            },
+            {
+                "image_id": "000000071845",
+                "caption": "A white and brown cat lays on its side on a red plush chair.",
+                "relevance_score": 0.3124
+            },
+            {
+                "image_id": "000000309237",
+                "caption": "A brown white and black cat is sitting on a sofa.",
+                "relevance_score": 0.3274
+            },
+            {
+                "image_id": "000000564655",
+                "caption": "A cat laying on top of a white couch next to a blanket.",
+                "relevance_score": 0.3277
+            }
+        ]
+    },
+    {
+        "query_image_id": "000000488673",
+        "initial_score": 0.3145,
+        "classification": "INCORRECT",
+        "action": "FALLBACK_RETRIEVAL_TOP_50",
+        "lambda_mmr": 0.9,
+        "selected_captions": [
+            {
+                "image_id": "000000080131",
+                "caption": "three older people sitting in a kitchen with a stove and counters",
+                "relevance_score": 0.3145
+            },
+            {
+                "image_id": "000000353510",
+                "caption": "An elderly man and woman in the kitchen standing up.",
+                "relevance_score": 0.3117
+            },
+            {
+                "image_id": "000000317764",
+                "caption": "A gathering of people in a kitchen chatting.",
+                "relevance_score": 0.2966
+            },
+            {
+                "image_id": "000000541898",
+                "caption": "A man is sitting while a woman is standing next to him holding a glass of wine.",
+                "relevance_score": 0.2784
+            },
+            {
+                "image_id": "000000468027",
+                "caption": "A woman dressed as a pilgrim in an old kitchen.",
+                "relevance_score": 0.2698
+            }
+        ]
+    },
+    {
+        "query_image_id": "000000102707",
+        "initial_score": 0.3097,
+        "classification": "INCORRECT",
+        "action": "FALLBACK_RETRIEVAL_TOP_50",
+        "lambda_mmr": 0.9,
+        "selected_captions": [
+            {
+                "image_id": "000000200503",
+                "caption": "a sink with a bottle of booze some spritzer and an ice bucket",
+                "relevance_score": 0.3097
+            },
+            {
+                "image_id": "000000221828",
+                "caption": "a glass blender on a kitchen counter with a toaster oven",
+                "relevance_score": 0.301
+            },
+            {
+                "image_id": "000000479042",
+                "caption": "A Wii controller and cord is wrapped around a bottle of wine.",
+                "relevance_score": 0.2856
+            },
+            {
+                "image_id": "000000004157",
+                "caption": "a black and white circle clock mounted on a wall above a shelf holding drinking glasses.",
+                "relevance_score": 0.2665
+            },
+            {
+                "image_id": "000000443949",
+                "caption": "Cooking utensils in a glass next to an oven.",
+                "relevance_score": 0.3064
+            }
+        ]
+    },
+    {
+        "query_image_id": "000000530854",
+        "initial_score": 0.3192,
+        "classification": "AMBIGUOUS",
+        "action": "EXPANDED_RETRIEVAL_TOP_50",
+        "lambda_mmr": 0.9,
+        "selected_captions": [
+            {
+                "image_id": "000000286939",
+                "caption": "Shot from the ground, three blurred figures with umbrellas in the rain.",
+                "relevance_score": 0.3192
+            },
+            {
+                "image_id": "000000567287",
+                "caption": "A group of people open neon colored umbrellas above their heads.",
+                "relevance_score": 0.312
+            },
+            {
+                "image_id": "000000122731",
+                "caption": "A person with face make up and a multi color umbrella and jacket.",
+                "relevance_score": 0.3033
+            },
+            {
+                "image_id": "000000252448",
+                "caption": "Many people hold their umbrellas in a rainy city.",
+                "relevance_score": 0.3114
+            },
+            {
+                "image_id": "000000014798",
+                "caption": "People sit in color striped chairs while it rains.",
+                "relevance_score": 0.2873
+            }
+        ]
+    },
+    {
+        "query_image_id": "000000119445",
+        "initial_score": 0.3569,
+        "classification": "CORRECT",
+        "action": "RETRIEVE_TOP_20",
+        "lambda_mmr": 0.9,
+        "selected_captions": [
+            {
+                "image_id": "000000083174",
+                "caption": "A catcher prepares to catch while the batter attempts to hit the ball",
+                "relevance_score": 0.3569
+            },
+            {
+                "image_id": "000000260500",
+                "caption": "A male baseball player swings his bat forecfully.",
+                "relevance_score": 0.3455
+            },
+            {
+                "image_id": "000000492605",
+                "caption": "A batter attempts to swing at the pitch.",
+                "relevance_score": 0.3569
+            },
+            {
+                "image_id": "000000330341",
+                "caption": "A baseball player swinging at a pitched ball while the opposing team watches.",
+                "relevance_score": 0.346
+            },
+            {
+                "image_id": "000000507551",
+                "caption": "A batter pulls back as the ball approaches him.",
+                "relevance_score": 0.3512
+            }
+        ]
+    },
+    {
+        "query_image_id": "000000227765",
+        "initial_score": 0.3331,
+        "classification": "AMBIGUOUS",
+        "action": "EXPANDED_RETRIEVAL_TOP_50",
+        "lambda_mmr": 0.9,
+        "selected_captions": [
+            {
+                "image_id": "000000269395",
+                "caption": "An aerial view of a large pot of beans and cheddar cheese.",
+                "relevance_score": 0.3331
+            },
+            {
+                "image_id": "000000490286",
+                "caption": "a pot of food cooking on a stove",
+                "relevance_score": 0.3227
+            },
+            {
+                "image_id": "000000531958",
+                "caption": "A dish of sliced carrots with garlic and herbs.",
+                "relevance_score": 0.3087
+            },
+            {
+                "image_id": "000000160421",
+                "caption": "a large white bowl with tofu, broccoli, squash, and cauliflower",
+                "relevance_score": 0.2951
+            },
+            {
+                "image_id": "000000442727",
+                "caption": "A long glass pan is filled with red sauce and cut up zucchini.",
+                "relevance_score": 0.2998
+            }
+        ]
+    },
+    {
+        "query_image_id": "000000065736",
+        "initial_score": 0.3106,
+        "classification": "INCORRECT",
+        "action": "FALLBACK_RETRIEVAL_TOP_50",
+        "lambda_mmr": 0.9,
+        "selected_captions": [
+            {
+                "image_id": "000000533454",
+                "caption": "A tennis player stretches out her arm in preparation of hitting the ball.",
+                "relevance_score": 0.3147
+            },
+            {
+                "image_id": "000000155705",
+                "caption": "A woman wearing glasses and a short skirt plays tennis inside a tennis court",
+                "relevance_score": 0.3106
+            },
+            {
+                "image_id": "000000194975",
+                "caption": "A woman in white and black shirt playing a game of tennis.",
+                "relevance_score": 0.3033
+            },
+            {
+                "image_id": "000000182793",
+                "caption": "Two photos are shown of a woman hitting a tennis ball.",
+                "relevance_score": 0.2953
+            },
+            {
+                "image_id": "000000188613",
+                "caption": "a woman holding a tennis racket in the air",
+                "relevance_score": 0.2991
+            }
+        ]
+    },
+    {
+        "query_image_id": "000000146457",
+        "initial_score": 0.3422,
+        "classification": "CORRECT",
+        "action": "RETRIEVE_TOP_20",
+        "lambda_mmr": 0.9,
+        "selected_captions": [
+            {
+                "image_id": "000000249086",
+                "caption": "Two small children topping a homemade pizza with cheese.",
+                "relevance_score": 0.3422
+            },
+            {
+                "image_id": "000000348973",
+                "caption": "The child smiles brightly while putting toppings on pizza dough.",
+                "relevance_score": 0.3291
+            },
+            {
+                "image_id": "000000385276",
+                "caption": "French toast is being made in the kitchen for breakfast.",
+                "relevance_score": 0.292
+            },
+            {
+                "image_id": "000000497915",
+                "caption": "A girl is digging into a piece of pizza while two wine bottles rest in the background.",
+                "relevance_score": 0.2948
+            },
+            {
+                "image_id": "000000575652",
+                "caption": "There is a young child breaking an egg into an electric mixer.",
+                "relevance_score": 0.2844
+            }
+        ]
+    },
+    {
+        "query_image_id": "000000521052",
+        "initial_score": 0.3074,
+        "classification": "INCORRECT",
+        "action": "FALLBACK_RETRIEVAL_TOP_50",
+        "lambda_mmr": 0.9,
+        "selected_captions": [
+            {
+                "image_id": "000000420964",
+                "caption": "A painted elephant sculpture rides on the back of a Ford truck.",
+                "relevance_score": 0.3074
+            },
+            {
+                "image_id": "000000079905",
+                "caption": "A refrigerator on the side of the streets.",
+                "relevance_score": 0.2955
+            },
+            {
+                "image_id": "000000387136",
+                "caption": "A large truck with animals painted on it's front end.",
+                "relevance_score": 0.3051
+            },
+            {
+                "image_id": "000000242029",
+                "caption": "The bus is painted with a detailed action scene.",
+                "relevance_score": 0.2878
+            },
+            {
+                "image_id": "000000110026",
+                "caption": "The bed of a truck with empty tubes of toothpaste applied to the back and sides, and full of foodstuff and other things.",
+                "relevance_score": 0.275
+            }
+        ]
+    },
+    {
+        "query_image_id": "000000213547",
+        "initial_score": 0.3234,
+        "classification": "AMBIGUOUS",
+        "action": "EXPANDED_RETRIEVAL_TOP_50",
+        "lambda_mmr": 0.9,
+        "selected_captions": [
+            {
+                "image_id": "000000060945",
+                "caption": "A woman lights candles on a birthday cake with a girl standing next to her.",
+                "relevance_score": 0.3234
+            },
+            {
+                "image_id": "000000567877",
+                "caption": "Employees light candles on cakes for little girls on inflatable thrones.",
+                "relevance_score": 0.3161
+            },
+            {
+                "image_id": "000000134386",
+                "caption": "A woman sitting in a store holding a cake with lit candles.",
+                "relevance_score": 0.3033
+            },
+            {
+                "image_id": "000000070307",
+                "caption": "A couple blowing out an enormous candle on a small chocolate cake",
+                "relevance_score": 0.3062
+            },
+            {
+                "image_id": "000000143901",
+                "caption": "A woman carrying a birthday cake with lit candles on it",
+                "relevance_score": 0.3065
+            }
+        ]
+    }
+]

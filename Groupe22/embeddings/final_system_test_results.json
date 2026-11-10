@@ -1,0 +1,4618 @@
+{
+  "summary": {
+    "test_queries": 100,
+    "lambda_mmr": 0.9,
+    "threshold_correct": 0.3402,
+    "threshold_ambiguous": 0.317,
+    "classification_counts": {
+      "CORRECT": 26,
+      "AMBIGUOUS": 41,
+      "INCORRECT": 33
+    },
+    "mean_bleu": 0.09599973144982188,
+    "mean_rouge_l": 0.3931209160602617,
+    "mean_clip_relevance": 0.3145044
+  },
+  "results": [
+    {
+      "query_image_id": "000000173383",
+      "initial_score": 0.3238,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000466825",
+          "caption": "A wedding cake sits on a table with blue decorations on it.",
+          "relevance_score": 0.3238
+        },
+        {
+          "image_id": "000000097210",
+          "caption": "A cake decorated with a minute man and flag decorating it.",
+          "relevance_score": 0.2974
+        },
+        {
+          "image_id": "000000269171",
+          "caption": "A newlywed couple shares a knife while cutting wedding cake.",
+          "relevance_score": 0.2902
+        },
+        {
+          "image_id": "000000119536",
+          "caption": "Wedding cake and sandwich decoration with candles on a table.",
+          "relevance_score": 0.2957
+        },
+        {
+          "image_id": "000000126514",
+          "caption": "A graham cracker bear is on a surfboard in the middle of a cake iced as water.",
+          "relevance_score": 0.2802
+        }
+      ],
+      "reference_captions": [
+        "a two layer cake sitting on top of a table.",
+        "a two layered cake sits on a table top",
+        "the cake is prepared and ready to be eaten.",
+        "a white boxy birthday cake with red flowers and blue accents on a decorated table with gray cover and candles.",
+        "a two layer cake sitting on a table near candles."
+      ],
+      "metrics": {
+        "bleu": 0.10692537853551247,
+        "rouge_l": 0.36437689205091583
+      }
+    },
+    {
+      "query_image_id": "000000464786",
+      "initial_score": 0.3277,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000300333",
+          "caption": "A LOADED HOT DOG HAS A PICKLE TO THE SIDE",
+          "relevance_score": 0.3277
+        },
+        {
+          "image_id": "000000236996",
+          "caption": "a person holding a long hot dog in a bun with mustard on a paper napkin.",
+          "relevance_score": 0.3112
+        },
+        {
+          "image_id": "000000085098",
+          "caption": "A hot dog is garnished with a large pickle and tomato halves.",
+          "relevance_score": 0.3272
+        },
+        {
+          "image_id": "000000334305",
+          "caption": "A hot dog and bun with mustard is served on a plate.",
+          "relevance_score": 0.3167
+        },
+        {
+          "image_id": "000000094120",
+          "caption": "A hot dog with pickles and mustard on it.",
+          "relevance_score": 0.3227
+        }
+      ],
+      "reference_captions": [
+        "a hot dog and a bun with some mustard.",
+        "hotdog on bun with what looks like horseradish sauce",
+        "a hot dog on a bun with spicy mustard on it.",
+        "hot dog with mustard on it sitting on a white napkin.",
+        "a hot dog sitting on top of a bun in a wrapper."
+      ],
+      "metrics": {
+        "bleu": 0.17002497363171892,
+        "rouge_l": 0.5522528543581176
+      }
+    },
+    {
+      "query_image_id": "000000578545",
+      "initial_score": 0.3356,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000241539",
+          "caption": "A woman holding a book and child on a bed.",
+          "relevance_score": 0.3531
+        },
+        {
+          "image_id": "000000201644",
+          "caption": "A woman laying in bed reading a purple book.",
+          "relevance_score": 0.3444
+        },
+        {
+          "image_id": "000000539309",
+          "caption": "A person reading a book propped up in bed.",
+          "relevance_score": 0.3349
+        },
+        {
+          "image_id": "000000219966",
+          "caption": "A baby in a red-striped shirt asleep on his mother's chest.",
+          "relevance_score": 0.303
+        },
+        {
+          "image_id": "000000531335",
+          "caption": "A woman tucking a child into their bed at night.",
+          "relevance_score": 0.3198
+        }
+      ],
+      "reference_captions": [
+        "a pregnant woman laying in bed reading a book.",
+        "a pregnant woman in bed reading a book",
+        "a pregnant woman is in bed reading a large book.",
+        "a pregnant woman laying in bed reading a book",
+        "a pregnant woman laying in bed reading a book"
+      ],
+      "metrics": {
+        "bleu": 0.17475620441803005,
+        "rouge_l": 0.4845938375350139
+      }
+    },
+    {
+      "query_image_id": "000000392722",
+      "initial_score": 0.3394,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000377226",
+          "caption": "A green double-decker bus parked next to the New Inn.",
+          "relevance_score": 0.3394
+        },
+        {
+          "image_id": "000000364476",
+          "caption": "A bus pulling through an older village along Padacre Road in the UK",
+          "relevance_score": 0.3161
+        },
+        {
+          "image_id": "000000068958",
+          "caption": "A double decker transit bus rounds the corner of a street running between brick buildings in an old section of a town.",
+          "relevance_score": 0.2907
+        },
+        {
+          "image_id": "000000421735",
+          "caption": "A red double decker bus travels through a busy area in a town",
+          "relevance_score": 0.2876
+        },
+        {
+          "image_id": "000000091935",
+          "caption": "A red bus is near a curb on a brick road near a lane of shops.",
+          "relevance_score": 0.2853
+        }
+      ],
+      "reference_captions": [
+        "a group of people standing next to a double decker bus.",
+        "people stand near the curb behind a lime green double-decked bus.",
+        "this is people standing in the sidewalk near a bus",
+        "a double decked bus sits parked next to a side walk",
+        "a group of people standing outside of a double decker bus."
+      ],
+      "metrics": {
+        "bleu": 0.06340229723129859,
+        "rouge_l": 0.3051788790919226
+      }
+    },
+    {
+      "query_image_id": "000000564133",
+      "initial_score": 0.3275,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000406071",
+          "caption": "A herd of elephants standing around a dry grass field.",
+          "relevance_score": 0.3275
+        },
+        {
+          "image_id": "000000504454",
+          "caption": "Four adult elephants and a younger elephant walk through dry soil.",
+          "relevance_score": 0.3255
+        },
+        {
+          "image_id": "000000000597",
+          "caption": "Elephant herd, in a line, walking across savanna.",
+          "relevance_score": 0.321
+        },
+        {
+          "image_id": "000000580121",
+          "caption": "A herd of elephants mingle about in the grass and trees beside the dirt road.",
+          "relevance_score": 0.3208
+        },
+        {
+          "image_id": "000000484287",
+          "caption": "A herd of elephants congregates near a water hole.",
+          "relevance_score": 0.3201
+        }
+      ],
+      "reference_captions": [
+        "some elephants walk together through the grass.",
+        "pack of 6 elephants walking through the native brush.",
+        "a herd of elephants walking down a path in some tall grass",
+        "a herd of elephants are marching triumphantly through a field.",
+        "african elephants file through dry grass and shrub growth."
+      ],
+      "metrics": {
+        "bleu": 0.19010870315235195,
+        "rouge_l": 0.4341520467836257
+      }
+    },
+    {
+      "query_image_id": "000000545129",
+      "initial_score": 0.3791,
+      "classification": "CORRECT",
+      "action": "RETRIEVE_TOP_20",
+      "candidate_count": 20,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000151235",
+          "caption": "Two adult zebras and a baby are in an enclosure.",
+          "relevance_score": 0.3791
+        },
+        {
+          "image_id": "000000564188",
+          "caption": "Three zebras standing in a small, manufactured enclosure.",
+          "relevance_score": 0.3721
+        },
+        {
+          "image_id": "000000301236",
+          "caption": "A close up of a car window makes a black border to a shot that features short grass and  an adult zebra, its head obstructed by the baby zebra in front of it.",
+          "relevance_score": 0.3487
+        },
+        {
+          "image_id": "000000444566",
+          "caption": "Zebra and a hybrid species animal in a well-worn enclosure.",
+          "relevance_score": 0.3525
+        },
+        {
+          "image_id": "000000530649",
+          "caption": "Three zebras standing near each other in an enclosure.",
+          "relevance_score": 0.3632
+        }
+      ],
+      "reference_captions": [
+        "a group of zebra standing next to each other on a dirt field.",
+        "three zebras huddling together in a very dry area",
+        "three zebras standing in a sandy desert area.",
+        "those zebras may have lost their parents and they could be nearby.",
+        "two zebras standing close to a little one"
+      ],
+      "metrics": {
+        "bleu": 0.15554926948534759,
+        "rouge_l": 0.3837248171579845
+      }
+    },
+    {
+      "query_image_id": "000000121031",
+      "initial_score": 0.34,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000178031",
+          "caption": "A group of men riding horses as they travel along a beach.",
+          "relevance_score": 0.34
+        },
+        {
+          "image_id": "000000526762",
+          "caption": "People riding elephants who are wading through a river.",
+          "relevance_score": 0.3286
+        },
+        {
+          "image_id": "000000433197",
+          "caption": "Men are riding brown horses in a row formation.",
+          "relevance_score": 0.3261
+        },
+        {
+          "image_id": "000000221202",
+          "caption": "A group of people riding horses in a forest.",
+          "relevance_score": 0.3315
+        },
+        {
+          "image_id": "000000495840",
+          "caption": "A photo of people riding horses down a trail.",
+          "relevance_score": 0.331
+        }
+      ],
+      "reference_captions": [
+        "a group of men traveling on horses in the water,",
+        "four men ride horses across a body of water.",
+        "men are riding horses while going through the river.",
+        "several male horse riders crossing a river to shore.",
+        "the shirtless men are riding horses through the lake."
+      ],
+      "metrics": {
+        "bleu": 0.13446542321631444,
+        "rouge_l": 0.41839447102605
+      }
+    },
+    {
+      "query_image_id": "000000226147",
+      "initial_score": 0.2852,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000510820",
+          "caption": "The table has various types of food and flowers in coke bottles.",
+          "relevance_score": 0.2852
+        },
+        {
+          "image_id": "000000449675",
+          "caption": "a plate with a grilled panini and a salad by some silverware",
+          "relevance_score": 0.2674
+        },
+        {
+          "image_id": "000000101814",
+          "caption": "A woman at a table with a hot dog covered in toppings.",
+          "relevance_score": 0.2735
+        },
+        {
+          "image_id": "000000080826",
+          "caption": "Two prepared pizzas being served on a table.",
+          "relevance_score": 0.2734
+        },
+        {
+          "image_id": "000000536935",
+          "caption": "A breakfast made by a child with a fathers day card.",
+          "relevance_score": 0.2655
+        }
+      ],
+      "reference_captions": [
+        "a woman is taking a picture of food with a mobile device.",
+        "a woman that is sitting down in front of a table.",
+        "a woman taking a photo of her food with a cell phone.",
+        "a woman in a white top at a table with food",
+        "a women who is taking a picture of her food."
+      ],
+      "metrics": {
+        "bleu": 0.09305753917689388,
+        "rouge_l": 0.30455585604327023
+      }
+    },
+    {
+      "query_image_id": "000000159458",
+      "initial_score": 0.3175,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000007167",
+          "caption": "The bed is sitting in small room with two nightstands.",
+          "relevance_score": 0.3175
+        },
+        {
+          "image_id": "000000159103",
+          "caption": "A blue bedroom containing a small bed with tan covers and a dresser.",
+          "relevance_score": 0.3125
+        },
+        {
+          "image_id": "000000116678",
+          "caption": "A neatly made double bed accented by a pair of teddy bears.",
+          "relevance_score": 0.3063
+        },
+        {
+          "image_id": "000000336763",
+          "caption": "A baby crib is shown sitting next to a dresser and a window.",
+          "relevance_score": 0.2953
+        },
+        {
+          "image_id": "000000483328",
+          "caption": "A bedroom containing a bed, a dresser, a large TV on the wall and 2 four-door cabinets",
+          "relevance_score": 0.3061
+        }
+      ],
+      "reference_captions": [
+        "a dog rests on a bed in a bedroom where one person is also sitting.",
+        "a dog laying on a bed in a bedroom with wood floors.",
+        "a bed room with a dog in a neatly made bed",
+        "a dog is sitting on a neatly made bed while someone looks on.",
+        "a dog sits on top of a bed in a room."
+      ],
+      "metrics": {
+        "bleu": 0.04831910085877015,
+        "rouge_l": 0.3152138216605983
+      }
+    },
+    {
+      "query_image_id": "000000016010",
+      "initial_score": 0.3311,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000378912",
+          "caption": "Two zebras standing by a rock wall in an enclosure.",
+          "relevance_score": 0.3311
+        },
+        {
+          "image_id": "000000279025",
+          "caption": "Various animals standing in a grassy open area.",
+          "relevance_score": 0.3234
+        },
+        {
+          "image_id": "000000018792",
+          "caption": "Three elephants in a secluded area with green trees.",
+          "relevance_score": 0.3192
+        },
+        {
+          "image_id": "000000564188",
+          "caption": "Three zebras standing in a small, manufactured enclosure.",
+          "relevance_score": 0.3248
+        },
+        {
+          "image_id": "000000464390",
+          "caption": "An oxen looking at a giraffe near some trees.",
+          "relevance_score": 0.3102
+        }
+      ],
+      "reference_captions": [
+        "an outdoor area with many animals inluding a zebra and a rhinoceros.",
+        "some zebras and cattle are standing together, some eating.",
+        "a bunch of zebras playing on a grassy field.",
+        "african animals placidly grazing in a park enclosure.",
+        "two zebras grazing while a hippo looks at them and some oxen in the background"
+      ],
+      "metrics": {
+        "bleu": 0.06606422134457764,
+        "rouge_l": 0.3110588235294118
+      }
+    },
+    {
+      "query_image_id": "000000038048",
+      "initial_score": 0.3418,
+      "classification": "CORRECT",
+      "action": "RETRIEVE_TOP_20",
+      "candidate_count": 20,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000500888",
+          "caption": "A red fire hydrant is next to a post with a small picture of a hydrant atop it.",
+          "relevance_score": 0.3418
+        },
+        {
+          "image_id": "000000180042",
+          "caption": "A fire hydrant sitting on the sidewalk beside the street.",
+          "relevance_score": 0.327
+        },
+        {
+          "image_id": "000000446218",
+          "caption": "A red fire hydrant with the shadow of a light post.",
+          "relevance_score": 0.3235
+        },
+        {
+          "image_id": "000000571865",
+          "caption": "a fire hydrant with a water hose connected to it",
+          "relevance_score": 0.324
+        },
+        {
+          "image_id": "000000084200",
+          "caption": "a fire hydrant with a hat on top near a city street",
+          "relevance_score": 0.3243
+        }
+      ],
+      "reference_captions": [
+        "a red fire hydrant on a city sidewalk.",
+        "a diminutive fire hydrant rising though a suburban sidewalk.",
+        "a red fire hydrant embedded in a city sidewalk.",
+        "the red and white fire hydrant is embedded in the street.",
+        "a red fire hydrant is on the sidewalk next to a sign."
+      ],
+      "metrics": {
+        "bleu": 0.15995890107161354,
+        "rouge_l": 0.5319298245614036
+      }
+    },
+    {
+      "query_image_id": "000000131556",
+      "initial_score": 0.3301,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000435579",
+          "caption": "A young person is ramping a ski board in a green snow suit.",
+          "relevance_score": 0.3301
+        },
+        {
+          "image_id": "000000564602",
+          "caption": "A snowboarder rides the central rail on a slope.",
+          "relevance_score": 0.327
+        },
+        {
+          "image_id": "000000093127",
+          "caption": "An man wearing bright green is snowboarding down a snow-covered hill.",
+          "relevance_score": 0.3272
+        },
+        {
+          "image_id": "000000273446",
+          "caption": "A man riding a snow board down a snow covered slope.",
+          "relevance_score": 0.3219
+        },
+        {
+          "image_id": "000000433387",
+          "caption": "A person in the background rides a snowboard over a jump and a car while another person in the foreground wearing goggles and a hat watches.",
+          "relevance_score": 0.3038
+        }
+      ],
+      "reference_captions": [
+        "a man skiing along a rail on the snowy hill",
+        "a skier stands on a small ledge in the snow.",
+        "a person riding skis on a rail",
+        "a man wearing skis is posing for the camera",
+        "a man riding skis on top of a ramp."
+      ],
+      "metrics": {
+        "bleu": 0.05415431500117866,
+        "rouge_l": 0.36562770562770563
+      }
+    },
+    {
+      "query_image_id": "000000227478",
+      "initial_score": 0.3075,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000456574",
+          "caption": "Two men sitting straddling a bench facing each other and eating.",
+          "relevance_score": 0.3075
+        },
+        {
+          "image_id": "000000525700",
+          "caption": "A couple of people sitting on a bench together.",
+          "relevance_score": 0.3054
+        },
+        {
+          "image_id": "000000027528",
+          "caption": "a male and female sitting on a bench water and grass",
+          "relevance_score": 0.3017
+        },
+        {
+          "image_id": "000000394904",
+          "caption": "A man and woman walking past people sitting on benches",
+          "relevance_score": 0.2878
+        },
+        {
+          "image_id": "000000108164",
+          "caption": "An adult and a child wearing red shoes, sitting on a bench.",
+          "relevance_score": 0.2836
+        }
+      ],
+      "reference_captions": [
+        "two women sitting on a park bench, one looking over her shoulder",
+        "two women sit next to each other on a park bench.",
+        "two people sitting on a bench near trees",
+        "a pair of girls sit on a bench outside.",
+        "black and white photograph of women on an old park bench"
+      ],
+      "metrics": {
+        "bleu": 0.20657220199038145,
+        "rouge_l": 0.5016708437761069
+      }
+    },
+    {
+      "query_image_id": "000000424551",
+      "initial_score": 0.3293,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000329751",
+          "caption": "A person skiing down a slope holding ski poles.",
+          "relevance_score": 0.3344
+        },
+        {
+          "image_id": "000000404471",
+          "caption": "A Man is kneeling wearing a snowboard and in the background are snow-capped mountaints",
+          "relevance_score": 0.3076
+        },
+        {
+          "image_id": "000000211743",
+          "caption": "A skier in an orange jacket traveling down a slope.",
+          "relevance_score": 0.317
+        },
+        {
+          "image_id": "000000352440",
+          "caption": "A person is skiing down a steep mountain.",
+          "relevance_score": 0.3293
+        },
+        {
+          "image_id": "000000441105",
+          "caption": "A skier on a snow covered mountain pass.",
+          "relevance_score": 0.3168
+        }
+      ],
+      "reference_captions": [
+        "a man on skis stands on a snowy hill side",
+        "two people climbing up a mountain, getting ready to ski.",
+        "people climbing up the snowy mountain side on skis",
+        "a person is going up a snow covered mountain",
+        "a skier is standing at the top of ski slope."
+      ],
+      "metrics": {
+        "bleu": 0.13608877178526393,
+        "rouge_l": 0.42862745098039223
+      }
+    },
+    {
+      "query_image_id": "000000091779",
+      "initial_score": 0.3324,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000095078",
+          "caption": "A hot dog smothered with onions and ketchup sits on a white napkin.",
+          "relevance_score": 0.3324
+        },
+        {
+          "image_id": "000000529260",
+          "caption": "A chili dog and a drink sitting on a table.",
+          "relevance_score": 0.3232
+        },
+        {
+          "image_id": "000000101814",
+          "caption": "A women sitting next to a wood dinning table in front of a hot dog covered with peppers and onions.",
+          "relevance_score": 0.3133
+        },
+        {
+          "image_id": "000000200272",
+          "caption": "Two delicious hotdogs are presented on a plate with fresh tomatoes and beans.",
+          "relevance_score": 0.3227
+        },
+        {
+          "image_id": "000000094120",
+          "caption": "a red and white, checked, linen surface shows a large rumpled wrapper, holding a hotdog and pickle on a bun, and far off, a portion of a cell phone.",
+          "relevance_score": 0.2909
+        }
+      ],
+      "reference_captions": [
+        "a display of various hot dogs in serving platters.",
+        "three sausages covered in various condiments side by side",
+        "three sausages in buns are covered with various toppings.",
+        "three hot dogs with different toppings lined up on a tabletop.",
+        "three hotdogs are prepared and loaded in different ways."
+      ],
+      "metrics": {
+        "bleu": 0.037252764163952276,
+        "rouge_l": 0.2712466903936958
+      }
+    },
+    {
+      "query_image_id": "000000203488",
+      "initial_score": 0.3643,
+      "classification": "CORRECT",
+      "action": "RETRIEVE_TOP_20",
+      "candidate_count": 20,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000231984",
+          "caption": "A parking meter sign and parking ticket machine.",
+          "relevance_score": 0.3643
+        },
+        {
+          "image_id": "000000141766",
+          "caption": "A sign on a sidewalk reads \"STOP Engraving in process\".",
+          "relevance_score": 0.3244
+        },
+        {
+          "image_id": "000000554740",
+          "caption": "Two parking meters take credit cards and allow 2 hour parking",
+          "relevance_score": 0.3397
+        },
+        {
+          "image_id": "000000273068",
+          "caption": "a coin-operated parking meter stands beside a brick wall along a parking lot",
+          "relevance_score": 0.316
+        },
+        {
+          "image_id": "000000258674",
+          "caption": "A parking meter lies askew on a street.",
+          "relevance_score": 0.3301
+        }
+      ],
+      "reference_captions": [
+        "a silver and gray parking meter sitting by a tree.",
+        "a sign stating tree trimming is on a tree by a parking meter.",
+        "parketing meter next to a tree with a warning sign on it.",
+        "there's a warning not to park under this tree.",
+        "a sign pinned to a tree next to a parking meter."
+      ],
+      "metrics": {
+        "bleu": 0.060940510581896576,
+        "rouge_l": 0.3298826777087646
+      }
+    },
+    {
+      "query_image_id": "000000026465",
+      "initial_score": 0.3244,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000085320",
+          "caption": "A laptop computer and several other electrical devices on a desk.",
+          "relevance_score": 0.3244
+        },
+        {
+          "image_id": "000000493504",
+          "caption": "A notebook computer is set up with an additional keyboard and monitor.",
+          "relevance_score": 0.3146
+        },
+        {
+          "image_id": "000000494115",
+          "caption": "A black laptop sitting on a desk in use",
+          "relevance_score": 0.3151
+        },
+        {
+          "image_id": "000000437564",
+          "caption": "There is a digital camera, flash drive, and cellphone on top of a laptop computer.",
+          "relevance_score": 0.3078
+        },
+        {
+          "image_id": "000000415991",
+          "caption": "A laptop computer on display at Best Buy.",
+          "relevance_score": 0.3009
+        }
+      ],
+      "reference_captions": [
+        "a laptop computer sitting on a desk next to a smart phone.",
+        "the opened laptop is sitting on the table along with other technological tools.",
+        "a computer sitting on top of a table.",
+        "a table with a laptop, phone and other devices sitting on it.",
+        "a laptop computer is sitting on a desk."
+      ],
+      "metrics": {
+        "bleu": 0.1784241373617038,
+        "rouge_l": 0.51444878180105
+      }
+    },
+    {
+      "query_image_id": "000000561009",
+      "initial_score": 0.301,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000129362",
+          "caption": "A bird is sitting on a branch in front of a palm type tree.",
+          "relevance_score": 0.301
+        },
+        {
+          "image_id": "000000053755",
+          "caption": "A young hook-beaked nestling raptor among winding branches.",
+          "relevance_score": 0.2924
+        },
+        {
+          "image_id": "000000132549",
+          "caption": "A picture of a bird in an enclosure.",
+          "relevance_score": 0.291
+        },
+        {
+          "image_id": "000000019151",
+          "caption": "A bird perched on a banana with trees in the background.",
+          "relevance_score": 0.2904
+        },
+        {
+          "image_id": "000000435671",
+          "caption": "A grey brown bird perched in a pine tree",
+          "relevance_score": 0.2907
+        }
+      ],
+      "reference_captions": [
+        "a bird perched on top of a tree branch.",
+        "a brown bird has a small yellow head.",
+        "a bird with brown wings and head perched in a tree.",
+        "a bird that is perched in a tree.",
+        "a bird sits perched on a tree branch."
+      ],
+      "metrics": {
+        "bleu": 0.13343707749625108,
+        "rouge_l": 0.49864199268224035
+      }
+    },
+    {
+      "query_image_id": "000000314177",
+      "initial_score": 0.2949,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000503714",
+          "caption": "A person with their legs crossed sitting in a room.",
+          "relevance_score": 0.2949
+        },
+        {
+          "image_id": "000000288408",
+          "caption": "A woman stands on her snowboard inside a house.",
+          "relevance_score": 0.2857
+        },
+        {
+          "image_id": "000000504621",
+          "caption": "Woman in a black hoodie holding up a toothbrush in her hand.",
+          "relevance_score": 0.2787
+        },
+        {
+          "image_id": "000000211002",
+          "caption": "A women in a skirt who is sitting on a counter.",
+          "relevance_score": 0.2885
+        },
+        {
+          "image_id": "000000441196",
+          "caption": "A person standing in front of a mirror talking on a phone.",
+          "relevance_score": 0.2679
+        }
+      ],
+      "reference_captions": [
+        "a person taking a photo in a bath room mirror",
+        "a youth on a toilet taking a \"selfie\" in a mirror.",
+        "someone sitting on the toilet in the bathroom holding their camera at the mirror.",
+        "the person is sitting on the unusual toilet in the bathroom.",
+        "a picture of the photographer sitting on the toilet"
+      ],
+      "metrics": {
+        "bleu": 0.06839026559507008,
+        "rouge_l": 0.3654545454545455
+      }
+    },
+    {
+      "query_image_id": "000000439994",
+      "initial_score": 0.328,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000197351",
+          "caption": "A batter hitting a ball in font of a catcher at a professional baseball game as the crowd watches.",
+          "relevance_score": 0.3517
+        },
+        {
+          "image_id": "000000446328",
+          "caption": "A professional baseball game looking from the stands behind the catcher",
+          "relevance_score": 0.3385
+        },
+        {
+          "image_id": "000000115006",
+          "caption": "A man standing near the home plate swinging a bat",
+          "relevance_score": 0.328
+        },
+        {
+          "image_id": "000000050927",
+          "caption": "A baseball player up to bat in a stadium.",
+          "relevance_score": 0.3354
+        },
+        {
+          "image_id": "000000494462",
+          "caption": "Two frames at a professional baseball game showing a swing for a pitched ball.",
+          "relevance_score": 0.3294
+        }
+      ],
+      "reference_captions": [
+        "a group of baseball players standing on top of a field.",
+        "people playing a baseball and many people watching",
+        "a baseball game and the catcher just threw the ball.",
+        "a catcher and umpire standing on a baseball field",
+        "the catcher races from behind homeplate onto the field."
+      ],
+      "metrics": {
+        "bleu": 0.04595124667745993,
+        "rouge_l": 0.36220551378446114
+      }
+    },
+    {
+      "query_image_id": "000000514586",
+      "initial_score": 0.3349,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000187709",
+          "caption": "A baseball player getting ready to swing at the ball.",
+          "relevance_score": 0.3349
+        },
+        {
+          "image_id": "000000014070",
+          "caption": "A boy in red shirt swinging a baseball bat.",
+          "relevance_score": 0.3196
+        },
+        {
+          "image_id": "000000192007",
+          "caption": "A baseball game in progress, photographed through a fence.",
+          "relevance_score": 0.3245
+        },
+        {
+          "image_id": "000000386856",
+          "caption": "A softball player swinging at a pitch while wearing a red helmet.",
+          "relevance_score": 0.325
+        },
+        {
+          "image_id": "000000154816",
+          "caption": "A boy swinging a baseball bat during a game.",
+          "relevance_score": 0.3303
+        }
+      ],
+      "reference_captions": [
+        "a boy prepares to swing a baseball bat.",
+        "a kid with helmet holding a bat playing baseball",
+        "a young boy wearing his baseball uniform with his bat in his hands",
+        "a boy in the middle of swinging a base ball bat",
+        "a young boy holding a baseball bat near a batting cage."
+      ],
+      "metrics": {
+        "bleu": 0.10926072270005809,
+        "rouge_l": 0.4690196078431373
+      }
+    },
+    {
+      "query_image_id": "000000113867",
+      "initial_score": 0.3313,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000337120",
+          "caption": "A tall brick building with a crucifix on the side.",
+          "relevance_score": 0.3413
+        },
+        {
+          "image_id": "000000022196",
+          "caption": "A tall brick building with a bell tower.",
+          "relevance_score": 0.3409
+        },
+        {
+          "image_id": "000000375737",
+          "caption": "The view from the ground of the St. Luke's Church clock tower.",
+          "relevance_score": 0.3126
+        },
+        {
+          "image_id": "000000132861",
+          "caption": "An old, brown brick building hosts a tower and a clock.",
+          "relevance_score": 0.3313
+        },
+        {
+          "image_id": "000000521296",
+          "caption": "A brick structure with a clock positioned at the top.",
+          "relevance_score": 0.3292
+        }
+      ],
+      "reference_captions": [
+        "the tower of the building has a clock displayed on it.",
+        "a clock tower overlooking two shorter brick buildings",
+        "a large brick tower on a tall building",
+        "a very tall brick clock tower with a clock on it's side.",
+        "a picture of an open air zone that looks incredible."
+      ],
+      "metrics": {
+        "bleu": 0.07676996790768738,
+        "rouge_l": 0.43726708074534165
+      }
+    },
+    {
+      "query_image_id": "000000361571",
+      "initial_score": 0.3282,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000265003",
+          "caption": "A sweet dog is wearing a white hat.",
+          "relevance_score": 0.3282
+        },
+        {
+          "image_id": "000000105611",
+          "caption": "A close-up of a dog in a boat wearing clothing.",
+          "relevance_score": 0.3008
+        },
+        {
+          "image_id": "000000127643",
+          "caption": "A bull dog with a bandana rides a skateboard.",
+          "relevance_score": 0.2886
+        },
+        {
+          "image_id": "000000382435",
+          "caption": "A yellow lab sitting on a sand dune with green vegetation in the background.",
+          "relevance_score": 0.2514
+        },
+        {
+          "image_id": "000000135032",
+          "caption": "A brown and white dog sitting on a brown park bench.",
+          "relevance_score": 0.2716
+        }
+      ],
+      "reference_captions": [
+        "a dog wearing a hat standing on some grass.",
+        "a white colored dog with it's mouth open and wearing a person's baseball style cap on it's head.",
+        "a dog in a field looking up while wearing a hat.",
+        "a dog looking up with mouth open and wearing a hat.",
+        "the large dog is wearing a human's cap on it's head."
+      ],
+      "metrics": {
+        "bleu": 0.15668388436193215,
+        "rouge_l": 0.3833387584282725
+      }
+    },
+    {
+      "query_image_id": "000000013291",
+      "initial_score": 0.2998,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000012501",
+          "caption": "A group of people that are crouched holding discs.",
+          "relevance_score": 0.318
+        },
+        {
+          "image_id": "000000293207",
+          "caption": "A group of four young men wearing athletic clothing are playing Frisbee in a green mowed area near a fence and a building.",
+          "relevance_score": 0.2792
+        },
+        {
+          "image_id": "000000210816",
+          "caption": "A teenager is playing with a colorful flying disc.",
+          "relevance_score": 0.297
+        },
+        {
+          "image_id": "000000066485",
+          "caption": "A group of four young men playing with a frisbee.",
+          "relevance_score": 0.2998
+        },
+        {
+          "image_id": "000000319105",
+          "caption": "a group of people playing with a frisby in an open field",
+          "relevance_score": 0.297
+        }
+      ],
+      "reference_captions": [
+        "a group of people hold up frisbees for the camera.",
+        "a group of people holding frisbees on a field.",
+        "a group of people in a field smile holding frisbees.",
+        "several people posing in a field while holding frisbees.",
+        "a group of people playing with frisbee's on the grass."
+      ],
+      "metrics": {
+        "bleu": 0.20581205148883003,
+        "rouge_l": 0.4621825396825397
+      }
+    },
+    {
+      "query_image_id": "000000327605",
+      "initial_score": 0.3345,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000132217",
+          "caption": "an image of a woman playing on skiis",
+          "relevance_score": 0.3369
+        },
+        {
+          "image_id": "000000008846",
+          "caption": "A woman is dressed in red and white ski attire.",
+          "relevance_score": 0.3365
+        },
+        {
+          "image_id": "000000054905",
+          "caption": "A woman in white jacket standing on a snowboard.",
+          "relevance_score": 0.3345
+        },
+        {
+          "image_id": "000000291373",
+          "caption": "A person wear a gray and white coat is skiing in the snow.",
+          "relevance_score": 0.3333
+        },
+        {
+          "image_id": "000000358344",
+          "caption": "A person is standing at the top of a hill on skis.",
+          "relevance_score": 0.3352
+        }
+      ],
+      "reference_captions": [
+        "the woman wearing skis and a helmet is standing with skis and ski poles.",
+        "a women who is standing in the snow on skis.",
+        "this woman has stopped snowboarding to pose for a picture.",
+        "a woman poses on the slope with her skis.",
+        "a woman on skis standing sideways in the snow."
+      ],
+      "metrics": {
+        "bleu": 0.06418509420402926,
+        "rouge_l": 0.41725490196078435
+      }
+    },
+    {
+      "query_image_id": "000000308799",
+      "initial_score": 0.3109,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000493235",
+          "caption": "Wood cabinets in a kitchen with a dark granite counter.",
+          "relevance_score": 0.3188
+        },
+        {
+          "image_id": "000000534024",
+          "caption": "A kitchen is being installed with stainless steel refrigerator and glue is on the island.",
+          "relevance_score": 0.307
+        },
+        {
+          "image_id": "000000076477",
+          "caption": "Dark cabinets around a white two doors refrigerator.",
+          "relevance_score": 0.318
+        },
+        {
+          "image_id": "000000570917",
+          "caption": "A large kitchen with light wood cupboards and black appliances.",
+          "relevance_score": 0.3168
+        },
+        {
+          "image_id": "000000461221",
+          "caption": "A large kitchen cabinet or pantry in a small kitchen.",
+          "relevance_score": 0.3135
+        }
+      ],
+      "reference_captions": [
+        "a doorway into a clean wood floored kitchen.",
+        "a black and silver kitchen with wood floors.",
+        "a contemporary kitchen featuring wood floors and a stainless steel oven.",
+        "a picture of a very nice kitchen with the light on.",
+        "a kitchen with hardwood floors and a sink and oven."
+      ],
+      "metrics": {
+        "bleu": 0.0565644064446843,
+        "rouge_l": 0.3245555555555556
+      }
+    },
+    {
+      "query_image_id": "000000481159",
+      "initial_score": 0.3373,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000500890",
+          "caption": "Two horses walking in a pasture with snow on the ground.",
+          "relevance_score": 0.3373
+        },
+        {
+          "image_id": "000000402362",
+          "caption": "A small horse roaming along a fence line.",
+          "relevance_score": 0.3319
+        },
+        {
+          "image_id": "000000272159",
+          "caption": "A large brown horse standing next to a barn.",
+          "relevance_score": 0.3157
+        },
+        {
+          "image_id": "000000307108",
+          "caption": "A photo of two horses in a fenced in field.",
+          "relevance_score": 0.3191
+        },
+        {
+          "image_id": "000000311957",
+          "caption": "a brown and white horse is eating some green grass in its pen",
+          "relevance_score": 0.3166
+        }
+      ],
+      "reference_captions": [
+        "a horse standing in a field by a fence.",
+        "a single horse leaning against a wooden fence.",
+        "a horse looking over a fence on a snowy day",
+        "a horse in a snowy paddock looking over the fence",
+        "a horse standing in a snowy pasture looking over a fence."
+      ],
+      "metrics": {
+        "bleu": 0.05002565921172829,
+        "rouge_l": 0.42488797751955654
+      }
+    },
+    {
+      "query_image_id": "000000127476",
+      "initial_score": 0.3331,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000152397",
+          "caption": "A pizza on the table is covered in mushrooms.",
+          "relevance_score": 0.3476
+        },
+        {
+          "image_id": "000000206530",
+          "caption": "A pizza has been prepared with tomatoes, artichokes, and olives.",
+          "relevance_score": 0.3305
+        },
+        {
+          "image_id": "000000266820",
+          "caption": "a closeup of a pizza covered with meat, basil leaves, cheese, and marinara sauce",
+          "relevance_score": 0.3191
+        },
+        {
+          "image_id": "000000071136",
+          "caption": "A pizza with several toppings served on a tray",
+          "relevance_score": 0.3244
+        },
+        {
+          "image_id": "000000088173",
+          "caption": "A pizza with pepperonis, green peppers, olives and mushrooms.",
+          "relevance_score": 0.3272
+        }
+      ],
+      "reference_captions": [
+        "a pizza that is sitting on a plastic tray.",
+        "a partially eaten pizza sitting on a tray.",
+        "a pizza with different toppings sitting on a pan.",
+        "a pizza sits half eaten on a plate.",
+        "a half cut pizza on a plate on the table"
+      ],
+      "metrics": {
+        "bleu": 0.10560818137353342,
+        "rouge_l": 0.4205949656750573
+      }
+    },
+    {
+      "query_image_id": "000000050165",
+      "initial_score": 0.3288,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000006765",
+          "caption": "Two old train cars sitting on a track near a mountain.",
+          "relevance_score": 0.3288
+        },
+        {
+          "image_id": "000000392944",
+          "caption": "A man riding on a mini train as it passes through the hillside",
+          "relevance_score": 0.3259
+        },
+        {
+          "image_id": "000000574015",
+          "caption": "Wooden train passing through a forested hilly area.",
+          "relevance_score": 0.3279
+        },
+        {
+          "image_id": "000000169188",
+          "caption": "A train is parked on top of the grass.",
+          "relevance_score": 0.3213
+        },
+        {
+          "image_id": "000000340329",
+          "caption": "A small passenger train sits on tracks near a fence and rose bushes.",
+          "relevance_score": 0.3169
+        }
+      ],
+      "reference_captions": [
+        "small train running down the tracks in the middle of a field.",
+        "a short train traveling through a rustic contryside.",
+        "a small train moving along the tracks with a mountain town in the background.",
+        "a small train travels down the track by itself.",
+        "a small train is traveling near a large hills and a small town."
+      ],
+      "metrics": {
+        "bleu": 0.050244172603058454,
+        "rouge_l": 0.35511721611721614
+      }
+    },
+    {
+      "query_image_id": "000000417876",
+      "initial_score": 0.3463,
+      "classification": "CORRECT",
+      "action": "RETRIEVE_TOP_20",
+      "candidate_count": 20,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000472557",
+          "caption": "Three giraffes looking over a large wooden fence.",
+          "relevance_score": 0.3463
+        },
+        {
+          "image_id": "000000378912",
+          "caption": "Two zebras standing by a rock wall in an enclosure.",
+          "relevance_score": 0.339
+        },
+        {
+          "image_id": "000000028069",
+          "caption": "Two giraffes in a zoo next to a tree on a sunny day.",
+          "relevance_score": 0.3445
+        },
+        {
+          "image_id": "000000027352",
+          "caption": "Two giraffes stand on a grassy area, near some rocks.",
+          "relevance_score": 0.3371
+        },
+        {
+          "image_id": "000000499852",
+          "caption": "A dark brown giraffe leaning over the short fence of an enclosure",
+          "relevance_score": 0.3302
+        }
+      ],
+      "reference_captions": [
+        "two giraffes are standing together outside near a wall.",
+        "two giraffes that are standing near a rock wall.",
+        "two giraffes with the backs turned to the camera next to a wall.",
+        "two giraffes in an outdoor setting eating grass.",
+        "two giraffes in a zoo crane their necks."
+      ],
+      "metrics": {
+        "bleu": 0.11013180311610671,
+        "rouge_l": 0.3957644110275689
+      }
+    },
+    {
+      "query_image_id": "000000168883",
+      "initial_score": 0.3524,
+      "classification": "CORRECT",
+      "action": "RETRIEVE_TOP_20",
+      "candidate_count": 20,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000203539",
+          "caption": "Several people in zombie makeup while two look at a phone.",
+          "relevance_score": 0.3524
+        },
+        {
+          "image_id": "000000377868",
+          "caption": "A man dressed up in zombie costume is wondering around the street.",
+          "relevance_score": 0.2853
+        },
+        {
+          "image_id": "000000246396",
+          "caption": "a woman standing outside a buidling as she looks at her cell phone",
+          "relevance_score": 0.2681
+        },
+        {
+          "image_id": "000000010799",
+          "caption": "A woman looks over many cosmetics on a counter.",
+          "relevance_score": 0.2616
+        },
+        {
+          "image_id": "000000206653",
+          "caption": "A woman in ratty clothes and black stuff on face and hands.",
+          "relevance_score": 0.2615
+        }
+      ],
+      "reference_captions": [
+        "a woman wearing a creepy mask standing next to a child.",
+        "two women and two girls in makeup and one is talking on a cellphone",
+        "two people and a child are dressed up in costumes.",
+        "a woman dressed as a zombie in a pink dress with a little girl.",
+        "a group of people with their faces painted in makeup"
+      ],
+      "metrics": {
+        "bleu": 0.05591848817317267,
+        "rouge_l": 0.3208724608724609
+      }
+    },
+    {
+      "query_image_id": "000000030828",
+      "initial_score": 0.3049,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000360434",
+          "caption": "a man in red and plack sleeping on a park bench",
+          "relevance_score": 0.3049
+        },
+        {
+          "image_id": "000000013979",
+          "caption": "A jockey on his horse, waiting in the starting gate.",
+          "relevance_score": 0.2996
+        },
+        {
+          "image_id": "000000085974",
+          "caption": "A woman lies on the grass with baggage in front of a blue horse statue.",
+          "relevance_score": 0.2963
+        },
+        {
+          "image_id": "000000103966",
+          "caption": "A tennis racket is leaned against a bench.",
+          "relevance_score": 0.2968
+        },
+        {
+          "image_id": "000000144582",
+          "caption": "A man laying on top of a blue bench.",
+          "relevance_score": 0.2968
+        }
+      ],
+      "reference_captions": [
+        "a person with an orange blanket covering them, sleeping on a wooden park bench.",
+        "person sleeping on bench in sleeping bag near parking meters.",
+        "a person is sleeping on a bench in a sleeping bag.",
+        "the person is sleeping on a park bench.",
+        "a person covered with an orange sleeping bag rests his head on a blue back pack as he sleeps on a park bench."
+      ],
+      "metrics": {
+        "bleu": 0.08853936563314177,
+        "rouge_l": 0.38815500289184496
+      }
+    },
+    {
+      "query_image_id": "000000410612",
+      "initial_score": 0.3085,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000332863",
+          "caption": "A red and white sailboat resting in a harbor.",
+          "relevance_score": 0.3085
+        },
+        {
+          "image_id": "000000321013",
+          "caption": "an  image of three boats that are parked behind a house",
+          "relevance_score": 0.2987
+        },
+        {
+          "image_id": "000000041945",
+          "caption": "a large red boat is in water near buildings",
+          "relevance_score": 0.307
+        },
+        {
+          "image_id": "000000174410",
+          "caption": "The harbor in town is currently empty by the water.",
+          "relevance_score": 0.2937
+        },
+        {
+          "image_id": "000000443650",
+          "caption": "There are several brightly colored row boats tied up in a harbor.",
+          "relevance_score": 0.3023
+        }
+      ],
+      "reference_captions": [
+        "a red boat is along the waters edge with houses on the land.",
+        "a red boat is floating near some houses.",
+        "the red boat is anchored on the shore of the lake in front of the houses.",
+        "a boat on a lake near some houses in an rural area",
+        "a boat passes by waterfront houses flanked by trees."
+      ],
+      "metrics": {
+        "bleu": 0.05518311716762242,
+        "rouge_l": 0.30238704177323106
+      }
+    },
+    {
+      "query_image_id": "000000423506",
+      "initial_score": 0.3333,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000080391",
+          "caption": "Two men with colorful ties standing next to each other smiling.",
+          "relevance_score": 0.3333
+        },
+        {
+          "image_id": "000000125661",
+          "caption": "Two men in dress shirts pose for a photograph.",
+          "relevance_score": 0.3003
+        },
+        {
+          "image_id": "000000023551",
+          "caption": "Two men smile as they pose for a picture at their table.",
+          "relevance_score": 0.2939
+        },
+        {
+          "image_id": "000000442206",
+          "caption": "two young people dressed up and hugging each other",
+          "relevance_score": 0.2773
+        },
+        {
+          "image_id": "000000199234",
+          "caption": "Two young men standing in a living room next to each other.",
+          "relevance_score": 0.2802
+        }
+      ],
+      "reference_captions": [
+        "two men smiling and taking a picture together.",
+        "two men standing next to one another, and both are smiling and wearing neckties.",
+        "two men in ties smile at the camera",
+        "two men standing side by side and smiling",
+        "two men with ties on smiling next to each other."
+      ],
+      "metrics": {
+        "bleu": 0.13835595291156835,
+        "rouge_l": 0.49521799150282125
+      }
+    },
+    {
+      "query_image_id": "000000060886",
+      "initial_score": 0.3295,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000270112",
+          "caption": "A group of baseball players are standing together on the field in a huddle.",
+          "relevance_score": 0.3295
+        },
+        {
+          "image_id": "000000010442",
+          "caption": "A group of men on a baseball field giving each other high fives.",
+          "relevance_score": 0.3254
+        },
+        {
+          "image_id": "000000388294",
+          "caption": "A bunch of baseball players are walking and shaking hands at the end of the game.",
+          "relevance_score": 0.3197
+        },
+        {
+          "image_id": "000000104607",
+          "caption": "A group of players playing a baseball game.",
+          "relevance_score": 0.3047
+        },
+        {
+          "image_id": "000000550140",
+          "caption": "Baseball players gather at the pitchers mound to talk to each other.",
+          "relevance_score": 0.3149
+        }
+      ],
+      "reference_captions": [
+        "a group of baseball players cluster together while wearing blue and white uniforms.",
+        "a baseball team all huddled together on the baseball field .",
+        "the entire baseball team has gathered on the field for a celebration.",
+        "a baseball team celebrates on the field together.",
+        "a baseball team crowd together on the field"
+      ],
+      "metrics": {
+        "bleu": 0.16841194733945636,
+        "rouge_l": 0.37381211991406893
+      }
+    },
+    {
+      "query_image_id": "000000108495",
+      "initial_score": 0.2906,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000020188",
+          "caption": "a young man sits on a skate board",
+          "relevance_score": 0.3107
+        },
+        {
+          "image_id": "000000154835",
+          "caption": "A man in glasses and sneakers is posing.",
+          "relevance_score": 0.2906
+        },
+        {
+          "image_id": "000000214232",
+          "caption": "A boy wearing  blue jeans is riding a skateboard.",
+          "relevance_score": 0.3035
+        },
+        {
+          "image_id": "000000025864",
+          "caption": "A girl in purple and orange on a scooter",
+          "relevance_score": 0.2588
+        },
+        {
+          "image_id": "000000492251",
+          "caption": "a boy going down steps on a skate board",
+          "relevance_score": 0.3044
+        }
+      ],
+      "reference_captions": [
+        "cute girl sitting on a skateboard in the driveway",
+        "a girl sitting on a skateboard in the driveway",
+        "a girl is sitting on a skateboard outside",
+        "a girl is sitting on the sidewalk on her skate board.",
+        "a girl in an orange sweater is sitting on a skateboard."
+      ],
+      "metrics": {
+        "bleu": 0.07664408938108408,
+        "rouge_l": 0.4625386996904025
+      }
+    },
+    {
+      "query_image_id": "000000558213",
+      "initial_score": 0.3135,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000324872",
+          "caption": "A  blurry skateboarder in the foreground catches some air in what looks like a rail yard.",
+          "relevance_score": 0.3135
+        },
+        {
+          "image_id": "000000062969",
+          "caption": "A man riding on top of a skateboard under a blue sky.",
+          "relevance_score": 0.3027
+        },
+        {
+          "image_id": "000000193255",
+          "caption": "A man rides a skateboard while having his picture taken.",
+          "relevance_score": 0.3048
+        },
+        {
+          "image_id": "000000004876",
+          "caption": "A skateboarder riding a rail at a football field stand.",
+          "relevance_score": 0.305
+        },
+        {
+          "image_id": "000000365561",
+          "caption": "A boy in a cap and jeans rides a skateboard on the rim of a ramp.",
+          "relevance_score": 0.3076
+        }
+      ],
+      "reference_captions": [
+        "a skateboarder doing a trick in a yard surrounded by a chain fence.",
+        "a man in black shirt doing a trick on a skateboard.",
+        "a male skateboarder in a black shirt some dirt",
+        "a man standing on a skateboard near a ramp.",
+        "a man that is on a skateboard in the dirt"
+      ],
+      "metrics": {
+        "bleu": 0.0526293382105444,
+        "rouge_l": 0.4170269752341874
+      }
+    },
+    {
+      "query_image_id": "000000482970",
+      "initial_score": 0.3202,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000101719",
+          "caption": "A laptop setup on a desk in front of a desk lamp.",
+          "relevance_score": 0.3202
+        },
+        {
+          "image_id": "000000361578",
+          "caption": "A laptop computer and lamp are pictured on a desk in a darkened room.",
+          "relevance_score": 0.3163
+        },
+        {
+          "image_id": "000000448580",
+          "caption": "A small laptop is hooked up to a large television.",
+          "relevance_score": 0.304
+        },
+        {
+          "image_id": "000000347763",
+          "caption": "A computer monitor hanging over a laptop on a counter.",
+          "relevance_score": 0.3087
+        },
+        {
+          "image_id": "000000342206",
+          "caption": "A computer screen and keyboard on a desk with an energy drink.",
+          "relevance_score": 0.3006
+        }
+      ],
+      "reference_captions": [
+        "a laptop computer sitting on a desk with a speaker.",
+        "an open laptop and speakers on top of a desk.",
+        "an open laptop computer sitting on top of a wooden desk.",
+        "a laptop sitting on a desk with a chat window displayed.",
+        "a powered on laptop computer next to a speaker on a desk."
+      ],
+      "metrics": {
+        "bleu": 0.12534212358837732,
+        "rouge_l": 0.4984848484848484
+      }
+    },
+    {
+      "query_image_id": "000000419408",
+      "initial_score": 0.3102,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000255330",
+          "caption": "A skateboarder doing a flip over a ramp in a park.",
+          "relevance_score": 0.3106
+        },
+        {
+          "image_id": "000000407952",
+          "caption": "A boy does a kick flip off the edge of a sidewalk between columns.",
+          "relevance_score": 0.3102
+        },
+        {
+          "image_id": "000000347926",
+          "caption": "A man in grey shirt grinding skateboard down a rail.",
+          "relevance_score": 0.2985
+        },
+        {
+          "image_id": "000000441598",
+          "caption": "A teenager on a skateboard is in mid air.",
+          "relevance_score": 0.3046
+        },
+        {
+          "image_id": "000000039731",
+          "caption": "Young skateboarder riding the rail at a park.",
+          "relevance_score": 0.3066
+        }
+      ],
+      "reference_captions": [
+        "a man riding a skateboard over a rope.",
+        "a skateboarder is attempting a trick mid air.",
+        "two skateboarders and one is doing a trick",
+        "a boy is skateboarding on a pole at a park.",
+        "the skateboarder is jumping over the railing in a park."
+      ],
+      "metrics": {
+        "bleu": 0.10037656064546338,
+        "rouge_l": 0.4795518207282914
+      }
+    },
+    {
+      "query_image_id": "000000248400",
+      "initial_score": 0.3081,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000460362",
+          "caption": "One guy holds an open pizza box, while the other guy takes a photo.",
+          "relevance_score": 0.3094
+        },
+        {
+          "image_id": "000000300629",
+          "caption": "Two boxes of pizza on a counter and stove while someone holds a plate containing a couple slices.",
+          "relevance_score": 0.3081
+        },
+        {
+          "image_id": "000000237818",
+          "caption": "Two men standing around a pizza on the counter, one wearing an oven mitt.",
+          "relevance_score": 0.3017
+        },
+        {
+          "image_id": "000000156687",
+          "caption": "A person giving the middle finger to a box of pizza.",
+          "relevance_score": 0.3076
+        },
+        {
+          "image_id": "000000096897",
+          "caption": "A man is holding a slice of pizza.",
+          "relevance_score": 0.3067
+        }
+      ],
+      "reference_captions": [
+        "a man opens pizza box and stares at the camera.",
+        "man displaying open pizza box with message written on inside.",
+        "a man is pointing at a pizza box with a some words on the inner side.",
+        "a boy holding open and gesturing towards a pizza box kid with a message written on it.",
+        "a kid is showing a pizza with a joke written inside the box cover"
+      ],
+      "metrics": {
+        "bleu": 0.04877014321564207,
+        "rouge_l": 0.29704761904761906
+      }
+    },
+    {
+      "query_image_id": "000000462643",
+      "initial_score": 0.2812,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000336967",
+          "caption": "A little suitcase that has clothes inside of it.",
+          "relevance_score": 0.2847
+        },
+        {
+          "image_id": "000000565594",
+          "caption": "A girl holds up a broken cell phone.",
+          "relevance_score": 0.2844
+        },
+        {
+          "image_id": "000000179317",
+          "caption": "A  flip phone broken in half by cingular",
+          "relevance_score": 0.2739
+        },
+        {
+          "image_id": "000000220699",
+          "caption": "A phone and another device with a battery attached are shown close up.",
+          "relevance_score": 0.2812
+        },
+        {
+          "image_id": "000000111535",
+          "caption": "Small silver cell phone being held up any person's hand.",
+          "relevance_score": 0.2776
+        }
+      ],
+      "reference_captions": [
+        "a person holding a broken up cell phone.",
+        "a person holding a broken cell phone while looking at the screen.",
+        "a small electronic device sits in the palm of someone's hand.",
+        "a broken piece of equipment is sitting in the persons hand.",
+        "a person is holding a small electronic device."
+      ],
+      "metrics": {
+        "bleu": 0.06429501337600174,
+        "rouge_l": 0.3624746649231775
+      }
+    },
+    {
+      "query_image_id": "000000291619",
+      "initial_score": 0.3356,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000544607",
+          "caption": "Two Frisbee players on a field fighting over the disk.",
+          "relevance_score": 0.3356
+        },
+        {
+          "image_id": "000000023413",
+          "caption": "A picture of a group of people running on a playing field at night with a building in the background.",
+          "relevance_score": 0.2957
+        },
+        {
+          "image_id": "000000443593",
+          "caption": "Young men playing Ultimate Frisbee, with one jumping high to reach the disc.",
+          "relevance_score": 0.3347
+        },
+        {
+          "image_id": "000000111000",
+          "caption": "Three men jumping for a Frisbee in the park, with a fourth man running to join them.",
+          "relevance_score": 0.3212
+        },
+        {
+          "image_id": "000000094268",
+          "caption": "A man trying to catch a frisbee as two others watch.",
+          "relevance_score": 0.3214
+        }
+      ],
+      "reference_captions": [
+        "there are two men playing frisbee on a field",
+        "two young men playing frisbee at night on a sports field",
+        "a man catching a frisbee as another looks on.",
+        "a frisbee player is about to catch a thrown frisbee.",
+        "a man leaping up to catch a frisbee with another man running behind him."
+      ],
+      "metrics": {
+        "bleu": 0.12532281582148497,
+        "rouge_l": 0.408058856819468
+      }
+    },
+    {
+      "query_image_id": "000000330396",
+      "initial_score": 0.3138,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000368072",
+          "caption": "Two people walking along an empty shore line with a kite in the background",
+          "relevance_score": 0.3138
+        },
+        {
+          "image_id": "000000448958",
+          "caption": "A woman in a pink shirt sitting on top of a beach.",
+          "relevance_score": 0.2806
+        },
+        {
+          "image_id": "000000402987",
+          "caption": "A woman in a green shirt gestures at someone in the distance from a ferry.",
+          "relevance_score": 0.293
+        },
+        {
+          "image_id": "000000525700",
+          "caption": "Two people sitting on a bench near a body of water.",
+          "relevance_score": 0.2867
+        },
+        {
+          "image_id": "000000479621",
+          "caption": "A man holding a woman by her inner thighs on top of a surfboard over a small dog in a pink life jacket in the ocean.",
+          "relevance_score": 0.2819
+        }
+      ],
+      "reference_captions": [
+        "a man and a woman holding stuffed teddy bears near the ocean.",
+        "a man and a woman watching waves at beach.",
+        "a man and woman stand on the beach and look at the ocean.",
+        "two people standing need the surf line on pebble beach.",
+        "a man and a woman standing on a stony beach with driftwood"
+      ],
+      "metrics": {
+        "bleu": 0.04315800439117863,
+        "rouge_l": 0.31077694235588976
+      }
+    },
+    {
+      "query_image_id": "000000388903",
+      "initial_score": 0.343,
+      "classification": "CORRECT",
+      "action": "RETRIEVE_TOP_20",
+      "candidate_count": 20,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000266369",
+          "caption": "A woman in blue jacket looking at a cellphone.",
+          "relevance_score": 0.343
+        },
+        {
+          "image_id": "000000047093",
+          "caption": "A young woman walking down the street while talking on her cell phone",
+          "relevance_score": 0.3145
+        },
+        {
+          "image_id": "000000167411",
+          "caption": "A person is taking an apple from several boxes of apples that are for sale.",
+          "relevance_score": 0.2944
+        },
+        {
+          "image_id": "000000514821",
+          "caption": "A man wearing a fedora talking on a cell phone.",
+          "relevance_score": 0.297
+        },
+        {
+          "image_id": "000000188854",
+          "caption": "A woman is sitting at an outdoor table using a cellphone.",
+          "relevance_score": 0.2924
+        }
+      ],
+      "reference_captions": [
+        "a woman talking on the phone in front of a person selling apples.",
+        "there is a woman talking on her cell phone.",
+        "a person walking on a street talking on a cell phone",
+        "an individual enjoying itself on a sunny day",
+        "a woman is on a phone in front of a fruit stand."
+      ],
+      "metrics": {
+        "bleu": 0.15748580943115437,
+        "rouge_l": 0.4508061986322856
+      }
+    },
+    {
+      "query_image_id": "000000528578",
+      "initial_score": 0.2845,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000425536",
+          "caption": "a photo of big ben early in the morning",
+          "relevance_score": 0.2845
+        },
+        {
+          "image_id": "000000319655",
+          "caption": "A red double decker bus drives by Big Ben and other buildings.",
+          "relevance_score": 0.2798
+        },
+        {
+          "image_id": "000000330701",
+          "caption": "A view of the Royal Palace and Big Ben Clock Tower from the water.",
+          "relevance_score": 0.2731
+        },
+        {
+          "image_id": "000000195650",
+          "caption": "Big Ben in central London during a sunny day.",
+          "relevance_score": 0.2813
+        },
+        {
+          "image_id": "000000498562",
+          "caption": "The building is tall with a clock and a flag on the very top.",
+          "relevance_score": 0.2609
+        }
+      ],
+      "reference_captions": [
+        "the big ben clock tower towering over the city of london.",
+        "a bridge next to a tall building and the big ben tower",
+        "an old clock tower stands near a bridge and other large old, medieval type structures.",
+        "the palace of westminster, featuring elizabeth tower that holds big ben.",
+        "a castle is shown on the water next to a bridge."
+      ],
+      "metrics": {
+        "bleu": 0.08001170513025865,
+        "rouge_l": 0.314
+      }
+    },
+    {
+      "query_image_id": "000000464476",
+      "initial_score": 0.2999,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000179983",
+          "caption": "A computer is shown sitting in a store room.",
+          "relevance_score": 0.3094
+        },
+        {
+          "image_id": "000000297509",
+          "caption": "Multiple objects are sitting in the foreground while someone works in the background.",
+          "relevance_score": 0.2999
+        },
+        {
+          "image_id": "000000113725",
+          "caption": "Inside an office with a fridge and desk next to an open door.",
+          "relevance_score": 0.2946
+        },
+        {
+          "image_id": "000000229833",
+          "caption": "Man taking a picture of another man at a computer.",
+          "relevance_score": 0.2927
+        },
+        {
+          "image_id": "000000102632",
+          "caption": "Panorama photograph of a desk with various computrs and devices.",
+          "relevance_score": 0.2841
+        }
+      ],
+      "reference_captions": [
+        "a laptop computer sitting on top of a table.",
+        "a man is seen walking out of a building.",
+        "a dark room with an open laptop and a computer monitor behind it.",
+        "a person is near a glass door in a room with a computer.",
+        "a building has two macintosh computers at the workstations."
+      ],
+      "metrics": {
+        "bleu": 0.05215322695204827,
+        "rouge_l": 0.27057656302507566
+      }
+    },
+    {
+      "query_image_id": "000000221281",
+      "initial_score": 0.3605,
+      "classification": "CORRECT",
+      "action": "RETRIEVE_TOP_20",
+      "candidate_count": 20,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000388011",
+          "caption": "Three giraffes and two smaller animals are shown.",
+          "relevance_score": 0.3605
+        },
+        {
+          "image_id": "000000006005",
+          "caption": "A giraffe standing next to three baby giraffes in a zoo exhibit.",
+          "relevance_score": 0.3385
+        },
+        {
+          "image_id": "000000293121",
+          "caption": "The family of giraffes are in the pen at the zoo.",
+          "relevance_score": 0.339
+        },
+        {
+          "image_id": "000000499852",
+          "caption": "A dark brown giraffe leaning over the short fence of an enclosure",
+          "relevance_score": 0.3255
+        },
+        {
+          "image_id": "000000027352",
+          "caption": "Two giraffes stand on a grassy area, near some rocks.",
+          "relevance_score": 0.323
+        }
+      ],
+      "reference_captions": [
+        "a group of giraffes walking in the sand.",
+        "two giraffes walking around in the grass and dirt.",
+        "two giraffes running across a field in the mud",
+        "three giraffes, one young, in a natural looking habitat.",
+        "giraffes in a dirt field with some patches of green."
+      ],
+      "metrics": {
+        "bleu": 0.05234772937423372,
+        "rouge_l": 0.3306177207725195
+      }
+    },
+    {
+      "query_image_id": "000000466416",
+      "initial_score": 0.259,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000178331",
+          "caption": "A 7-story building with a clock tower surrounded by buildings on either side, at twilight.",
+          "relevance_score": 0.2613
+        },
+        {
+          "image_id": "000000284310",
+          "caption": "A picture of a busy night in the city.",
+          "relevance_score": 0.259
+        },
+        {
+          "image_id": "000000579751",
+          "caption": "A view of a city at night time, with many cars below.",
+          "relevance_score": 0.2565
+        },
+        {
+          "image_id": "000000233090",
+          "caption": "A ship passes on the waters in front of cityscape.",
+          "relevance_score": 0.2583
+        },
+        {
+          "image_id": "000000561570",
+          "caption": "A double exposed picture of a brightly lit up part of the city.",
+          "relevance_score": 0.2359
+        }
+      ],
+      "reference_captions": [
+        "a building that is heavily lit up and in front of a river.",
+        "the view of a clock tower near a body of water at night.",
+        "a downtown city view from a high vantage point at night.",
+        "large white buildings are lit up in the night.",
+        "a building with two clock towers next to water at night."
+      ],
+      "metrics": {
+        "bleu": 0.08893346249711555,
+        "rouge_l": 0.3669490895577852
+      }
+    },
+    {
+      "query_image_id": "000000039769",
+      "initial_score": 0.3043,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000495692",
+          "caption": "Two tabby cats are on a couch and a table that has 7 remotes on it.",
+          "relevance_score": 0.3214
+        },
+        {
+          "image_id": "000000267794",
+          "caption": "Two cats find room to stretch out and rest themselves end to end, even on a cluttered desk.",
+          "relevance_score": 0.3183
+        },
+        {
+          "image_id": "000000549649",
+          "caption": "A cat laying on a surface with a  person holding up gag glasses to its face.",
+          "relevance_score": 0.2935
+        },
+        {
+          "image_id": "000000557781",
+          "caption": "Two cats are laying on a blanket on a leather chair.",
+          "relevance_score": 0.3039
+        },
+        {
+          "image_id": "000000386152",
+          "caption": "A siamese cat playing on the bed with a tabby.",
+          "relevance_score": 0.2831
+        }
+      ],
+      "reference_captions": [
+        "a couple of cats laying on top of a pink blanket.",
+        "there are two cats laying down with two remotes",
+        "two cats sleeping with a remote control near each of them.",
+        "two cats lying near two remotes on a purple sheets",
+        "two cats asleep on a sofa with a blanket on it."
+      ],
+      "metrics": {
+        "bleu": 0.0665369024850813,
+        "rouge_l": 0.42020202020202013
+      }
+    },
+    {
+      "query_image_id": "000000372307",
+      "initial_score": 0.3371,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000409209",
+          "caption": "A picture of a lush pasture area with two horses and a cow grazing.",
+          "relevance_score": 0.3386
+        },
+        {
+          "image_id": "000000272159",
+          "caption": "A large brown horse standing next to a barn.",
+          "relevance_score": 0.3286
+        },
+        {
+          "image_id": "000000435334",
+          "caption": "Horses grazing in a fenced pasture, some wearing blankets.",
+          "relevance_score": 0.3352
+        },
+        {
+          "image_id": "000000144505",
+          "caption": "Horses graze in a green field by a house",
+          "relevance_score": 0.3371
+        },
+        {
+          "image_id": "000000360630",
+          "caption": "A sunny pasture is shown with a horse grazing.",
+          "relevance_score": 0.3334
+        }
+      ],
+      "reference_captions": [
+        "a horse standing in the grass in a fenced in area.",
+        "a horse grazing the field with a fence surrounding it.",
+        "horse in a large corral eating grass and trees in the back.",
+        "a green pasture with a single brown horse.",
+        "brown horse in green field with trees and fence"
+      ],
+      "metrics": {
+        "bleu": 0.07929680150021255,
+        "rouge_l": 0.44347374675548046
+      }
+    },
+    {
+      "query_image_id": "000000570456",
+      "initial_score": 0.3077,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000516906",
+          "caption": "An aerial view of a furnished living room.",
+          "relevance_score": 0.3077
+        },
+        {
+          "image_id": "000000019845",
+          "caption": "Inside of apartment showing closed door, some chairs and a narrow refrigerator.",
+          "relevance_score": 0.2901
+        },
+        {
+          "image_id": "000000558968",
+          "caption": "The room has wooden floors and a large couch.",
+          "relevance_score": 0.2875
+        },
+        {
+          "image_id": "000000054334",
+          "caption": "A sunny, neat bedroom with a small home office in the corner.",
+          "relevance_score": 0.2716
+        },
+        {
+          "image_id": "000000082287",
+          "caption": "A panoramic view of a living room with furniture.",
+          "relevance_score": 0.2847
+        }
+      ],
+      "reference_captions": [
+        "a living room filled with furniture and a table.",
+        "a large room that has both a kitchen and living room",
+        "a view down into a living room and kitchen.",
+        "a living room with seating areas, tables, and windows.",
+        "this is what your ceiling fan thinks your house looks like."
+      ],
+      "metrics": {
+        "bleu": 0.0993693320217567,
+        "rouge_l": 0.3671335200746966
+      }
+    },
+    {
+      "query_image_id": "000000167122",
+      "initial_score": 0.2798,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000476145",
+          "caption": "A time lapsed photo of a man and two cars",
+          "relevance_score": 0.2952
+        },
+        {
+          "image_id": "000000040466",
+          "caption": "A dog sitting in the back of a parked truck at night.",
+          "relevance_score": 0.2798
+        },
+        {
+          "image_id": "000000556154",
+          "caption": "A side view mirror on a car reflecting a white van.",
+          "relevance_score": 0.2712
+        },
+        {
+          "image_id": "000000194671",
+          "caption": "Street lights are lighting the empty street and adjacent parking lot.",
+          "relevance_score": 0.2798
+        },
+        {
+          "image_id": "000000538661",
+          "caption": "A first person night shot of a person grilling a hot dog with a blurry image of a man in the background.",
+          "relevance_score": 0.2655
+        }
+      ],
+      "reference_captions": [
+        "an image of a night scene with a cat on top of a car",
+        "night picture of a car parked and some parking lights in the distance.",
+        "a car sitting on a car with a wall in the background.",
+        "a cat sitting on top of a car at night time.",
+        "a cat sitting on a car parked outside a building at night."
+      ],
+      "metrics": {
+        "bleu": 0.0685704293948886,
+        "rouge_l": 0.38318109852636706
+      }
+    },
+    {
+      "query_image_id": "000000197022",
+      "initial_score": 0.3184,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000152397",
+          "caption": "A pizza on the table is covered in mushrooms.",
+          "relevance_score": 0.3201
+        },
+        {
+          "image_id": "000000519077",
+          "caption": "a close up of a pizza with black olives on a plate",
+          "relevance_score": 0.3181
+        },
+        {
+          "image_id": "000000088173",
+          "caption": "A pizza with pepperonis, green peppers, olives and mushrooms.",
+          "relevance_score": 0.3184
+        },
+        {
+          "image_id": "000000173833",
+          "caption": "Pizza with olives and tomatoes on a wooden cutting board.",
+          "relevance_score": 0.3171
+        },
+        {
+          "image_id": "000000492609",
+          "caption": "Two vegetarian style pizzas on top of wooden cutting boards.",
+          "relevance_score": 0.3111
+        }
+      ],
+      "reference_captions": [
+        "i want the pizza that has extra cheese on it.",
+        "a cooked pizza pie on a tray with another that is uncooked.",
+        "there is an image of man doing things on the table.",
+        "a pizza that is sitting on a wooden plank.",
+        "two fresh pizzas with mushrooms and olives sitting on pizza paddles."
+      ],
+      "metrics": {
+        "bleu": 0.07176987952766703,
+        "rouge_l": 0.35974937343358393
+      }
+    },
+    {
+      "query_image_id": "000000160666",
+      "initial_score": 0.3526,
+      "classification": "CORRECT",
+      "action": "RETRIEVE_TOP_20",
+      "candidate_count": 20,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000468538",
+          "caption": "Closeup of a cup holding toothbrushes and toothpaste on a counter.",
+          "relevance_score": 0.3526
+        },
+        {
+          "image_id": "000000145520",
+          "caption": "A shelf containing a green cup holding a toothbrush and tooth paste near a brush and deodorant.",
+          "relevance_score": 0.35
+        },
+        {
+          "image_id": "000000153656",
+          "caption": "Two toothbrushes and a tube of toothpaste are in a cup.",
+          "relevance_score": 0.3463
+        },
+        {
+          "image_id": "000000466052",
+          "caption": "a mug holding two brushes and toothpaste on the counter",
+          "relevance_score": 0.3393
+        },
+        {
+          "image_id": "000000263767",
+          "caption": "A pair of scissors resting atop a plastic mold on a counter.",
+          "relevance_score": 0.2755
+        }
+      ],
+      "reference_captions": [
+        "a toothbrush with toothpaste next to a tube on a counter.",
+        "a close up of a toothbrush with some crest paste on it.",
+        "some blue toothpaste applied to a red toothbrush.",
+        "a red tooth brush sitting next to a tube of toothpaste.",
+        "a red toothbrush next to a bottle of crest toothpaste."
+      ],
+      "metrics": {
+        "bleu": 0.07801707781613917,
+        "rouge_l": 0.4036007970040954
+      }
+    },
+    {
+      "query_image_id": "000000393226",
+      "initial_score": 0.2882,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000289767",
+          "caption": "A police SUV is blockading a street while a bus passes by.",
+          "relevance_score": 0.2882
+        },
+        {
+          "image_id": "000000401402",
+          "caption": "A group of people standing beside a white food truck.",
+          "relevance_score": 0.2868
+        },
+        {
+          "image_id": "000000279073",
+          "caption": "A bright yellow food truck is ready to serve customers.",
+          "relevance_score": 0.2765
+        },
+        {
+          "image_id": "000000314420",
+          "caption": "This picture shows a busy city crosswalk scene.",
+          "relevance_score": 0.2805
+        },
+        {
+          "image_id": "000000342583",
+          "caption": "A red and white utility truck on a road.",
+          "relevance_score": 0.2569
+        }
+      ],
+      "reference_captions": [
+        "a man who is walking across the street.",
+        "a busy intersection with an ice cream truck driving by.",
+        "a man walks behind an ice cream truck",
+        "a man is crossing a street near an icecream truck.",
+        "the man is walking behind the concession bus."
+      ],
+      "metrics": {
+        "bleu": 0.03822909574525925,
+        "rouge_l": 0.26867498514557336
+      }
+    },
+    {
+      "query_image_id": "000000568213",
+      "initial_score": 0.344,
+      "classification": "CORRECT",
+      "action": "RETRIEVE_TOP_20",
+      "candidate_count": 20,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000517460",
+          "caption": "A man plays defense against an opponent during a game of ultimate frisbee",
+          "relevance_score": 0.344
+        },
+        {
+          "image_id": "000000524063",
+          "caption": "Two young men kicking a soccer ball around an open green field.",
+          "relevance_score": 0.3268
+        },
+        {
+          "image_id": "000000097563",
+          "caption": "A person trying to throw a frisbee to another person, while being blocked by another.",
+          "relevance_score": 0.3247
+        },
+        {
+          "image_id": "000000293207",
+          "caption": "A group of four young men wearing athletic clothing are playing Frisbee in a green mowed area near a fence and a building.",
+          "relevance_score": 0.3085
+        },
+        {
+          "image_id": "000000065057",
+          "caption": "A touch football player is being persued by an opponent.",
+          "relevance_score": 0.3179
+        }
+      ],
+      "reference_captions": [
+        "a couple of men standing on top of a field together.",
+        "two men playing frisbee together on a field",
+        "a young man attempting to throw a frisbee past a defender",
+        "the player tries to block the other player from throwing a frisbee.",
+        "a man is throwing a frisbee in a field"
+      ],
+      "metrics": {
+        "bleu": 0.06536810653021222,
+        "rouge_l": 0.3233685160340508
+      }
+    },
+    {
+      "query_image_id": "000000290592",
+      "initial_score": 0.3147,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000488374",
+          "caption": "Several sheep stand in a dirt path in a grassy area.",
+          "relevance_score": 0.3147
+        },
+        {
+          "image_id": "000000290521",
+          "caption": "The herd of sheep stand close to a wooden fence.",
+          "relevance_score": 0.3132
+        },
+        {
+          "image_id": "000000343481",
+          "caption": "A herd of sheep crowded into a green transportation container.",
+          "relevance_score": 0.3072
+        },
+        {
+          "image_id": "000000237256",
+          "caption": "Black faced sheep in a paddock at dawn",
+          "relevance_score": 0.302
+        },
+        {
+          "image_id": "000000358890",
+          "caption": "A large field of various types of sheep",
+          "relevance_score": 0.311
+        }
+      ],
+      "reference_captions": [
+        "a cluster of black and white sheep hang out by a fence.",
+        "a bunch of sheep are standing behind a fence",
+        "close together group of white, beige, and brown sheep, from the rear, standing in grass at fence gate.",
+        "a herd of sheep all gathered near a fence area.",
+        "this is a group of sheep on the grass"
+      ],
+      "metrics": {
+        "bleu": 0.10581425487802473,
+        "rouge_l": 0.3958513931888545
+      }
+    },
+    {
+      "query_image_id": "000000246454",
+      "initial_score": 0.2886,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000518262",
+          "caption": "A large and small dog interacting on a crowded sidewalk.",
+          "relevance_score": 0.2981
+        },
+        {
+          "image_id": "000000176595",
+          "caption": "A woman is posing next to and petting a small horse.",
+          "relevance_score": 0.2867
+        },
+        {
+          "image_id": "000000242677",
+          "caption": "Black and white photograph of a woman walking a dog.",
+          "relevance_score": 0.2765
+        },
+        {
+          "image_id": "000000430867",
+          "caption": "a brown dog is sitting in front of a young woman",
+          "relevance_score": 0.2801
+        },
+        {
+          "image_id": "000000352482",
+          "caption": "A person that is petting a dog that is lieing on the ground.",
+          "relevance_score": 0.2886
+        }
+      ],
+      "reference_captions": [
+        "girl bending down with hand bag on her shoulder petting two dogs.",
+        "a girl kneels down to pet two dogs.",
+        "a black and white photo of a girl petting three dogs.",
+        "a child petting two dogs on the side of the street",
+        "a little girl kneeling down to pet two dogs on a leash."
+      ],
+      "metrics": {
+        "bleu": 0.057206901956222654,
+        "rouge_l": 0.3944569922830792
+      }
+    },
+    {
+      "query_image_id": "000000398810",
+      "initial_score": 0.3337,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000015070",
+          "caption": "Two cats watching a squirrel outside a window.",
+          "relevance_score": 0.3337
+        },
+        {
+          "image_id": "000000161617",
+          "caption": "A dog looks through a window while a cat sits in the background.",
+          "relevance_score": 0.329
+        },
+        {
+          "image_id": "000000112388",
+          "caption": "a cat squished in between a couch and a window in the sun",
+          "relevance_score": 0.312
+        },
+        {
+          "image_id": "000000140155",
+          "caption": "Two cats sitting with a woman near a window.",
+          "relevance_score": 0.3248
+        },
+        {
+          "image_id": "000000244468",
+          "caption": "A kitten looks over a window sill at the camera",
+          "relevance_score": 0.3061
+        }
+      ],
+      "reference_captions": [
+        "a small cat sitting on top of a couch looking out a window at another cat.",
+        "two orange cats in windows in buildings across from one another.",
+        "a cat peeking around a curtain at a cat across the way in a window.",
+        "a cat staring out a window at another cat.",
+        "tow cats laying down looking out of the windows."
+      ],
+      "metrics": {
+        "bleu": 0.06089420660764196,
+        "rouge_l": 0.390284655026835
+      }
+    },
+    {
+      "query_image_id": "000000410934",
+      "initial_score": 0.3458,
+      "classification": "CORRECT",
+      "action": "RETRIEVE_TOP_20",
+      "candidate_count": 20,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000541456",
+          "caption": "A fresh head of broccoli is circled by its equally green leaves.",
+          "relevance_score": 0.3458
+        },
+        {
+          "image_id": "000000212514",
+          "caption": "Broccoli and leaves from the plant above a dirt area.",
+          "relevance_score": 0.3449
+        },
+        {
+          "image_id": "000000378896",
+          "caption": "A large head of broccoli is seen in this photo.",
+          "relevance_score": 0.337
+        },
+        {
+          "image_id": "000000266091",
+          "caption": "close up of a garden with shrubs growing",
+          "relevance_score": 0.2801
+        },
+        {
+          "image_id": "000000218846",
+          "caption": "Many fresh vegetables have been placed near together.",
+          "relevance_score": 0.2961
+        }
+      ],
+      "reference_captions": [
+        "a broccoli plant has very large leaves.",
+        "a broccoli plant growing in a garden is dwarfed by it's leaves.",
+        "several green leaves grouped together as a plant.",
+        "a bunch of green leaves on a broccoli plant.",
+        "a small broccoli plant is shown growing among pine needles."
+      ],
+      "metrics": {
+        "bleu": 0.032087660777179866,
+        "rouge_l": 0.2673906313097321
+      }
+    },
+    {
+      "query_image_id": "000000344795",
+      "initial_score": 0.3228,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000006363",
+          "caption": "An oven with the inside light on and a pizza baking in the oven.",
+          "relevance_score": 0.3228
+        },
+        {
+          "image_id": "000000022340",
+          "caption": "Baked cheesy cucumber bread ready to be cut.",
+          "relevance_score": 0.2946
+        },
+        {
+          "image_id": "000000214766",
+          "caption": "A stainless steel appliance shining in the light.",
+          "relevance_score": 0.3055
+        },
+        {
+          "image_id": "000000245505",
+          "caption": "Something delicious, maybe a cake, is cooling from out of the oven.",
+          "relevance_score": 0.3076
+        },
+        {
+          "image_id": "000000190656",
+          "caption": "a pizza sitting in an oven waiting to be cooked",
+          "relevance_score": 0.316
+        }
+      ],
+      "reference_captions": [
+        "there is a round pan covered with aluminum in the stove",
+        "the oven contains a dish that is covered with tin foil.",
+        "a casserole covered in foil is inside an oven.",
+        "a dish covered in aluminum foil is baking in an oven.",
+        "a pot of food cooking in an oven"
+      ],
+      "metrics": {
+        "bleu": 0.05212421454514469,
+        "rouge_l": 0.29709941520467836
+      }
+    },
+    {
+      "query_image_id": "000000368038",
+      "initial_score": 0.3224,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000322831",
+          "caption": "An old fashion train is on display on a brick stand.",
+          "relevance_score": 0.3224
+        },
+        {
+          "image_id": "000000496693",
+          "caption": "A group of people standing on the caboose of a train.",
+          "relevance_score": 0.307
+        },
+        {
+          "image_id": "000000367511",
+          "caption": "An old, colorful train has been parked on the tracks.",
+          "relevance_score": 0.3214
+        },
+        {
+          "image_id": "000000125815",
+          "caption": "The caboose of a train at a station on a sunny day.",
+          "relevance_score": 0.3089
+        },
+        {
+          "image_id": "000000406885",
+          "caption": "a red and black miniature train engine is pulling a red train car",
+          "relevance_score": 0.3034
+        }
+      ],
+      "reference_captions": [
+        "a colorful train sits on the tracks in the sunshine.",
+        "colorful train cars are on the track next to some grass.",
+        "a long train filled with nothing but cabooses.",
+        "a large long train on a steel track.",
+        "a row of train colors of various colors next to trees."
+      ],
+      "metrics": {
+        "bleu": 0.04551068891262008,
+        "rouge_l": 0.36345864661654137
+      }
+    },
+    {
+      "query_image_id": "000000009378",
+      "initial_score": 0.3274,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000100958",
+          "caption": "A filtered photograph of a man doing trick on a skateboard.",
+          "relevance_score": 0.3274
+        },
+        {
+          "image_id": "000000343769",
+          "caption": "Man with yellow flying disc at indoor event.",
+          "relevance_score": 0.2971
+        },
+        {
+          "image_id": "000000044627",
+          "caption": "A man who is performing a trick on a skateboard.",
+          "relevance_score": 0.32
+        },
+        {
+          "image_id": "000000003103",
+          "caption": "A man in a helmet skateboarding before an audience.",
+          "relevance_score": 0.3028
+        },
+        {
+          "image_id": "000000551957",
+          "caption": "A skateboarder in blue jeans and a black shirt doing a trick.",
+          "relevance_score": 0.303
+        }
+      ],
+      "reference_captions": [
+        "man preforming a trick with a disk toy.",
+        "adult man displaying abilities using flying yellow disc.",
+        "a man is doing a trick with a frisbee.",
+        "a man holding onto a yellow frisbee while having long hair.",
+        "a man spins a frisbee as the audience looks on."
+      ],
+      "metrics": {
+        "bleu": 0.05211134284059934,
+        "rouge_l": 0.4617167919799499
+      }
+    },
+    {
+      "query_image_id": "000000288862",
+      "initial_score": 0.3102,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000398188",
+          "caption": "A skateboarder is upside down balanced on one arm performing a stunt.",
+          "relevance_score": 0.3354
+        },
+        {
+          "image_id": "000000400544",
+          "caption": "A skate boarder doing a trick in a inside skate park.",
+          "relevance_score": 0.3182
+        },
+        {
+          "image_id": "000000445991",
+          "caption": "A man on a skateboard is performing a trick on the ramp.",
+          "relevance_score": 0.3144
+        },
+        {
+          "image_id": "000000054214",
+          "caption": "A person wearing a hat does a trick on a skateboard inside of a building.",
+          "relevance_score": 0.3064
+        },
+        {
+          "image_id": "000000182723",
+          "caption": "A man performs a skateboard trick in the air.",
+          "relevance_score": 0.3151
+        }
+      ],
+      "reference_captions": [
+        "a man performing a trick on a ledge on a skateboard.",
+        "a skateboarder doing a flip at a skate park",
+        "a man is doing a trick on a skateboard.",
+        "a man doing a trick with a skateboard on a ledge.",
+        "a man standing on one hand holding onto a skateboard"
+      ],
+      "metrics": {
+        "bleu": 0.1567627809383787,
+        "rouge_l": 0.5104761904761905
+      }
+    },
+    {
+      "query_image_id": "000000530466",
+      "initial_score": 0.3594,
+      "classification": "CORRECT",
+      "action": "RETRIEVE_TOP_20",
+      "candidate_count": 20,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000250557",
+          "caption": "A train with graffiti sitting at the platform.",
+          "relevance_score": 0.3594
+        },
+        {
+          "image_id": "000000141848",
+          "caption": "A yellow train with blue doors by some pavement.",
+          "relevance_score": 0.3129
+        },
+        {
+          "image_id": "000000356298",
+          "caption": "A graffiti marked train car passes by a gas tank.",
+          "relevance_score": 0.3231
+        },
+        {
+          "image_id": "000000058766",
+          "caption": "A group of red and black bicycles in front of a blue and white train.",
+          "relevance_score": 0.2811
+        },
+        {
+          "image_id": "000000123469",
+          "caption": "A red truck with a blue cab with graffiti on the side.",
+          "relevance_score": 0.2874
+        }
+      ],
+      "reference_captions": [
+        "a passenger train that has some graffiti on it.",
+        "a blue yellow and black train car with graffiti",
+        "a train with many acts drawn on it",
+        "a train covered in blue paint and graffiti.",
+        "the passenger train has elaborate spray paint on the side."
+      ],
+      "metrics": {
+        "bleu": 0.0930979664145883,
+        "rouge_l": 0.39192012426633505
+      }
+    },
+    {
+      "query_image_id": "000000461036",
+      "initial_score": 0.3482,
+      "classification": "CORRECT",
+      "action": "RETRIEVE_TOP_20",
+      "candidate_count": 20,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000487461",
+          "caption": "A BLACK BEAR IS SITTING AMONG THE TREES",
+          "relevance_score": 0.3482
+        },
+        {
+          "image_id": "000000138456",
+          "caption": "A group of small black bears walking from a paved area into a wooded area towards a larger bear.",
+          "relevance_score": 0.3457
+        },
+        {
+          "image_id": "000000306222",
+          "caption": "A black  bear standing at the edge of the road and studying the ground.",
+          "relevance_score": 0.3427
+        },
+        {
+          "image_id": "000000409512",
+          "caption": "A bear out in the sun by the woods",
+          "relevance_score": 0.329
+        },
+        {
+          "image_id": "000000272804",
+          "caption": "A large black bear laying down while he eats",
+          "relevance_score": 0.3359
+        }
+      ],
+      "reference_captions": [
+        "animal in shadows of woods surrounded by foliage.",
+        "some leafy trees are hiding a black bear.",
+        "a black bear standing on top of a tree.",
+        "a small black bear is walking through the woods",
+        "small bear cub walking on log in dense forest."
+      ],
+      "metrics": {
+        "bleu": 0.11284383148331134,
+        "rouge_l": 0.4497949904599521
+      }
+    },
+    {
+      "query_image_id": "000000327617",
+      "initial_score": 0.3563,
+      "classification": "CORRECT",
+      "action": "RETRIEVE_TOP_20",
+      "candidate_count": 20,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000050746",
+          "caption": "A man standing on a tennis court holding a racquet.",
+          "relevance_score": 0.3563
+        },
+        {
+          "image_id": "000000186977",
+          "caption": "A young boy holding onto a tennis racket.",
+          "relevance_score": 0.3478
+        },
+        {
+          "image_id": "000000276949",
+          "caption": "A young man playing tennis in a park with several courts.",
+          "relevance_score": 0.3542
+        },
+        {
+          "image_id": "000000452767",
+          "caption": "A black and white photograph shows older women with tennis racquets.",
+          "relevance_score": 0.3253
+        },
+        {
+          "image_id": "000000375750",
+          "caption": "A woman holding a tennis racket at the tennis court.",
+          "relevance_score": 0.3448
+        }
+      ],
+      "reference_captions": [
+        "an old black and white photo of a tennis player",
+        "a woman holds a racket in front of a net.",
+        "a pretty young lady standing on a tennis court holding a racquet.",
+        "an older photo of a woman on a tennis court posing with her raquet.",
+        "a vintage photo of a woman with a tennis racket"
+      ],
+      "metrics": {
+        "bleu": 0.2265190640640678,
+        "rouge_l": 0.4982809461070331
+      }
+    },
+    {
+      "query_image_id": "000000534605",
+      "initial_score": 0.3269,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000561037",
+          "caption": "A cruiser bike in line with others at a biker gathering",
+          "relevance_score": 0.3269
+        },
+        {
+          "image_id": "000000303321",
+          "caption": "A man in a helmet is standing beside two parked motorcyced",
+          "relevance_score": 0.3229
+        },
+        {
+          "image_id": "000000138747",
+          "caption": "Several motorcycles are parked outside in several rows.",
+          "relevance_score": 0.3183
+        },
+        {
+          "image_id": "000000408922",
+          "caption": "A motorcycle is parked at a Philips 66 gas station.",
+          "relevance_score": 0.3001
+        },
+        {
+          "image_id": "000000152764",
+          "caption": "A row of black motorcycles next to a group of people.",
+          "relevance_score": 0.3125
+        }
+      ],
+      "reference_captions": [
+        "man in motorcycle leathers standing in front of a group of bikes",
+        "bikers, dressed in their gear, standing near their motorcycles.",
+        "a group of men stand next to their bicycles.",
+        "three men standing around their motorcycles in a parking lot.",
+        "group of three motorcyclists standing in front of their motorcycles."
+      ],
+      "metrics": {
+        "bleu": 0.05212963911406328,
+        "rouge_l": 0.2596825396825397
+      }
+    },
+    {
+      "query_image_id": "000000130465",
+      "initial_score": 0.2998,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000501531",
+          "caption": "The outside of the front of an old church.",
+          "relevance_score": 0.2998
+        },
+        {
+          "image_id": "000000399337",
+          "caption": "A view of the ornate detailing on the roof of an old church.",
+          "relevance_score": 0.2936
+        },
+        {
+          "image_id": "000000312621",
+          "caption": "The clock is located above the high arch.",
+          "relevance_score": 0.2922
+        },
+        {
+          "image_id": "000000076910",
+          "caption": "Black and white photograph looking up at a stone clock tower",
+          "relevance_score": 0.2763
+        },
+        {
+          "image_id": "000000477383",
+          "caption": "A sepia photograph of architectural structures right off of a street.",
+          "relevance_score": 0.2643
+        }
+      ],
+      "reference_captions": [
+        "an old church building with clocks built into the tower and an arched doorway.",
+        "this is a church made of white stone",
+        "a church entrance with saint and angel statues and a cross on top.",
+        "a black and white photo of a building with clocks on the front.",
+        "an old gothic style building with statues adorning it and a clock."
+      ],
+      "metrics": {
+        "bleu": 0.057270191269829664,
+        "rouge_l": 0.303962703962704
+      }
+    },
+    {
+      "query_image_id": "000000214192",
+      "initial_score": 0.3433,
+      "classification": "CORRECT",
+      "action": "RETRIEVE_TOP_20",
+      "candidate_count": 20,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000022940",
+          "caption": "A dirtbike with the number 22 on the front being driven by a person in a helmet and safety gear on a dirt course.",
+          "relevance_score": 0.3433
+        },
+        {
+          "image_id": "000000131084",
+          "caption": "A man on a motorcycle riding a dirt track.",
+          "relevance_score": 0.3397
+        },
+        {
+          "image_id": "000000032203",
+          "caption": "Dirt bike racers rounding a corner on a track with orange barriers",
+          "relevance_score": 0.3248
+        },
+        {
+          "image_id": "000000509087",
+          "caption": "A person in colorful jacket riding a dirt bike on track.",
+          "relevance_score": 0.3225
+        },
+        {
+          "image_id": "000000355511",
+          "caption": "A motorcross bicyclists riding in a dirt field.",
+          "relevance_score": 0.3314
+        }
+      ],
+      "reference_captions": [
+        "two motocross racers in the middle of a race",
+        "two competitors skidding during a dirt bike competition",
+        "a picture of two motorcross people skidding in the dirtroad.",
+        "two people on dirt bikes making turns on a track",
+        "a couple of dirt bikers in a race."
+      ],
+      "metrics": {
+        "bleu": 0.08318598313696324,
+        "rouge_l": 0.3427574618364092
+      }
+    },
+    {
+      "query_image_id": "000000269942",
+      "initial_score": 0.3361,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000561861",
+          "caption": "Side by side images of a traffic signal, one with the light red and the other with the light green.",
+          "relevance_score": 0.3419
+        },
+        {
+          "image_id": "000000268342",
+          "caption": "Horizontal traffic control lights displaying red light signals.",
+          "relevance_score": 0.34
+        },
+        {
+          "image_id": "000000233164",
+          "caption": "A green traffic signal with traffic passing by it.",
+          "relevance_score": 0.3359
+        },
+        {
+          "image_id": "000000047638",
+          "caption": "Two stop lights mounted on the same pole",
+          "relevance_score": 0.3344
+        },
+        {
+          "image_id": "000000277055",
+          "caption": "A traffic light with the red signal on.",
+          "relevance_score": 0.3361
+        }
+      ],
+      "reference_captions": [
+        "vehicles on a street near a green traffic light.",
+        "a traffic light suspended over a street near a forest.",
+        "a couple of street lights that is next to the road.",
+        "a red car is parked at a traffic light.",
+        "a green traffic light hovering over a street."
+      ],
+      "metrics": {
+        "bleu": 0.07550393759605657,
+        "rouge_l": 0.28055064130915525
+      }
+    },
+    {
+      "query_image_id": "000000426297",
+      "initial_score": 0.3556,
+      "classification": "CORRECT",
+      "action": "RETRIEVE_TOP_20",
+      "candidate_count": 20,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000103428",
+          "caption": "A close up picture shows several zebras stripes.",
+          "relevance_score": 0.3556
+        },
+        {
+          "image_id": "000000508710",
+          "caption": "Up close, Zebra skins do show some tan coloring.",
+          "relevance_score": 0.3538
+        },
+        {
+          "image_id": "000000435323",
+          "caption": "A zebra is shown grazing on the grass by a fence.",
+          "relevance_score": 0.3328
+        },
+        {
+          "image_id": "000000102333",
+          "caption": "A side view of a zebra bending over to eat grass.",
+          "relevance_score": 0.346
+        },
+        {
+          "image_id": "000000223174",
+          "caption": "A front view of a zebra with an indifferent look on its face.",
+          "relevance_score": 0.3449
+        }
+      ],
+      "reference_captions": [
+        "the zebra is wondering about the shadow that he sees.",
+        "a zebra facing away from the camera and staring down.",
+        "a zebra that is standing up in the dirt.",
+        "a zebra looking down at a grass and dirt filled ground.",
+        "a zebra has its neck turned and is looking to its side"
+      ],
+      "metrics": {
+        "bleu": 0.04185146253917672,
+        "rouge_l": 0.26782650029708854
+      }
+    },
+    {
+      "query_image_id": "000000318138",
+      "initial_score": 0.3699,
+      "classification": "CORRECT",
+      "action": "RETRIEVE_TOP_20",
+      "candidate_count": 20,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000251165",
+          "caption": "A young lady who is having fun playing a game on a Wii gaming system.",
+          "relevance_score": 0.3699
+        },
+        {
+          "image_id": "000000453686",
+          "caption": "A short haired woman holding a Wii remote control.",
+          "relevance_score": 0.322
+        },
+        {
+          "image_id": "000000538534",
+          "caption": "A man and woman are playing a game on wii.",
+          "relevance_score": 0.3311
+        },
+        {
+          "image_id": "000000097809",
+          "caption": "A bunch of people playing with a Wii gaming unit.",
+          "relevance_score": 0.3214
+        },
+        {
+          "image_id": "000000424472",
+          "caption": "A woman is standing up and playing the wii.",
+          "relevance_score": 0.3252
+        }
+      ],
+      "reference_captions": [
+        "a girl is playing with a video game controller",
+        "a young person is playing with a video game controller.",
+        "a woman holding a nintendo wii game controller in her hand.",
+        "a girl playing wii holding two remotes",
+        "a girl playing a video game with several other people nearby."
+      ],
+      "metrics": {
+        "bleu": 0.08419329346500845,
+        "rouge_l": 0.4804736842105263
+      }
+    },
+    {
+      "query_image_id": "000000424135",
+      "initial_score": 0.359,
+      "classification": "CORRECT",
+      "action": "RETRIEVE_TOP_20",
+      "candidate_count": 20,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000403692",
+          "caption": "a pub restaurant clock with roman numerals attached to the side of a building",
+          "relevance_score": 0.359
+        },
+        {
+          "image_id": "000000310753",
+          "caption": "An ornate clock is perched on the side of a building.",
+          "relevance_score": 0.3489
+        },
+        {
+          "image_id": "000000454329",
+          "caption": "Clocks are mounted on poles in the city.",
+          "relevance_score": 0.3298
+        },
+        {
+          "image_id": "000000503097",
+          "caption": "An old and complex clock is built into the side of a building.",
+          "relevance_score": 0.338
+        },
+        {
+          "image_id": "000000464839",
+          "caption": "A clock on the side of a building with decor on top.",
+          "relevance_score": 0.3435
+        }
+      ],
+      "reference_captions": [
+        "very complex design clock on the side of a building.",
+        "a statute built into the side of a building.",
+        "a turquoise sign with numbers on a building.",
+        "an elaborate decoration hangs on the side of a tall building.",
+        "an intricate metal clock on the face of a building"
+      ],
+      "metrics": {
+        "bleu": 0.36117190767532587,
+        "rouge_l": 0.5588932806324112
+      }
+    },
+    {
+      "query_image_id": "000000408830",
+      "initial_score": 0.3138,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000561037",
+          "caption": "A cruiser bike in line with others at a biker gathering",
+          "relevance_score": 0.3155
+        },
+        {
+          "image_id": "000000196490",
+          "caption": "A person is riding a red, white, and blue motorcycle.",
+          "relevance_score": 0.3083
+        },
+        {
+          "image_id": "000000177817",
+          "caption": "A blue and gray vehicle resembling a motorcycle.",
+          "relevance_score": 0.306
+        },
+        {
+          "image_id": "000000351876",
+          "caption": "A motorcycle is parked in a large field.",
+          "relevance_score": 0.3068
+        },
+        {
+          "image_id": "000000351252",
+          "caption": "A sport motorbike parked at the front of a gate",
+          "relevance_score": 0.3105
+        }
+      ],
+      "reference_captions": [
+        "a colorful motorcycle sitting next to a fence",
+        "a bunch of parked motor bikes sit on some grass",
+        "a bmw motorcycle is parked on display in this field",
+        "a row of foreign motorcycles is lined up in front of a wooden fence.",
+        "a sleek white, red and blue motorcycle parked opposite of several others."
+      ],
+      "metrics": {
+        "bleu": 0.08099893776010199,
+        "rouge_l": 0.3989090909090908
+      }
+    },
+    {
+      "query_image_id": "000000395343",
+      "initial_score": 0.3396,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000072222",
+          "caption": "A small wooden vase is dwarfed by the red flowers.",
+          "relevance_score": 0.3396
+        },
+        {
+          "image_id": "000000273369",
+          "caption": "A vase with red orchids on stems in it on a table in a corner.",
+          "relevance_score": 0.3341
+        },
+        {
+          "image_id": "000000169262",
+          "caption": "A table with a red tablecloth and a vase of flowers.",
+          "relevance_score": 0.3343
+        },
+        {
+          "image_id": "000000404753",
+          "caption": "A vase with flowers on a table with framed pictures.",
+          "relevance_score": 0.3232
+        },
+        {
+          "image_id": "000000168116",
+          "caption": "A red vase filled with yellow flowers sitting in front of a window.",
+          "relevance_score": 0.3212
+        }
+      ],
+      "reference_captions": [
+        "three vases with flowers inside on a table",
+        "three different vases containing several red tulip blooms.",
+        "a beautiful picture of a table full of flower vases.",
+        "three vases with different designs holding red flowers.",
+        "various pottery vases filled with fresh, red tulips"
+      ],
+      "metrics": {
+        "bleu": 0.07452603180018427,
+        "rouge_l": 0.4393374741200827
+      }
+    },
+    {
+      "query_image_id": "000000462371",
+      "initial_score": 0.3198,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000029607",
+          "caption": "Woman and three children standing around a cake on a counter.",
+          "relevance_score": 0.3328
+        },
+        {
+          "image_id": "000000328792",
+          "caption": "A group of people standing around a wooden table with plates of food.",
+          "relevance_score": 0.3255
+        },
+        {
+          "image_id": "000000067631",
+          "caption": "an old black and white photo of two people standing next to a table wit ha cake",
+          "relevance_score": 0.3198
+        },
+        {
+          "image_id": "000000381244",
+          "caption": "a peron cutting a cake on a table",
+          "relevance_score": 0.3081
+        },
+        {
+          "image_id": "000000233902",
+          "caption": "A man and woman smile as they display a pizza.",
+          "relevance_score": 0.2982
+        }
+      ],
+      "reference_captions": [
+        "a group of people standing around a white cake.",
+        "a bunch of happy looking people by a cake.",
+        "several people are gathered at a reception with appetizers.",
+        "a family gathering and they are celebrating with a cake.",
+        "a smiling group of people watching a married couple cut a wedding cake."
+      ],
+      "metrics": {
+        "bleu": 0.13729262107366252,
+        "rouge_l": 0.4403862803862804
+      }
+    },
+    {
+      "query_image_id": "000000241668",
+      "initial_score": 0.3185,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000561454",
+          "caption": "A couple holding a knife and cutting their wedding cake together.",
+          "relevance_score": 0.32
+        },
+        {
+          "image_id": "000000301649",
+          "caption": "A woman feeding a person cake at a wooden table.",
+          "relevance_score": 0.3084
+        },
+        {
+          "image_id": "000000060246",
+          "caption": "A young bride smiles at the crowd while she and her groom cut the cake.",
+          "relevance_score": 0.3178
+        },
+        {
+          "image_id": "000000007733",
+          "caption": "A bride and a groom feeding cake to each other.",
+          "relevance_score": 0.315
+        },
+        {
+          "image_id": "000000269171",
+          "caption": "a young couple cutting their wedding cake at their reception",
+          "relevance_score": 0.3185
+        }
+      ],
+      "reference_captions": [
+        "there are two people enjoying a wedding reception",
+        "a woman in a wedding dress with another woman in a suit behind",
+        "a woman in a wedding dress with another lady holding a piece of cake.",
+        "a red head girl holding a piece of cake",
+        "a bride is with a long red haired person with cake."
+      ],
+      "metrics": {
+        "bleu": 0.04183713123016955,
+        "rouge_l": 0.34520146520146516
+      }
+    },
+    {
+      "query_image_id": "000000135890",
+      "initial_score": 0.3082,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000425536",
+          "caption": "a photo of big ben early in the morning",
+          "relevance_score": 0.3082
+        },
+        {
+          "image_id": "000000181680",
+          "caption": "A clock is pictured in front of a large tower.",
+          "relevance_score": 0.2925
+        },
+        {
+          "image_id": "000000195650",
+          "caption": "Big Ben in central London during a sunny day.",
+          "relevance_score": 0.3068
+        },
+        {
+          "image_id": "000000523959",
+          "caption": "An upward picture of the Big Ben clock tower.",
+          "relevance_score": 0.3027
+        },
+        {
+          "image_id": "000000524790",
+          "caption": "A replica of Big Ben next to a public toilet.",
+          "relevance_score": 0.2865
+        }
+      ],
+      "reference_captions": [
+        "a large stone building with a clock on it",
+        "big ben and part of parliament from across the street.",
+        "a building in shadow with a clock tower.",
+        "a large building with a tower and a clock",
+        "the big ben clock tower towering over the city of london."
+      ],
+      "metrics": {
+        "bleu": 0.12214329651002057,
+        "rouge_l": 0.35649122807017547
+      }
+    },
+    {
+      "query_image_id": "000000125806",
+      "initial_score": 0.3155,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000166021",
+          "caption": "A black cow with tags in  each ear",
+          "relevance_score": 0.3155
+        },
+        {
+          "image_id": "000000554691",
+          "caption": "A black cow standing next to a wooden fence",
+          "relevance_score": 0.2909
+        },
+        {
+          "image_id": "000000407423",
+          "caption": "A large steer is standing on a grassy area in the mountains.",
+          "relevance_score": 0.2917
+        },
+        {
+          "image_id": "000000003771",
+          "caption": "A calf laying in an open field licking its nose.",
+          "relevance_score": 0.285
+        },
+        {
+          "image_id": "000000352789",
+          "caption": "A large black cow laying next to a  small brown cow.",
+          "relevance_score": 0.2934
+        }
+      ],
+      "reference_captions": [
+        "two black cows facing each other with woods behind them.",
+        "a cow and another playing next to a tree.",
+        "a couple of black cows in the woods",
+        "one black cow sniffing another black cows head",
+        "a couple of black cows standing next to a tree."
+      ],
+      "metrics": {
+        "bleu": 0.1278748950491428,
+        "rouge_l": 0.46609857978279023
+      }
+    },
+    {
+      "query_image_id": "000000442463",
+      "initial_score": 0.3553,
+      "classification": "CORRECT",
+      "action": "RETRIEVE_TOP_20",
+      "candidate_count": 20,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000565714",
+          "caption": "A boy riding a skateboard while wearing a helmet.",
+          "relevance_score": 0.3553
+        },
+        {
+          "image_id": "000000274240",
+          "caption": "a young boy wearing a helmet and skate boarding in the air",
+          "relevance_score": 0.3547
+        },
+        {
+          "image_id": "000000256308",
+          "caption": "A man wearing a red jacket riding a skateboard.",
+          "relevance_score": 0.3273
+        },
+        {
+          "image_id": "000000292928",
+          "caption": "A skateboarder is riding his board at an elementary school.",
+          "relevance_score": 0.3335
+        },
+        {
+          "image_id": "000000581667",
+          "caption": "A boy riding a skateboard in a green parkland area",
+          "relevance_score": 0.334
+        }
+      ],
+      "reference_captions": [
+        "a kid is riding down the street on a skateboard.",
+        "a child in a helmet and safety pads riding a skateboard.",
+        "a young kid in elbow and knee pads riding a skateboard.",
+        "there is a young skateboarder riding his board",
+        "young person on the street skateboarding wearing a helmet."
+      ],
+      "metrics": {
+        "bleu": 0.12894317105100428,
+        "rouge_l": 0.45619047619047615
+      }
+    },
+    {
+      "query_image_id": "000000148739",
+      "initial_score": 0.3332,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000140785",
+          "caption": "A male surfer riding a wave at a surf park.",
+          "relevance_score": 0.3332
+        },
+        {
+          "image_id": "000000440314",
+          "caption": "A man dressed in a green and black water suit is surfing.",
+          "relevance_score": 0.3166
+        },
+        {
+          "image_id": "000000309744",
+          "caption": "a surfer wearing a black wetsuit with blue accents surfing",
+          "relevance_score": 0.3189
+        },
+        {
+          "image_id": "000000352729",
+          "caption": "A person who is surfing in a wave pool.",
+          "relevance_score": 0.3251
+        },
+        {
+          "image_id": "000000222309",
+          "caption": "A man in a full body wet suit that is surfing on a calm body of water and spraying water up behind his board.",
+          "relevance_score": 0.3215
+        }
+      ],
+      "reference_captions": [
+        "a person in a wet suit on a surfboard",
+        "a person in a wetsuit riding a wave on a surfboard.",
+        "woman in black body suit surfing on a small wave.",
+        "the person in the bodysuit is surfing a wave.",
+        "a person riding a surf board on a wave"
+      ],
+      "metrics": {
+        "bleu": 0.0762146552028559,
+        "rouge_l": 0.4305460621250095
+      }
+    },
+    {
+      "query_image_id": "000000047801",
+      "initial_score": 0.3121,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000179839",
+          "caption": "A guy eats some cake with a gigantic black plastic spoon.",
+          "relevance_score": 0.3237
+        },
+        {
+          "image_id": "000000447736",
+          "caption": "A man eating a donut with pink icing and sprinkles.",
+          "relevance_score": 0.3051
+        },
+        {
+          "image_id": "000000525876",
+          "caption": "A man in a blue shirt eating a meat and bread dish from a bowl.",
+          "relevance_score": 0.307
+        },
+        {
+          "image_id": "000000392585",
+          "caption": "A person holds a spoonful of yogurt and fruit.",
+          "relevance_score": 0.3078
+        },
+        {
+          "image_id": "000000380928",
+          "caption": "A man holding a fork with a glob of chocolate underneath a cute of carml",
+          "relevance_score": 0.3121
+        }
+      ],
+      "reference_captions": [
+        "a bald headed man eating a slice of cake.",
+        "man eating a piece of cake off of a white played outdoors.",
+        "a man that is eating some kind of piece of cake",
+        "a man posing for the camera, eating a piece of cake.",
+        "a man with glasses on biting into a piece of cake."
+      ],
+      "metrics": {
+        "bleu": 0.053482331586922005,
+        "rouge_l": 0.3671942092994725
+      }
+    },
+    {
+      "query_image_id": "000000321887",
+      "initial_score": 0.3132,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000431315",
+          "caption": "A large sheep is staring directly at the camera",
+          "relevance_score": 0.3132
+        },
+        {
+          "image_id": "000000241461",
+          "caption": "The sheep has a white head and brown wool.",
+          "relevance_score": 0.3032
+        },
+        {
+          "image_id": "000000576714",
+          "caption": "A white ewe is standing in a green field.",
+          "relevance_score": 0.2717
+        },
+        {
+          "image_id": "000000464800",
+          "caption": "The ram with large horns stands near a goat.",
+          "relevance_score": 0.2808
+        },
+        {
+          "image_id": "000000120524",
+          "caption": "A dog on a leash sniffing a large sheep.",
+          "relevance_score": 0.2814
+        }
+      ],
+      "reference_captions": [
+        "white sheep standing in front of a colorful wall in a building.",
+        "a close up of a fluffy sheep's face",
+        "a sheep stands in front of a box of colorful objects.",
+        "a shorn sheep looks to the left of the picture.",
+        "a white sheep against a colored background orange blue purple and yellow"
+      ],
+      "metrics": {
+        "bleu": 0.04786533707504112,
+        "rouge_l": 0.3069674185463659
+      }
+    },
+    {
+      "query_image_id": "000000189806",
+      "initial_score": 0.3426,
+      "classification": "CORRECT",
+      "action": "RETRIEVE_TOP_20",
+      "candidate_count": 20,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000253086",
+          "caption": "The brown striped cat sits next the shoes and the garbage bag on the floor.",
+          "relevance_score": 0.3426
+        },
+        {
+          "image_id": "000000223932",
+          "caption": "One cat eats in the background while another stares ahead.",
+          "relevance_score": 0.3006
+        },
+        {
+          "image_id": "000000492810",
+          "caption": "Two cats sitting around in a slightly cluttered kitchen.",
+          "relevance_score": 0.2909
+        },
+        {
+          "image_id": "000000579170",
+          "caption": "A cat sitting underneath a wooden stool next to shoes.",
+          "relevance_score": 0.2922
+        },
+        {
+          "image_id": "000000222146",
+          "caption": "One cat is sitting on the chair while another looks in the chair from the floor.",
+          "relevance_score": 0.2878
+        }
+      ],
+      "reference_captions": [
+        "a cat and a dog playing on the floor near shoes.",
+        "a cat and a dog on the floor in a room",
+        "a cat observing a dog that's sniffing something on the floor.",
+        "a cat and dog on wooden floor next to a stairwell.",
+        "a cat looking at a dog as it sniffs the floor."
+      ],
+      "metrics": {
+        "bleu": 0.049624790993407775,
+        "rouge_l": 0.3295156695156695
+      }
+    },
+    {
+      "query_image_id": "000000248112",
+      "initial_score": 0.3352,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000371735",
+          "caption": "A man playing tennis on an outdoor tennis court.",
+          "relevance_score": 0.3374
+        },
+        {
+          "image_id": "000000247808",
+          "caption": "a young boy playing tennis inside a fenced court area",
+          "relevance_score": 0.3289
+        },
+        {
+          "image_id": "000000307026",
+          "caption": "Man in glasses swinging at a ball with a tennis racket.",
+          "relevance_score": 0.3181
+        },
+        {
+          "image_id": "000000483639",
+          "caption": "A man hitting a ball with a tennis racket.",
+          "relevance_score": 0.3297
+        },
+        {
+          "image_id": "000000074617",
+          "caption": "Two young people playing a game of tennis.",
+          "relevance_score": 0.3206
+        }
+      ],
+      "reference_captions": [
+        "a man playing tennis is getting ready to swing at the ball.",
+        "a person standing on a court with a tennis racket.",
+        "strike a pose, you hunky young tennis player!",
+        "a person is playing tennis on a dark grass court.",
+        "the man is swinging the tennis racket in the air."
+      ],
+      "metrics": {
+        "bleu": 0.2288715139249983,
+        "rouge_l": 0.4768170426065163
+      }
+    },
+    {
+      "query_image_id": "000000322429",
+      "initial_score": 0.3313,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000174623",
+          "caption": "Shelves displaying books and knick knacks with a dresser and coffee pot on top",
+          "relevance_score": 0.3414
+        },
+        {
+          "image_id": "000000326064",
+          "caption": "A well decorated bakers shelf with cups, and a vase of flowers.",
+          "relevance_score": 0.3313
+        },
+        {
+          "image_id": "000000165795",
+          "caption": "A picture of a variety of oriental style vases.",
+          "relevance_score": 0.3044
+        },
+        {
+          "image_id": "000000419028",
+          "caption": "A display filled with antique vases sitting side by side.",
+          "relevance_score": 0.3063
+        },
+        {
+          "image_id": "000000528944",
+          "caption": "A kitchen stove top with a kettle, pot and bowls around them.",
+          "relevance_score": 0.2838
+        }
+      ],
+      "reference_captions": [
+        "a wooden shelf filled with lots of glass pots and plates.",
+        "a cabinet with vases pots bowls cups and other china",
+        "a cabinet with several different items that have price tags on them.",
+        "a shelf of antique pottery in an antique store",
+        "a shelf that has a bunch of glass items on it"
+      ],
+      "metrics": {
+        "bleu": 0.03223978583618773,
+        "rouge_l": 0.29878787878787877
+      }
+    },
+    {
+      "query_image_id": "000000579091",
+      "initial_score": 0.3467,
+      "classification": "CORRECT",
+      "action": "RETRIEVE_TOP_20",
+      "candidate_count": 20,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000538276",
+          "caption": "A plate containing a meal of meat, potatoes, and broccoli.",
+          "relevance_score": 0.3467
+        },
+        {
+          "image_id": "000000541893",
+          "caption": "Steamed broccoli and carrots with ham slices atop them on a plate.",
+          "relevance_score": 0.3391
+        },
+        {
+          "image_id": "000000503595",
+          "caption": "Meat and broccoli are sitting on a plate.",
+          "relevance_score": 0.3245
+        },
+        {
+          "image_id": "000000130324",
+          "caption": "A closeup photograph of broccoli florets and sliced carrots.",
+          "relevance_score": 0.311
+        },
+        {
+          "image_id": "000000051716",
+          "caption": "A plate topped with meat, veggies and broccoli.",
+          "relevance_score": 0.3192
+        }
+      ],
+      "reference_captions": [
+        "a plate of broccoli and meat on a table.",
+        "a close up of a plate of food with broccoli",
+        "small plate of food which includes small pieces of broccoli",
+        "a close up picture of some food on a plate.",
+        "some green broccoli and hams are on the plate."
+      ],
+      "metrics": {
+        "bleu": 0.08779232743804637,
+        "rouge_l": 0.45134404639048603
+      }
+    },
+    {
+      "query_image_id": "000000237071",
+      "initial_score": 0.3433,
+      "classification": "CORRECT",
+      "action": "RETRIEVE_TOP_20",
+      "candidate_count": 20,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000088895",
+          "caption": "A boy holding a tennis racket in mid-swing.",
+          "relevance_score": 0.3433
+        },
+        {
+          "image_id": "000000480451",
+          "caption": "A man in a blue shirt and blue hat preparing to hit a tennis ball.",
+          "relevance_score": 0.3407
+        },
+        {
+          "image_id": "000000155862",
+          "caption": "a tennis player in a black shirt playing tennis",
+          "relevance_score": 0.3302
+        },
+        {
+          "image_id": "000000569414",
+          "caption": "a young person holding a tennis racket on a court",
+          "relevance_score": 0.3331
+        },
+        {
+          "image_id": "000000264853",
+          "caption": "A man in shorts and a white visor in a tennis stance.",
+          "relevance_score": 0.3189
+        }
+      ],
+      "reference_captions": [
+        "a man standing on a tennis court holding a tennis racquet.",
+        "tennis player running with ball in mid air.",
+        "the young man in the blue shirt is playing tennis",
+        "the young man is playing a game of tennis.",
+        "a man running with a racket trying to .hit a tennis ball"
+      ],
+      "metrics": {
+        "bleu": 0.10599385908809207,
+        "rouge_l": 0.4458760427639146
+      }
+    },
+    {
+      "query_image_id": "000000159399",
+      "initial_score": 0.3679,
+      "classification": "CORRECT",
+      "action": "RETRIEVE_TOP_20",
+      "candidate_count": 20,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000034431",
+          "caption": "Several people standing in a field, flying a kite.",
+          "relevance_score": 0.3679
+        },
+        {
+          "image_id": "000000253148",
+          "caption": "A mature woman flies a kite on a green lawn overlooking trees and a lakeside.",
+          "relevance_score": 0.3665
+        },
+        {
+          "image_id": "000000248702",
+          "caption": "Two people fly kites in a green field with a castle in the background.",
+          "relevance_score": 0.3617
+        },
+        {
+          "image_id": "000000249347",
+          "caption": "Several people flying kites in a big grassy field.",
+          "relevance_score": 0.3647
+        },
+        {
+          "image_id": "000000004688",
+          "caption": "A man flying a purple dragon kite in a park-like area.",
+          "relevance_score": 0.3404
+        }
+      ],
+      "reference_captions": [
+        "a person in a field flying a kite in the sky.",
+        "a person on a field flying a kite with trees in the background",
+        "a woman with backpack flying a kite in grassy field.",
+        "this girl is flying a kite near a tree and and small boy.",
+        "a lady flying a kite during the day in a park."
+      ],
+      "metrics": {
+        "bleu": 0.059444507892634,
+        "rouge_l": 0.5287165740438051
+      }
+    },
+    {
+      "query_image_id": "000000365886",
+      "initial_score": 0.3104,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000368208",
+          "caption": "A person holds a small Samsung smart phone.",
+          "relevance_score": 0.3104
+        },
+        {
+          "image_id": "000000179317",
+          "caption": "A  flip phone broken in half by cingular",
+          "relevance_score": 0.2917
+        },
+        {
+          "image_id": "000000565594",
+          "caption": "A girl holds up a broken cell phone.",
+          "relevance_score": 0.3019
+        },
+        {
+          "image_id": "000000247986",
+          "caption": "An older flip phone is in someones hands.",
+          "relevance_score": 0.298
+        },
+        {
+          "image_id": "000000484277",
+          "caption": "a woman in a white shirt is holding a cellphone",
+          "relevance_score": 0.2861
+        }
+      ],
+      "reference_captions": [
+        "a person using a photo filter holding a samsung cell phone.",
+        "a person posing with there cell phone with thumbs up.",
+        "a woman holding a cell phone and giving a thumbs up sign.",
+        "a woman with a weird looking face holding onto a cell phone",
+        "a picture of a man giving a thumps up with a cell phone in hand."
+      ],
+      "metrics": {
+        "bleu": 0.04781879362251397,
+        "rouge_l": 0.4268358643644684
+      }
+    },
+    {
+      "query_image_id": "000000260657",
+      "initial_score": 0.3275,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000251736",
+          "caption": "A display sign of a food joint and Cesar E Chavez Av",
+          "relevance_score": 0.3275
+        },
+        {
+          "image_id": "000000359207",
+          "caption": "An assortment of street signs on a street in mexico.",
+          "relevance_score": 0.3021
+        },
+        {
+          "image_id": "000000493187",
+          "caption": "Multiple highway signs point to different directions for vehicles.",
+          "relevance_score": 0.2957
+        },
+        {
+          "image_id": "000000419680",
+          "caption": "a green and white sign on a black pole and some buildings",
+          "relevance_score": 0.2679
+        },
+        {
+          "image_id": "000000413090",
+          "caption": "a couple of street signs written in spanish",
+          "relevance_score": 0.3018
+        }
+      ],
+      "reference_captions": [
+        "a worn and a new sign for the same mexican food restaurant.",
+        "these two photographs show the old sign and the new sign of this restaurant.",
+        "two tall signs advertising mexican food under a cloudy sky.",
+        "a number of business signs in a tall pole",
+        "two signs that are advertising a mexican restaurant."
+      ],
+      "metrics": {
+        "bleu": 0.034104612031934135,
+        "rouge_l": 0.32870411322423704
+      }
+    },
+    {
+      "query_image_id": "000000156071",
+      "initial_score": 0.316,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000161517",
+          "caption": "A person on a horse jumping a set of rails.",
+          "relevance_score": 0.316
+        },
+        {
+          "image_id": "000000036218",
+          "caption": "A girl in a ring with a steer and a man in a suit wearing a cowboy hat.",
+          "relevance_score": 0.2945
+        },
+        {
+          "image_id": "000000517261",
+          "caption": "The show horse is jumping over a typical barrier.",
+          "relevance_score": 0.3085
+        },
+        {
+          "image_id": "000000423247",
+          "caption": "A horse being handled by a woman, on a dirt track.",
+          "relevance_score": 0.2796
+        },
+        {
+          "image_id": "000000156756",
+          "caption": "A cowboy in black riding a horse to round up some steers.",
+          "relevance_score": 0.2852
+        }
+      ],
+      "reference_captions": [
+        "a group of people standing around at a rodeo.",
+        "a rodeo area with men in cowboy hats, rodeo clowns and an audience in the stands.",
+        "a contestant has caught a sheep during a rodeo event.",
+        "we are looking through the bars of a fence into a rodeo arena.",
+        "a young child mutton busting at a rodeo event"
+      ],
+      "metrics": {
+        "bleu": 0.024700643360060618,
+        "rouge_l": 0.25518716577540107
+      }
+    },
+    {
+      "query_image_id": "000000194746",
+      "initial_score": 0.3733,
+      "classification": "CORRECT",
+      "action": "RETRIEVE_TOP_20",
+      "candidate_count": 20,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000006363",
+          "caption": "a pizza baking directly on the oven rack",
+          "relevance_score": 0.3733
+        },
+        {
+          "image_id": "000000128812",
+          "caption": "An white oven with cookies being baked inside.",
+          "relevance_score": 0.3559
+        },
+        {
+          "image_id": "000000190656",
+          "caption": "An unbaked pizza sitting on a rack in the oven.",
+          "relevance_score": 0.3684
+        },
+        {
+          "image_id": "000000180479",
+          "caption": "A slightly overcooked cheese pizza on a stove.",
+          "relevance_score": 0.3511
+        },
+        {
+          "image_id": "000000330959",
+          "caption": "A stove top with several pieces of cut pizza laying on it",
+          "relevance_score": 0.3481
+        }
+      ],
+      "reference_captions": [
+        "a pizza covered in cheese dripping down onto the bottom of an oven burning.",
+        "the pizza is beginning to melt in the oven.",
+        "there is a pizza in the oven that has melted onto the bottom.",
+        "a pizza in an oven that had a lot of cheese melted off of it.",
+        "a food being cooked in an oven that has overflown"
+      ],
+      "metrics": {
+        "bleu": 0.05701571223371299,
+        "rouge_l": 0.30146380443863285
+      }
+    },
+    {
+      "query_image_id": "000000148508",
+      "initial_score": 0.3207,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000408610",
+          "caption": "a woman standing by the road as a double decker bus drives by",
+          "relevance_score": 0.3231
+        },
+        {
+          "image_id": "000000319655",
+          "caption": "A London double-decker bus drives by Big Ben.",
+          "relevance_score": 0.3055
+        },
+        {
+          "image_id": "000000421735",
+          "caption": "A red double decker bus travels through a busy area in a town",
+          "relevance_score": 0.3177
+        },
+        {
+          "image_id": "000000411674",
+          "caption": "A double decker bus on a road next to a cyclist and two people walking.",
+          "relevance_score": 0.3144
+        },
+        {
+          "image_id": "000000121572",
+          "caption": "A red double decker bus is in front of a white bus on the side of a road.",
+          "relevance_score": 0.3207
+        }
+      ],
+      "reference_captions": [
+        "a black and white picture of a busy street, only red is in color, a red double decker bus drives down the road.",
+        "black and white picture with a single red bus and a crowd of people lining the streets",
+        "people standing on the sidewalk waiting for a parade to start.",
+        "a red double-decker bus travels down the road",
+        "a red double decker bus going down the road with a lot of pedestrians on the side"
+      ],
+      "metrics": {
+        "bleu": 0.2271031754311613,
+        "rouge_l": 0.4577441077441078
+      }
+    },
+    {
+      "query_image_id": "000000020992",
+      "initial_score": 0.3646,
+      "classification": "CORRECT",
+      "action": "RETRIEVE_TOP_20",
+      "candidate_count": 20,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000269879",
+          "caption": "A woman holding a slice of pizza close to her mouth.",
+          "relevance_score": 0.3646
+        },
+        {
+          "image_id": "000000563909",
+          "caption": "A woman smiles while eating a pita sandwich.",
+          "relevance_score": 0.3548
+        },
+        {
+          "image_id": "000000151486",
+          "caption": "A woman with hair in her eyes bites into a sandwich.",
+          "relevance_score": 0.3527
+        },
+        {
+          "image_id": "000000064350",
+          "caption": "A woman with an animated face taking a bite of a sandwich.",
+          "relevance_score": 0.352
+        },
+        {
+          "image_id": "000000059201",
+          "caption": "a woman biting into a large slice of cheese pizza",
+          "relevance_score": 0.3491
+        }
+      ],
+      "reference_captions": [
+        "a woman holding food up to her mouth.",
+        "a very cute lady holding a hot dog to her face.",
+        "a woman with short brown hair getting ready to bite into a hot dog.",
+        "a person getting ready to take a bite of a hot dog.",
+        "a person with their mouth open holding a hot dog."
+      ],
+      "metrics": {
+        "bleu": 0.1488487552258305,
+        "rouge_l": 0.47619457735247206
+      }
+    },
+    {
+      "query_image_id": "000000174018",
+      "initial_score": 0.3264,
+      "classification": "AMBIGUOUS",
+      "action": "EXPANDED_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000474528",
+          "caption": "Four stuffed teddy bears dressed in pink and posed together.",
+          "relevance_score": 0.3264
+        },
+        {
+          "image_id": "000000138303",
+          "caption": "two brown teddy bears are wearing red shirts",
+          "relevance_score": 0.3105
+        },
+        {
+          "image_id": "000000289583",
+          "caption": "Two teddy bears with bell necklaces on a black background.",
+          "relevance_score": 0.2927
+        },
+        {
+          "image_id": "000000252000",
+          "caption": "The pink teddy bear is wearing a black vinyl jacket.",
+          "relevance_score": 0.3
+        },
+        {
+          "image_id": "000000373810",
+          "caption": "two little teddy bears attached to a clothes line with clothes pins",
+          "relevance_score": 0.2895
+        }
+      ],
+      "reference_captions": [
+        "two teddy bears with one wearing a lrge pink shirt.",
+        "two teddy bears a pink one, and a tan one. the tan bear is wearing a pink shirt that says the harvey girls.",
+        "there are two stuffed bears and one of them is wearing a shirt.",
+        "teddy bear dressed in pink with red ribbon around neck",
+        "two teddy bears are laying side by side on a quilt."
+      ],
+      "metrics": {
+        "bleu": 0.1905094060001481,
+        "rouge_l": 0.4638383838383839
+      }
+    },
+    {
+      "query_image_id": "000000532071",
+      "initial_score": 0.3513,
+      "classification": "CORRECT",
+      "action": "RETRIEVE_TOP_20",
+      "candidate_count": 20,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000430805",
+          "caption": "A brown bear scavenging on the ground of a cleared area.",
+          "relevance_score": 0.3513
+        },
+        {
+          "image_id": "000000407737",
+          "caption": "A black bear is in a tree and chewing on a branch.",
+          "relevance_score": 0.3441
+        },
+        {
+          "image_id": "000000149835",
+          "caption": "A large black animal in a forest of green trees.",
+          "relevance_score": 0.3348
+        },
+        {
+          "image_id": "000000300445",
+          "caption": "A brown bear is walking in the woods by some bushes and trees.",
+          "relevance_score": 0.3506
+        },
+        {
+          "image_id": "000000306222",
+          "caption": "A black  bear standing at the edge of the road and studying the ground.",
+          "relevance_score": 0.3397
+        }
+      ],
+      "reference_captions": [
+        "a brown bear lays down in the woods.",
+        "a black bear lying down in the grass next to trees.",
+        "a field with a lot of dead trees.",
+        "a black bear lying down near many trees.",
+        "a big black bear laying in the grass surrounded by trees."
+      ],
+      "metrics": {
+        "bleu": 0.08442408564833147,
+        "rouge_l": 0.43834165122952307
+      }
+    },
+    {
+      "query_image_id": "000000121497",
+      "initial_score": 0.2921,
+      "classification": "INCORRECT",
+      "action": "FALLBACK_RETRIEVAL_TOP_50",
+      "candidate_count": 50,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000087762",
+          "caption": "A group of cooks work in a commercial kitchen.",
+          "relevance_score": 0.2921
+        },
+        {
+          "image_id": "000000469300",
+          "caption": "A man preparing wine glasses at a small bar area.",
+          "relevance_score": 0.289
+        },
+        {
+          "image_id": "000000214577",
+          "caption": "a group of people indoors talking while holding cups and glasses",
+          "relevance_score": 0.2909
+        },
+        {
+          "image_id": "000000408528",
+          "caption": "A person rides a bicycle, while a woman holding a blender on a table gasps.",
+          "relevance_score": 0.2838
+        },
+        {
+          "image_id": "000000497972",
+          "caption": "A person pours sugar into their coffee drink.",
+          "relevance_score": 0.2745
+        }
+      ],
+      "reference_captions": [
+        "a person operating a blender hooked up to a small motor",
+        "a group of people around the table with a juicing contraption.",
+        "several people stand at a table that appears to hold some machinery.",
+        "a handlebar controlled device mounted to an acrylic stand.",
+        "a group of men and women operating a juicing machine."
+      ],
+      "metrics": {
+        "bleu": 0.10779816412513757,
+        "rouge_l": 0.33657219973009445
+      }
+    },
+    {
+      "query_image_id": "000000229553",
+      "initial_score": 0.3514,
+      "classification": "CORRECT",
+      "action": "RETRIEVE_TOP_20",
+      "candidate_count": 20,
+      "lambda_mmr": 0.9,
+      "selected_captions": [
+        {
+          "image_id": "000000274240",
+          "caption": "a young boy wearing a helmet and skate boarding in the air",
+          "relevance_score": 0.3514
+        },
+        {
+          "image_id": "000000011349",
+          "caption": "A skateboarder at the skate park performing a trick",
+          "relevance_score": 0.3323
+        },
+        {
+          "image_id": "000000063677",
+          "caption": "A young man riding a skateboard down the side of a metal rail.",
+          "relevance_score": 0.329
+        },
+        {
+          "image_id": "000000284989",
+          "caption": "a man in a hat rides a skateboard in a skateboard park",
+          "relevance_score": 0.3284
+        },
+        {
+          "image_id": "000000480116",
+          "caption": "A boy performing an aerial trick on a skateboard.",
+          "relevance_score": 0.3365
+        }
+      ],
+      "reference_captions": [
+        "a man sitting on top of a skateboard on a street.",
+        "a young man kneeling while riding a skate board.",
+        "a guy squatting on a skateboard trying to balance.",
+        "helmeted young skateboarder displaying ability skills on cement surface.",
+        "a skater losing his balance while squatting on his board"
+      ],
+      "metrics": {
+        "bleu": 0.062059511128684776,
+        "rouge_l": 0.42199259677520545
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+    {
+        "query_id": "000000270244",
+        "best_clip_score": 0.35573065280914307,
+        "candidate_count": 20
+    },
+    {
+        "query_id": "000000476258",
+        "best_clip_score": 0.34456169605255127,
+        "candidate_count": 20
+    },
+    {
+        "query_id": "000000166391",
+        "best_clip_score": 0.3403119146823883,
+        "candidate_count": 20
+    },
+    {
+        "query_id": "000000544605",
+        "best_clip_score": 0.3162154257297516,
+        "candidate_count": 20
+    },
+    {
+        "query_id": "000000015079",
+        "best_clip_score": 0.31409740447998047,
+        "candidate_count": 20
+    },
+    {
+        "query_id": "000000578489",
+        "best_clip_score": 0.3793751001358032,
+        "candidate_count": 20
+    },
+    {
+        "query_id": "000000251065",
+        "best_clip_score": 0.34330102801322937,
+        "candidate_count": 20
+    },
+    {
+        "query_id": "000000326248",
+        "best_clip_score": 0.3466266095638275,
+        "candidate_count": 20
+    },
+    {
+        "query_id": "000000248752",
+        "best_clip_score": 0.34436464309692383,
+        "candidate_count": 20
+    },
+    {
+        "query_id": "000000080666",
+        "best_clip_score": 0.34248220920562744,
+        "candidate_count": 20
+    },
+    {
+        "query_id": "000000101420",
+        "best_clip_score": 0.3333095610141754,
+        "candidate_count": 20
+    },
+    {
+        "query_id": "000000488673",
+        "best_clip_score": 0.3144529461860657,
+        "candidate_count": 20
+    },
+    {
+        "query_id": "000000102707",
+        "best_clip_score": 0.30968552827835083,
+        "candidate_count": 20
+    },
+    {
+        "query_id": "000000530854",
+        "best_clip_score": 0.3191826343536377,
+        "candidate_count": 20
+    },
+    {
+        "query_id": "000000119445",
+        "best_clip_score": 0.35688453912734985,
+        "candidate_count": 20
+    },
+    {
+        "query_id": "000000227765",
+        "best_clip_score": 0.333089679479599,
+        "candidate_count": 20
+    },
+    {
+        "query_id": "000000065736",
+        "best_clip_score": 0.3106282949447632,
+        "candidate_count": 20
+    },
+    {
+        "query_id": "000000146457",
+        "best_clip_score": 0.3421627879142761,
+        "candidate_count": 20
+    },
+    {
+        "query_id": "000000521052",
+        "best_clip_score": 0.30744463205337524,
+        "candidate_count": 20
+    },
+    {
+        "query_id": "000000213547",
+        "best_clip_score": 0.3234427273273468,
+        "candidate_count": 20
+    }
+]
