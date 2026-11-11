@@ -1,0 +1,13 @@
+{
+  "seed": 42,
+  "kb": 10000,
+  "val": 1000,
+  "test": 1000,
+  "problemes": 0,
+  "fuite": 0,
+  "test_stratifie_par_nb_objets": [
+    334,
+    333,
+    333
+  ]
+}

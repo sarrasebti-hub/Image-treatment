@@ -1,0 +1,26 @@
+{
+  "kb_img_clip": {
+    "type": "IndexFlatIP (exact)",
+    "metrique": "cosinus (produit scalaire normalise)",
+    "dimension": 512,
+    "vecteurs": 10000,
+    "taille_Mo": 20.5,
+    "temps_indexation_s": 0.006
+  },
+  "kb_cap_clip": {
+    "type": "IndexFlatIP (exact)",
+    "metrique": "cosinus (produit scalaire normalise)",
+    "dimension": 512,
+    "vecteurs": 50024,
+    "taille_Mo": 102.4,
+    "temps_indexation_s": 0.029
+  },
+  "kb_cap_sbert": {
+    "type": "IndexFlatIP (exact)",
+    "metrique": "cosinus (produit scalaire normalise)",
+    "dimension": 384,
+    "vecteurs": 50024,
+    "taille_Mo": 76.8,
+    "temps_indexation_s": 0.02
+  }
+}

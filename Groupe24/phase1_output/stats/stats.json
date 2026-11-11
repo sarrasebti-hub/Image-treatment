@@ -1,0 +1,229 @@
+{
+  "classes": 80,
+  "objets_par_image_moy": 7.3357,
+  "classes_par_image_moy": 2.9204,
+  "legendes": 50024,
+  "longueur_moy": 10.470094354709738,
+  "vocabulaire": 9732,
+  "top50": [
+    [
+      "person",
+      22631
+    ],
+    [
+      "car",
+      3647
+    ],
+    [
+      "chair",
+      3315
+    ],
+    [
+      "bottle",
+      2060
+    ],
+    [
+      "cup",
+      1911
+    ],
+    [
+      "book",
+      1898
+    ],
+    [
+      "dining table",
+      1396
+    ],
+    [
+      "bowl",
+      1247
+    ],
+    [
+      "traffic light",
+      1116
+    ],
+    [
+      "handbag",
+      1051
+    ],
+    [
+      "bird",
+      971
+    ],
+    [
+      "boat",
+      884
+    ],
+    [
+      "bench",
+      880
+    ],
+    [
+      "sheep",
+      869
+    ],
+    [
+      "truck",
+      857
+    ],
+    [
+      "umbrella",
+      836
+    ],
+    [
+      "banana",
+      776
+    ],
+    [
+      "backpack",
+      774
+    ],
+    [
+      "motorcycle",
+      733
+    ],
+    [
+      "potted plant",
+      705
+    ],
+    [
+      "wine glass",
+      672
+    ],
+    [
+      "carrot",
+      652
+    ],
+    [
+      "kite",
+      650
+    ],
+    [
+      "skis",
+      644
+    ],
+    [
+      "cow",
+      643
+    ],
+    [
+      "knife",
+      637
+    ],
+    [
+      "bicycle",
+      636
+    ],
+    [
+      "broccoli",
+      603
+    ],
+    [
+      "sports ball",
+      589
+    ],
+    [
+      "suitcase",
+      580
+    ],
+    [
+      "orange",
+      567
+    ],
+    [
+      "cake",
+      567
+    ],
+    [
+      "vase",
+      565
+    ],
+    [
+      "tie",
+      562
+    ],
+    [
+      "remote",
+      553
+    ],
+    [
+      "donut",
+      545
+    ],
+    [
+      "bus",
+      543
+    ],
+    [
+      "horse",
+      541
+    ],
+    [
+      "spoon",
+      539
+    ],
+    [
+      "apple",
+      526
+    ],
+    [
+      "cell phone",
+      518
+    ],
+    [
+      "pizza",
+      504
+    ],
+    [
+      "clock",
+      499
+    ],
+    [
+      "zebra",
+      497
+    ],
+    [
+      "tv",
+      494
+    ],
+    [
+      "skateboard",
+      491
+    ],
+    [
+      "couch",
+      490
+    ],
+    [
+      "dog",
+      471
+    ],
+    [
+      "sink",
+      467
+    ],
+    [
+      "surfboard",
+      465
+    ]
+  ],
+  "pos_top12": null,
+  "couleurs": {
+    "white": 5.8,
+    "black": 3.2,
+    "red": 2.9,
+    "blue": 2.3,
+    "green": 2.1,
+    "yellow": 1.4,
+    "brown": 1.4,
+    "orange": 0.8,
+    "pink": 0.6,
+    "gray": 0.3,
+    "purple": 0.3
+  },
+  "contexte": {
+    "interieur": 10.9,
+    "exterieur": 12.4,
+    "nuit": 0.5
+  }
+}

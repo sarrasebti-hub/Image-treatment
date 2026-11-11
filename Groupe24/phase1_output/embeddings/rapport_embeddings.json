@@ -1,0 +1,43 @@
+{
+  "appareil": "cpu",
+  "modele_image": "clip-ViT-B-32",
+  "modele_texte_1": "clip-ViT-B-32 (encodeur texte CLIP)",
+  "modele_texte_2": "all-MiniLM-L6-v2 (Sentence-BERT)",
+  "normalisation": "L2 (cosinus = produit scalaire)",
+  "batch_size": 64,
+  "kb_img_clip": {
+    "forme": [
+      10000,
+      512
+    ],
+    "secondes": 1002.2
+  },
+  "val_img_clip": {
+    "forme": [
+      1000,
+      512
+    ],
+    "secondes": 65.4
+  },
+  "test_img_clip": {
+    "forme": [
+      1000,
+      512
+    ],
+    "secondes": 68.3
+  },
+  "kb_cap_clip": {
+    "forme": [
+      50024,
+      512
+    ],
+    "secondes": 452.5
+  },
+  "kb_cap_sbert": {
+    "forme": [
+      50024,
+      384
+    ],
+    "secondes": 127.1
+  }
+}
