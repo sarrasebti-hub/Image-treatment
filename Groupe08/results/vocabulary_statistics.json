@@ -1,0 +1,410 @@
+{
+    "total_tokens": 529611,
+    "unique_words": 9709,
+    "unique_words_without_stopwords": 9640,
+    "number_of_stopwords": 69,
+    "top_50_words": [
+        {
+            "word": "a",
+            "frequency": 83696
+        },
+        {
+            "word": "on",
+            "frequency": 18352
+        },
+        {
+            "word": "of",
+            "frequency": 17228
+        },
+        {
+            "word": "the",
+            "frequency": 16636
+        },
+        {
+            "word": "in",
+            "frequency": 15903
+        },
+        {
+            "word": "with",
+            "frequency": 13213
+        },
+        {
+            "word": "and",
+            "frequency": 12148
+        },
+        {
+            "word": "is",
+            "frequency": 8311
+        },
+        {
+            "word": "man",
+            "frequency": 6329
+        },
+        {
+            "word": "to",
+            "frequency": 5884
+        },
+        {
+            "word": "sitting",
+            "frequency": 4542
+        },
+        {
+            "word": "an",
+            "frequency": 4340
+        },
+        {
+            "word": "two",
+            "frequency": 4250
+        },
+        {
+            "word": "standing",
+            "frequency": 3763
+        },
+        {
+            "word": "people",
+            "frequency": 3606
+        },
+        {
+            "word": "at",
+            "frequency": 3480
+        },
+        {
+            "word": "are",
+            "frequency": 3479
+        },
+        {
+            "word": "next",
+            "frequency": 3271
+        },
+        {
+            "word": "white",
+            "frequency": 3093
+        },
+        {
+            "word": "woman",
+            "frequency": 3076
+        },
+        {
+            "word": "street",
+            "frequency": 2562
+        },
+        {
+            "word": "table",
+            "frequency": 2554
+        },
+        {
+            "word": "that",
+            "frequency": 2428
+        },
+        {
+            "word": "holding",
+            "frequency": 2407
+        },
+        {
+            "word": "it",
+            "frequency": 2256
+        },
+        {
+            "word": "person",
+            "frequency": 2145
+        },
+        {
+            "word": "large",
+            "frequency": 2052
+        },
+        {
+            "word": "some",
+            "frequency": 2028
+        },
+        {
+            "word": "down",
+            "frequency": 1981
+        },
+        {
+            "word": "group",
+            "frequency": 1862
+        },
+        {
+            "word": "top",
+            "frequency": 1823
+        },
+        {
+            "word": "up",
+            "frequency": 1801
+        },
+        {
+            "word": "tennis",
+            "frequency": 1791
+        },
+        {
+            "word": "field",
+            "frequency": 1738
+        },
+        {
+            "word": "black",
+            "frequency": 1733
+        },
+        {
+            "word": "near",
+            "frequency": 1720
+        },
+        {
+            "word": "dog",
+            "frequency": 1691
+        },
+        {
+            "word": "riding",
+            "frequency": 1690
+        },
+        {
+            "word": "small",
+            "frequency": 1675
+        },
+        {
+            "word": "front",
+            "frequency": 1667
+        },
+        {
+            "word": "cat",
+            "frequency": 1575
+        },
+        {
+            "word": "his",
+            "frequency": 1566
+        },
+        {
+            "word": "room",
+            "frequency": 1545
+        },
+        {
+            "word": "train",
+            "frequency": 1533
+        },
+        {
+            "word": "plate",
+            "frequency": 1525
+        },
+        {
+            "word": "by",
+            "frequency": 1477
+        },
+        {
+            "word": "young",
+            "frequency": 1457
+        },
+        {
+            "word": "red",
+            "frequency": 1442
+        },
+        {
+            "word": "while",
+            "frequency": 1326
+        },
+        {
+            "word": "playing",
+            "frequency": 1319
+        }
+    ],
+    "top_50_words_without_stopwords": [
+        {
+            "word": "man",
+            "frequency": 6329
+        },
+        {
+            "word": "sitting",
+            "frequency": 4542
+        },
+        {
+            "word": "two",
+            "frequency": 4250
+        },
+        {
+            "word": "standing",
+            "frequency": 3763
+        },
+        {
+            "word": "people",
+            "frequency": 3606
+        },
+        {
+            "word": "next",
+            "frequency": 3271
+        },
+        {
+            "word": "white",
+            "frequency": 3093
+        },
+        {
+            "word": "woman",
+            "frequency": 3076
+        },
+        {
+            "word": "street",
+            "frequency": 2562
+        },
+        {
+            "word": "table",
+            "frequency": 2554
+        },
+        {
+            "word": "holding",
+            "frequency": 2407
+        },
+        {
+            "word": "person",
+            "frequency": 2145
+        },
+        {
+            "word": "large",
+            "frequency": 2052
+        },
+        {
+            "word": "group",
+            "frequency": 1862
+        },
+        {
+            "word": "top",
+            "frequency": 1823
+        },
+        {
+            "word": "tennis",
+            "frequency": 1791
+        },
+        {
+            "word": "field",
+            "frequency": 1738
+        },
+        {
+            "word": "black",
+            "frequency": 1733
+        },
+        {
+            "word": "dog",
+            "frequency": 1691
+        },
+        {
+            "word": "riding",
+            "frequency": 1690
+        },
+        {
+            "word": "small",
+            "frequency": 1675
+        },
+        {
+            "word": "front",
+            "frequency": 1667
+        },
+        {
+            "word": "cat",
+            "frequency": 1575
+        },
+        {
+            "word": "room",
+            "frequency": 1545
+        },
+        {
+            "word": "train",
+            "frequency": 1533
+        },
+        {
+            "word": "plate",
+            "frequency": 1525
+        },
+        {
+            "word": "young",
+            "frequency": 1457
+        },
+        {
+            "word": "red",
+            "frequency": 1442
+        },
+        {
+            "word": "playing",
+            "frequency": 1319
+        },
+        {
+            "word": "water",
+            "frequency": 1312
+        },
+        {
+            "word": "bathroom",
+            "frequency": 1290
+        },
+        {
+            "word": "baseball",
+            "frequency": 1224
+        },
+        {
+            "word": "walking",
+            "frequency": 1198
+        },
+        {
+            "word": "sign",
+            "frequency": 1195
+        },
+        {
+            "word": "grass",
+            "frequency": 1173
+        },
+        {
+            "word": "blue",
+            "frequency": 1167
+        },
+        {
+            "word": "kitchen",
+            "frequency": 1117
+        },
+        {
+            "word": "food",
+            "frequency": 1087
+        },
+        {
+            "word": "pizza",
+            "frequency": 1079
+        },
+        {
+            "word": "bed",
+            "frequency": 1061
+        },
+        {
+            "word": "green",
+            "frequency": 1059
+        },
+        {
+            "word": "snow",
+            "frequency": 1058
+        },
+        {
+            "word": "side",
+            "frequency": 1049
+        },
+        {
+            "word": "looking",
+            "frequency": 1008
+        },
+        {
+            "word": "three",
+            "frequency": 1007
+        },
+        {
+            "word": "parked",
+            "frequency": 1005
+        },
+        {
+            "word": "ball",
+            "frequency": 999
+        },
+        {
+            "word": "building",
+            "frequency": 984
+        },
+        {
+            "word": "bus",
+            "frequency": 964
+        },
+        {
+            "word": "men",
+            "frequency": 961
+        }
+    ]
+}
