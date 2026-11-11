@@ -1,0 +1,7 @@
+# Embeddings + vector database (Yahia's task)
+numpy>=1.26
+Pillow>=10.0
+torch>=2.2
+transformers>=4.40
+faiss-cpu>=1.8
+ultralytics>=8.3

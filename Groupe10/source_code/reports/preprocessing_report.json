@@ -1,0 +1,17 @@
+[
+    {
+        "split": "knowledge_base",
+        "valid_images": 10000,
+        "invalid_images": []
+    },
+    {
+        "split": "validation",
+        "valid_images": 100,
+        "invalid_images": []
+    },
+    {
+        "split": "test",
+        "valid_images": 1000,
+        "invalid_images": []
+    }
+]

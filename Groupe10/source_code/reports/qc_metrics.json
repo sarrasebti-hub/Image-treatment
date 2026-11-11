@@ -1,0 +1,221 @@
+{
+  "generated_at": "2026-11-10T20:11:38.950059+00:00",
+  "configuration": {
+    "model": "openai/clip-vit-base-patch32",
+    "dimension": 512,
+    "metric": "cosine (inner product on L2-normalized vectors)",
+    "index_type": "flat",
+    "kb_split": "knowledge_base",
+    "kb_images": 10000,
+    "kb_captions": 50028,
+    "eval_split": "test",
+    "eval_images": 1000,
+    "eval_captions": 5002,
+    "seed": 42,
+    "subset_run": false
+  },
+  "embeddings": {
+    "images": {
+      "name": "images",
+      "count": 10000,
+      "dimension": 512,
+      "metadata_count": 10000,
+      "metadata_matches": true,
+      "finite": true,
+      "nan_count": 0,
+      "inf_count": 0,
+      "norm_mean": 1.0,
+      "norm_std": 0.0,
+      "norm_min": 1.0,
+      "norm_max": 1.0,
+      "unit_norm_max_deviation": 0.0,
+      "zero_vectors": 0,
+      "exact_duplicate_rows": 0,
+      "near_duplicate_pairs": 0,
+      "near_duplicate_threshold": 0.999,
+      "near_duplicate_sample_size": 2000,
+      "max_off_diagonal_similarity": 0.9512,
+      "unique_ids": 10000,
+      "unique_ids_ok": true,
+      "vector_ids_sequential": true,
+      "caption_stats": null
+    },
+    "captions": {
+      "name": "captions",
+      "count": 50028,
+      "dimension": 512,
+      "metadata_count": 50028,
+      "metadata_matches": true,
+      "finite": true,
+      "nan_count": 0,
+      "inf_count": 0,
+      "norm_mean": 1.0,
+      "norm_std": 0.0,
+      "norm_min": 1.0,
+      "norm_max": 1.0,
+      "unit_norm_max_deviation": 0.0,
+      "zero_vectors": 0,
+      "exact_duplicate_rows": 266,
+      "near_duplicate_pairs": 3,
+      "near_duplicate_threshold": 0.999,
+      "near_duplicate_sample_size": 2000,
+      "max_off_diagonal_similarity": 1.0,
+      "unique_ids": 50028,
+      "unique_ids_ok": true,
+      "vector_ids_sequential": true,
+      "caption_stats": {
+        "empty_captions": 0,
+        "words_min": 7,
+        "words_max": 46,
+        "words_mean": 10.4567,
+        "words_median": 10.0
+      }
+    }
+  },
+  "metadata": {
+    "split": "knowledge_base",
+    "images": 10000,
+    "captions": 50028,
+    "unique_image_ids": 10000,
+    "unique_caption_image_ids": 10000,
+    "captions_referencing_unknown_images": 0,
+    "images_without_captions": 0,
+    "captions_per_image_distribution": {
+      "5": 9972,
+      "6": 28
+    },
+    "average_captions_per_image": 5.0028,
+    "duplicate_caption_texts": 566,
+    "duplicate_caption_rate": 0.0113,
+    "missing_image_files": 0,
+    "lfs_pointer_files": 0
+  },
+  "indices": {
+    "images": {
+      "name": "images",
+      "path": "artifacts/vector_db/image_index.faiss",
+      "count": 10000,
+      "metadata_count": 10000,
+      "count_matches": true,
+      "dimension": 512,
+      "expected_dimension": 512,
+      "dimension_matches": true,
+      "index_type": "IndexFlatIP",
+      "file_size_bytes": 20480045,
+      "sha256": "00245a5c3f3091e45e4096a6d5d7f08cf2da71bf7c0fd3e9357d7a75174b75bc",
+      "self_retrieval_accuracy": 1.0,
+      "reconstruction_max_abs_error": 0.0
+    },
+    "captions": {
+      "name": "captions",
+      "path": "artifacts/vector_db/caption_index.faiss",
+      "count": 50028,
+      "metadata_count": 50028,
+      "count_matches": true,
+      "dimension": 512,
+      "expected_dimension": 512,
+      "dimension_matches": true,
+      "index_type": "IndexFlatIP",
+      "file_size_bytes": 102457389,
+      "sha256": "50a7c7d6ec05ba2fabca17898e83fdbcf0e49426e43e621058e85227880afd8c",
+      "self_retrieval_accuracy": 0.99,
+      "reconstruction_max_abs_error": 0.0
+    },
+    "joint": {
+      "name": "joint",
+      "path": "artifacts/vector_db/joint_index.faiss",
+      "count": 60028,
+      "metadata_count": 60028,
+      "count_matches": true,
+      "dimension": 512,
+      "expected_dimension": 512,
+      "dimension_matches": true,
+      "index_type": "IndexFlatIP",
+      "file_size_bytes": 122937389,
+      "sha256": "618a23b36963165102fcc14bbbfabdd2c96e3df6e1ea31287c7c792bcabd2190",
+      "self_retrieval_accuracy": 0.98,
+      "reconstruction_max_abs_error": 0.0
+    }
+  },
+  "retrieval": {
+    "knowledge_base": {
+      "text_to_image": {
+        "n_queries": 200,
+        "recall@1": 0.215,
+        "recall@5": 0.38,
+        "recall@10": 0.465,
+        "mrr": 0.2803,
+        "found_rate": 0.465,
+        "median_rank_found": 2.0,
+        "mean_rank_found": 3.0323,
+        "median_rank": 11.0,
+        "mean_rank": 7.295
+      },
+      "image_to_text": {
+        "n_queries": 200,
+        "recall@1": 0.355,
+        "recall@5": 0.6,
+        "recall@10": 0.735,
+        "mrr": 0.4628,
+        "found_rate": 0.735,
+        "median_rank_found": 2.0,
+        "mean_rank_found": 2.8912,
+        "median_rank": 3.0,
+        "mean_rank": 5.04
+      }
+    },
+    "heldout": {
+      "split": "test",
+      "text_to_image": {
+        "n_queries": 200,
+        "recall@1": 0.49,
+        "recall@5": 0.795,
+        "recall@10": 0.885,
+        "mrr": 0.6167,
+        "found_rate": 0.885,
+        "median_rank_found": 1.0,
+        "mean_rank_found": 2.3842,
+        "median_rank": 2.0,
+        "mean_rank": 3.375
+      },
+      "image_to_text": {
+        "n_queries": 200,
+        "recall@1": 0.74,
+        "recall@5": 0.9,
+        "recall@10": 0.96,
+        "mrr": 0.8022,
+        "found_rate": 0.96,
+        "median_rank_found": 1.0,
+        "mean_rank_found": 1.8125,
+        "median_rank": 1.0,
+        "mean_rank": 2.18
+      }
+    }
+  },
+  "latency": {
+    "samples": 20,
+    "device": "cpu",
+    "text_encoding": {
+      "mean_ms": 40.32,
+      "p50_ms": 39.31,
+      "p95_ms": 55.98,
+      "min_ms": 21.57,
+      "max_ms": 61.02
+    },
+    "faiss_search": {
+      "mean_ms": 14.38,
+      "p50_ms": 13.29,
+      "p95_ms": 21.24,
+      "min_ms": 9.05,
+      "max_ms": 24.29
+    }
+  },
+  "verdict": {
+    "overall": "PASS WITH WARNINGS",
+    "failures": [],
+    "warnings": [
+      "captions: 266 exact duplicate vector(s)",
+      "captions: 3 near-duplicate pair(s) (cosine >= 0.999)"
+    ]
+  }
+}
