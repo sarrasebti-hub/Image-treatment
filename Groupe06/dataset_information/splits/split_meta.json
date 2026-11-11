@@ -1,0 +1,11 @@
+{
+  "seed": 42,
+  "quota_test": {
+    "simple": 300,
+    "medium": 400,
+    "complex": 300
+  },
+  "caption_policy": "first 5 captions by annotation id",
+  "rejected_train": [],
+  "rejected_test": []
+}

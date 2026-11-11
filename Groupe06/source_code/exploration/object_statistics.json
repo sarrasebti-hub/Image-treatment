@@ -1,0 +1,10 @@
+{
+  "Metadata image records": 11100,
+  "Total detected objects": 78381,
+  "Number of detected classes": 80,
+  "Average objects per image": 7.061351351351352,
+  "Average detection confidence": 0.6458254423903752,
+  "Median detection confidence": 0.682,
+  "Minimum detection confidence": 0.25,
+  "Maximum detection confidence": 0.992
+}

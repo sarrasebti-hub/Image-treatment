@@ -1,0 +1,41 @@
+{
+  "release_version": "v1.1",
+  "framework_versions": {
+    "faiss": "1.16.0",
+    "torch": "2.14.1+cpu",
+    "open_clip": "4.2.2"
+  },
+  "batch_size_used": 128,
+  "similarity_metric": "cosine_similarity (Inner Product on L2-normalized vectors)",
+  "indexes": {
+    "sbert_caption_index": {
+      "file": "kb_sbert_flat_ip.index",
+      "model": "all-MiniLM-L6-v2",
+      "dimension": 384,
+      "total_vectors": 10000,
+      "size_bytes": 15360045,
+      "indexing_time_sec": 0.0368
+    },
+    "clip_caption_index": {
+      "file": "kb_clip_text_flat_ip.index",
+      "model": "OpenCLIP ViT-B-32 (laion2b_s34b_b79k)",
+      "dimension": 512,
+      "total_vectors": 10000,
+      "size_bytes": 20480045,
+      "indexing_time_sec": 0.0199
+    },
+    "clip_image_index": {
+      "file": "kb_clip_image_flat_ip.index",
+      "model": "OpenCLIP ViT-B-32 (Visual Encoder)",
+      "dimension": 512,
+      "total_vectors": 10000,
+      "size_bytes": 20480045,
+      "indexing_time_sec": 0.0188
+    }
+  },
+  "leakage_audit_v1_1": {
+    "excluded_captions_count": 223,
+    "swapped_captions": 75,
+    "exact_test_overlap_in_kb": 0
+  }
+}

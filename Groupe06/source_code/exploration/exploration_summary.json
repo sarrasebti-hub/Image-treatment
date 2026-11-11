@@ -1,0 +1,12 @@
+{
+  "release": "v1.1",
+  "tables_created": 16,
+  "figures_created": 18,
+  "captions_before_preprocessing": 50000,
+  "captions_after_preprocessing": 49777,
+  "vocabulary_raw": 15992,
+  "vocabulary_clean": 9799,
+  "mean_words_raw": 10.464,
+  "mean_words_clean": 10.478,
+  "pearson_objects_vs_caption_length": 0.0934
+}

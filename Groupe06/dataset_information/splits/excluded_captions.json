@@ -1,0 +1,2488 @@
+[
+ {
+  "kb_image_id": 2007,
+  "caption": "A woman in white dress playing a game of tennis.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 452515
+   }
+  ]
+ },
+ {
+  "kb_image_id": 3157,
+  "caption": "A man holding a tennis racquet on a tennis court.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 343524
+   },
+   {
+    "split": "test",
+    "image_id": 205105
+   }
+  ]
+ },
+ {
+  "kb_image_id": 5385,
+  "caption": "A group of men on a field playing baseball.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 262487
+   }
+  ]
+ },
+ {
+  "kb_image_id": 6334,
+  "caption": "A man walking on the beach carrying a surfboard.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 425702
+   }
+  ]
+ },
+ {
+  "kb_image_id": 12795,
+  "caption": "A man standing on a tennis court holding a racquet.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 372577
+   },
+   {
+    "split": "test",
+    "image_id": 216296
+   }
+  ]
+ },
+ {
+  "kb_image_id": 14103,
+  "caption": "a person jumping a snow board in the air",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 425906
+   }
+  ]
+ },
+ {
+  "kb_image_id": 16344,
+  "caption": "A man flying through the air while riding a snowboard.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 425906
+   }
+  ]
+ },
+ {
+  "kb_image_id": 16491,
+  "caption": "a number of baseball players on a field",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 95862
+   }
+  ]
+ },
+ {
+  "kb_image_id": 16509,
+  "caption": "a man standing on a tennis court holding a racquet.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 372577
+   },
+   {
+    "split": "test",
+    "image_id": 216296
+   }
+  ]
+ },
+ {
+  "kb_image_id": 16509,
+  "caption": "a man is swinging a tennis racket on a court",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 152686
+   }
+  ]
+ },
+ {
+  "kb_image_id": 19955,
+  "caption": "A person on a surfboard in the water.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 193674
+   },
+   {
+    "split": "test",
+    "image_id": 270122
+   }
+  ]
+ },
+ {
+  "kb_image_id": 22223,
+  "caption": "A herd of cattle grazing on a lush green field.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 185473
+   }
+  ]
+ },
+ {
+  "kb_image_id": 25343,
+  "caption": "A train is coming down the tracks near a building.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 546659
+   }
+  ]
+ },
+ {
+  "kb_image_id": 25343,
+  "caption": "A large long train on a steel track.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 368038
+   }
+  ]
+ },
+ {
+  "kb_image_id": 26538,
+  "caption": "A couple of giraffes are standing in a pin",
+  "matched_with": [
+   {
+    "split": "val",
+    "image_id": 577524
+   }
+  ]
+ },
+ {
+  "kb_image_id": 28982,
+  "caption": "A red stop sign sitting on the side of a road.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 193884
+   },
+   {
+    "split": "val",
+    "image_id": 116656
+   }
+  ]
+ },
+ {
+  "kb_image_id": 29116,
+  "caption": "A man riding a skateboard up into the air.",
+  "matched_with": [
+   {
+    "split": "val",
+    "image_id": 456064
+   }
+  ]
+ },
+ {
+  "kb_image_id": 30357,
+  "caption": "A white refrigerator freezer sitting inside of a kitchen.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 57238
+   }
+  ]
+ },
+ {
+  "kb_image_id": 30992,
+  "caption": "A group of men on a field playing baseball.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 262487
+   }
+  ]
+ },
+ {
+  "kb_image_id": 30992,
+  "caption": "A baseball player holding a bat next to a base.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 6471
+   }
+  ]
+ },
+ {
+  "kb_image_id": 33172,
+  "caption": "A group of people sitting around a table.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 209530
+   }
+  ]
+ },
+ {
+  "kb_image_id": 33815,
+  "caption": "A man riding on the back of a motorcycle",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 446651
+   }
+  ]
+ },
+ {
+  "kb_image_id": 37708,
+  "caption": "A cat laying down in a bathroom sink.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 501523
+   }
+  ]
+ },
+ {
+  "kb_image_id": 40129,
+  "caption": "A bus that is sitting in the street.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 362682
+   }
+  ]
+ },
+ {
+  "kb_image_id": 42190,
+  "caption": "A person on a surfboard in the water.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 193674
+   },
+   {
+    "split": "test",
+    "image_id": 270122
+   }
+  ]
+ },
+ {
+  "kb_image_id": 42418,
+  "caption": "A man holding a tennis racquet on a tennis court.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 343524
+   },
+   {
+    "split": "test",
+    "image_id": 205105
+   }
+  ]
+ },
+ {
+  "kb_image_id": 43771,
+  "caption": "A bathroom with a sink and a toilet",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 453634
+   }
+  ]
+ },
+ {
+  "kb_image_id": 49688,
+  "caption": "a person riding a wave on top of a surfboard.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 579635
+   },
+   {
+    "split": "test",
+    "image_id": 393056
+   }
+  ]
+ },
+ {
+  "kb_image_id": 51977,
+  "caption": "A man riding skis down a snow covered slope.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 301563
+   },
+   {
+    "split": "test",
+    "image_id": 515577
+   }
+  ]
+ },
+ {
+  "kb_image_id": 55512,
+  "caption": "a person riding skis on a snowy surface",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 451714
+   }
+  ]
+ },
+ {
+  "kb_image_id": 57895,
+  "caption": "A woman holding a tennis racquet on a tennis court.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 32081
+   },
+   {
+    "split": "test",
+    "image_id": 402615
+   }
+  ]
+ },
+ {
+  "kb_image_id": 59912,
+  "caption": "A man flying through the air while riding a snowboard.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 425906
+   }
+  ]
+ },
+ {
+  "kb_image_id": 60125,
+  "caption": "A man riding skis down a snow covered slope.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 301563
+   },
+   {
+    "split": "test",
+    "image_id": 515577
+   }
+  ]
+ },
+ {
+  "kb_image_id": 61007,
+  "caption": "A white refrigerator freezer sitting inside of a kitchen.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 57238
+   }
+  ]
+ },
+ {
+  "kb_image_id": 64251,
+  "caption": "A large long train on a steel track.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 368038
+   }
+  ]
+ },
+ {
+  "kb_image_id": 64267,
+  "caption": "a person riding skis on a snowy surface",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 451714
+   }
+  ]
+ },
+ {
+  "kb_image_id": 68205,
+  "caption": "A man riding a skateboard up the side of a ramp.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 194471
+   },
+   {
+    "split": "test",
+    "image_id": 377635
+   }
+  ]
+ },
+ {
+  "kb_image_id": 71811,
+  "caption": "There is no image here to provide a caption for.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 544565
+   }
+  ]
+ },
+ {
+  "kb_image_id": 75783,
+  "caption": "A person on a surfboard in the water.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 193674
+   },
+   {
+    "split": "test",
+    "image_id": 270122
+   }
+  ]
+ },
+ {
+  "kb_image_id": 75971,
+  "caption": "A man riding a skateboard up the side of a ramp.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 194471
+   },
+   {
+    "split": "test",
+    "image_id": 377635
+   }
+  ]
+ },
+ {
+  "kb_image_id": 78410,
+  "caption": "a public transit bus on a city street",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 269632
+   }
+  ]
+ },
+ {
+  "kb_image_id": 79345,
+  "caption": "A man flying through the air while riding skis.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 249786
+   }
+  ]
+ },
+ {
+  "kb_image_id": 81322,
+  "caption": "A man flying  through the air while riding a snowboard.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 425906
+   }
+  ]
+ },
+ {
+  "kb_image_id": 84341,
+  "caption": "A man flying through the air while riding a skateboard.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 26690
+   },
+   {
+    "split": "test",
+    "image_id": 65350
+   }
+  ]
+ },
+ {
+  "kb_image_id": 86032,
+  "caption": "A man riding on the back of a motorcycle down a street.",
+  "matched_with": [
+   {
+    "split": "val",
+    "image_id": 515229
+   }
+  ]
+ },
+ {
+  "kb_image_id": 93725,
+  "caption": "A boy swinging a baseball bat at a ball.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 320490
+   }
+  ]
+ },
+ {
+  "kb_image_id": 95814,
+  "caption": "A group of zebras are standing together in the grass.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 320632
+   }
+  ]
+ },
+ {
+  "kb_image_id": 97032,
+  "caption": "a number of baseball players on a field",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 95862
+   }
+  ]
+ },
+ {
+  "kb_image_id": 98983,
+  "caption": "A baseball player holding a bat on top of a field.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 239773
+   }
+  ]
+ },
+ {
+  "kb_image_id": 99405,
+  "caption": "A jet airplane is flying through the sky.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 567432
+   }
+  ]
+ },
+ {
+  "kb_image_id": 100306,
+  "caption": "a person riding skis on a snowy slope",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 573258
+   }
+  ]
+ },
+ {
+  "kb_image_id": 103348,
+  "caption": "A man holding a tennis racquet on a tennis court.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 343524
+   },
+   {
+    "split": "test",
+    "image_id": 205105
+   }
+  ]
+ },
+ {
+  "kb_image_id": 104718,
+  "caption": "The bathroom is clean and ready to be used.",
+  "matched_with": [
+   {
+    "split": "val",
+    "image_id": 26383
+   }
+  ]
+ },
+ {
+  "kb_image_id": 113594,
+  "caption": "A person jumping up in the air on a skateboard.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 576566
+   }
+  ]
+ },
+ {
+  "kb_image_id": 114784,
+  "caption": "A large long train on a steel track.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 368038
+   }
+  ]
+ },
+ {
+  "kb_image_id": 117563,
+  "caption": "Two men standing in a living room holding game controllers.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 495732
+   }
+  ]
+ },
+ {
+  "kb_image_id": 126994,
+  "caption": "A red stop sign sitting on the side of a road.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 193884
+   },
+   {
+    "split": "val",
+    "image_id": 116656
+   }
+  ]
+ },
+ {
+  "kb_image_id": 128334,
+  "caption": "A group of people sitting around a table.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 209530
+   }
+  ]
+ },
+ {
+  "kb_image_id": 133369,
+  "caption": "A man flying through the air while riding skis.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 249786
+   }
+  ]
+ },
+ {
+  "kb_image_id": 135794,
+  "caption": "A baseball player holding a bat on top of a field.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 239773
+   }
+  ]
+ },
+ {
+  "kb_image_id": 136154,
+  "caption": "The Big Ben clock tower towering over the city of london.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 36678
+   },
+   {
+    "split": "test",
+    "image_id": 125572
+   }
+  ]
+ },
+ {
+  "kb_image_id": 138963,
+  "caption": "A man riding skis down a snow covered slope.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 301563
+   },
+   {
+    "split": "test",
+    "image_id": 515577
+   }
+  ]
+ },
+ {
+  "kb_image_id": 139380,
+  "caption": "A person on a skateboard does an air trick.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 576566
+   }
+  ]
+ },
+ {
+  "kb_image_id": 141158,
+  "caption": "a person riding skis on a snowy surface",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 451714
+   }
+  ]
+ },
+ {
+  "kb_image_id": 142697,
+  "caption": "a man on a surfboard riding a wave",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 579635
+   }
+  ]
+ },
+ {
+  "kb_image_id": 149272,
+  "caption": "a group of people riding skis on a snowy surface",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 3255
+   }
+  ]
+ },
+ {
+  "kb_image_id": 153130,
+  "caption": "A woman hitting a tennis ball with a tennis racket",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 410650
+   }
+  ]
+ },
+ {
+  "kb_image_id": 154354,
+  "caption": "A man holding a tennis racquet on a tennis court.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 343524
+   },
+   {
+    "split": "test",
+    "image_id": 205105
+   }
+  ]
+ },
+ {
+  "kb_image_id": 155543,
+  "caption": "A man flying through the air while riding a skateboard.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 26690
+   },
+   {
+    "split": "test",
+    "image_id": 65350
+   }
+  ]
+ },
+ {
+  "kb_image_id": 160159,
+  "caption": "A man flying through the air while riding skis.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 249786
+   }
+  ]
+ },
+ {
+  "kb_image_id": 160624,
+  "caption": "A man flying through the air while riding skis.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 249786
+   }
+  ]
+ },
+ {
+  "kb_image_id": 163436,
+  "caption": "A man is riding a surfboard in the ocean.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 270122
+   }
+  ]
+ },
+ {
+  "kb_image_id": 163543,
+  "caption": "a person riding skis on a snowy surface",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 451714
+   }
+  ]
+ },
+ {
+  "kb_image_id": 166699,
+  "caption": "A person on a court with a tennis racket.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 104424
+   }
+  ]
+ },
+ {
+  "kb_image_id": 167021,
+  "caption": "A man riding the waves on a surfboard",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 262587
+   }
+  ]
+ },
+ {
+  "kb_image_id": 175012,
+  "caption": "A man flying through the air on top of a skateboard.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 576566
+   }
+  ]
+ },
+ {
+  "kb_image_id": 175121,
+  "caption": "a public transit bus on a city street",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 269632
+   }
+  ]
+ },
+ {
+  "kb_image_id": 177889,
+  "caption": "a person riding  a wave on top of a surfboard.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 579635
+   },
+   {
+    "split": "test",
+    "image_id": 393056
+   }
+  ]
+ },
+ {
+  "kb_image_id": 179961,
+  "caption": "A little girl sitting in front of a laptop computer.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 51610
+   }
+  ]
+ },
+ {
+  "kb_image_id": 180087,
+  "caption": "A group of people sitting at a table.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 468332
+   }
+  ]
+ },
+ {
+  "kb_image_id": 180119,
+  "caption": "A red stop sign sitting on the side of a road.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 193884
+   },
+   {
+    "split": "val",
+    "image_id": 116656
+   }
+  ]
+ },
+ {
+  "kb_image_id": 180851,
+  "caption": "A man holding a tennis racquet on a tennis court.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 343524
+   },
+   {
+    "split": "test",
+    "image_id": 205105
+   }
+  ]
+ },
+ {
+  "kb_image_id": 180935,
+  "caption": "A person on a surfboard in the water.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 193674
+   },
+   {
+    "split": "test",
+    "image_id": 270122
+   }
+  ]
+ },
+ {
+  "kb_image_id": 185313,
+  "caption": "A person on a surfboard in the water.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 193674
+   },
+   {
+    "split": "test",
+    "image_id": 270122
+   }
+  ]
+ },
+ {
+  "kb_image_id": 185925,
+  "caption": "A man swinging a tennis racquet at a ball on a court.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 362716
+   }
+  ]
+ },
+ {
+  "kb_image_id": 190991,
+  "caption": "A man flying through the air while riding a snowboard.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 425906
+   }
+  ]
+ },
+ {
+  "kb_image_id": 190994,
+  "caption": "A baseball player holding a bat next to home plate.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 458045
+   }
+  ]
+ },
+ {
+  "kb_image_id": 192345,
+  "caption": "A man on a skateboard riding on the pavement.",
+  "matched_with": [
+   {
+    "split": "val",
+    "image_id": 171932
+   }
+  ]
+ },
+ {
+  "kb_image_id": 193385,
+  "caption": "A man riding skis down a snow covered slope.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 301563
+   },
+   {
+    "split": "test",
+    "image_id": 515577
+   }
+  ]
+ },
+ {
+  "kb_image_id": 195974,
+  "caption": "a person jumping a snow board in the air",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 425906
+   }
+  ]
+ },
+ {
+  "kb_image_id": 196574,
+  "caption": "A person on a surfboard in the water.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 193674
+   },
+   {
+    "split": "test",
+    "image_id": 270122
+   }
+  ]
+ },
+ {
+  "kb_image_id": 202799,
+  "caption": "A man flying through the air while riding a skateboard.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 26690
+   },
+   {
+    "split": "test",
+    "image_id": 65350
+   }
+  ]
+ },
+ {
+  "kb_image_id": 211743,
+  "caption": "A man riding skis down a snow covered slope.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 301563
+   },
+   {
+    "split": "test",
+    "image_id": 515577
+   }
+  ]
+ },
+ {
+  "kb_image_id": 214876,
+  "caption": "The enveloping of an outside town in the picture.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 342006
+   }
+  ]
+ },
+ {
+  "kb_image_id": 216837,
+  "caption": "An open laptop computer sitting on top of a bed.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 243199
+   }
+  ]
+ },
+ {
+  "kb_image_id": 226820,
+  "caption": "A large long train on a steel track.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 368038
+   }
+  ]
+ },
+ {
+  "kb_image_id": 227982,
+  "caption": "A red and white bus on street next to trees.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 303305
+   }
+  ]
+ },
+ {
+  "kb_image_id": 231134,
+  "caption": "A man riding skis down a snow covered slope.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 301563
+   },
+   {
+    "split": "test",
+    "image_id": 515577
+   }
+  ]
+ },
+ {
+  "kb_image_id": 231637,
+  "caption": "I am unable to see an image above.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 164637
+   },
+   {
+    "split": "test",
+    "image_id": 426268
+   }
+  ]
+ },
+ {
+  "kb_image_id": 236093,
+  "caption": "a person riding skis on a snowy surface",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 451714
+   }
+  ]
+ },
+ {
+  "kb_image_id": 236186,
+  "caption": "A baseball player holding a bat on top of a field.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 239773
+   }
+  ]
+ },
+ {
+  "kb_image_id": 236438,
+  "caption": "A man flying through the air while riding skis.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 249786
+   }
+  ]
+ },
+ {
+  "kb_image_id": 237385,
+  "caption": "A couple of people riding skis down a snow covered slope.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 236308
+   }
+  ]
+ },
+ {
+  "kb_image_id": 243909,
+  "caption": "A person jumping up in the air on a skateboard.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 576566
+   }
+  ]
+ },
+ {
+  "kb_image_id": 251183,
+  "caption": "A red stop sign sitting on the side of a road.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 193884
+   },
+   {
+    "split": "val",
+    "image_id": 116656
+   }
+  ]
+ },
+ {
+  "kb_image_id": 253342,
+  "caption": "A large long train on a steel track.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 368038
+   }
+  ]
+ },
+ {
+  "kb_image_id": 258352,
+  "caption": "A red stop sign sitting on the side of a road.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 193884
+   },
+   {
+    "split": "val",
+    "image_id": 116656
+   }
+  ]
+ },
+ {
+  "kb_image_id": 259591,
+  "caption": "An open laptop computer sitting on top of a wooden table.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 178469
+   }
+  ]
+ },
+ {
+  "kb_image_id": 261579,
+  "caption": "A person on a skateboard on a city street.",
+  "matched_with": [
+   {
+    "split": "val",
+    "image_id": 453137
+   }
+  ]
+ },
+ {
+  "kb_image_id": 263223,
+  "caption": "A man riding skis down a snow covered slope.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 301563
+   },
+   {
+    "split": "test",
+    "image_id": 515577
+   }
+  ]
+ },
+ {
+  "kb_image_id": 264316,
+  "caption": "A clock that is on the side of a building.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 101884
+   }
+  ]
+ },
+ {
+  "kb_image_id": 264316,
+  "caption": "The Big Ben clock tower towering over the city of London.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 36678
+   },
+   {
+    "split": "test",
+    "image_id": 125572
+   }
+  ]
+ },
+ {
+  "kb_image_id": 271941,
+  "caption": "A man flying through the air while riding a skateboard.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 26690
+   },
+   {
+    "split": "test",
+    "image_id": 65350
+   }
+  ]
+ },
+ {
+  "kb_image_id": 274047,
+  "caption": "A baseball player holding a bat next to a base.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 6471
+   }
+  ]
+ },
+ {
+  "kb_image_id": 275954,
+  "caption": "A man riding skis down a snow covered slope.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 301563
+   },
+   {
+    "split": "test",
+    "image_id": 515577
+   }
+  ]
+ },
+ {
+  "kb_image_id": 277710,
+  "caption": "A man riding skis down a snow covered slope.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 301563
+   },
+   {
+    "split": "test",
+    "image_id": 515577
+   }
+  ]
+ },
+ {
+  "kb_image_id": 283772,
+  "caption": "two tennis players on a court with rackets",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 76468
+   }
+  ]
+ },
+ {
+  "kb_image_id": 284932,
+  "caption": "A man riding skis down a snow covered slope.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 301563
+   },
+   {
+    "split": "test",
+    "image_id": 515577
+   }
+  ]
+ },
+ {
+  "kb_image_id": 286021,
+  "caption": "A large long train on a steel track.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 368038
+   }
+  ]
+ },
+ {
+  "kb_image_id": 287186,
+  "caption": "a bus parked in front of a building",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 315187
+   }
+  ]
+ },
+ {
+  "kb_image_id": 289486,
+  "caption": "A group of giraffes that are standing in the grass.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 205282
+   },
+   {
+    "split": "test",
+    "image_id": 59386
+   }
+  ]
+ },
+ {
+  "kb_image_id": 289660,
+  "caption": "A white plate of food on a table.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 127494
+   }
+  ]
+ },
+ {
+  "kb_image_id": 292315,
+  "caption": "I am unable to see an image above.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 164637
+   },
+   {
+    "split": "test",
+    "image_id": 426268
+   }
+  ]
+ },
+ {
+  "kb_image_id": 299768,
+  "caption": "A person on a surfboard in the water.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 193674
+   },
+   {
+    "split": "test",
+    "image_id": 270122
+   }
+  ]
+ },
+ {
+  "kb_image_id": 300918,
+  "caption": "A man flying through the air while riding a skateboard.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 26690
+   },
+   {
+    "split": "test",
+    "image_id": 65350
+   }
+  ]
+ },
+ {
+  "kb_image_id": 302388,
+  "caption": "a man riding a wave on a surfboard in the ocean.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 449603
+   }
+  ]
+ },
+ {
+  "kb_image_id": 302388,
+  "caption": "A man on a surfboard riding a wave.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 579635
+   }
+  ]
+ },
+ {
+  "kb_image_id": 302989,
+  "caption": "I am unable to see an image above.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 164637
+   },
+   {
+    "split": "test",
+    "image_id": 426268
+   }
+  ]
+ },
+ {
+  "kb_image_id": 304548,
+  "caption": "A man riding a snowboard down the side of a snow covered slope.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 426376
+   }
+  ]
+ },
+ {
+  "kb_image_id": 304819,
+  "caption": "a cat that is looking into a computer screen",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 494634
+   }
+  ]
+ },
+ {
+  "kb_image_id": 304963,
+  "caption": "a number of baseball players on a field",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 95862
+   }
+  ]
+ },
+ {
+  "kb_image_id": 307341,
+  "caption": "a person riding skis on a snowy slope",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 573258
+   }
+  ]
+ },
+ {
+  "kb_image_id": 308894,
+  "caption": "A large long train on a steel track.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 368038
+   }
+  ]
+ },
+ {
+  "kb_image_id": 315045,
+  "caption": "A large long train on a steel track.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 368038
+   }
+  ]
+ },
+ {
+  "kb_image_id": 317105,
+  "caption": "A man riding a skateboard up the side of a ramp.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 194471
+   },
+   {
+    "split": "test",
+    "image_id": 377635
+   }
+  ]
+ },
+ {
+  "kb_image_id": 321542,
+  "caption": "The Big Ben clock tower towering over the city of London.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 36678
+   },
+   {
+    "split": "test",
+    "image_id": 125572
+   }
+  ]
+ },
+ {
+  "kb_image_id": 335110,
+  "caption": "A man standing on a tennis court holding a tennis racquet.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 237071
+   }
+  ]
+ },
+ {
+  "kb_image_id": 337256,
+  "caption": "A herd of cattle grazing on a lush green field.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 185473
+   }
+  ]
+ },
+ {
+  "kb_image_id": 337975,
+  "caption": "A baseball player holding a bat next to home plate.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 458045
+   }
+  ]
+ },
+ {
+  "kb_image_id": 339903,
+  "caption": "A person on a skateboard on a city street.",
+  "matched_with": [
+   {
+    "split": "val",
+    "image_id": 453137
+   }
+  ]
+ },
+ {
+  "kb_image_id": 340263,
+  "caption": "A group of men on a field playing baseball.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 262487
+   }
+  ]
+ },
+ {
+  "kb_image_id": 341639,
+  "caption": "A red stop sign sitting on the side of a road.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 193884
+   },
+   {
+    "split": "val",
+    "image_id": 116656
+   }
+  ]
+ },
+ {
+  "kb_image_id": 342342,
+  "caption": "A white refrigerator freezer sitting inside of a kitchen.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 57238
+   }
+  ]
+ },
+ {
+  "kb_image_id": 346275,
+  "caption": "A man is in mid air doing a skateboard trick.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 349860
+   }
+  ]
+ },
+ {
+  "kb_image_id": 346577,
+  "caption": "A person on a surfboard in the water.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 193674
+   },
+   {
+    "split": "test",
+    "image_id": 270122
+   }
+  ]
+ },
+ {
+  "kb_image_id": 351683,
+  "caption": "A baseball player holding a bat on top of a field.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 239773
+   }
+  ]
+ },
+ {
+  "kb_image_id": 354144,
+  "caption": "A man riding a snowboard down the side of a snow covered slope.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 426376
+   }
+  ]
+ },
+ {
+  "kb_image_id": 355000,
+  "caption": "A male tennis player in action on the court.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 328601
+   }
+  ]
+ },
+ {
+  "kb_image_id": 357279,
+  "caption": "A man flying through the air while riding a snowboard.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 425906
+   }
+  ]
+ },
+ {
+  "kb_image_id": 362465,
+  "caption": "A person on a surfboard in the water.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 193674
+   },
+   {
+    "split": "test",
+    "image_id": 270122
+   }
+  ]
+ },
+ {
+  "kb_image_id": 365654,
+  "caption": "A man flying through the air while riding a skateboard.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 26690
+   },
+   {
+    "split": "test",
+    "image_id": 65350
+   }
+  ]
+ },
+ {
+  "kb_image_id": 365735,
+  "caption": "a tennis player with a ball and a racket",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 170474
+   }
+  ]
+ },
+ {
+  "kb_image_id": 368729,
+  "caption": "The meal is prepared and ready to be eaten.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 34205
+   }
+  ]
+ },
+ {
+  "kb_image_id": 372913,
+  "caption": "A group of young girls playing a game of soccer.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 447917
+   }
+  ]
+ },
+ {
+  "kb_image_id": 376385,
+  "caption": "A baseball game in progress with the batter up to plate.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 68387
+   }
+  ]
+ },
+ {
+  "kb_image_id": 378229,
+  "caption": "some baseball players are playing baseball on a field",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 95862
+   }
+  ]
+ },
+ {
+  "kb_image_id": 379120,
+  "caption": "A baseball player throwing a ball during a game",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 451879
+   }
+  ]
+ },
+ {
+  "kb_image_id": 381255,
+  "caption": "A man standing on a tennis court holding a racquet.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 372577
+   },
+   {
+    "split": "test",
+    "image_id": 216296
+   }
+  ]
+ },
+ {
+  "kb_image_id": 381766,
+  "caption": "A group of men on a field playing baseball.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 262487
+   }
+  ]
+ },
+ {
+  "kb_image_id": 383359,
+  "caption": "A man standing on a tennis court holding a racquet.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 372577
+   },
+   {
+    "split": "test",
+    "image_id": 216296
+   }
+  ]
+ },
+ {
+  "kb_image_id": 393121,
+  "caption": "a public transit bus on a city street",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 269632
+   }
+  ]
+ },
+ {
+  "kb_image_id": 393230,
+  "caption": "A man riding skis down a snow covered slope.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 301563
+   },
+   {
+    "split": "test",
+    "image_id": 515577
+   }
+  ]
+ },
+ {
+  "kb_image_id": 395768,
+  "caption": "A baseball game in progress with the batter up to plate.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 68387
+   }
+  ]
+ },
+ {
+  "kb_image_id": 397675,
+  "caption": "A group of zebras are standing together in the grass.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 320632
+   }
+  ]
+ },
+ {
+  "kb_image_id": 400398,
+  "caption": "There is no image here to provide a caption for.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 544565
+   }
+  ]
+ },
+ {
+  "kb_image_id": 404221,
+  "caption": "A bus that is sitting in the street.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 362682
+   }
+  ]
+ },
+ {
+  "kb_image_id": 404338,
+  "caption": "a street sign on a pole with buildings in the background",
+  "matched_with": [
+   {
+    "split": "val",
+    "image_id": 571242
+   }
+  ]
+ },
+ {
+  "kb_image_id": 404820,
+  "caption": "A person on a surfboard in the water.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 193674
+   },
+   {
+    "split": "test",
+    "image_id": 270122
+   }
+  ]
+ },
+ {
+  "kb_image_id": 404852,
+  "caption": "A group of people walking down a sidewalk.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 150265
+   }
+  ]
+ },
+ {
+  "kb_image_id": 404996,
+  "caption": "a close up of a piece of cake on a plate",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 327780
+   }
+  ]
+ },
+ {
+  "kb_image_id": 411243,
+  "caption": "A double decker bus driving down the road.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 249219
+   }
+  ]
+ },
+ {
+  "kb_image_id": 412519,
+  "caption": "A young man riding a skateboard down a street.",
+  "matched_with": [
+   {
+    "split": "val",
+    "image_id": 453137
+   }
+  ]
+ },
+ {
+  "kb_image_id": 412947,
+  "caption": "A baseball player holding a bat next to home plate.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 458045
+   }
+  ]
+ },
+ {
+  "kb_image_id": 421367,
+  "caption": "A person on a court with a tennis racket.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 104424
+   }
+  ]
+ },
+ {
+  "kb_image_id": 424407,
+  "caption": "A group of men on a field playing baseball.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 262487
+   }
+  ]
+ },
+ {
+  "kb_image_id": 424502,
+  "caption": "A baseball game in progress with the batter up to plate.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 68387
+   }
+  ]
+ },
+ {
+  "kb_image_id": 426275,
+  "caption": "A man flying through the air while riding skis.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 249786
+   }
+  ]
+ },
+ {
+  "kb_image_id": 426510,
+  "caption": "A large long train on a steel track.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 368038
+   }
+  ]
+ },
+ {
+  "kb_image_id": 431200,
+  "caption": "a person riding skis on a snowy surface",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 451714
+   }
+  ]
+ },
+ {
+  "kb_image_id": 433536,
+  "caption": "A white toilet sitting next to a bathroom sink.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 397327
+   }
+  ]
+ },
+ {
+  "kb_image_id": 439336,
+  "caption": "A man standing on a tennis court holding a racquet.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 372577
+   },
+   {
+    "split": "test",
+    "image_id": 216296
+   }
+  ]
+ },
+ {
+  "kb_image_id": 440002,
+  "caption": "a number of people in a kitchen preparing food",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 66231
+   }
+  ]
+ },
+ {
+  "kb_image_id": 448633,
+  "caption": "a public transit bus on a city street",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 269632
+   }
+  ]
+ },
+ {
+  "kb_image_id": 450695,
+  "caption": "A large long train on a steel track.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 368038
+   }
+  ]
+ },
+ {
+  "kb_image_id": 451165,
+  "caption": "A baseball player holding a bat on top of a field.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 239773
+   }
+  ]
+ },
+ {
+  "kb_image_id": 451863,
+  "caption": "A large passenger jet sitting on top of an airport tarmac.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 477441
+   }
+  ]
+ },
+ {
+  "kb_image_id": 452917,
+  "caption": "A man flying through the air while riding a skateboard.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 26690
+   },
+   {
+    "split": "test",
+    "image_id": 65350
+   }
+  ]
+ },
+ {
+  "kb_image_id": 453010,
+  "caption": "A computer monitor sitting on top of a desk.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 262227
+   }
+  ]
+ },
+ {
+  "kb_image_id": 460339,
+  "caption": "A man flying through the air while riding a snowboard.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 425906
+   }
+  ]
+ },
+ {
+  "kb_image_id": 462114,
+  "caption": "a person jumping a snow board in the air",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 425906
+   }
+  ]
+ },
+ {
+  "kb_image_id": 463013,
+  "caption": "A baseball game in progress with the batter in the middle of a swing.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 464089
+   }
+  ]
+ },
+ {
+  "kb_image_id": 465309,
+  "caption": "A clock that is on the side of a building.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 101884
+   }
+  ]
+ },
+ {
+  "kb_image_id": 471470,
+  "caption": "some baseball players are playing baseball on a field",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 95862
+   }
+  ]
+ },
+ {
+  "kb_image_id": 472609,
+  "caption": "The meal is prepared and ready to be eaten.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 34205
+   }
+  ]
+ },
+ {
+  "kb_image_id": 481981,
+  "caption": "A herd of sheep grazing on a lush green field.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 552612
+   }
+  ]
+ },
+ {
+  "kb_image_id": 484186,
+  "caption": "A baseball player swinging a bat over home plate.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 2153
+   }
+  ]
+ },
+ {
+  "kb_image_id": 488918,
+  "caption": "A large long train on a steel track.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 368038
+   }
+  ]
+ },
+ {
+  "kb_image_id": 490489,
+  "caption": "A bus that is sitting in the street.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 362682
+   }
+  ]
+ },
+ {
+  "kb_image_id": 491128,
+  "caption": "A photograph of a bathroom inside a home.",
+  "matched_with": [
+   {
+    "split": "val",
+    "image_id": 56566
+   }
+  ]
+ },
+ {
+  "kb_image_id": 495367,
+  "caption": "A man riding a wave on a surfboard in the ocean.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 449603
+   }
+  ]
+ },
+ {
+  "kb_image_id": 498510,
+  "caption": "A large long train on a steel track.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 368038
+   }
+  ]
+ },
+ {
+  "kb_image_id": 498982,
+  "caption": "some baseball players are playing baseball on a field",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 95862
+   }
+  ]
+ },
+ {
+  "kb_image_id": 500226,
+  "caption": "A man riding skis down a snow covered slope.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 301563
+   },
+   {
+    "split": "test",
+    "image_id": 515577
+   }
+  ]
+ },
+ {
+  "kb_image_id": 501346,
+  "caption": "A herd of sheep grazing on a lush green field.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 552612
+   }
+  ]
+ },
+ {
+  "kb_image_id": 509114,
+  "caption": "a close up of a person holding a doughnut",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 38678
+   }
+  ]
+ },
+ {
+  "kb_image_id": 518415,
+  "caption": "a bathroom with a toilet a sink and a shower",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 453634
+   }
+  ]
+ },
+ {
+  "kb_image_id": 521106,
+  "caption": "Two young men playing a game of tennis.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 273493
+   }
+  ]
+ },
+ {
+  "kb_image_id": 522160,
+  "caption": "a public transit bus on a city street",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 269632
+   }
+  ]
+ },
+ {
+  "kb_image_id": 523968,
+  "caption": "a person riding skis on a snowy slope",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 573258
+   }
+  ]
+ },
+ {
+  "kb_image_id": 528517,
+  "caption": "A woman hitting a tennis ball with a tennis racket",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 410650
+   }
+  ]
+ },
+ {
+  "kb_image_id": 531803,
+  "caption": "a person riding skis on a snowy surface",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 451714
+   }
+  ]
+ },
+ {
+  "kb_image_id": 545874,
+  "caption": "A man flying through the air while riding a skateboard.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 26690
+   },
+   {
+    "split": "test",
+    "image_id": 65350
+   }
+  ]
+ },
+ {
+  "kb_image_id": 546295,
+  "caption": "A young man riding a skateboard down a street.",
+  "matched_with": [
+   {
+    "split": "val",
+    "image_id": 453137
+   }
+  ]
+ },
+ {
+  "kb_image_id": 556822,
+  "caption": "A man flying through the air while riding a snowboard.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 425906
+   }
+  ]
+ },
+ {
+  "kb_image_id": 557830,
+  "caption": "A man holding a tennis racquet on a  tennis court.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 343524
+   },
+   {
+    "split": "test",
+    "image_id": 205105
+   }
+  ]
+ },
+ {
+  "kb_image_id": 559331,
+  "caption": "A man flying through the air while riding a skateboard.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 26690
+   },
+   {
+    "split": "test",
+    "image_id": 65350
+   }
+  ]
+ },
+ {
+  "kb_image_id": 560910,
+  "caption": "a public transit bus on a city street",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 269632
+   }
+  ]
+ },
+ {
+  "kb_image_id": 561013,
+  "caption": "a man blowing out candles on a cake.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 211825
+   },
+   {
+    "split": "test",
+    "image_id": 211825
+   },
+   {
+    "split": "test",
+    "image_id": 211825
+   }
+  ]
+ },
+ {
+  "kb_image_id": 561336,
+  "caption": "A group of men on a field playing baseball.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 262487
+   }
+  ]
+ },
+ {
+  "kb_image_id": 563951,
+  "caption": "The young man is playing a game of tennis.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 237071
+   }
+  ]
+ },
+ {
+  "kb_image_id": 566908,
+  "caption": "A man standing on a tennis court holding a tennis racquet.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 237071
+   }
+  ]
+ },
+ {
+  "kb_image_id": 578813,
+  "caption": "A man riding skis down a snow covered slope.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 301563
+   },
+   {
+    "split": "test",
+    "image_id": 515577
+   }
+  ]
+ },
+ {
+  "kb_image_id": 580887,
+  "caption": "A man on a surfboard riding a wave.",
+  "matched_with": [
+   {
+    "split": "test",
+    "image_id": 579635
+   }
+  ]
+ }
+]

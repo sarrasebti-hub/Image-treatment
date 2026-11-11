@@ -1,0 +1,122 @@
+[
+  {
+    "val_id": 9379,
+    "query": "A bus stop next to a curvy road surrounded by traffic lights.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "kb_id": 110,
+        "score": 0.2159685343503952,
+        "caption": "Woman cutting pizza with fork and knife sitting next to young girl"
+      },
+      {
+        "rank": 2,
+        "kb_id": 77,
+        "score": 0.2159685343503952,
+        "caption": "A young man riding a skateboard into the air."
+      },
+      {
+        "rank": 3,
+        "kb_id": 9,
+        "score": 0.2159685343503952,
+        "caption": "Closeup of bins of food that include broccoli and bread."
+      }
+    ]
+  },
+  {
+    "val_id": 23840,
+    "query": "A plate topped with slices of banana next to a  knife.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "kb_id": 110,
+        "score": 0.2625731825828552,
+        "caption": "Woman cutting pizza with fork and knife sitting next to young girl"
+      },
+      {
+        "rank": 2,
+        "kb_id": 77,
+        "score": 0.2625731825828552,
+        "caption": "A young man riding a skateboard into the air."
+      },
+      {
+        "rank": 3,
+        "kb_id": 9,
+        "score": 0.2625731825828552,
+        "caption": "Closeup of bins of food that include broccoli and bread."
+      }
+    ]
+  },
+  {
+    "val_id": 26383,
+    "query": "A bathroom with blue walls, a toilet, and sink.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "kb_id": 110,
+        "score": 0.1953350305557251,
+        "caption": "Woman cutting pizza with fork and knife sitting next to young girl"
+      },
+      {
+        "rank": 2,
+        "kb_id": 77,
+        "score": 0.1953350305557251,
+        "caption": "A young man riding a skateboard into the air."
+      },
+      {
+        "rank": 3,
+        "kb_id": 9,
+        "score": 0.1953350305557251,
+        "caption": "Closeup of bins of food that include broccoli and bread."
+      }
+    ]
+  },
+  {
+    "val_id": 34235,
+    "query": "a man is sitting with a laptop box on him",
+    "retrieved": [
+      {
+        "rank": 1,
+        "kb_id": 110,
+        "score": 0.07493087649345398,
+        "caption": "Woman cutting pizza with fork and knife sitting next to young girl"
+      },
+      {
+        "rank": 2,
+        "kb_id": 77,
+        "score": 0.07493087649345398,
+        "caption": "A young man riding a skateboard into the air."
+      },
+      {
+        "rank": 3,
+        "kb_id": 9,
+        "score": 0.07493087649345398,
+        "caption": "Closeup of bins of food that include broccoli and bread."
+      }
+    ]
+  },
+  {
+    "val_id": 39697,
+    "query": "A pizza is shown in a box uncovered and cooked.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "kb_id": 110,
+        "score": 0.1581186056137085,
+        "caption": "Woman cutting pizza with fork and knife sitting next to young girl"
+      },
+      {
+        "rank": 2,
+        "kb_id": 77,
+        "score": 0.1581186056137085,
+        "caption": "A young man riding a skateboard into the air."
+      },
+      {
+        "rank": 3,
+        "kb_id": 9,
+        "score": 0.1581186056137085,
+        "caption": "Closeup of bins of food that include broccoli and bread."
+      }
+    ]
+  }
+]

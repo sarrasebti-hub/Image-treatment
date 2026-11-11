@@ -1,0 +1,20 @@
+{
+  "kb": {
+    "images": 10000,
+    "images_with_more_than_5_captions": 23,
+    "captions_dropped": 24,
+    "captions_kept": 50000
+  },
+  "val": {
+    "images": 100,
+    "images_with_more_than_5_captions": 0,
+    "captions_dropped": 0,
+    "captions_kept": 500
+  },
+  "test": {
+    "images": 1000,
+    "images_with_more_than_5_captions": 3,
+    "captions_dropped": 3,
+    "captions_kept": 5000
+  }
+}

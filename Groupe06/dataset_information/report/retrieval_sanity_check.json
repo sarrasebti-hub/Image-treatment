@@ -1,0 +1,127 @@
+[
+  {
+    "val_id": 9379,
+    "query": "A bus stop next to a curvy road surrounded by traffic lights.",
+    "self_retrieval_detected": false,
+    "retrieved": [
+      {
+        "rank": 1,
+        "kb_id": 567013,
+        "score": 0.8295022249221802,
+        "caption": "a bus on a city street next to a traffic light"
+      },
+      {
+        "rank": 2,
+        "kb_id": 344578,
+        "score": 0.7428007125854492,
+        "caption": "A bus stopped at a bus stop near a street."
+      },
+      {
+        "rank": 3,
+        "kb_id": 262442,
+        "score": 0.7321262359619141,
+        "caption": "A bus rides down the road near traffic."
+      }
+    ]
+  },
+  {
+    "val_id": 23840,
+    "query": "A plate topped with slices of banana next to a  knife.",
+    "self_retrieval_detected": false,
+    "retrieved": [
+      {
+        "rank": 1,
+        "kb_id": 90192,
+        "score": 0.7722759246826172,
+        "caption": "A white plate topped with sliced up fruit."
+      },
+      {
+        "rank": 2,
+        "kb_id": 331339,
+        "score": 0.7447518110275269,
+        "caption": "A plate topped with waffles, bacon and banana slices."
+      },
+      {
+        "rank": 3,
+        "kb_id": 297300,
+        "score": 0.7129355669021606,
+        "caption": "A white plate topped with a slice of apple and a fork."
+      }
+    ]
+  },
+  {
+    "val_id": 26383,
+    "query": "A bathroom with blue walls, a toilet, and sink.",
+    "self_retrieval_detected": false,
+    "retrieved": [
+      {
+        "rank": 1,
+        "kb_id": 10290,
+        "score": 0.8407685160636902,
+        "caption": "A bathroom with a blue shower curtain and blue walls."
+      },
+      {
+        "rank": 2,
+        "kb_id": 329286,
+        "score": 0.8075763583183289,
+        "caption": "A bathroom with a white sink and a blue tiled shower."
+      },
+      {
+        "rank": 3,
+        "kb_id": 54889,
+        "score": 0.7966046333312988,
+        "caption": "A bathroom that has a sink, and a toilet."
+      }
+    ]
+  },
+  {
+    "val_id": 34235,
+    "query": "a man is sitting with a laptop box on him",
+    "self_retrieval_detected": false,
+    "retrieved": [
+      {
+        "rank": 1,
+        "kb_id": 460916,
+        "score": 0.7690836787223816,
+        "caption": "A man sitting on a bed with a laptop."
+      },
+      {
+        "rank": 2,
+        "kb_id": 5632,
+        "score": 0.7184310555458069,
+        "caption": "A man sitting on a couch using a laptop computer."
+      },
+      {
+        "rank": 3,
+        "kb_id": 170917,
+        "score": 0.7149559855461121,
+        "caption": "A man sitting in front of a laptop computer."
+      }
+    ]
+  },
+  {
+    "val_id": 39697,
+    "query": "A pizza is shown in a box uncovered and cooked.",
+    "self_retrieval_detected": false,
+    "retrieved": [
+      {
+        "rank": 1,
+        "kb_id": 171467,
+        "score": 0.8540430068969727,
+        "caption": "A pizza is displayed in an open box."
+      },
+      {
+        "rank": 2,
+        "kb_id": 117578,
+        "score": 0.8331530094146729,
+        "caption": "A cooked pizza sits in a box, with meat and vegetable toppings."
+      },
+      {
+        "rank": 3,
+        "kb_id": 339159,
+        "score": 0.7510669827461243,
+        "caption": "The pizza is cooked and ready to be eaten"
+      }
+    ]
+  }
+]
