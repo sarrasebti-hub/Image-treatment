@@ -1,0 +1,221 @@
+{
+  "train_images_in_annotations": 118287,
+  "train_images_on_disk": 118287,
+  "missing_train_image_files": 0,
+  "val_images_in_annotations": 5000,
+  "val_images_on_disk": 5000,
+  "missing_val_image_files": 0,
+  "train_caption_count": 591753,
+  "train_caption_reference_count_by_image": {
+    "5": 117972,
+    "6": 312,
+    "7": 3
+  },
+  "average_caption_words": 10.457178924314706,
+  "vocabulary_size_whitespace_tokens": 30052,
+  "average_objects_per_train_image": 7.27046082832433,
+  "median_objects_per_train_image": 4.0,
+  "top_50_object_categories": [
+    {
+      "category": "person",
+      "count": 262465
+    },
+    {
+      "category": "car",
+      "count": 43867
+    },
+    {
+      "category": "chair",
+      "count": 38491
+    },
+    {
+      "category": "book",
+      "count": 24715
+    },
+    {
+      "category": "bottle",
+      "count": 24342
+    },
+    {
+      "category": "cup",
+      "count": 20650
+    },
+    {
+      "category": "dining table",
+      "count": 15714
+    },
+    {
+      "category": "bowl",
+      "count": 14358
+    },
+    {
+      "category": "traffic light",
+      "count": 12884
+    },
+    {
+      "category": "handbag",
+      "count": 12354
+    },
+    {
+      "category": "umbrella",
+      "count": 11431
+    },
+    {
+      "category": "bird",
+      "count": 10806
+    },
+    {
+      "category": "boat",
+      "count": 10759
+    },
+    {
+      "category": "truck",
+      "count": 9973
+    },
+    {
+      "category": "bench",
+      "count": 9838
+    },
+    {
+      "category": "sheep",
+      "count": 9509
+    },
+    {
+      "category": "banana",
+      "count": 9458
+    },
+    {
+      "category": "kite",
+      "count": 9076
+    },
+    {
+      "category": "motorcycle",
+      "count": 8725
+    },
+    {
+      "category": "backpack",
+      "count": 8720
+    },
+    {
+      "category": "potted plant",
+      "count": 8652
+    },
+    {
+      "category": "cow",
+      "count": 8147
+    },
+    {
+      "category": "wine glass",
+      "count": 7913
+    },
+    {
+      "category": "carrot",
+      "count": 7852
+    },
+    {
+      "category": "knife",
+      "count": 7770
+    },
+    {
+      "category": "broccoli",
+      "count": 7308
+    },
+    {
+      "category": "donut",
+      "count": 7179
+    },
+    {
+      "category": "bicycle",
+      "count": 7113
+    },
+    {
+      "category": "skis",
+      "count": 6646
+    },
+    {
+      "category": "vase",
+      "count": 6613
+    },
+    {
+      "category": "horse",
+      "count": 6587
+    },
+    {
+      "category": "tie",
+      "count": 6496
+    },
+    {
+      "category": "cell phone",
+      "count": 6434
+    },
+    {
+      "category": "orange",
+      "count": 6399
+    },
+    {
+      "category": "cake",
+      "count": 6353
+    },
+    {
+      "category": "sports ball",
+      "count": 6347
+    },
+    {
+      "category": "clock",
+      "count": 6334
+    },
+    {
+      "category": "suitcase",
+      "count": 6192
+    },
+    {
+      "category": "spoon",
+      "count": 6165
+    },
+    {
+      "category": "surfboard",
+      "count": 6126
+    },
+    {
+      "category": "bus",
+      "count": 6069
+    },
+    {
+      "category": "apple",
+      "count": 5851
+    },
+    {
+      "category": "pizza",
+      "count": 5821
+    },
+    {
+      "category": "tv",
+      "count": 5805
+    },
+    {
+      "category": "couch",
+      "count": 5779
+    },
+    {
+      "category": "remote",
+      "count": 5703
+    },
+    {
+      "category": "sink",
+      "count": 5610
+    },
+    {
+      "category": "skateboard",
+      "count": 5543
+    },
+    {
+      "category": "elephant",
+      "count": 5513
+    },
+    {
+      "category": "dog",
+      "count": 5508
+    }
+  ],
+  "kb_images_with_more_than_five_captions": 25
+}

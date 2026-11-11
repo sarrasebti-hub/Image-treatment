@@ -1,0 +1,36 @@
+{
+  "duplicate_detection": "Exact SHA-256 file-content match",
+  "train2017": {
+    "candidate_images": 118287,
+    "examined_images": 118287,
+    "corrupt_images": 0,
+    "duplicate_images": 14,
+    "valid_unique_images": 118273,
+    "selected_images": 10100,
+    "valid_images_not_selected": 108173
+  },
+  "val2017": {
+    "candidate_images": 5000,
+    "examined_images": 5000,
+    "corrupt_images": 0,
+    "duplicate_images": 0,
+    "valid_unique_images": 5000,
+    "selected_images": 1000,
+    "valid_images_not_selected": 4000
+  },
+  "split_sizes": {
+    "knowledge_base": 10000,
+    "validation": 100,
+    "test_1000": 1000,
+    "test_100_compare": 100
+  },
+  "test_100_is_subset_of_test_1000": true,
+  "annotation_image_integrity": {
+    "missing_train_files": 0,
+    "missing_val_files": 0,
+    "kb_images_missing_captions": 0,
+    "validation_images_missing_captions": 0,
+    "test_images_missing_captions": 0,
+    "test_reference_captions_saved_outside_kb": true
+  }
+}
