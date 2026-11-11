@@ -1,4 +1,27 @@
-# G30: Metadata-Filtered RAG for Image Captioning (Phase 1)
+# Group 30
+
+## Students
+- BOURABA Maroua
+- BRAHIMI Yasmine
+- DJILI Khaoula
+- BOUAOUNE Maria Sara
+
+## Project Title
+A comparative study of RAG techniques for generating image captions: Metadata-Filtered RAG
+
+## Submission Files
+This submission covers **Phase 1 (data exploration and preprocessing)**. Where each item is:
+
+| Item | Where |
+|---|---|
+| Source code | `notebooks/G30_Metadata_RAG_Phase1_Clean.ipynb`, `requirements.txt` |
+| Dataset information | section **Dataset** and **Data splits** below, `data/` (split ID files, captions, YOLO metadata, manifests) |
+| Results | `outputs/` (16 figures and two statistics files) and the sections **Exploration**, **Cleaning**, **Embeddings and search index** below |
+| Final report | `report/Phase1_Data_Exploration_Preprocessing_FinalReport.pdf` |
+
+---
+
+## Phase 1: G30 Metadata-Filtered RAG for Image Captioning
 
 Mini project, image processing. Group G30. Assigned technique: **Metadata-Filtered RAG** (retrieval filtered by visual metadata). Member profiles are in `team/`.
 
