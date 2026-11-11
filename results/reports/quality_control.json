@@ -1,0 +1,125 @@
+{
+  "all_passed": true,
+  "checks": [
+    {
+      "check": "Taille KB",
+      "passed": true,
+      "detail": "10000 / 10000"
+    },
+    {
+      "check": "Taille validation",
+      "passed": true,
+      "detail": "100 / 100"
+    },
+    {
+      "check": "Taille test",
+      "passed": true,
+      "detail": "100 / 100"
+    },
+    {
+      "check": "Pas d'ID dupliqué dans chaque split",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "KB ∩ test = ∅",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Val ∩ test = ∅",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "KB ∩ val = ∅",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Embeddings images = 1 par image KB",
+      "passed": true,
+      "detail": "(10000, 512)"
+    },
+    {
+      "check": "Embeddings texte = 5 par image KB",
+      "passed": true,
+      "detail": "(50000, 512)"
+    },
+    {
+      "check": "Aucun NaN/Inf (images et texte)",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Vecteurs normalisés (norme ≈ 1)",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Aucun vecteur image nul",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Embeddings requêtes val",
+      "passed": true,
+      "detail": "(100, 512)"
+    },
+    {
+      "check": "Embeddings requêtes test",
+      "passed": true,
+      "detail": "(100, 512)"
+    },
+    {
+      "check": "5 captions brutes par image KB",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Captions brutes identiques à COCO (non modifiées)",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "text_index.csv aligné avec les embeddings texte",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Aucune image de test dans captions / métadonnées / embeddings KB",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Audit anti-fuite (doublons exacts/visuels test vs KB/val)",
+      "passed": true,
+      "detail": "{'kb_inter_val': 0, 'kb_inter_test': 0, 'val_inter_test': 0, 'test_md5_in_kb_or_val': 0, 'test_candidates_removed_for_visual_overlap': 0, 'test_min_phash_distance_to_kb_val': 10, 'passed': True}"
+    },
+    {
+      "check": "FAISS : ntotal = nb images KB",
+      "passed": true,
+      "detail": "10000"
+    },
+    {
+      "check": "FAISS texte : ntotal = nb captions",
+      "passed": true,
+      "detail": "50000"
+    },
+    {
+      "check": "FAISS : chaque image KB se retrouve elle-même en top-1",
+      "passed": true,
+      "detail": "1.000"
+    },
+    {
+      "check": "FAISS : requêtes validation renvoient 5 résultats valides",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "FAISS : aucun résultat ne pointe vers une image de test",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+pillow
+imagehash
+scikit-learn
+tqdm
+requests
+spacy
+torch
+transformers>=4.40,<5
+faiss-cpu

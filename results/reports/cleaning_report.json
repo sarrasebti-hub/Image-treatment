@@ -1,0 +1,14 @@
+{
+  "n_files_found": 10300,
+  "n_images_missing": 0,
+  "missing_files": [],
+  "status_counts": {
+    "ok": 10300
+  },
+  "exact_duplicates": [],
+  "visual_duplicates_flagged": [],
+  "visual_duplicates_removed": false,
+  "problem_files": [],
+  "n_clean_images": 10300,
+  "phash_threshold": 2
+}
