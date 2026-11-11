@@ -1,0 +1,16 @@
+# big files live on Google Drive
+data/coco/
+*.npy
+*.index
+*.faiss
+*.zip
+*.pt
+*.jpg
+*.jpeg
+
+# python and Colab
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.DS_Store

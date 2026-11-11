@@ -1,0 +1,67 @@
+{
+  "splits": {
+    "kb": 10000,
+    "val": 100,
+    "test": 1000
+  },
+  "objects": {
+    "classes_present": 80,
+    "mean_per_photo": 7.2713,
+    "median_per_photo": 4.0,
+    "person_share": 0.5398,
+    "complexity": {
+      "none (0)": 96,
+      "simple (1-3)": 4143,
+      "medium (4-7)": 2456,
+      "complex (8+)": 3305
+    }
+  },
+  "captions": {
+    "total": 50031,
+    "mean_length": 10.451560032779676,
+    "std_length": 2.4029371960882493,
+    "median_length": 10.0,
+    "vocabulary_size": 9864,
+    "pos_sample": {
+      "determiner": 10728,
+      "noun": 18730,
+      "preposition": 8308,
+      "other": 3108,
+      "adjective": 4236,
+      "verb": 6001,
+      "number": 653,
+      "adverb": 305
+    }
+  },
+  "diversity": {
+    "colours": {
+      "red": 1394,
+      "blue": 1128,
+      "green": 1020,
+      "yellow": 766,
+      "white": 2996,
+      "black": 1617,
+      "brown": 656,
+      "orange": 412,
+      "pink": 290,
+      "purple": 140,
+      "gray": 174,
+      "grey": 144
+    },
+    "contexts": {
+      "indoor words": 6838,
+      "outdoor words": 9859,
+      "day words": 365,
+      "night words": 392
+    },
+    "note": "keyword heuristic, not a scene classifier"
+  },
+  "spatial": {
+    "overlapping": 40411,
+    "left of": 33562,
+    "right of": 33144,
+    "above": 7259,
+    "below": 11892,
+    "note": "bounding-box heuristic on the 8 largest objects per photo"
+  }
+}
