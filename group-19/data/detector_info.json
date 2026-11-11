@@ -1,0 +1,5 @@
+{
+  "detecteur": "YOLOv8m (yolov8m.pt)",
+  "ultralytics": "8.4.208",
+  "seuil_confiance": 0.5
+}

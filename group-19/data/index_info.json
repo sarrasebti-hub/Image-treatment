@@ -1,0 +1,19 @@
+{
+  "bibliotheque": "FAISS 1.15.1",
+  "type_index": "IndexFlatIP (recherche exacte, sans compression)",
+  "metrique": "produit scalaire sur vecteurs L2-normalisés = similarité cosinus",
+  "dimension": 512,
+  "index_image": {
+    "vecteurs": 10000,
+    "temps_construction_s": 0.007,
+    "taille_disque_Mo": 20.5
+  },
+  "index_texte": {
+    "vecteurs": 50000,
+    "temps_construction_s": 0.035,
+    "taille_disque_Mo": 102.4
+  },
+  "latence_ms_par_requete": 8.792,
+  "liens": "image_index_ids.json (ligne -> image_id) et embeddings/text_index_train.json (ligne -> image_id, légende) ; légendes et métadonnées dans metadata_clean.json via image_id",
+  "contenu": "images et légendes du train uniquement (jamais de val ni de test)"
+}
