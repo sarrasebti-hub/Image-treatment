@@ -1,0 +1,16 @@
+   pycocotools
+   pandas
+   numpy
+   scikit-learn
+   matplotlib
+   seaborn
+   spacy
+   nltk
+   pillow
+   tqdm
+   requests
+   ultralytics
+   transformers
+   torch
+   sentence-transformers
+   faiss-cpu

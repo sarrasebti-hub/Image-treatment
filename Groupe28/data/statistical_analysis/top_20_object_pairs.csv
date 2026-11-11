@@ -1,0 +1,21 @@
+Object 1,Object 2,Image Count,Pair
+car,person,733,car + person
+chair,person,707,chair + person
+handbag,person,538,handbag + person
+dining table,person,461,dining table + person
+backpack,person,450,backpack + person
+chair,dining table,419,chair + dining table
+cup,person,384,cup + person
+cup,dining table,370,cup + dining table
+person,truck,368,person + truck
+bottle,person,367,bottle + person
+bench,person,354,bench + person
+person,sports ball,346,person + sports ball
+cell phone,person,328,cell phone + person
+person,tie,327,person + tie
+car,truck,326,car + truck
+person,skateboard,298,person + skateboard
+person,umbrella,298,person + umbrella
+person,surfboard,279,person + surfboard
+person,tennis racket,275,person + tennis racket
+person,skis,274,person + skis

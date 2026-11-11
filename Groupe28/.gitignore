@@ -1,0 +1,12 @@
+# Ignore data folders
+data/
+_fresh_extract/
+_tmp_extract/
+_tmp_check/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store

@@ -1,0 +1,15 @@
+Metric,Value
+Training images,9999.0
+Validation images,100.0
+Total clean images,10099.0
+Training captions,50018.0
+Validation captions,503.0
+Total captions,50521.0
+Average captions per training image,5.0
+Average caption length (words),10.44
+Training vocabulary size,9683.0
+Local object annotations,72998.0
+Object categories in original COCO dataset,80.0
+Average objects per image,7.23
+Images without object annotations,85.0
+Unique object co-occurrence pairs,1848.0

@@ -1,0 +1,3 @@
+Dataset,Original Images,Valid Images,Corrupted Images,Duplicate Files,Clean Images,Images With Captions,Images Without Captions
+Training,10000,10000,0,1,9999,9999,0
+Validation,100,100,0,0,100,100,0
