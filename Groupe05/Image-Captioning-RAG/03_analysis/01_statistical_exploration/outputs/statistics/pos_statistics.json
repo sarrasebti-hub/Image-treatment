@@ -1,0 +1,70 @@
+{
+    "total_tagged_tokens": 518907,
+    "number_of_pos_categories": 16,
+    "pos_distribution": {
+        "NOUN": {
+            "frequency": 179165,
+            "percentage": 34.52738159246262
+        },
+        "DET": {
+            "frequency": 106217,
+            "percentage": 20.46937119753636
+        },
+        "ADP": {
+            "frequency": 87364,
+            "percentage": 16.836157538826804
+        },
+        "VERB": {
+            "frequency": 50435,
+            "percentage": 9.719468035698112
+        },
+        "ADJ": {
+            "frequency": 37191,
+            "percentage": 7.167180246171279
+        },
+        "AUX": {
+            "frequency": 12222,
+            "percentage": 2.3553353491088
+        },
+        "CCONJ": {
+            "frequency": 12178,
+            "percentage": 2.3468559876818005
+        },
+        "PRON": {
+            "frequency": 11551,
+            "percentage": 2.2260250873470584
+        },
+        "ADV": {
+            "frequency": 7420,
+            "percentage": 1.4299286770076334
+        },
+        "NUM": {
+            "frequency": 6325,
+            "percentage": 1.21890820513117
+        },
+        "PROPN": {
+            "frequency": 4548,
+            "percentage": 0.8764576311362151
+        },
+        "PART": {
+            "frequency": 2156,
+            "percentage": 0.4154887099229727
+        },
+        "SCONJ": {
+            "frequency": 2025,
+            "percentage": 0.3902433384016789
+        },
+        "X": {
+            "frequency": 62,
+            "percentage": 0.011948191101681034
+        },
+        "INTJ": {
+            "frequency": 45,
+            "percentage": 0.008672074186703975
+        },
+        "PUNCT": {
+            "frequency": 3,
+            "percentage": 0.0005781382791135984
+        }
+    }
+}

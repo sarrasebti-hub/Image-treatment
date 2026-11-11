@@ -1,0 +1,15 @@
+{
+    "total_training_captions": 49500,
+    "colour": {
+        "total_mentions": 11007,
+        "distinct_terms_mentioned": 12
+    },
+    "shape": {
+        "total_mentions": 181,
+        "distinct_terms_mentioned": 8
+    },
+    "context": {
+        "total_mentions": 11974,
+        "groups_with_mentions": 4
+    }
+}

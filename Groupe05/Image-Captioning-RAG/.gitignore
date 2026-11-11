@@ -1,0 +1,50 @@
+# ============================================================
+# ORIGINAL DATASET — NEVER UPLOAD
+# ============================================================
+
+/00_original_data/
+
+
+# ============================================================
+# PROCESSED DATA
+# Keep all processed data EXCEPT image files
+# ============================================================
+
+# Ignore image directories inside processed data
+/02_processed_data/**/images/
+
+# Ignore image files anywhere else inside processed data
+/02_processed_data/**/*.jpg
+/02_processed_data/**/*.jpeg
+/02_processed_data/**/*.png
+/02_processed_data/**/*.webp
+/02_processed_data/**/*.bmp
+/02_processed_data/training/annotations/instances.json
+
+
+# ============================================================
+# PYTHON
+# ============================================================
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+
+# ============================================================
+# ENVIRONMENT AND SECRETS
+# ============================================================
+
+.env
+.venv/
+venv/
+
+
+# ============================================================
+# TEMPORARY FILES
+# ============================================================
+
+*.tmp
+*.log
+.DS_Store
+Thumbs.db

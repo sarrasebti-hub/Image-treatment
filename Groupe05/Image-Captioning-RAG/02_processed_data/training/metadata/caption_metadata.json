@@ -1,0 +1,16 @@
+{
+  "split": "training",
+  "caption_count": 49500,
+  "unique_caption_count": 48949,
+  "empty_caption_count": 0,
+  "word_statistics": {
+    "average": 10.462121212121213,
+    "median": 10.0,
+    "minimum": 6,
+    "maximum": 44
+  },
+  "cleaning_operations": [
+    "Normalize consecutive whitespace",
+    "Remove leading and trailing whitespace"
+  ]
+}

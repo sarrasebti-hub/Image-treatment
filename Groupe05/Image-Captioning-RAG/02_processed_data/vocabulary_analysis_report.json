@@ -1,0 +1,271 @@
+{
+  "vocabulary_statistics": {
+    "training": {
+      "total_words": 518774,
+      "unique_words": 9514
+    },
+    "validation": {
+      "total_words": 5235,
+      "unique_words": 950
+    },
+    "test": {
+      "total_words": 5211,
+      "unique_words": 899
+    }
+  },
+  "most_common_words": {
+    "training": [
+      {
+        "word": "a",
+        "count": 81950
+      },
+      {
+        "word": "on",
+        "count": 17954
+      },
+      {
+        "word": "of",
+        "count": 17051
+      },
+      {
+        "word": "the",
+        "count": 16502
+      },
+      {
+        "word": "in",
+        "count": 15218
+      },
+      {
+        "word": "with",
+        "count": 12976
+      },
+      {
+        "word": "and",
+        "count": 11998
+      },
+      {
+        "word": "is",
+        "count": 8400
+      },
+      {
+        "word": "man",
+        "count": 6082
+      },
+      {
+        "word": "to",
+        "count": 5784
+      },
+      {
+        "word": "sitting",
+        "count": 4457
+      },
+      {
+        "word": "an",
+        "count": 4317
+      },
+      {
+        "word": "two",
+        "count": 4117
+      },
+      {
+        "word": "people",
+        "count": 3547
+      },
+      {
+        "word": "at",
+        "count": 3498
+      },
+      {
+        "word": "standing",
+        "count": 3423
+      },
+      {
+        "word": "are",
+        "count": 3421
+      },
+      {
+        "word": "next",
+        "count": 3158
+      },
+      {
+        "word": "white",
+        "count": 2999
+      },
+      {
+        "word": "woman",
+        "count": 2823
+      }
+    ],
+    "validation": [
+      {
+        "word": "a",
+        "count": 819
+      },
+      {
+        "word": "on",
+        "count": 232
+      },
+      {
+        "word": "the",
+        "count": 171
+      },
+      {
+        "word": "of",
+        "count": 164
+      },
+      {
+        "word": "in",
+        "count": 154
+      },
+      {
+        "word": "with",
+        "count": 128
+      },
+      {
+        "word": "and",
+        "count": 119
+      },
+      {
+        "word": "is",
+        "count": 89
+      },
+      {
+        "word": "sitting",
+        "count": 58
+      },
+      {
+        "word": "to",
+        "count": 50
+      },
+      {
+        "word": "man",
+        "count": 49
+      },
+      {
+        "word": "two",
+        "count": 44
+      },
+      {
+        "word": "an",
+        "count": 38
+      },
+      {
+        "word": "table",
+        "count": 38
+      },
+      {
+        "word": "at",
+        "count": 37
+      },
+      {
+        "word": "people",
+        "count": 37
+      },
+      {
+        "word": "street",
+        "count": 36
+      },
+      {
+        "word": "sign",
+        "count": 36
+      },
+      {
+        "word": "white",
+        "count": 33
+      },
+      {
+        "word": "are",
+        "count": 30
+      }
+    ],
+    "test": [
+      {
+        "word": "a",
+        "count": 835
+      },
+      {
+        "word": "on",
+        "count": 198
+      },
+      {
+        "word": "the",
+        "count": 176
+      },
+      {
+        "word": "of",
+        "count": 176
+      },
+      {
+        "word": "in",
+        "count": 148
+      },
+      {
+        "word": "with",
+        "count": 104
+      },
+      {
+        "word": "is",
+        "count": 99
+      },
+      {
+        "word": "and",
+        "count": 96
+      },
+      {
+        "word": "man",
+        "count": 73
+      },
+      {
+        "word": "to",
+        "count": 65
+      },
+      {
+        "word": "woman",
+        "count": 53
+      },
+      {
+        "word": "an",
+        "count": 51
+      },
+      {
+        "word": "two",
+        "count": 43
+      },
+      {
+        "word": "sitting",
+        "count": 41
+      },
+      {
+        "word": "next",
+        "count": 40
+      },
+      {
+        "word": "that",
+        "count": 36
+      },
+      {
+        "word": "people",
+        "count": 36
+      },
+      {
+        "word": "standing",
+        "count": 36
+      },
+      {
+        "word": "holding",
+        "count": 34
+      },
+      {
+        "word": "table",
+        "count": 31
+      }
+    ]
+  },
+  "method": {
+    "case": "lowercase",
+    "tokenization": "alphabetic tokens using regular expressions",
+    "stopword_removal": false,
+    "stemming": false,
+    "lemmatization": false
+  }
+}

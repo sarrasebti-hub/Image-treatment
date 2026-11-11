@@ -1,0 +1,59 @@
+{
+    "metadata_version": "1.0",
+    "project": "Image Captioning RAG",
+    "stage": "Phase 1 - Embedding Generation",
+    "dataset": "MS COCO 2017",
+    "split": "test",
+    "dataset_statistics": {
+        "number_of_images": 100
+    },
+    "image_embeddings": {
+        "model_name": "openai/clip-vit-base-patch32",
+        "encoder": "CLIP image encoder",
+        "number_of_images": 100,
+        "embedding_dimension": 512,
+        "embedding_shape": [
+            100,
+            512
+        ],
+        "data_type": "float32",
+        "normalized": true,
+        "normalization_method": "L2",
+        "device": "cpu",
+        "batch_size": 16,
+        "input_preprocessing": {
+            "image_mode": "RGB",
+            "exif_orientation_correction": true,
+            "processor": "Official CLIP image processor",
+            "output_pixel_shape": [
+                1,
+                3,
+                224,
+                224
+            ]
+        },
+        "files": {
+            "embeddings": "clip_image_embeddings.npy",
+            "mapping": "image_embedding_index.json"
+        },
+        "validation": {
+            "status": "passed",
+            "expected_shape": [
+                100,
+                512
+            ],
+            "all_values_finite": true,
+            "l2_normalization_verified": true,
+            "minimum_l2_norm": 0.9999998,
+            "maximum_l2_norm": 1.0000001
+        }
+    },
+    "software_environment": {
+        "python": "3.11.4",
+        "pytorch": "2.15.0",
+        "transformers": "5.22.1",
+        "numpy": "1.26.4",
+        "pillow": "10.3.0"
+    },
+    "overall_validation_status": "passed"
+}

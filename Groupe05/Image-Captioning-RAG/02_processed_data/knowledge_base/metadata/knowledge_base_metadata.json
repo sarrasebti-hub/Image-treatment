@@ -1,0 +1,97 @@
+{
+  "metadata_version": "1.0",
+  "knowledge_base": {
+    "name": "MS-COCO Image Captioning Knowledge Base",
+    "dataset": "MS-COCO 2017",
+    "split": "training",
+    "random_seed": 45,
+    "image_count": 9900,
+    "caption_count": 49500,
+    "captions_per_image": 5
+  },
+  "indexes": {
+    "clip_image_index": {
+      "purpose": "Image embeddings",
+      "embedding_model": "openai/clip-vit-base-patch32",
+      "index_type": "IndexFlatIP",
+      "vector_count": 9900,
+      "dimension": 512,
+      "metric": "Inner Product",
+      "normalized_embeddings": true,
+      "equivalent_similarity": "Cosine similarity",
+      "dtype": "float32",
+      "construction_time_seconds": 0.0126,
+      "file": "indexes/clip_image_index/clip_image_index.faiss",
+      "file_size_bytes": 20275245,
+      "embedding_file": "training/embeddings/clip_image_embeddings.npy",
+      "mapping_file": "training/embeddings/image_embedding_index.json"
+    },
+    "sbert_caption_index": {
+      "purpose": "Caption embeddings",
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "index_type": "IndexFlatIP",
+      "vector_count": 49500,
+      "dimension": 384,
+      "metric": "Inner Product",
+      "normalized_embeddings": true,
+      "equivalent_similarity": "Cosine similarity",
+      "dtype": "float32",
+      "construction_time_seconds": 0.0578,
+      "file": "indexes/sbert_caption_index/sbert_caption_index.faiss",
+      "file_size_bytes": 76032045,
+      "embedding_file": "training/embeddings/sbert_caption_embeddings.npy",
+      "mapping_file": "training/embeddings/caption_embedding_index.json"
+    }
+  },
+  "documents": {
+    "image_documents": {
+      "count": 9900,
+      "file": "documents/image_documents.json",
+      "file_size_bytes": 9188590
+    },
+    "caption_documents": {
+      "count": 49500,
+      "file": "documents/caption_documents.json",
+      "file_size_bytes": 15681048
+    }
+  },
+  "relationships": {
+    "image_document_to_clip_embedding": "image_id and embedding.row",
+    "caption_document_to_sbert_embedding": "caption_id and embedding.row",
+    "caption_to_image": "caption_document.image_id references image_document.image_id",
+    "image_to_captions": "image_document.caption_ids contains associated caption IDs"
+  },
+  "data_exclusion": {
+    "validation_included": false,
+    "test_included": false,
+    "description": "Only the 9900 training images and their 49500 captions are included in this knowledge base."
+  },
+  "construction_date_utc": "2026-11-06T00:28:29.614116+00:00",
+  "construction_status": "completed",
+  "pipeline_configuration": {
+    "random_seed": 45,
+    "sources": {
+      "training": "train2017",
+      "test": "val2017"
+    },
+    "split_sizes": {
+      "training": 9900,
+      "validation": 100,
+      "test": 100
+    },
+    "captions_per_image": 5,
+    "models": {
+      "clip": "openai/clip-vit-base-patch32",
+      "sbert": "sentence-transformers/all-MiniLM-L6-v2"
+    },
+    "embedding": {
+      "clip_batch_size": 32,
+      "sbert_batch_size": 64,
+      "dtype": "float32",
+      "normalize": true
+    },
+    "retrieval": {
+      "top_k": 3
+    }
+  }
+}

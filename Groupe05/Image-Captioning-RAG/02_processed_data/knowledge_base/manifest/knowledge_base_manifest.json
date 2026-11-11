@@ -1,0 +1,56 @@
+{
+  "manifest_version": "1.0",
+  "knowledge_base": "MS-COCO Image Captioning Knowledge Base",
+  "dataset": "MS-COCO 2017",
+  "split": "training",
+  "statistics": {
+    "image_count": 9900,
+    "caption_count": 49500,
+    "clip_vector_count": 9900,
+    "sbert_vector_count": 49500,
+    "total_indexed_vectors": 59400
+  },
+  "files": [
+    {
+      "name": "CLIP FAISS index",
+      "path": "indexes/clip_image_index/clip_image_index.faiss",
+      "type": "FAISS index",
+      "records": 9900,
+      "file_size_bytes": 20275245
+    },
+    {
+      "name": "SBERT FAISS index",
+      "path": "indexes/sbert_caption_index/sbert_caption_index.faiss",
+      "type": "FAISS index",
+      "records": 49500,
+      "file_size_bytes": 76032045
+    },
+    {
+      "name": "Image documents",
+      "path": "documents/image_documents.json",
+      "type": "JSON documents",
+      "records": 9900,
+      "file_size_bytes": 9188590
+    },
+    {
+      "name": "Caption documents",
+      "path": "documents/caption_documents.json",
+      "type": "JSON documents",
+      "records": 49500,
+      "file_size_bytes": 15681048
+    },
+    {
+      "name": "Knowledge-base metadata",
+      "path": "metadata/knowledge_base_metadata.json",
+      "type": "JSON metadata",
+      "records": null,
+      "file_size_bytes": 2630
+    }
+  ],
+  "excluded_data": [
+    "validation",
+    "test"
+  ],
+  "generated_at_utc": "2026-11-06T00:29:06.519497+00:00",
+  "status": "completed"
+}

@@ -1,0 +1,1006 @@
+{
+  "split": "validation",
+  "image_count": 100,
+  "images": [
+    {
+      "image_id": 377406,
+      "file_name": "000000377406.jpg",
+      "original_width": 500,
+      "original_height": 375,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 142615,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 51376,
+      "file_name": "000000051376.jpg",
+      "original_width": 640,
+      "original_height": 480,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 214579,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 87327,
+      "file_name": "000000087327.jpg",
+      "original_width": 640,
+      "original_height": 428,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 113588,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 84064,
+      "file_name": "000000084064.jpg",
+      "original_width": 480,
+      "original_height": 640,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 126402,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 487774,
+      "file_name": "000000487774.jpg",
+      "original_width": 640,
+      "original_height": 428,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 40999,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 10123,
+      "file_name": "000000010123.jpg",
+      "original_width": 640,
+      "original_height": 427,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 142945,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 359239,
+      "file_name": "000000359239.jpg",
+      "original_width": 640,
+      "original_height": 480,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 293838,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 467437,
+      "file_name": "000000467437.jpg",
+      "original_width": 640,
+      "original_height": 608,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 199591,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 429754,
+      "file_name": "000000429754.jpg",
+      "original_width": 640,
+      "original_height": 480,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 145790,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 571835,
+      "file_name": "000000571835.jpg",
+      "original_width": 640,
+      "original_height": 431,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 131872,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 352480,
+      "file_name": "000000352480.jpg",
+      "original_width": 500,
+      "original_height": 375,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 134062,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 387655,
+      "file_name": "000000387655.jpg",
+      "original_width": 640,
+      "original_height": 406,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 122249,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 350309,
+      "file_name": "000000350309.jpg",
+      "original_width": 640,
+      "original_height": 361,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 174691,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 508418,
+      "file_name": "000000508418.jpg",
+      "original_width": 640,
+      "original_height": 436,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 138945,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 58344,
+      "file_name": "000000058344.jpg",
+      "original_width": 640,
+      "original_height": 480,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 208302,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 161506,
+      "file_name": "000000161506.jpg",
+      "original_width": 341,
+      "original_height": 500,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 104403,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 300124,
+      "file_name": "000000300124.jpg",
+      "original_width": 640,
+      "original_height": 480,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 245908,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 322887,
+      "file_name": "000000322887.jpg",
+      "original_width": 428,
+      "original_height": 640,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 114120,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 151075,
+      "file_name": "000000151075.jpg",
+      "original_width": 640,
+      "original_height": 426,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 160555,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 267112,
+      "file_name": "000000267112.jpg",
+      "original_width": 640,
+      "original_height": 427,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 170836,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 398818,
+      "file_name": "000000398818.jpg",
+      "original_width": 478,
+      "original_height": 640,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 236717,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 353595,
+      "file_name": "000000353595.jpg",
+      "original_width": 375,
+      "original_height": 500,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 139517,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 524775,
+      "file_name": "000000524775.jpg",
+      "original_width": 640,
+      "original_height": 360,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 164648,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 479597,
+      "file_name": "000000479597.jpg",
+      "original_width": 375,
+      "original_height": 500,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 104407,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 108953,
+      "file_name": "000000108953.jpg",
+      "original_width": 640,
+      "original_height": 426,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 176715,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 83574,
+      "file_name": "000000083574.jpg",
+      "original_width": 640,
+      "original_height": 427,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 118445,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 488955,
+      "file_name": "000000488955.jpg",
+      "original_width": 360,
+      "original_height": 640,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 205707,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 578567,
+      "file_name": "000000578567.jpg",
+      "original_width": 640,
+      "original_height": 640,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 267398,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 492213,
+      "file_name": "000000492213.jpg",
+      "original_width": 640,
+      "original_height": 480,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 363444,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 576776,
+      "file_name": "000000576776.jpg",
+      "original_width": 640,
+      "original_height": 427,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 100342,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 293576,
+      "file_name": "000000293576.jpg",
+      "original_width": 500,
+      "original_height": 333,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 131931,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 438620,
+      "file_name": "000000438620.jpg",
+      "original_width": 375,
+      "original_height": 500,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 98397,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 212420,
+      "file_name": "000000212420.jpg",
+      "original_width": 500,
+      "original_height": 375,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 135087,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 298956,
+      "file_name": "000000298956.jpg",
+      "original_width": 640,
+      "original_height": 425,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 315407,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 508815,
+      "file_name": "000000508815.jpg",
+      "original_width": 299,
+      "original_height": 500,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 129092,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 98038,
+      "file_name": "000000098038.jpg",
+      "original_width": 640,
+      "original_height": 480,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 174166,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 215522,
+      "file_name": "000000215522.jpg",
+      "original_width": 500,
+      "original_height": 400,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 71820,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 189684,
+      "file_name": "000000189684.jpg",
+      "original_width": 640,
+      "original_height": 425,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 230487,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 517594,
+      "file_name": "000000517594.jpg",
+      "original_width": 500,
+      "original_height": 333,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 96269,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 521752,
+      "file_name": "000000521752.jpg",
+      "original_width": 640,
+      "original_height": 478,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 184493,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 270871,
+      "file_name": "000000270871.jpg",
+      "original_width": 427,
+      "original_height": 640,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 65891,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 327144,
+      "file_name": "000000327144.jpg",
+      "original_width": 427,
+      "original_height": 640,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 136736,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 558576,
+      "file_name": "000000558576.jpg",
+      "original_width": 640,
+      "original_height": 480,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 215408,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 378451,
+      "file_name": "000000378451.jpg",
+      "original_width": 480,
+      "original_height": 640,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 326814,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 130757,
+      "file_name": "000000130757.jpg",
+      "original_width": 500,
+      "original_height": 375,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 75170,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 118794,
+      "file_name": "000000118794.jpg",
+      "original_width": 640,
+      "original_height": 428,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 141282,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 225174,
+      "file_name": "000000225174.jpg",
+      "original_width": 640,
+      "original_height": 478,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 168079,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 105671,
+      "file_name": "000000105671.jpg",
+      "original_width": 480,
+      "original_height": 640,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 271952,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 545335,
+      "file_name": "000000545335.jpg",
+      "original_width": 640,
+      "original_height": 357,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 61111,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 393544,
+      "file_name": "000000393544.jpg",
+      "original_width": 640,
+      "original_height": 590,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 104992,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 551575,
+      "file_name": "000000551575.jpg",
+      "original_width": 600,
+      "original_height": 450,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 157543,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 319594,
+      "file_name": "000000319594.jpg",
+      "original_width": 640,
+      "original_height": 465,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 184656,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 485374,
+      "file_name": "000000485374.jpg",
+      "original_width": 640,
+      "original_height": 566,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 249096,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 206623,
+      "file_name": "000000206623.jpg",
+      "original_width": 640,
+      "original_height": 411,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 182286,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 314068,
+      "file_name": "000000314068.jpg",
+      "original_width": 612,
+      "original_height": 612,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 214175,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 242526,
+      "file_name": "000000242526.jpg",
+      "original_width": 640,
+      "original_height": 480,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 226835,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 154790,
+      "file_name": "000000154790.jpg",
+      "original_width": 427,
+      "original_height": 640,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 84927,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 242992,
+      "file_name": "000000242992.jpg",
+      "original_width": 640,
+      "original_height": 499,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 289140,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 491579,
+      "file_name": "000000491579.jpg",
+      "original_width": 640,
+      "original_height": 427,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 136201,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 18702,
+      "file_name": "000000018702.jpg",
+      "original_width": 640,
+      "original_height": 358,
+      "original_mode": "L",
+      "format": "JPEG",
+      "file_size_bytes": 87035,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 576949,
+      "file_name": "000000576949.jpg",
+      "original_width": 640,
+      "original_height": 366,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 170558,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 155941,
+      "file_name": "000000155941.jpg",
+      "original_width": 640,
+      "original_height": 480,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 211357,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 406677,
+      "file_name": "000000406677.jpg",
+      "original_width": 640,
+      "original_height": 480,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 299532,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 8332,
+      "file_name": "000000008332.jpg",
+      "original_width": 426,
+      "original_height": 640,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 268399,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 208824,
+      "file_name": "000000208824.jpg",
+      "original_width": 500,
+      "original_height": 375,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 90832,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 434623,
+      "file_name": "000000434623.jpg",
+      "original_width": 612,
+      "original_height": 612,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 126371,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 89787,
+      "file_name": "000000089787.jpg",
+      "original_width": 640,
+      "original_height": 426,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 175912,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 504997,
+      "file_name": "000000504997.jpg",
+      "original_width": 375,
+      "original_height": 500,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 86572,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 298154,
+      "file_name": "000000298154.jpg",
+      "original_width": 640,
+      "original_height": 433,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 200005,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 260501,
+      "file_name": "000000260501.jpg",
+      "original_width": 640,
+      "original_height": 427,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 117048,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 199458,
+      "file_name": "000000199458.jpg",
+      "original_width": 640,
+      "original_height": 437,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 229527,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 512375,
+      "file_name": "000000512375.jpg",
+      "original_width": 640,
+      "original_height": 427,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 202965,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 413290,
+      "file_name": "000000413290.jpg",
+      "original_width": 640,
+      "original_height": 427,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 243707,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 224243,
+      "file_name": "000000224243.jpg",
+      "original_width": 640,
+      "original_height": 478,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 403666,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 511751,
+      "file_name": "000000511751.jpg",
+      "original_width": 640,
+      "original_height": 428,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 185211,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 250,
+      "file_name": "000000000250.jpg",
+      "original_width": 640,
+      "original_height": 480,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 112982,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 199539,
+      "file_name": "000000199539.jpg",
+      "original_width": 640,
+      "original_height": 427,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 132475,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 514515,
+      "file_name": "000000514515.jpg",
+      "original_width": 427,
+      "original_height": 640,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 173590,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 145722,
+      "file_name": "000000145722.jpg",
+      "original_width": 640,
+      "original_height": 480,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 187837,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 463603,
+      "file_name": "000000463603.jpg",
+      "original_width": 640,
+      "original_height": 424,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 187812,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 169415,
+      "file_name": "000000169415.jpg",
+      "original_width": 475,
+      "original_height": 500,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 121632,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 497275,
+      "file_name": "000000497275.jpg",
+      "original_width": 640,
+      "original_height": 424,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 91986,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 256564,
+      "file_name": "000000256564.jpg",
+      "original_width": 500,
+      "original_height": 271,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 149614,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 265080,
+      "file_name": "000000265080.jpg",
+      "original_width": 500,
+      "original_height": 238,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 120267,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 228784,
+      "file_name": "000000228784.jpg",
+      "original_width": 640,
+      "original_height": 486,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 182367,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 353090,
+      "file_name": "000000353090.jpg",
+      "original_width": 640,
+      "original_height": 427,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 137510,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 239113,
+      "file_name": "000000239113.jpg",
+      "original_width": 640,
+      "original_height": 426,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 242107,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 174774,
+      "file_name": "000000174774.jpg",
+      "original_width": 640,
+      "original_height": 427,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 73863,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 522771,
+      "file_name": "000000522771.jpg",
+      "original_width": 640,
+      "original_height": 432,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 108363,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 418373,
+      "file_name": "000000418373.jpg",
+      "original_width": 480,
+      "original_height": 640,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 273688,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 516517,
+      "file_name": "000000516517.jpg",
+      "original_width": 640,
+      "original_height": 421,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 168398,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 279415,
+      "file_name": "000000279415.jpg",
+      "original_width": 640,
+      "original_height": 480,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 126013,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 356738,
+      "file_name": "000000356738.jpg",
+      "original_width": 640,
+      "original_height": 426,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 168589,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 276931,
+      "file_name": "000000276931.jpg",
+      "original_width": 640,
+      "original_height": 480,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 164683,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 481442,
+      "file_name": "000000481442.jpg",
+      "original_width": 640,
+      "original_height": 640,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 136576,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 553441,
+      "file_name": "000000553441.jpg",
+      "original_width": 480,
+      "original_height": 640,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 125040,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 441659,
+      "file_name": "000000441659.jpg",
+      "original_width": 640,
+      "original_height": 427,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 136001,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 438968,
+      "file_name": "000000438968.jpg",
+      "original_width": 640,
+      "original_height": 427,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 247696,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 423875,
+      "file_name": "000000423875.jpg",
+      "original_width": 640,
+      "original_height": 480,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 228098,
+      "original_exif_orientation": 1
+    },
+    {
+      "image_id": 44523,
+      "file_name": "000000044523.jpg",
+      "original_width": 640,
+      "original_height": 427,
+      "original_mode": "RGB",
+      "format": "JPEG",
+      "file_size_bytes": 109867,
+      "original_exif_orientation": 1
+    }
+  ]
+}

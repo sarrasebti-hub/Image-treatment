@@ -1,0 +1,9 @@
+{
+    "number_of_images": 9900,
+    "total_annotated_objects": 71326,
+    "average_objects_per_image": 7.204646464646465,
+    "median_objects_per_image": 4.0,
+    "standard_deviation": 7.267043333172391,
+    "minimum_objects_per_image": 0,
+    "maximum_objects_per_image": 65
+}

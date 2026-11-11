@@ -1,0 +1,140 @@
+{
+    "metadata_version": "1.0",
+    "project": "Image Captioning RAG",
+    "stage": "Phase 1 - Embedding Generation",
+    "dataset": "MS COCO 2017",
+    "split": "training",
+    "dataset_statistics": {
+        "number_of_images": 9900,
+        "number_of_captions": 49500
+    },
+    "image_embeddings": {
+        "model_name": "openai/clip-vit-base-patch32",
+        "encoder": "CLIP image encoder",
+        "number_of_images": 9900,
+        "embedding_dimension": 512,
+        "embedding_shape": [
+            9900,
+            512
+        ],
+        "data_type": "float32",
+        "normalized": true,
+        "normalization_method": "L2",
+        "device": "cpu",
+        "batch_size": 16,
+        "input_preprocessing": {
+            "image_mode": "RGB",
+            "exif_orientation_correction": true,
+            "processor": "Official CLIP image processor",
+            "output_pixel_shape": [
+                1,
+                3,
+                224,
+                224
+            ]
+        },
+        "files": {
+            "embeddings": "clip_image_embeddings.npy",
+            "mapping": "image_embedding_index.json"
+        },
+        "validation": {
+            "status": "passed",
+            "expected_shape": [
+                9900,
+                512
+            ],
+            "all_values_finite": true,
+            "l2_normalization_verified": true,
+            "mapping_verified": true
+        }
+    },
+    "caption_embeddings": {
+        "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+        "encoder": "Sentence-BERT",
+        "number_of_captions": 49500,
+        "embedding_dimension": 384,
+        "embedding_shape": [
+            49500,
+            384
+        ],
+        "data_type": "float32",
+        "normalized": true,
+        "normalization_method": "L2",
+        "device": "cpu",
+        "batch_size": 64,
+        "text_preprocessing": {
+            "source": "captions_cleaned.json",
+            "method": "Conservative whitespace cleanup",
+            "preserve_capitalization": true,
+            "preserve_punctuation": true,
+            "preserve_word_order": true,
+            "stopword_removal": false,
+            "stemming": false,
+            "lemmatization": false
+        },
+        "files": {
+            "embeddings": "sbert_caption_embeddings.npy",
+            "mapping": "caption_embedding_index.json"
+        },
+        "validation": {
+            "status": "passed",
+            "expected_shape": [
+                49500,
+                384
+            ],
+            "all_values_finite": true,
+            "l2_normalization_verified": true,
+            "mapping_verified": true,
+            "unique_caption_ids_verified": true,
+            "image_id_associations_verified": true
+        }
+    },
+    "mapping_information": {
+        "image_mapping_fields": [
+            "row",
+            "image_id"
+        ],
+        "caption_mapping_fields": [
+            "row",
+            "caption_id",
+            "image_id"
+        ],
+        "row_indexing": "Zero-based",
+        "purpose": "Traceability between embedding rows and original dataset records"
+    },
+    "software_environment": {
+        "python": "3.11.4",
+        "pytorch": "2.15.0",
+        "transformers": "5.22.1",
+        "sentence_transformers": "6.2.0",
+        "numpy": "1.26.4",
+        "pillow": "10.3.0"
+    },
+    "overall_validation_status": "passed",
+    "pipeline_configuration": {
+        "random_seed": 45,
+        "sources": {
+            "training": "train2017",
+            "test": "val2017"
+        },
+        "split_sizes": {
+            "training": 9900,
+            "validation": 100,
+            "test": 100
+        },
+        "captions_per_image": 5,
+        "models": {
+            "clip": "openai/clip-vit-base-patch32",
+            "sbert": "sentence-transformers/all-MiniLM-L6-v2"
+        },
+        "embedding": {
+            "clip_batch_size": 32,
+            "sbert_batch_size": 64,
+            "dtype": "float32",
+            "normalize": true
+        },
+        "retrieval": {
+            "top_k": 3
+        }
+    }
+}

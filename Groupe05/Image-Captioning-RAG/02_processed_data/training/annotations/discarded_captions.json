@@ -1,0 +1,167 @@
+{
+    "split": "training",
+    "selection_rule": "5 captions with the lowest annotation IDs per image",
+    "discarded_caption_count": 32,
+    "discarded_annotations": [
+        {
+            "image_id": 18748,
+            "id": 342305,
+            "caption": "a kite flying high in the air with a sky background"
+        },
+        {
+            "image_id": 23247,
+            "id": 195306,
+            "caption": "A girl is reaching inside a refrigerator for a container of milk."
+        },
+        {
+            "image_id": 23247,
+            "id": 195618,
+            "caption": "A woman is grabbing milk inside of a fridge. "
+        },
+        {
+            "image_id": 26735,
+            "id": 745632,
+            "caption": "a messy room with a bunk bed and some stairs"
+        },
+        {
+            "image_id": 52109,
+            "id": 195304,
+            "caption": "Three teenagers are playing tennis on a court surrounded by greenery."
+        },
+        {
+            "image_id": 52109,
+            "id": 195616,
+            "caption": "Several young people are standing with tennis rackets. "
+        },
+        {
+            "image_id": 81967,
+            "id": 434122,
+            "caption": "An elderly man sitting wearing a tie made of snake skin and a snake skin trim around his white hat. "
+        },
+        {
+            "image_id": 105529,
+            "id": 150380,
+            "caption": "A man standing in front of a tv holding a remote control."
+        },
+        {
+            "image_id": 112495,
+            "id": 769597,
+            "caption": "A couple of bowls and a banana on a plate."
+        },
+        {
+            "image_id": 114710,
+            "id": 648611,
+            "caption": "A woman smiles while standing in front of a sheep. "
+        },
+        {
+            "image_id": 185721,
+            "id": 548858,
+            "caption": "a street  traffic light street lights and some buildings"
+        },
+        {
+            "image_id": 224610,
+            "id": 140291,
+            "caption": "Four buses parked in a lot near a large tent."
+        },
+        {
+            "image_id": 225667,
+            "id": 125206,
+            "caption": "Two toothbrushes a toothpaste are in a container."
+        },
+        {
+            "image_id": 245243,
+            "id": 390733,
+            "caption": "A view from above of a toilet in a bathroom."
+        },
+        {
+            "image_id": 279818,
+            "id": 651553,
+            "caption": "Man with sleeping bag and backpack sitting on bench near fire hydrant."
+        },
+        {
+            "image_id": 320428,
+            "id": 531419,
+            "caption": "a small crowd of people watching a doubles match of tennis"
+        },
+        {
+            "image_id": 324322,
+            "id": 57860,
+            "caption": "A group of people playing Wii video games"
+        },
+        {
+            "image_id": 365289,
+            "id": 343225,
+            "caption": "a little girl sitting in a chair holding a stuffed bunny"
+        },
+        {
+            "image_id": 372510,
+            "id": 604160,
+            "caption": "a close up of a street sign on a pole on a street"
+        },
+        {
+            "image_id": 401720,
+            "id": 679361,
+            "caption": "A man on a horse in a field "
+        },
+        {
+            "image_id": 415943,
+            "id": 51716,
+            "caption": "A building top with three clocks.of various design."
+        },
+        {
+            "image_id": 424539,
+            "id": 381544,
+            "caption": "The pizza is on a plate on the table."
+        },
+        {
+            "image_id": 438258,
+            "id": 47474,
+            "caption": "a young girl holding onto a teddy bear that wears a shirt"
+        },
+        {
+            "image_id": 445048,
+            "id": 362866,
+            "caption": "A person skiing down a snow covered mountain."
+        },
+        {
+            "image_id": 483889,
+            "id": 140290,
+            "caption": "A toy dinosaur in a living room with two sofas."
+        },
+        {
+            "image_id": 487036,
+            "id": 684670,
+            "caption": "A group of people ride their motorcycles behind a car."
+        },
+        {
+            "image_id": 502141,
+            "id": 829699,
+            "caption": "A bright umbrella on a patio with stone steps leading to it."
+        },
+        {
+            "image_id": 502982,
+            "id": 648321,
+            "caption": "The tennis player holds his racquet with a dominating attitude."
+        },
+        {
+            "image_id": 508977,
+            "id": 210400,
+            "caption": "A young girl kneels down to pet a black cat."
+        },
+        {
+            "image_id": 561594,
+            "id": 74445,
+            "caption": "A person on a long boat filled with bananas."
+        },
+        {
+            "image_id": 561789,
+            "id": 686776,
+            "caption": "A red double decker bus driving down a street."
+        },
+        {
+            "image_id": 575916,
+            "id": 144675,
+            "caption": "A serving dish has fruits stacked upon it."
+        }
+    ]
+}

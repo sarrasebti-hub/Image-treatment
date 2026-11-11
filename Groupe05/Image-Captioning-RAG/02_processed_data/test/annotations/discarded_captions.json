@@ -1,0 +1,6 @@
+{
+    "split": "test",
+    "selection_rule": "5 captions with the lowest annotation IDs per image",
+    "discarded_caption_count": 0,
+    "discarded_annotations": []
+}

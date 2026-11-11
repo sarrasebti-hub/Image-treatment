@@ -1,0 +1,31 @@
+Category_A,Category_B,Cooccurrence_Frequency
+person,car,719
+person,chair,641
+person,handbag,516
+person,dining table,465
+chair,dining table,441
+person,backpack,405
+person,cup,393
+cup,dining table,386
+person,bottle,361
+person,bench,352
+person,sports ball,350
+person,truck,338
+person,cell phone,326
+car,truck,313
+person,umbrella,296
+person,tie,294
+person,motorcycle,276
+person,surfboard,273
+person,skateboard,272
+person,skis,264
+bowl,dining table,258
+person,tennis racket,256
+bottle,cup,242
+person,bus,237
+bottle,dining table,235
+person,baseball glove,234
+cup,chair,230
+fork,dining table,218
+knife,dining table,215
+person,baseball bat,214

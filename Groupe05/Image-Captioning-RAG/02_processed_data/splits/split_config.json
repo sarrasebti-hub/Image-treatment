@@ -1,0 +1,40 @@
+{
+    "pipeline_configuration": {
+        "random_seed": 45,
+        "sources": {
+            "training": "train2017",
+            "test": "val2017"
+        },
+        "split_sizes": {
+            "training": 9900,
+            "validation": 100,
+            "test": 100
+        },
+        "captions_per_image": 5,
+        "models": {
+            "clip": "openai/clip-vit-base-patch32",
+            "sbert": "sentence-transformers/all-MiniLM-L6-v2"
+        },
+        "embedding": {
+            "clip_batch_size": 32,
+            "sbert_batch_size": 64,
+            "dtype": "float32",
+            "normalize": true
+        },
+        "retrieval": {
+            "top_k": 3
+        }
+    },
+    "random_seed": 45,
+    "source_training_dataset": "COCO train2017",
+    "source_test_dataset": "COCO val2017",
+    "total_selected_from_train2017": 10000,
+    "training_images": 9900,
+    "validation_images": 100,
+    "test_images": 100,
+    "captions_per_image": 5,
+    "expected_training_captions": 49500,
+    "expected_validation_captions": 500,
+    "expected_test_captions": 500,
+    "selection_method": "Random sampling with fixed seed"
+}

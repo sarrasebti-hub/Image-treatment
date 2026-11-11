@@ -1,0 +1,7 @@
+Metric,Value
+total_captions,49500.0
+average_words_per_caption,10.462121212121213
+median_words_per_caption,10.0
+standard_deviation,2.39106914623465
+minimum_words,6.0
+maximum_words,44.0

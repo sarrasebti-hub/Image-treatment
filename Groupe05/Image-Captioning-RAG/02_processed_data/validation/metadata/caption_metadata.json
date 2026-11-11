@@ -1,0 +1,16 @@
+{
+  "split": "validation",
+  "caption_count": 500,
+  "unique_caption_count": 499,
+  "empty_caption_count": 0,
+  "word_statistics": {
+    "average": 10.458,
+    "median": 10.0,
+    "minimum": 7,
+    "maximum": 41
+  },
+  "cleaning_operations": [
+    "Normalize consecutive whitespace",
+    "Remove leading and trailing whitespace"
+  ]
+}

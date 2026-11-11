@@ -1,0 +1,127 @@
+{
+    "report_version": "1.0",
+    "project": "MS-COCO Image Captioning Knowledge Base",
+    "dataset": {
+        "training_images": 9900,
+        "validation_images": 100,
+        "test_images": 100,
+        "training_captions": 49500,
+        "captions_per_image": 5,
+        "random_seed": 45
+    },
+    "generated_at_utc": "2026-11-06T00:51:15.183061+00:00",
+    "overall_status": "passed",
+    "embeddings": {
+        "clip": {
+            "model": "openai/clip-vit-base-patch32",
+            "vectors": 9900,
+            "dimension": 512,
+            "dtype": "float32",
+            "nan_values": 0,
+            "infinite_values": 0,
+            "zero_vectors": 0,
+            "normalized": true,
+            "status": "passed"
+        },
+        "sbert": {
+            "model": "sentence-transformers/all-MiniLM-L6-v2",
+            "vectors": 49500,
+            "dimension": 384,
+            "dtype": "float32",
+            "nan_values": 0,
+            "infinite_values": 0,
+            "zero_vectors": 0,
+            "normalized": true,
+            "status": "passed"
+        }
+    },
+    "quality_checks": {
+        "required_artifacts": "passed",
+        "embedding_integrity": "passed",
+        "mapping_uniqueness_and_alignment": "passed",
+        "embedding_document_consistency": "passed",
+        "image_caption_relationships": "passed",
+        "dataset_leakage_audit": "passed",
+        "faiss_index_integrity": "passed",
+        "metadata_manifest_consistency": "passed",
+        "statistical_artifacts": "passed",
+        "visual_inspection": "passed"
+    },
+    "relationship_statistics": {
+        "image_documents": 9900,
+        "caption_documents": 49500,
+        "total_caption_references": 49500,
+        "unique_caption_references": 49500,
+        "unreferenced_captions": 0,
+        "duplicate_caption_references": 0
+    },
+    "leakage_audit": {
+        "training_validation_overlap": 0,
+        "training_test_overlap": 0,
+        "validation_test_overlap": 0,
+        "validation_images_in_knowledge_base": 0,
+        "test_images_in_knowledge_base": 0,
+        "non_training_images_in_knowledge_base": 0,
+        "status": "passed"
+    },
+    "faiss_indexes": {
+        "clip": {
+            "vectors": 9900,
+            "dimension": 512,
+            "metric": "Inner Product",
+            "vectors_match_original": true,
+            "status": "passed"
+        },
+        "sbert": {
+            "vectors": 49500,
+            "dimension": 384,
+            "metric": "Inner Product",
+            "vectors_match_original": true,
+            "status": "passed"
+        }
+    },
+    "statistical_outputs": {
+        "figures_verified": 5,
+        "statistics_files_verified": 5,
+        "tables_verified": 4,
+        "visual_inspection": "passed"
+    },
+    "retrieval_validation": {
+        "status": "passed",
+        "validation_type": "frozen_release_compatibility_smoke_test",
+        "query": {
+            "image_id": 250,
+            "split": "validation",
+            "excluded_from_knowledge_base": true
+        },
+        "encoder": {
+            "model": "openai/clip-vit-base-patch32",
+            "embedding_dimension": 512,
+            "dtype": "float32",
+            "l2_normalized": true
+        },
+        "index": {
+            "type": "IndexFlatIP",
+            "metric": "inner_product",
+            "vector_count": 9900,
+            "dimension": 512
+        },
+        "retrieval": {
+            "top_k": 3,
+            "retrieved_image_ids": [
+                11605,
+                401670,
+                486769
+            ],
+            "associated_captions_verified": 15
+        },
+        "checks": {
+            "query_encoding": "passed",
+            "index_search": "passed",
+            "image_document_mapping": "passed",
+            "caption_document_mapping": "passed",
+            "validation_training_separation": "passed"
+        },
+        "scope_note": "This test confirms compatibility between the frozen CLIP encoder, FAISS index, image documents, and caption documents. It is not a retrieval-quality evaluation or a comparison of RAG techniques."
+    }
+}
