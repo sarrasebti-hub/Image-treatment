@@ -1,0 +1,54 @@
+{
+  "kb_caption": {
+    "model": "openai/clip-vit-base-patch32",
+    "dim": 512,
+    "num_vectors": 50031,
+    "batch_size": 64,
+    "l2_normalised": true,
+    "dtype": "float32",
+    "device": "cuda",
+    "torch": "2.11.0+cu130",
+    "transformers": "5.21.0",
+    "seconds": 33.7,
+    "failed_images": []
+  },
+  "kb_image": {
+    "model": "openai/clip-vit-base-patch32",
+    "dim": 512,
+    "num_vectors": 10000,
+    "batch_size": 64,
+    "l2_normalised": true,
+    "dtype": "float32",
+    "device": "cuda",
+    "torch": "2.11.0+cu130",
+    "transformers": "5.21.0",
+    "seconds": 104.4,
+    "failed_images": []
+  },
+  "val_image": {
+    "model": "openai/clip-vit-base-patch32",
+    "dim": 512,
+    "num_vectors": 100,
+    "batch_size": 64,
+    "l2_normalised": true,
+    "dtype": "float32",
+    "device": "cuda",
+    "torch": "2.11.0+cu130",
+    "transformers": "5.21.0",
+    "seconds": 1.5,
+    "failed_images": []
+  },
+  "test_image": {
+    "model": "openai/clip-vit-base-patch32",
+    "dim": 512,
+    "num_vectors": 1000,
+    "batch_size": 64,
+    "l2_normalised": true,
+    "dtype": "float32",
+    "device": "cuda",
+    "torch": "2.11.0+cu130",
+    "transformers": "5.21.0",
+    "seconds": 10.8,
+    "failed_images": []
+  }
+}

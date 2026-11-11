@@ -1,0 +1,17 @@
+{
+  "index_type": "IndexIDMap2(IndexFlatIP)  [exact / flat]",
+  "similarity_metric": "cosine (inner product on L2-normalised vectors)",
+  "embedding_dim": 512,
+  "num_image_vectors": 10000,
+  "num_caption_vectors": 50031,
+  "indexing_time_seconds": 0.088,
+  "image_index_mb": 20.56,
+  "caption_index_mb": 102.86,
+  "records_mb": 9.0,
+  "images_without_yolo_metadata": 0,
+  "faiss_version": "1.15.1",
+  "self_retrieval_at_1": 1.0,
+  "image_to_caption_hit_at_5": 0.666,
+  "leakage_audit_passed": true,
+  "images_with_no_detected_object": 177
+}
