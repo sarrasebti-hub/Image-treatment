@@ -1,0 +1,81 @@
+{
+    "dataset": "MS COCO 2017",
+    "dataset_splits": {
+        "knowledge_base": {
+            "source": "train2017",
+            "images": 10000
+        },
+        "validation": {
+            "source": "train2017",
+            "images": 100
+        },
+        "test": {
+            "source": "val2017",
+            "images": 1000
+        },
+        "total_selected_images": 11100
+    },
+    "selection": {
+        "random_seed": 42,
+        "knowledge_base_images": 10000,
+        "validation_images": 100,
+        "test_images": 1000,
+        "unique_image_ids": 11100,
+        "kb_validation_overlap": 0,
+        "kb_test_overlap": 0,
+        "validation_test_overlap": 0
+    },
+    "previous_test_comparison": {
+        "previous_test_images": 100,
+        "new_test_images": 1000,
+        "overlapping_images": 100,
+        "additional_images": 900
+    },
+    "source_annotations": {
+        "train2017_images_in_instances": 118287,
+        "train2017_images_in_captions": 118287,
+        "train2017_object_annotations": 860001,
+        "train2017_caption_annotations": 591753,
+        "object_categories": 80,
+        "image_id_consistency": true
+    },
+    "val2017_annotations": {
+        "images": 5000,
+        "object_annotations": 36781,
+        "categories": 80
+    },
+    "image_integrity": {
+        "total_images_checked": 11100,
+        "missing_images": 0,
+        "corrupted_test_images": 0,
+        "unique_sha256_hashes": 11100,
+        "exact_duplicate_groups": 0
+    },
+    "annotation_consistency": {
+        "selected_images_missing_from_instances": 0,
+        "selected_images_missing_from_captions": 0,
+        "images_without_object_annotations": 104,
+        "images_without_captions": 0
+    },
+    "no_object_images_investigation": {
+        "images_investigated": 104,
+        "caption_count_distribution": {
+            "5": 104
+        }
+    },
+    "output_files": {
+        "dataset_manifest": "dataset_manifest.csv",
+        "test_metadata": "test_1000_metadata.csv",
+        "test_image_ids": "test_1000_image_ids.csv",
+        "cross_split_duplicates": "cross_split_duplicates.csv"
+    },
+    "notes": [
+        "Knowledge Base contains 10,000 images from COCO train2017.",
+        "Validation contains 100 different images from COCO train2017.",
+        "Test contains 1,000 images from COCO val2017.",
+        "The previous 100-image test version is preserved for comparison.",
+        "All three dataset splits were verified to be independent.",
+        "SHA-256 hashing was used to detect exact duplicate images.",
+        "Images without object annotations were investigated using their captions."
+    ]
+}

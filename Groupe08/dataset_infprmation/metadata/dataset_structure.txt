@@ -1,0 +1,76 @@
+MS COCO 2017 — IMAGE CAPTIONING PROJECT
+DATASET STRUCTURE DOCUMENTATION
+==========================================
+
+1. PROJECT ORGANIZATION
+
+COCO_Project/
+|
+|-- annotations/
+|   |-- instances_train2017.json
+|   |-- captions_train2017.json
+|
+|-- images/
+|   |-- knowledge_base/
+|   |   |-- 10,000 selected images
+|   |
+|   |-- validation/
+|       |-- 100 selected images
+|
+|-- metadata/
+    |-- selected_image_ids.csv
+    |-- images_without_object_annotations.csv
+    |-- corrupted_images.csv
+    |-- duplicate_images.csv
+    |-- dataset_audit_report.json
+    |-- dataset_structure.txt
+
+
+2. DATASET CONFIGURATION
+
+Dataset: MS COCO 2017
+Image source: train2017
+Random seed: 42
+
+Knowledge Base: 10,000 images
+Validation: 100 images
+Total selected: 10,100 images
+
+
+3. SOURCE ANNOTATIONS
+
+Images in instances JSON: 118,287
+Images in captions JSON: 118,287
+Object annotations: 860,001
+Caption annotations: 591,753
+Object categories: 80
+
+
+4. DATA INTEGRITY RESULTS
+
+Missing images: 0
+Corrupted images: 0
+Exact duplicate groups: 0
+Selected images missing from annotations: 0
+
+
+5. ANNOTATION OBSERVATIONS
+
+Images without object annotations: 104
+Images without captions: 0
+
+All 104 images without object annotations
+have exactly five captions each.
+
+Only 10 of these 104 images were manually inspected.
+
+
+6. TEST DATASET
+
+A separate test set of 100 images from
+COCO val2017 is not included in this audit.
+It must be prepared separately.
+
+
+==========================================
+END OF DOCUMENTATION
