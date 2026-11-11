@@ -1,0 +1,23 @@
+{
+  "started_at_utc": "2026-11-11T15:49:26.387596+00:00",
+  "source_directory": "/home/hz/Desktop/DEV/RAG-Captioning-project/data/coco_rag_data/train2017_subset",
+  "output_directory": "/home/hz/Desktop/DEV/RAG-Captioning-project/data/coco_rag_data/processed_images_batch",
+  "ids_filter_file": "/home/hz/Desktop/DEV/RAG-Captioning-project/data/coco_rag_data/train_kb_ids.json",
+  "images_discovered_before_filter": 10100,
+  "requested_ids_count": 10000,
+  "total_images_selected": 10000,
+  "batch_size": 100,
+  "total_batches": 100,
+  "processed_successfully": 10000,
+  "skipped_valid_outputs": 0,
+  "failed": 0,
+  "elapsed_seconds": 122.25,
+  "output_format": "JPEG",
+  "output_dimensions": [
+    224,
+    224
+  ],
+  "output_mode": "RGB",
+  "status": "SUCCESS",
+  "errors": []
+}

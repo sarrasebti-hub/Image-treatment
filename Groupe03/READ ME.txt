@@ -17,3 +17,173 @@ generating image captions- Naive / Dense RAG
 - Dataset information
 - Results
 - Final report
+
+
+### file repartition : 
+
+
+
+## What each folder means
+
+### captions_artifacts
+
+Purpose:
+
+- all caption-derived artifacts from the KB lookup
+
+Files:
+
+- captions_kb_flat.jsonl
+    - one row per caption, flat for FAISS/text embedding generation
+- captions_kb_report.json
+    - caption cleaning stats, counts, empty-cleaning diagnostics
+- captions_kb.json
+    - the per-image caption store before flattening
+
+Difference from others in same folder:
+
+- this is the raw/clean caption layer before embedding generation
+- unlike the embeddings folders, it is text-only and not vectorized
+
+---
+
+### embeddings_artifacts / image_embeddings
+
+Purpose:
+
+- CLIP image embeddings for processed KB images
+
+Files:
+
+- image_embeddings.npy
+    - matrix of image vectors
+- image_embeddings_mapping.json
+    - maps row index to image_id and file_name
+- image_embeddings_metadata.json
+    - model, shape, device, timestamp
+- embedding_report.json
+    - run log and errors
+
+Difference from others in same folder:
+
+- this is image-side encoding, not caption/text encoding
+- it is tied to processed image files, not caption strings
+
+---
+
+### embeddings_artifacts / text_embeddings
+
+Purpose:
+
+- CLIP text embeddings for all KB captions
+
+Files:
+
+- text_embeddings.npy
+    - matrix of caption embeddings
+- text_embeddings_mapping.json
+    - maps each caption row to image_id and caption metadata
+- text_embedding_report.json
+    - text embedding run summary
+
+Difference from others in same folder:
+
+- this is text/caption-side encoding
+- it directly corresponds to the flat caption rows and drives FAISS retrieval
+
+---
+
+### kb_lookup_files
+
+Purpose:
+
+- canonical lookup for the knowledge base
+
+Files:
+
+- train_kb_lookup.json
+- val_lookup.json
+
+Difference from others in same folder:
+
+- this is the metadata dictionary keyed by image ID
+- it is the source-of-truth for the retrieval split, not the embedding outputs themselves
+
+---
+
+### splits
+
+Purpose:
+
+- the split membership files
+
+Files:
+
+- train_kb_ids.json
+- val_ids.json
+- test_ids.json
+- train_subset_10100.json
+
+Difference from others in same folder:
+
+- these define which images belong to each split
+- they are not embeddings or lookup payloads; they are membership lists
+
+---
+
+### vector_index
+
+Purpose:
+
+- the final FAISS retrieval artifact
+
+Files:
+
+- text_index.faiss
+- text_index_report.json
+
+Difference from others in same folder:
+
+- this is the actual index used for retrieval, built from the text embeddings
+- unlike lookup JSONs or captions, it is in vector-search format
+
+---
+
+### report
+
+Purpose:
+
+- top-level summary / final evidence of pipeline validity
+
+Files:
+
+- report.ipynb or equivalent summary artifact
+
+Difference from others:
+
+- this is the human-readable evidence bundle, not raw data or model outputs
+
+### Summary : 
+
+- captions_artifacts: contains cleaned and flattened caption sets for the KB split, used to build text embeddings.
+- image_embeddings: contains CLIP embeddings for processed KB images, with metadata and mapping to image IDs.
+- text_embeddings: contains CLIP embeddings for KB captions, row-aligned with the caption flat file and used for FAISS indexing.
+- kb_lookup_files: contains the canonical per-image lookup JSONs for train/val/test, acting as the source-of-truth for KB membership and metadata.
+- splits: contains the raw ID split memberships used to define train/val/test partitions.
+- vector_index: contains the final FAISS vector index and retrieval metadata.
+- report: contains final validation and summary outputs for preprocessing completion.
+- statistics : contain all data statistics exploration of data after retreiving objects from images with YOLO ENCODER (THRESHOLD 0.25)
+
+
+data/
+├── val2017/
+└── annotations_trainval2017/
+    └── annotations/
+        └── captions_train2017.json
+    coco_rag_data/
+                  all json files , reports , text_embeddings.npy, image_indexx.faiss, text_index.faiss .....ect
+                  image_embdedings/  folder
+                  train2017_Subset/   all knowlegde base images 10100 images actual images
+                  processed_images/
+                  processed_images_batch/
+REST_OF_FOLDERS/
