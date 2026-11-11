@@ -1,0 +1,12 @@
+{
+    "total_images_without_object_annotations": 104,
+    "images_visually_or_caption_inspected": 10,
+    "captions_per_inspected_image": 5,
+    "findings": [
+        "All inspected images exist in the dataset.",
+        "All inspected images have zero object annotations.",
+        "All inspected images have five captions.",
+        "The images are retained in the dataset."
+    ],
+    "decision": "Keep these images for image captioning. Exclude them from object-based statistical calculations where object annotations are required."
+}

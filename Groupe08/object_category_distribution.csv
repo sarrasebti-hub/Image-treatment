@@ -1,0 +1,81 @@
+category_id,category,object_count,percentage
+1,person,22319,30.68
+3,car,3664,5.04
+62,chair,3207,4.41
+44,bottle,2064,2.84
+84,book,2009,2.76
+47,cup,1672,2.3
+67,dining table,1287,1.77
+51,bowl,1235,1.7
+28,umbrella,1097,1.51
+31,handbag,1031,1.42
+10,traffic light,1010,1.39
+9,boat,934,1.28
+52,banana,911,1.25
+15,bench,881,1.21
+4,motorcycle,878,1.21
+16,bird,859,1.18
+8,truck,841,1.16
+20,sheep,832,1.14
+57,carrot,791,1.09
+64,potted plant,761,1.05
+27,backpack,722,0.99
+38,kite,697,0.96
+56,broccoli,687,0.94
+21,cow,680,0.93
+46,wine glass,676,0.93
+35,skis,597,0.82
+2,bicycle,583,0.8
+55,orange,581,0.8
+86,vase,578,0.79
+49,knife,575,0.79
+22,elephant,558,0.77
+19,horse,542,0.74
+32,tie,540,0.74
+72,tv,531,0.73
+59,pizza,526,0.72
+60,donut,524,0.72
+33,suitcase,515,0.71
+53,apple,506,0.7
+37,sports ball,505,0.69
+42,surfboard,501,0.69
+85,clock,490,0.67
+88,teddy bear,485,0.67
+81,sink,479,0.66
+77,cell phone,478,0.66
+63,couch,477,0.66
+50,spoon,477,0.66
+75,remote,474,0.65
+18,dog,468,0.64
+6,bus,464,0.64
+5,airplane,462,0.64
+24,zebra,456,0.63
+43,tennis racket,442,0.61
+17,cat,439,0.6
+48,fork,435,0.6
+25,giraffe,424,0.58
+73,laptop,417,0.57
+7,train,414,0.57
+61,cake,412,0.57
+41,skateboard,406,0.56
+70,toilet,379,0.52
+65,bed,361,0.5
+54,sandwich,307,0.42
+79,oven,284,0.39
+40,baseball glove,269,0.37
+58,hot dog,260,0.36
+82,refrigerator,252,0.35
+76,keyboard,241,0.33
+34,frisbee,238,0.33
+39,baseball bat,234,0.32
+36,snowboard,224,0.31
+74,mouse,189,0.26
+13,stop sign,182,0.25
+90,toothbrush,170,0.23
+11,fire hydrant,148,0.2
+78,microwave,139,0.19
+23,bear,123,0.17
+87,scissors,108,0.15
+14,parking meter,98,0.13
+80,toaster,22,0.03
+89,hair drier,18,0.02
