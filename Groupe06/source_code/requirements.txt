@@ -1,0 +1,15 @@
+numpy==2.4.6
+pandas==2.2.3
+matplotlib==3.10.0
+Pillow==11.3.0
+torch==2.14.1+cpu
+faiss-cpu==1.16.0
+open_clip_torch==4.2.2
+ultralytics==8.4.207
+sentence-transformers==5.7.0
+transformers==5.22.1
+evaluate==0.4.6
+scikit-learn==1.6.1
+nltk==3.9.1
+rank-bm25==0.2.2
+rouge-score==0.1.2

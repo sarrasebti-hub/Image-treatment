@@ -1,0 +1,3 @@
+Version,Images,Captions,Average words per caption,Unique captions
+Before exclusion,10000,50000,10.46432,49372
+After exclusion (v1.1),10000,49777,10.46937340538803,49268

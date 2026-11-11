@@ -1,0 +1,48 @@
+[
+  {
+    "split": "train2017",
+    "num_images": 118287,
+    "num_captions": 591753,
+    "duplicate_image_ids": 0,
+    "images_missing_on_disk": 0,
+    "orphan_captions": 0,
+    "empty_captions": 0,
+    "images_with_less_than_5": 0,
+    "captions_per_image_distribution": {
+      "5": 117972,
+      "6": 312,
+      "7": 3
+    }
+  },
+  {
+    "split": "val2017",
+    "num_images": 5000,
+    "num_captions": 25014,
+    "duplicate_image_ids": 0,
+    "images_missing_on_disk": 0,
+    "orphan_captions": 0,
+    "empty_captions": 0,
+    "images_with_less_than_5": 0,
+    "captions_per_image_distribution": {
+      "5": 4987,
+      "6": 12,
+      "7": 1
+    }
+  },
+  {
+    "selected_images_check": {
+      "sizes": {
+        "kb": 10000,
+        "val": 100,
+        "test": 1000
+      },
+      "kb_val_overlap": 0,
+      "kb_test_id_overlap": 0,
+      "val_test_id_overlap": 0,
+      "kb_test_content_overlap": 0,
+      "val_content_in_kb": 0,
+      "rejected_unreadable": 0,
+      "rejected_duplicates": 0
+    }
+  }
+]

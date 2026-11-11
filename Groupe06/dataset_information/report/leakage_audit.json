@@ -1,0 +1,14 @@
+{
+  "sizes": {
+    "kb": 10000,
+    "val": 100,
+    "test": 1000
+  },
+  "kb_val_overlap": 0,
+  "kb_test_id_overlap": 0,
+  "val_test_id_overlap": 0,
+  "kb_test_content_overlap": 0,
+  "val_content_in_kb": 0,
+  "rejected_unreadable": 0,
+  "rejected_duplicates": 0
+}

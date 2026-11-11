@@ -1,0 +1,45 @@
+{
+  "excluded_captions": 223,
+  "kb_images_affected": 218,
+  "max_removed_from_one_image": 2,
+  "kb_images_left_with_0_captions": 0,
+  "kb_captions_remaining": 49777,
+  "caption_leak_before_exclusion": {
+    "exact": {
+      "test_vs_kb": {
+        "matching_captions": 91,
+        "images_affected": 84,
+        "kb_images_involved": 194
+      },
+      "val_vs_kb": {
+        "matching_captions": 8,
+        "images_affected": 7,
+        "kb_images_involved": 15
+      }
+    },
+    "lowercase": {
+      "test_vs_kb": {
+        "matching_captions": 98,
+        "images_affected": 89,
+        "kb_images_involved": 201
+      },
+      "val_vs_kb": {
+        "matching_captions": 9,
+        "images_affected": 8,
+        "kb_images_involved": 16
+      }
+    },
+    "normalized": {
+      "test_vs_kb": {
+        "matching_captions": 101,
+        "images_affected": 91,
+        "kb_images_involved": 207
+      },
+      "val_vs_kb": {
+        "matching_captions": 10,
+        "images_affected": 9,
+        "kb_images_involved": 17
+      }
+    }
+  }
+}
