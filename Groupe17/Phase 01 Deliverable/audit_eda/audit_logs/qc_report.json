@@ -1,0 +1,36 @@
+{
+  "caption_mismatches": 0,
+  "overlaps": {
+    "kb_10k&val_100": 0,
+    "kb_10k&test_100": 0,
+    "kb_10k&test_1000": 0,
+    "val_100&test_100": 0,
+    "val_100&test_1000": 0,
+    "test_100&test_1000": 0
+  },
+  "identical_caption_strings_kb_vs_eval": 53,
+  "retrieval_validation": "OK",
+  "avg_objects_per_image": 6.71,
+  "images_without_objects": 219,
+  "avg_caption_length": 10.41,
+  "vocab_size": 9364,
+  "spatial_relations": {
+    "overlapping": 19104,
+    "left_of": 14037,
+    "below": 4428,
+    "right_of": 14118,
+    "above": 2566
+  },
+  "top10_classes": [
+    ["person", 17177],
+    ["car", 6820],
+    ["traffic light", 2494],
+    ["bottle", 2468],
+    ["motorcycle", 2430],
+    ["sheep", 2302],
+    ["bird", 2047],
+    ["chair", 1659],
+    ["cup", 1519],
+    ["sink", 1432]
+  ]
+}

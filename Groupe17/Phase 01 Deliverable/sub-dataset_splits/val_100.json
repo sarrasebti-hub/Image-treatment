@@ -1,0 +1,2702 @@
+[
+  {
+    "image_id": 145073,
+    "file_name": "000000145073.jpg",
+    "height": 406,
+    "width": 640,
+    "captions": [
+      "It looks like there is writing on the bottom of the Stop sign.",
+      "A stop sign is shown outside a Google facility.",
+      "This is an item that is simple and plain. \n",
+      "A stop sign in front of a Google building.",
+      "A stop sign with a building with a Google logo in the background."
+    ],
+    "raw_captions": [
+      "It looks like there is writing on the bottom of the Stop sign.",
+      "A stop sign is shown outside a Google facility.",
+      "This is an item that is simple and plain. \n",
+      "A stop sign in front of a Google building.",
+      "A stop sign with a building with a Google logo in the background."
+    ],
+    "cleaned_captions": [
+      "it looks like there is writing on the bottom of the stop sign",
+      "a stop sign is shown outside a google facility",
+      "this is an item that is simple and plain",
+      "a stop sign in front of a google building",
+      "a stop sign with a building with a google logo in the background"
+    ]
+  },
+  {
+    "image_id": 44801,
+    "file_name": "000000044801.jpg",
+    "height": 333,
+    "width": 500,
+    "captions": [
+      "A city street filled with traffic and buses.",
+      "a road filled with some cars and a motorcycle",
+      "Two people on a motorcycle stopped next to a car.",
+      "A motorcycle and several cars are stopped at an intersection.",
+      "A street filled with cars, a bus, and a motorcycle. "
+    ],
+    "raw_captions": [
+      "A city street filled with traffic and buses.",
+      "a road filled with some cars and a motorcycle",
+      "Two people on a motorcycle stopped next to a car.",
+      "A motorcycle and several cars are stopped at an intersection.",
+      "A street filled with cars, a bus, and a motorcycle. "
+    ],
+    "cleaned_captions": [
+      "a city street filled with traffic and buses",
+      "a road filled with some cars and a motorcycle",
+      "two people on a motorcycle stopped next to a car",
+      "a motorcycle and several cars are stopped at an intersection",
+      "a street filled with cars a bus and a motorcycle"
+    ]
+  },
+  {
+    "image_id": 342649,
+    "file_name": "000000342649.jpg",
+    "height": 500,
+    "width": 375,
+    "captions": [
+      "Two birds sitting on top of a wooden table near tinfoil.",
+      "There is a picture of an outside territory.\n",
+      "Two birds are standing beside a ball of tin foil.",
+      "two birds sitting on a wood table eating out of aluminum foil ",
+      "two brown white and black birds and some tin foil"
+    ],
+    "raw_captions": [
+      "Two birds sitting on top of a wooden table near tinfoil.",
+      "There is a picture of an outside territory.\n",
+      "Two birds are standing beside a ball of tin foil.",
+      "two birds sitting on a wood table eating out of aluminum foil ",
+      "two brown white and black birds and some tin foil"
+    ],
+    "cleaned_captions": [
+      "two birds sitting on top of a wooden table near tinfoil",
+      "there is a picture of an outside territory",
+      "two birds are standing beside a ball of tin foil",
+      "two birds sitting on a wood table eating out of aluminum foil",
+      "two brown white and black birds and some tin foil"
+    ]
+  },
+  {
+    "image_id": 109012,
+    "file_name": "000000109012.jpg",
+    "height": 400,
+    "width": 500,
+    "captions": [
+      "Cars are lined up in traffic at a red light.",
+      "Cars stopped at a red light in heavy traffic. ",
+      "A bunch of cars that are sitting at a red light.",
+      "A street filled with lots of traffic and traffic signals.",
+      "A bunch of cars sitting still in the middle of a street"
+    ],
+    "raw_captions": [
+      "Cars are lined up in traffic at a red light.",
+      "Cars stopped at a red light in heavy traffic. ",
+      "A bunch of cars that are sitting at a red light.",
+      "A street filled with lots of traffic and traffic signals.",
+      "A bunch of cars sitting still in the middle of a street"
+    ],
+    "cleaned_captions": [
+      "cars are lined up in traffic at a red light",
+      "cars stopped at a red light in heavy traffic",
+      "a bunch of cars that are sitting at a red light",
+      "a street filled with lots of traffic and traffic signals",
+      "a bunch of cars sitting still in the middle of a street"
+    ]
+  },
+  {
+    "image_id": 375409,
+    "file_name": "000000375409.jpg",
+    "height": 428,
+    "width": 640,
+    "captions": [
+      "A silver and blue Amtrak train sitting below tall buildings.",
+      "An Amtrak train engine at the station on a sunny day",
+      "An Amtrak train rolling down the tracks of a city.",
+      "Train at a train station on a clear day in a city.",
+      "A silver blue train parked in a train station."
+    ],
+    "raw_captions": [
+      "A silver and blue Amtrak train sitting below tall buildings.",
+      "An Amtrak train engine at the station on a sunny day",
+      "An Amtrak train rolling down the tracks of a city.",
+      "Train at a train station on a clear day in a city.",
+      "A silver blue train parked in a train station."
+    ],
+    "cleaned_captions": [
+      "a silver and blue amtrak train sitting below tall buildings",
+      "an amtrak train engine at the station on a sunny day",
+      "an amtrak train rolling down the tracks of a city",
+      "train at a train station on a clear day in a city",
+      "a silver blue train parked in a train station"
+    ]
+  },
+  {
+    "image_id": 227033,
+    "file_name": "000000227033.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A picture of an outdoor area that looks great.\n\n",
+      "An old steam engine train has been reconditioned.",
+      "There is a train that is on the tracks",
+      "The train engine is stopped on the tracks.",
+      "A train traveling down tracks next to a loading area."
+    ],
+    "raw_captions": [
+      "A picture of an outdoor area that looks great.\n\n",
+      "An old steam engine train has been reconditioned.",
+      "There is a train that is on the tracks",
+      "The train engine is stopped on the tracks.",
+      "A train traveling down tracks next to a loading area."
+    ],
+    "cleaned_captions": [
+      "a picture of an outdoor area that looks great",
+      "an old steam engine train has been reconditioned",
+      "there is a train that is on the tracks",
+      "the train engine is stopped on the tracks",
+      "a train traveling down tracks next to a loading area"
+    ]
+  },
+  {
+    "image_id": 557422,
+    "file_name": "000000557422.jpg",
+    "height": 640,
+    "width": 458,
+    "captions": [
+      "A club sign hanging off the side of a building.",
+      "There are stores lined up on the street",
+      "A restaurant sign saying Missoula Club Burgers and Fries.",
+      "a neon sign on the wall for a hamburger restaurant",
+      "A neon sign above a sidewalk promotes the Missoula club building."
+    ],
+    "raw_captions": [
+      "A club sign hanging off the side of a building.",
+      "There are stores lined up on the street",
+      "A restaurant sign saying Missoula Club Burgers and Fries.",
+      "a neon sign on the wall for a hamburger restaurant",
+      "A neon sign above a sidewalk promotes the Missoula club building."
+    ],
+    "cleaned_captions": [
+      "a club sign hanging off the side of a building",
+      "there are stores lined up on the street",
+      "a restaurant sign saying missoula club burgers and fries",
+      "a neon sign on the wall for a hamburger restaurant",
+      "a neon sign above a sidewalk promotes the missoula club building"
+    ]
+  },
+  {
+    "image_id": 386193,
+    "file_name": "000000386193.jpg",
+    "height": 375,
+    "width": 500,
+    "captions": [
+      "A bird themed clock sitting inside of a green box.",
+      "A clock with birds sits for sale on a store shelf.",
+      "A singing bird clock is on display at a store.",
+      "The wall clock has birds in the place of numbers.",
+      "a bird clock sitting on a shelf in a walmart store "
+    ],
+    "raw_captions": [
+      "A bird themed clock sitting inside of a green box.",
+      "A clock with birds sits for sale on a store shelf.",
+      "A singing bird clock is on display at a store.",
+      "The wall clock has birds in the place of numbers.",
+      "a bird clock sitting on a shelf in a walmart store "
+    ],
+    "cleaned_captions": [
+      "a bird themed clock sitting inside of a green box",
+      "a clock with birds sits for sale on a store shelf",
+      "a singing bird clock is on display at a store",
+      "the wall clock has birds in the place of numbers",
+      "a bird clock sitting on a shelf in a walmart store"
+    ]
+  },
+  {
+    "image_id": 573686,
+    "file_name": "000000573686.jpg",
+    "height": 429,
+    "width": 640,
+    "captions": [
+      "A couple of women standing next to each other holding skis.",
+      "The women are getting ready to go skiing.\n",
+      "These individuals are dressed in ski gear and look like avid skiers.",
+      "Two women are standing on a shuttle to the ski lodge.",
+      "A mother and child holding their skis together. "
+    ],
+    "raw_captions": [
+      "A couple of women standing next to each other holding skis.",
+      "The women are getting ready to go skiing.\n",
+      "These individuals are dressed in ski gear and look like avid skiers.",
+      "Two women are standing on a shuttle to the ski lodge.",
+      "A mother and child holding their skis together. "
+    ],
+    "cleaned_captions": [
+      "a couple of women standing next to each other holding skis",
+      "the women are getting ready to go skiing",
+      "these individuals are dressed in ski gear and look like avid skiers",
+      "two women are standing on a shuttle to the ski lodge",
+      "a mother and child holding their skis together"
+    ]
+  },
+  {
+    "image_id": 342814,
+    "file_name": "000000342814.jpg",
+    "height": 427,
+    "width": 640,
+    "captions": [
+      "A couple of green buses driving next to a roller coaster.",
+      "The busses are parked at an amusement park.",
+      "Tour buses are parked at an amusement park.",
+      "Two pea green buses are parked next to each other.",
+      "A line of buses waiting outside an amusement park. "
+    ],
+    "raw_captions": [
+      "A couple of green buses driving next to a roller coaster.",
+      "The busses are parked at an amusement park.",
+      "Tour buses are parked at an amusement park.",
+      "Two pea green buses are parked next to each other.",
+      "A line of buses waiting outside an amusement park. "
+    ],
+    "cleaned_captions": [
+      "a couple of green buses driving next to a roller coaster",
+      "the busses are parked at an amusement park",
+      "tour buses are parked at an amusement park",
+      "two pea green buses are parked next to each other",
+      "a line of buses waiting outside an amusement park"
+    ]
+  },
+  {
+    "image_id": 238525,
+    "file_name": "000000238525.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A group of giraffe standing and sitting on a  field.",
+      "Giraffe lying down near standing ones, in a dusty enclosure.",
+      "A giraffe is sitting near other standing giraffes",
+      "A close up of a giraffe shows it's beautiful pattern.",
+      "A giraffe lying in hay between two other standing giraffes."
+    ],
+    "raw_captions": [
+      "A group of giraffe standing and sitting on a  field.",
+      "Giraffe lying down near standing ones, in a dusty enclosure.",
+      "A giraffe is sitting near other standing giraffes",
+      "A close up of a giraffe shows it's beautiful pattern.",
+      "A giraffe lying in hay between two other standing giraffes."
+    ],
+    "cleaned_captions": [
+      "a group of giraffe standing and sitting on a field",
+      "giraffe lying down near standing ones in a dusty enclosure",
+      "a giraffe is sitting near other standing giraffes",
+      "a close up of a giraffe shows it's beautiful pattern",
+      "a giraffe lying in hay between two other standing giraffes"
+    ]
+  },
+  {
+    "image_id": 436044,
+    "file_name": "000000436044.jpg",
+    "height": 428,
+    "width": 640,
+    "captions": [
+      "A bird is perched a top a branch over a river",
+      "A bird sits on a branch above a stream.",
+      "A bird on top of a tree branch over water.",
+      "A picture of an outside region that appears incredible. \n",
+      "a bird on a fallen branch in a body of water "
+    ],
+    "raw_captions": [
+      "A bird is perched a top a branch over a river",
+      "A bird sits on a branch above a stream.",
+      "A bird on top of a tree branch over water.",
+      "A picture of an outside region that appears incredible. \n",
+      "a bird on a fallen branch in a body of water "
+    ],
+    "cleaned_captions": [
+      "a bird is perched a top a branch over a river",
+      "a bird sits on a branch above a stream",
+      "a bird on top of a tree branch over water",
+      "a picture of an outside region that appears incredible",
+      "a bird on a fallen branch in a body of water"
+    ]
+  },
+  {
+    "image_id": 176906,
+    "file_name": "000000176906.jpg",
+    "height": 500,
+    "width": 460,
+    "captions": [
+      "A herd of animals eating food inside of a pen.",
+      "a number of sheep eating food near one another ",
+      "Three people standing around a small enclosure of sheep and goats.",
+      "a group of sheep eating and drinking inside a gate ",
+      "A pen of sheep has attracted some visitors."
+    ],
+    "raw_captions": [
+      "A herd of animals eating food inside of a pen.",
+      "a number of sheep eating food near one another ",
+      "Three people standing around a small enclosure of sheep and goats.",
+      "a group of sheep eating and drinking inside a gate ",
+      "A pen of sheep has attracted some visitors."
+    ],
+    "cleaned_captions": [
+      "a herd of animals eating food inside of a pen",
+      "a number of sheep eating food near one another",
+      "three people standing around a small enclosure of sheep and goats",
+      "a group of sheep eating and drinking inside a gate",
+      "a pen of sheep has attracted some visitors"
+    ]
+  },
+  {
+    "image_id": 562171,
+    "file_name": "000000562171.jpg",
+    "height": 350,
+    "width": 500,
+    "captions": [
+      "A giraffe standing on top of a grass covered field.",
+      "A giraffe is bending down and eating grass.",
+      "a giraffe is standing in a grassy field",
+      "A giraffe leaned over eating grass on a field.",
+      "A giraffe is grazing in a field with people in the background."
+    ],
+    "raw_captions": [
+      "A giraffe standing on top of a grass covered field.",
+      "A giraffe is bending down and eating grass.",
+      "a giraffe is standing in a grassy field",
+      "A giraffe leaned over eating grass on a field.",
+      "A giraffe is grazing in a field with people in the background."
+    ],
+    "cleaned_captions": [
+      "a giraffe standing on top of a grass covered field",
+      "a giraffe is bending down and eating grass",
+      "a giraffe is standing in a grassy field",
+      "a giraffe leaned over eating grass on a field",
+      "a giraffe is grazing in a field with people in the background"
+    ]
+  },
+  {
+    "image_id": 87435,
+    "file_name": "000000087435.jpg",
+    "height": 360,
+    "width": 640,
+    "captions": [
+      "The red bus has an anime girl on it. ",
+      "Anime themed bus traveling down a tree lined street.",
+      "a red blue and white bus riding down a empty street ",
+      "The back of a bus in Japan with a Sailor Moon character on it.",
+      "A photo of the back of a public transportation bus with anime advertisement."
+    ],
+    "raw_captions": [
+      "The red bus has an anime girl on it. ",
+      "Anime themed bus traveling down a tree lined street.",
+      "a red blue and white bus riding down a empty street ",
+      "The back of a bus in Japan with a Sailor Moon character on it.",
+      "A photo of the back of a public transportation bus with anime advertisement."
+    ],
+    "cleaned_captions": [
+      "the red bus has an anime girl on it",
+      "anime themed bus traveling down a tree lined street",
+      "a red blue and white bus riding down a empty street",
+      "the back of a bus in japan with a sailor moon character on it",
+      "a photo of the back of a public transportation bus with anime advertisement"
+    ]
+  },
+  {
+    "image_id": 5356,
+    "file_name": "000000005356.jpg",
+    "height": 427,
+    "width": 640,
+    "captions": [
+      "A passenger plane that is parked on the runway.",
+      "A photo of a man looking out a window at a jet plane.",
+      "a large air plane at a terminal ",
+      "An airplane is parked at the gate of an airport. ",
+      "A man looks out the window while at the airport."
+    ],
+    "raw_captions": [
+      "A passenger plane that is parked on the runway.",
+      "A photo of a man looking out a window at a jet plane.",
+      "a large air plane at a terminal ",
+      "An airplane is parked at the gate of an airport. ",
+      "A man looks out the window while at the airport."
+    ],
+    "cleaned_captions": [
+      "a passenger plane that is parked on the runway",
+      "a photo of a man looking out a window at a jet plane",
+      "a large air plane at a terminal",
+      "an airplane is parked at the gate of an airport",
+      "a man looks out the window while at the airport"
+    ]
+  },
+  {
+    "image_id": 543713,
+    "file_name": "000000543713.jpg",
+    "height": 481,
+    "width": 640,
+    "captions": [
+      "A long horn sheep standing on top of a field.",
+      "A sheep that is grazing in a field.",
+      "some sheep are grazing in a grassy field",
+      "A cow standing around in a field with other cows",
+      "A SHEDDING SHEEP IN A FIELD AMONG OTHER SHEEP"
+    ],
+    "raw_captions": [
+      "A long horn sheep standing on top of a field.",
+      "A sheep that is grazing in a field.",
+      "some sheep are grazing in a grassy field",
+      "A cow standing around in a field with other cows",
+      "A SHEDDING SHEEP IN A FIELD AMONG OTHER SHEEP"
+    ],
+    "cleaned_captions": [
+      "a long horn sheep standing on top of a field",
+      "a sheep that is grazing in a field",
+      "some sheep are grazing in a grassy field",
+      "a cow standing around in a field with other cows",
+      "a shedding sheep in a field among other sheep"
+    ]
+  },
+  {
+    "image_id": 518604,
+    "file_name": "000000518604.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A large bird sitting on top of a tree.",
+      "A green, yellow and grey bird perched on top of a branch.",
+      "A green bird is sitting on top of a branch. ",
+      "a bird stands on top of a wooden stick ",
+      "A portrait of a small bird perched on a tree "
+    ],
+    "raw_captions": [
+      "A large bird sitting on top of a tree.",
+      "A green, yellow and grey bird perched on top of a branch.",
+      "A green bird is sitting on top of a branch. ",
+      "a bird stands on top of a wooden stick ",
+      "A portrait of a small bird perched on a tree "
+    ],
+    "cleaned_captions": [
+      "a large bird sitting on top of a tree",
+      "a green yellow and grey bird perched on top of a branch",
+      "a green bird is sitting on top of a branch",
+      "a bird stands on top of a wooden stick",
+      "a portrait of a small bird perched on a tree"
+    ]
+  },
+  {
+    "image_id": 526459,
+    "file_name": "000000526459.jpg",
+    "height": 640,
+    "width": 480,
+    "captions": [
+      "That is a picture of an outside locale. \n",
+      "the windows of mini van covered with some paper to protect it from some paint",
+      "A bus with fresh paint and newspapers cover all the windows.",
+      "A van with newspapers covering all its windows sits in a garage. ",
+      "a blue and white bus is covered in newspaper"
+    ],
+    "raw_captions": [
+      "That is a picture of an outside locale. \n",
+      "the windows of mini van covered with some paper to protect it from some paint",
+      "A bus with fresh paint and newspapers cover all the windows.",
+      "A van with newspapers covering all its windows sits in a garage. ",
+      "a blue and white bus is covered in newspaper"
+    ],
+    "cleaned_captions": [
+      "that is a picture of an outside locale",
+      "the windows of mini van covered with some paper to protect it from some paint",
+      "a bus with fresh paint and newspapers cover all the windows",
+      "a van with newspapers covering all its windows sits in a garage",
+      "a blue and white bus is covered in newspaper"
+    ]
+  },
+  {
+    "image_id": 3849,
+    "file_name": "000000003849.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "There are several street signs in the highway",
+      "a number of cars driving on a highway under signs",
+      "Nationwide signage adorns most of the major highways in the USA.",
+      "A great view of a street in the picture.  \n\n",
+      "Cars are traveling on the road beneath street signs."
+    ],
+    "raw_captions": [
+      "There are several street signs in the highway",
+      "a number of cars driving on a highway under signs",
+      "Nationwide signage adorns most of the major highways in the USA.",
+      "A great view of a street in the picture.  \n\n",
+      "Cars are traveling on the road beneath street signs."
+    ],
+    "cleaned_captions": [
+      "there are several street signs in the highway",
+      "a number of cars driving on a highway under signs",
+      "nationwide signage adorns most of the major highways in the usa",
+      "a great view of a street in the picture",
+      "cars are traveling on the road beneath street signs"
+    ]
+  },
+  {
+    "image_id": 58569,
+    "file_name": "000000058569.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "two public transit buses on a city street",
+      "A red bus driving in front of a white bus.",
+      "colorful buses on a busy city street at dark.",
+      "a red bus is in front of another one",
+      "Many buses drive down a street in a single file line"
+    ],
+    "raw_captions": [
+      "two public transit buses on a city street",
+      "A red bus driving in front of a white bus.",
+      "colorful buses on a busy city street at dark.",
+      "a red bus is in front of another one",
+      "Many buses drive down a street in a single file line"
+    ],
+    "cleaned_captions": [
+      "two public transit buses on a city street",
+      "a red bus driving in front of a white bus",
+      "colorful buses on a busy city street at dark",
+      "a red bus is in front of another one",
+      "many buses drive down a street in a single file line"
+    ]
+  },
+  {
+    "image_id": 161010,
+    "file_name": "000000161010.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "Picture of an outside corner that looks amazing. \n",
+      "Trash cans and a fire hydrant are on the curb of a sidewalk.",
+      "An orange fire hydrant sitting on the side of a road.",
+      "A view of a empty street that is in a big  city.",
+      "A city street has a fire hydrant, trash bin, and parked vehicles."
+    ],
+    "raw_captions": [
+      "Picture of an outside corner that looks amazing. \n",
+      "Trash cans and a fire hydrant are on the curb of a sidewalk.",
+      "An orange fire hydrant sitting on the side of a road.",
+      "A view of a empty street that is in a big  city.",
+      "A city street has a fire hydrant, trash bin, and parked vehicles."
+    ],
+    "cleaned_captions": [
+      "picture of an outside corner that looks amazing",
+      "trash cans and a fire hydrant are on the curb of a sidewalk",
+      "an orange fire hydrant sitting on the side of a road",
+      "a view of a empty street that is in a big city",
+      "a city street has a fire hydrant trash bin and parked vehicles"
+    ]
+  },
+  {
+    "image_id": 251768,
+    "file_name": "000000251768.jpg",
+    "height": 427,
+    "width": 640,
+    "captions": [
+      "The sheep are walking on the grass near a stream.",
+      "a little lamb standing next to a sheep and looking at it ",
+      "Two sheep on a hillside with a creek running beside it.",
+      "Sheep on a grassy hillside overlooking a river. ",
+      "The verdant valley and stream are home to this mother and baby sheep."
+    ],
+    "raw_captions": [
+      "The sheep are walking on the grass near a stream.",
+      "a little lamb standing next to a sheep and looking at it ",
+      "Two sheep on a hillside with a creek running beside it.",
+      "Sheep on a grassy hillside overlooking a river. ",
+      "The verdant valley and stream are home to this mother and baby sheep."
+    ],
+    "cleaned_captions": [
+      "the sheep are walking on the grass near a stream",
+      "a little lamb standing next to a sheep and looking at it",
+      "two sheep on a hillside with a creek running beside it",
+      "sheep on a grassy hillside overlooking a river",
+      "the verdant valley and stream are home to this mother and baby sheep"
+    ]
+  },
+  {
+    "image_id": 340922,
+    "file_name": "000000340922.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A person sitting on a bench with lots of written signs.",
+      "A man sitting on a cement bench next to a planter",
+      "A guy sits on a public bench with protesting signs.",
+      "A man is making a variety of protest signs.",
+      "A man making a sign for the current protest. "
+    ],
+    "raw_captions": [
+      "A person sitting on a bench with lots of written signs.",
+      "A man sitting on a cement bench next to a planter",
+      "A guy sits on a public bench with protesting signs.",
+      "A man is making a variety of protest signs.",
+      "A man making a sign for the current protest. "
+    ],
+    "cleaned_captions": [
+      "a person sitting on a bench with lots of written signs",
+      "a man sitting on a cement bench next to a planter",
+      "a guy sits on a public bench with protesting signs",
+      "a man is making a variety of protest signs",
+      "a man making a sign for the current protest"
+    ]
+  },
+  {
+    "image_id": 288603,
+    "file_name": "000000288603.jpg",
+    "height": 428,
+    "width": 640,
+    "captions": [
+      "A donkey leads a herd of sheep down a busy street.",
+      "A donkey leads a herd of sheep on a city street.",
+      "Three young boys herding goats and a donkey past some cars.",
+      "Boys behind mules and goats on the street. ",
+      "A group of sheep with a donkey walking in a parking lot."
+    ],
+    "raw_captions": [
+      "A donkey leads a herd of sheep down a busy street.",
+      "A donkey leads a herd of sheep on a city street.",
+      "Three young boys herding goats and a donkey past some cars.",
+      "Boys behind mules and goats on the street. ",
+      "A group of sheep with a donkey walking in a parking lot."
+    ],
+    "cleaned_captions": [
+      "a donkey leads a herd of sheep down a busy street",
+      "a donkey leads a herd of sheep on a city street",
+      "three young boys herding goats and a donkey past some cars",
+      "boys behind mules and goats on the street",
+      "a group of sheep with a donkey walking in a parking lot"
+    ]
+  },
+  {
+    "image_id": 345275,
+    "file_name": "000000345275.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A traffic light with a misty mountain in the backdrop.",
+      "A photograph of a mountain on a clear day with a traffic light in the left side of the frame.",
+      "A view of a lake and a mountain on a sunny day.",
+      "The side view of a traffic signal with hills off in the distance. ",
+      "a street light sits in front of a mountain "
+    ],
+    "raw_captions": [
+      "A traffic light with a misty mountain in the backdrop.",
+      "A photograph of a mountain on a clear day with a traffic light in the left side of the frame.",
+      "A view of a lake and a mountain on a sunny day.",
+      "The side view of a traffic signal with hills off in the distance. ",
+      "a street light sits in front of a mountain "
+    ],
+    "cleaned_captions": [
+      "a traffic light with a misty mountain in the backdrop",
+      "a photograph of a mountain on a clear day with a traffic light in the left side of the frame",
+      "a view of a lake and a mountain on a sunny day",
+      "the side view of a traffic signal with hills off in the distance",
+      "a street light sits in front of a mountain"
+    ]
+  },
+  {
+    "image_id": 224970,
+    "file_name": "000000224970.jpg",
+    "height": 478,
+    "width": 640,
+    "captions": [
+      "A couple of street signs mounted to the top of a metal pole.",
+      "Two street signs that are half white and half yellow.",
+      "Two street sign posts at the corner of an intersection. ",
+      "Street sign board are seen fixed on a pole.",
+      "A street sign is painted yellow and white."
+    ],
+    "raw_captions": [
+      "A couple of street signs mounted to the top of a metal pole.",
+      "Two street signs that are half white and half yellow.",
+      "Two street sign posts at the corner of an intersection. ",
+      "Street sign board are seen fixed on a pole.",
+      "A street sign is painted yellow and white."
+    ],
+    "cleaned_captions": [
+      "a couple of street signs mounted to the top of a metal pole",
+      "two street signs that are half white and half yellow",
+      "two street sign posts at the corner of an intersection",
+      "street sign board are seen fixed on a pole",
+      "a street sign is painted yellow and white"
+    ]
+  },
+  {
+    "image_id": 316396,
+    "file_name": "000000316396.jpg",
+    "height": 640,
+    "width": 607,
+    "captions": [
+      "A group of giraffe standing next to a tree.",
+      "Several giraffes stand near a tree at the base of a hill.",
+      "Four giraffes standing together in a zoo enclosure.",
+      "three giraffes standing around and eating by a tree",
+      "Four giraffes are gathered outdoors beside a tree."
+    ],
+    "raw_captions": [
+      "A group of giraffe standing next to a tree.",
+      "Several giraffes stand near a tree at the base of a hill.",
+      "Four giraffes standing together in a zoo enclosure.",
+      "three giraffes standing around and eating by a tree",
+      "Four giraffes are gathered outdoors beside a tree."
+    ],
+    "cleaned_captions": [
+      "a group of giraffe standing next to a tree",
+      "several giraffes stand near a tree at the base of a hill",
+      "four giraffes standing together in a zoo enclosure",
+      "three giraffes standing around and eating by a tree",
+      "four giraffes are gathered outdoors beside a tree"
+    ]
+  },
+  {
+    "image_id": 173080,
+    "file_name": "000000173080.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "a number of cars on a city street near a traffic light",
+      "Cars are stopped at intersection at sundown. ",
+      "Cars stopped at a red light while the sun is setting.",
+      "A red light is shown over a busy street.",
+      "A city street at dusk time with traffic."
+    ],
+    "raw_captions": [
+      "a number of cars on a city street near a traffic light",
+      "Cars are stopped at intersection at sundown. ",
+      "Cars stopped at a red light while the sun is setting.",
+      "A red light is shown over a busy street.",
+      "A city street at dusk time with traffic."
+    ],
+    "cleaned_captions": [
+      "a number of cars on a city street near a traffic light",
+      "cars are stopped at intersection at sundown",
+      "cars stopped at a red light while the sun is setting",
+      "a red light is shown over a busy street",
+      "a city street at dusk time with traffic"
+    ]
+  },
+  {
+    "image_id": 179563,
+    "file_name": "000000179563.jpg",
+    "height": 411,
+    "width": 411,
+    "captions": [
+      "A man sitting under a stop sign on the side of street.",
+      "A man plays the trumpet by a stop sign.",
+      "A man on a scooter sits beside a stop sign.",
+      "The man is sitting on the corner of the street",
+      "A person sitting on the corner underneath a stop sign."
+    ],
+    "raw_captions": [
+      "A man sitting under a stop sign on the side of street.",
+      "A man plays the trumpet by a stop sign.",
+      "A man on a scooter sits beside a stop sign.",
+      "The man is sitting on the corner of the street",
+      "A person sitting on the corner underneath a stop sign."
+    ],
+    "cleaned_captions": [
+      "a man sitting under a stop sign on the side of street",
+      "a man plays the trumpet by a stop sign",
+      "a man on a scooter sits beside a stop sign",
+      "the man is sitting on the corner of the street",
+      "a person sitting on the corner underneath a stop sign"
+    ]
+  },
+  {
+    "image_id": 87958,
+    "file_name": "000000087958.jpg",
+    "height": 500,
+    "width": 471,
+    "captions": [
+      "A train with several cars is going around a corner.",
+      "A rusty train in taking a curve in the tracks.",
+      "A train going down the train tracks near a field",
+      "a gray train on its track some brown and green grass",
+      "A train is coming around a curve in the hills. "
+    ],
+    "raw_captions": [
+      "A train with several cars is going around a corner.",
+      "A rusty train in taking a curve in the tracks.",
+      "A train going down the train tracks near a field",
+      "a gray train on its track some brown and green grass",
+      "A train is coming around a curve in the hills. "
+    ],
+    "cleaned_captions": [
+      "a train with several cars is going around a corner",
+      "a rusty train in taking a curve in the tracks",
+      "a train going down the train tracks near a field",
+      "a gray train on its track some brown and green grass",
+      "a train is coming around a curve in the hills"
+    ]
+  },
+  {
+    "image_id": 503724,
+    "file_name": "000000503724.jpg",
+    "height": 257,
+    "width": 640,
+    "captions": [
+      "a train on a track near a street ",
+      "A red train sitting in a train station under a blue sky.",
+      "a red and black passenger train sitting on the track",
+      "A red Railjet is on the track on a clear day.",
+      "A red bullet style train moving through town near a city street."
+    ],
+    "raw_captions": [
+      "a train on a track near a street ",
+      "A red train sitting in a train station under a blue sky.",
+      "a red and black passenger train sitting on the track",
+      "A red Railjet is on the track on a clear day.",
+      "A red bullet style train moving through town near a city street."
+    ],
+    "cleaned_captions": [
+      "a train on a track near a street",
+      "a red train sitting in a train station under a blue sky",
+      "a red and black passenger train sitting on the track",
+      "a red railjet is on the track on a clear day",
+      "a red bullet style train moving through town near a city street"
+    ]
+  },
+  {
+    "image_id": 83602,
+    "file_name": "000000083602.jpg",
+    "height": 425,
+    "width": 640,
+    "captions": [
+      "a yellow and black train is on some tracks",
+      "A yellow train pulling into a train station.",
+      "A train is either coming or going to a trainstop.",
+      "A yellow and black train stopped at a platform.",
+      "A freightliner train is pulling into a station. "
+    ],
+    "raw_captions": [
+      "a yellow and black train is on some tracks",
+      "A yellow train pulling into a train station.",
+      "A train is either coming or going to a trainstop.",
+      "A yellow and black train stopped at a platform.",
+      "A freightliner train is pulling into a station. "
+    ],
+    "cleaned_captions": [
+      "a yellow and black train is on some tracks",
+      "a yellow train pulling into a train station",
+      "a train is either coming or going to a trainstop",
+      "a yellow and black train stopped at a platform",
+      "a freightliner train is pulling into a station"
+    ]
+  },
+  {
+    "image_id": 507550,
+    "file_name": "000000507550.jpg",
+    "height": 428,
+    "width": 640,
+    "captions": [
+      "A flock of birds standing on top of a body of water.",
+      "Birds on a small island on a lake.",
+      "A close up of several birds feeding in a body of water.",
+      "some birds are standing by a body of water",
+      "Ducks are enjoying the water off of the shore."
+    ],
+    "raw_captions": [
+      "A flock of birds standing on top of a body of water.",
+      "Birds on a small island on a lake.",
+      "A close up of several birds feeding in a body of water.",
+      "some birds are standing by a body of water",
+      "Ducks are enjoying the water off of the shore."
+    ],
+    "cleaned_captions": [
+      "a flock of birds standing on top of a body of water",
+      "birds on a small island on a lake",
+      "a close up of several birds feeding in a body of water",
+      "some birds are standing by a body of water",
+      "ducks are enjoying the water off of the shore"
+    ]
+  },
+  {
+    "image_id": 500717,
+    "file_name": "000000500717.jpg",
+    "height": 549,
+    "width": 640,
+    "captions": [
+      "A man that is standing next to train.",
+      "A yellow train going down the train track",
+      "A man is walking by a yellow train on the tracks.",
+      "A yellow train traveling down tracks next to a man",
+      "man walking along side train tracks with a yellow, black train on the other track"
+    ],
+    "raw_captions": [
+      "A man that is standing next to train.",
+      "A yellow train going down the train track",
+      "A man is walking by a yellow train on the tracks.",
+      "A yellow train traveling down tracks next to a man",
+      "man walking along side train tracks with a yellow, black train on the other track"
+    ],
+    "cleaned_captions": [
+      "a man that is standing next to train",
+      "a yellow train going down the train track",
+      "a man is walking by a yellow train on the tracks",
+      "a yellow train traveling down tracks next to a man",
+      "man walking along side train tracks with a yellow black train on the other track"
+    ]
+  },
+  {
+    "image_id": 244421,
+    "file_name": "000000244421.jpg",
+    "height": 426,
+    "width": 640,
+    "captions": [
+      "A car that is sitting next to a rail car.",
+      "A trolly full of people moving down the tracks as a car goes buy.",
+      "A bus with people on it traveling down the road beside a car ",
+      "A trolley rides on a street next to a car.",
+      "A train on a rail line and a car on the road"
+    ],
+    "raw_captions": [
+      "A car that is sitting next to a rail car.",
+      "A trolly full of people moving down the tracks as a car goes buy.",
+      "A bus with people on it traveling down the road beside a car ",
+      "A trolley rides on a street next to a car.",
+      "A train on a rail line and a car on the road"
+    ],
+    "cleaned_captions": [
+      "a car that is sitting next to a rail car",
+      "a trolly full of people moving down the tracks as a car goes buy",
+      "a bus with people on it traveling down the road beside a car",
+      "a trolley rides on a street next to a car",
+      "a train on a rail line and a car on the road"
+    ]
+  },
+  {
+    "image_id": 559047,
+    "file_name": "000000559047.jpg",
+    "height": 430,
+    "width": 640,
+    "captions": [
+      "A cat that is sitting down on a wooden seat.",
+      "a cat sitting on a wooden top over some vegetation ",
+      "A cat sitting on a wooden bench outside in a garden area.",
+      "The cat is grey and white in color",
+      "A cat is sitting on a chair in a garden."
+    ],
+    "raw_captions": [
+      "A cat that is sitting down on a wooden seat.",
+      "a cat sitting on a wooden top over some vegetation ",
+      "A cat sitting on a wooden bench outside in a garden area.",
+      "The cat is grey and white in color",
+      "A cat is sitting on a chair in a garden."
+    ],
+    "cleaned_captions": [
+      "a cat that is sitting down on a wooden seat",
+      "a cat sitting on a wooden top over some vegetation",
+      "a cat sitting on a wooden bench outside in a garden area",
+      "the cat is grey and white in color",
+      "a cat is sitting on a chair in a garden"
+    ]
+  },
+  {
+    "image_id": 95371,
+    "file_name": "000000095371.jpg",
+    "height": 436,
+    "width": 640,
+    "captions": [
+      "a colorful double decker bus doing down the road beside a semi",
+      "A double decker bus is traveling down the street.",
+      "A double decker bus on a street in England",
+      "A double-decked bus is driving along the highway.",
+      "A double decker bus is traveling down the road on an empty street."
+    ],
+    "raw_captions": [
+      "a colorful double decker bus doing down the road beside a semi",
+      "A double decker bus is traveling down the street.",
+      "A double decker bus on a street in England",
+      "A double-decked bus is driving along the highway.",
+      "A double decker bus is traveling down the road on an empty street."
+    ],
+    "cleaned_captions": [
+      "a colorful double decker bus doing down the road beside a semi",
+      "a double decker bus is traveling down the street",
+      "a double decker bus on a street in england",
+      "a double decked bus is driving along the highway",
+      "a double decker bus is traveling down the road on an empty street"
+    ]
+  },
+  {
+    "image_id": 248395,
+    "file_name": "000000248395.jpg",
+    "height": 640,
+    "width": 480,
+    "captions": [
+      "A tiny bat is held by someone with a camera",
+      "An uncommon picture of a single person inside this picture.\n",
+      "A man gently attempts to feed a baby bird. ",
+      "a man stretching out a live bats wings",
+      "A man holds a small animal in front of a camera."
+    ],
+    "raw_captions": [
+      "A tiny bat is held by someone with a camera",
+      "An uncommon picture of a single person inside this picture.\n",
+      "A man gently attempts to feed a baby bird. ",
+      "a man stretching out a live bats wings",
+      "A man holds a small animal in front of a camera."
+    ],
+    "cleaned_captions": [
+      "a tiny bat is held by someone with a camera",
+      "an uncommon picture of a single person inside this picture",
+      "a man gently attempts to feed a baby bird",
+      "a man stretching out a live bats wings",
+      "a man holds a small animal in front of a camera"
+    ]
+  },
+  {
+    "image_id": 449403,
+    "file_name": "000000449403.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A city bus moving along a road with many trees.",
+      "A double decker bus driving down a street.",
+      "a tourist bus parked on the side of a road under a pole ",
+      "A big bus traveling down the street with other vehicles",
+      "A person with an umbrella walks by a double decker bus."
+    ],
+    "raw_captions": [
+      "A city bus moving along a road with many trees.",
+      "A double decker bus driving down a street.",
+      "a tourist bus parked on the side of a road under a pole ",
+      "A big bus traveling down the street with other vehicles",
+      "A person with an umbrella walks by a double decker bus."
+    ],
+    "cleaned_captions": [
+      "a city bus moving along a road with many trees",
+      "a double decker bus driving down a street",
+      "a tourist bus parked on the side of a road under a pole",
+      "a big bus traveling down the street with other vehicles",
+      "a person with an umbrella walks by a double decker bus"
+    ]
+  },
+  {
+    "image_id": 174987,
+    "file_name": "000000174987.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A train is being doodled with green and blue.",
+      "A graffiti design is painted on the side of this bus. ",
+      "A colorful train is standing on the platform.",
+      "A train on a rail line with paintings ",
+      "A bus with graffitti written on the side if it "
+    ],
+    "raw_captions": [
+      "A train is being doodled with green and blue.",
+      "A graffiti design is painted on the side of this bus. ",
+      "A colorful train is standing on the platform.",
+      "A train on a rail line with paintings ",
+      "A bus with graffitti written on the side if it "
+    ],
+    "cleaned_captions": [
+      "a train is being doodled with green and blue",
+      "a graffiti design is painted on the side of this bus",
+      "a colorful train is standing on the platform",
+      "a train on a rail line with paintings",
+      "a bus with graffitti written on the side if it"
+    ]
+  },
+  {
+    "image_id": 64016,
+    "file_name": "000000064016.jpg",
+    "height": 427,
+    "width": 640,
+    "captions": [
+      "A man has a crow sitting on his hand.",
+      "A guy holds a bird up on his gloved hand in front of a crowd.",
+      "A person holds a bird in front of the trees.",
+      "People watching a person holding a bird in a wooded area.",
+      "A person holding a bird of prey while others look on"
+    ],
+    "raw_captions": [
+      "A man has a crow sitting on his hand.",
+      "A guy holds a bird up on his gloved hand in front of a crowd.",
+      "A person holds a bird in front of the trees.",
+      "People watching a person holding a bird in a wooded area.",
+      "A person holding a bird of prey while others look on"
+    ],
+    "cleaned_captions": [
+      "a man has a crow sitting on his hand",
+      "a guy holds a bird up on his gloved hand in front of a crowd",
+      "a person holds a bird in front of the trees",
+      "people watching a person holding a bird in a wooded area",
+      "a person holding a bird of prey while others look on"
+    ]
+  },
+  {
+    "image_id": 90560,
+    "file_name": "000000090560.jpg",
+    "height": 360,
+    "width": 640,
+    "captions": [
+      "A couple of red trains parked in a train station.",
+      "two trains parked side by side in a train station with people wallking bye",
+      "Two trains are parked at the train station.",
+      "two red trains sitting next to each other on the tracks ",
+      "Subway trains are sitting idle on a railway."
+    ],
+    "raw_captions": [
+      "A couple of red trains parked in a train station.",
+      "two trains parked side by side in a train station with people wallking bye",
+      "Two trains are parked at the train station.",
+      "two red trains sitting next to each other on the tracks ",
+      "Subway trains are sitting idle on a railway."
+    ],
+    "cleaned_captions": [
+      "a couple of red trains parked in a train station",
+      "two trains parked side by side in a train station with people wallking bye",
+      "two trains are parked at the train station",
+      "two red trains sitting next to each other on the tracks",
+      "subway trains are sitting idle on a railway"
+    ]
+  },
+  {
+    "image_id": 109939,
+    "file_name": "000000109939.jpg",
+    "height": 640,
+    "width": 480,
+    "captions": [
+      "A red double decker bus driving down a street.",
+      "a double stacked city bus coming down the street",
+      "A double-decker bus on a busy street on an overcast day.",
+      "A double decker bus driving down a street.",
+      "Red, modern double decker bus driving down the street"
+    ],
+    "raw_captions": [
+      "A red double decker bus driving down a street.",
+      "a double stacked city bus coming down the street",
+      "A double-decker bus on a busy street on an overcast day.",
+      "A double decker bus driving down a street.",
+      "Red, modern double decker bus driving down the street"
+    ],
+    "cleaned_captions": [
+      "a red double decker bus driving down a street",
+      "a double stacked city bus coming down the street",
+      "a double decker bus on a busy street on an overcast day",
+      "a double decker bus driving down a street",
+      "red modern double decker bus driving down the street"
+    ]
+  },
+  {
+    "image_id": 415714,
+    "file_name": "000000415714.jpg",
+    "height": 640,
+    "width": 428,
+    "captions": [
+      "Two signs that are attached to a metal pole.",
+      "A full view of an outdoor space with many things to see.\n",
+      "the corner of the avenues of the americas and 6th avenue",
+      "Sign post for 6th ave ( Avenue of the Americas)",
+      "two green and white street signs on a brown pole"
+    ],
+    "raw_captions": [
+      "Two signs that are attached to a metal pole.",
+      "A full view of an outdoor space with many things to see.\n",
+      "the corner of the avenues of the americas and 6th avenue",
+      "Sign post for 6th ave ( Avenue of the Americas)",
+      "two green and white street signs on a brown pole"
+    ],
+    "cleaned_captions": [
+      "two signs that are attached to a metal pole",
+      "a full view of an outdoor space with many things to see",
+      "the corner of the avenues of the americas and 6th avenue",
+      "sign post for 6th ave avenue of the americas",
+      "two green and white street signs on a brown pole"
+    ]
+  },
+  {
+    "image_id": 578713,
+    "file_name": "000000578713.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A back ho that is next to a pile of dirt.",
+      "A tractor digging up dirt near a train track",
+      "A train station in the process of construction",
+      "An excavator, Stop sign and rail line  ",
+      "The other side of the track at a train station is under construction."
+    ],
+    "raw_captions": [
+      "A back ho that is next to a pile of dirt.",
+      "A tractor digging up dirt near a train track",
+      "A train station in the process of construction",
+      "An excavator, Stop sign and rail line  ",
+      "The other side of the track at a train station is under construction."
+    ],
+    "cleaned_captions": [
+      "a back ho that is next to a pile of dirt",
+      "a tractor digging up dirt near a train track",
+      "a train station in the process of construction",
+      "an excavator stop sign and rail line",
+      "the other side of the track at a train station is under construction"
+    ]
+  },
+  {
+    "image_id": 291298,
+    "file_name": "000000291298.jpg",
+    "height": 359,
+    "width": 640,
+    "captions": [
+      "A man and a woman greet a giraffe over a fence.",
+      "A couple of people feeding giraffes by hand at a zoo.",
+      "Two people looking at a giraffe and petting its nose.",
+      "two people are petting a giraffe some dirt and trees",
+      "A couple looking at a giraffe over a wooden fence."
+    ],
+    "raw_captions": [
+      "A man and a woman greet a giraffe over a fence.",
+      "A couple of people feeding giraffes by hand at a zoo.",
+      "Two people looking at a giraffe and petting its nose.",
+      "two people are petting a giraffe some dirt and trees",
+      "A couple looking at a giraffe over a wooden fence."
+    ],
+    "cleaned_captions": [
+      "a man and a woman greet a giraffe over a fence",
+      "a couple of people feeding giraffes by hand at a zoo",
+      "two people looking at a giraffe and petting its nose",
+      "two people are petting a giraffe some dirt and trees",
+      "a couple looking at a giraffe over a wooden fence"
+    ]
+  },
+  {
+    "image_id": 133867,
+    "file_name": "000000133867.jpg",
+    "height": 500,
+    "width": 470,
+    "captions": [
+      "A parade on the street with a person riding an elephant.",
+      "a parade with an elephant wearing a sign that says\" i love new york\"",
+      "Few persons are seen on zebra crossing on road and an elephant with a banner is there.",
+      "a group of people walking down the street in a parade witha elephant that says i love new york",
+      "A man is riding an elephant with and \"I love NY\" sign."
+    ],
+    "raw_captions": [
+      "A parade on the street with a person riding an elephant.",
+      "a parade with an elephant wearing a sign that says\" i love new york\"",
+      "Few persons are seen on zebra crossing on road and an elephant with a banner is there.",
+      "a group of people walking down the street in a parade witha elephant that says i love new york",
+      "A man is riding an elephant with and \"I love NY\" sign."
+    ],
+    "cleaned_captions": [
+      "a parade on the street with a person riding an elephant",
+      "a parade with an elephant wearing a sign that says i love new york",
+      "few persons are seen on zebra crossing on road and an elephant with a banner is there",
+      "a group of people walking down the street in a parade witha elephant that says i love new york",
+      "a man is riding an elephant with and i love ny sign"
+    ]
+  },
+  {
+    "image_id": 201420,
+    "file_name": "000000201420.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A group of giraffe standing next to each other",
+      "Here is an image of an zoo animals.",
+      "Two giraffes standing in the jungle lucking themselves",
+      "A giraffe licks itself and stands next to another giraffe",
+      "a couple of giraffes are standing near some trees"
+    ],
+    "raw_captions": [
+      "A group of giraffe standing next to each other",
+      "Here is an image of an zoo animals.",
+      "Two giraffes standing in the jungle lucking themselves",
+      "A giraffe licks itself and stands next to another giraffe",
+      "a couple of giraffes are standing near some trees"
+    ],
+    "cleaned_captions": [
+      "a group of giraffe standing next to each other",
+      "here is an image of an zoo animals",
+      "two giraffes standing in the jungle lucking themselves",
+      "a giraffe licks itself and stands next to another giraffe",
+      "a couple of giraffes are standing near some trees"
+    ]
+  },
+  {
+    "image_id": 200274,
+    "file_name": "000000200274.jpg",
+    "height": 430,
+    "width": 640,
+    "captions": [
+      "It is a territory with numerous things to watch. \n",
+      "An eighteen-wheeler turning left at a stop light",
+      "A stop light with all rea lights on a street",
+      "Red lights are across the street on poles.",
+      "A traffic light sitting over a street with traffic on it."
+    ],
+    "raw_captions": [
+      "It is a territory with numerous things to watch. \n",
+      "An eighteen-wheeler turning left at a stop light",
+      "A stop light with all rea lights on a street",
+      "Red lights are across the street on poles.",
+      "A traffic light sitting over a street with traffic on it."
+    ],
+    "cleaned_captions": [
+      "it is a territory with numerous things to watch",
+      "an eighteen wheeler turning left at a stop light",
+      "a stop light with all rea lights on a street",
+      "red lights are across the street on poles",
+      "a traffic light sitting over a street with traffic on it"
+    ]
+  },
+  {
+    "image_id": 533625,
+    "file_name": "000000533625.jpg",
+    "height": 640,
+    "width": 480,
+    "captions": [
+      "There is something captured here in this photo.\n",
+      "A sign is in the middle of a sidewalk tree.",
+      "A no urinating sign is hung up outside.",
+      "a sign on a short pole nest to some little trees ",
+      "A no urinating sign posted outside a building."
+    ],
+    "raw_captions": [
+      "There is something captured here in this photo.\n",
+      "A sign is in the middle of a sidewalk tree.",
+      "A no urinating sign is hung up outside.",
+      "a sign on a short pole nest to some little trees ",
+      "A no urinating sign posted outside a building."
+    ],
+    "cleaned_captions": [
+      "there is something captured here in this photo",
+      "a sign is in the middle of a sidewalk tree",
+      "a no urinating sign is hung up outside",
+      "a sign on a short pole nest to some little trees",
+      "a no urinating sign posted outside a building"
+    ]
+  },
+  {
+    "image_id": 127474,
+    "file_name": "000000127474.jpg",
+    "height": 426,
+    "width": 640,
+    "captions": [
+      "A couple of kids standing around a red fire hydrant.",
+      "Two girls are wearing plastic firefighter hats and standing next to a fire hydrant. ",
+      "Two little girls are wearing fireman hats and poking a fire hydrant.",
+      "Two young girls in toy fire helmets looking at a fire hydrant.",
+      "two small children playing next to a fired hydrant and holding a balloon"
+    ],
+    "raw_captions": [
+      "A couple of kids standing around a red fire hydrant.",
+      "Two girls are wearing plastic firefighter hats and standing next to a fire hydrant. ",
+      "Two little girls are wearing fireman hats and poking a fire hydrant.",
+      "Two young girls in toy fire helmets looking at a fire hydrant.",
+      "two small children playing next to a fired hydrant and holding a balloon"
+    ],
+    "cleaned_captions": [
+      "a couple of kids standing around a red fire hydrant",
+      "two girls are wearing plastic firefighter hats and standing next to a fire hydrant",
+      "two little girls are wearing fireman hats and poking a fire hydrant",
+      "two young girls in toy fire helmets looking at a fire hydrant",
+      "two small children playing next to a fired hydrant and holding a balloon"
+    ]
+  },
+  {
+    "image_id": 234785,
+    "file_name": "000000234785.jpg",
+    "height": 356,
+    "width": 500,
+    "captions": [
+      "A dog walking down the street with a bunch of birds flying around.",
+      "A dog is walking while a bunch of pigeons are flying overhead.",
+      "A dog walks down a trail as birds fly away. ",
+      "A dog is walking through the park next to the fence.",
+      "A black and white dog is walking on a narrow roadway as pigeons fly above him."
+    ],
+    "raw_captions": [
+      "A dog walking down the street with a bunch of birds flying around.",
+      "A dog is walking while a bunch of pigeons are flying overhead.",
+      "A dog walks down a trail as birds fly away. ",
+      "A dog is walking through the park next to the fence.",
+      "A black and white dog is walking on a narrow roadway as pigeons fly above him."
+    ],
+    "cleaned_captions": [
+      "a dog walking down the street with a bunch of birds flying around",
+      "a dog is walking while a bunch of pigeons are flying overhead",
+      "a dog walks down a trail as birds fly away",
+      "a dog is walking through the park next to the fence",
+      "a black and white dog is walking on a narrow roadway as pigeons fly above him"
+    ]
+  },
+  {
+    "image_id": 73119,
+    "file_name": "000000073119.jpg",
+    "height": 427,
+    "width": 640,
+    "captions": [
+      "People standing around looking at a small train on a track",
+      "a black and red train sitting on a train track with workers on it ",
+      "A couple of people standing along side of a train engine.",
+      "Older red and black locomotive with attendants and onlookers.",
+      "people standing near a train that is blowing smoke"
+    ],
+    "raw_captions": [
+      "People standing around looking at a small train on a track",
+      "a black and red train sitting on a train track with workers on it ",
+      "A couple of people standing along side of a train engine.",
+      "Older red and black locomotive with attendants and onlookers.",
+      "people standing near a train that is blowing smoke"
+    ],
+    "cleaned_captions": [
+      "people standing around looking at a small train on a track",
+      "a black and red train sitting on a train track with workers on it",
+      "a couple of people standing along side of a train engine",
+      "older red and black locomotive with attendants and onlookers",
+      "people standing near a train that is blowing smoke"
+    ]
+  },
+  {
+    "image_id": 32960,
+    "file_name": "000000032960.jpg",
+    "height": 427,
+    "width": 640,
+    "captions": [
+      "A red train engine with a large golden bell",
+      "An old train with smoke coming out of it",
+      "A train on a rail line near some trees",
+      "A train cart travels down the road on some tracks",
+      "A train moving along on the train track."
+    ],
+    "raw_captions": [
+      "A red train engine with a large golden bell",
+      "An old train with smoke coming out of it",
+      "A train on a rail line near some trees",
+      "A train cart travels down the road on some tracks",
+      "A train moving along on the train track."
+    ],
+    "cleaned_captions": [
+      "a red train engine with a large golden bell",
+      "an old train with smoke coming out of it",
+      "a train on a rail line near some trees",
+      "a train cart travels down the road on some tracks",
+      "a train moving along on the train track"
+    ]
+  },
+  {
+    "image_id": 27969,
+    "file_name": "000000027969.jpg",
+    "height": 424,
+    "width": 640,
+    "captions": [
+      "A large woman sitting on a bench outside. ",
+      "A girl is sitting on a bench with one hand in the air. ",
+      "A person sits on a bench and holds up a hand.",
+      "A bench with a smiling woman with her hand aloft rests in front of a  parking lot with many vehicles, behind which looms a big hill with a large number of houses dotting its base and lower regions. ",
+      "Woman expressing joy at outdoor bench near populated area."
+    ],
+    "raw_captions": [
+      "A large woman sitting on a bench outside. ",
+      "A girl is sitting on a bench with one hand in the air. ",
+      "A person sits on a bench and holds up a hand.",
+      "A bench with a smiling woman with her hand aloft rests in front of a  parking lot with many vehicles, behind which looms a big hill with a large number of houses dotting its base and lower regions. ",
+      "Woman expressing joy at outdoor bench near populated area."
+    ],
+    "cleaned_captions": [
+      "a large woman sitting on a bench outside",
+      "a girl is sitting on a bench with one hand in the air",
+      "a person sits on a bench and holds up a hand",
+      "a bench with a smiling woman with her hand aloft rests in front of a parking lot with many vehicles behind which looms a big hill with a large number of houses dotting its base and lower regions",
+      "woman expressing joy at outdoor bench near populated area"
+    ]
+  },
+  {
+    "image_id": 108541,
+    "file_name": "000000108541.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A sign explains the toll on a toll road.",
+      "Driver's view of an upcoming toll booth sign on a freeway.",
+      "vehicles going down a highway next to some trees",
+      "A truck is passing under a freeway sign.",
+      "A pay toll sign hanging above the highway."
+    ],
+    "raw_captions": [
+      "A sign explains the toll on a toll road.",
+      "Driver's view of an upcoming toll booth sign on a freeway.",
+      "vehicles going down a highway next to some trees",
+      "A truck is passing under a freeway sign.",
+      "A pay toll sign hanging above the highway."
+    ],
+    "cleaned_captions": [
+      "a sign explains the toll on a toll road",
+      "driver's view of an upcoming toll booth sign on a freeway",
+      "vehicles going down a highway next to some trees",
+      "a truck is passing under a freeway sign",
+      "a pay toll sign hanging above the highway"
+    ]
+  },
+  {
+    "image_id": 54562,
+    "file_name": "000000054562.jpg",
+    "height": 214,
+    "width": 640,
+    "captions": [
+      "A long red and white train going down the track",
+      "The train is stopped at one of the main stops.",
+      "A secluded train station with a cart stall next to the train.",
+      "A landscape photo of a train in a train station.",
+      "A white and red subway sits at a covered station."
+    ],
+    "raw_captions": [
+      "A long red and white train going down the track",
+      "The train is stopped at one of the main stops.",
+      "A secluded train station with a cart stall next to the train.",
+      "A landscape photo of a train in a train station.",
+      "A white and red subway sits at a covered station."
+    ],
+    "cleaned_captions": [
+      "a long red and white train going down the track",
+      "the train is stopped at one of the main stops",
+      "a secluded train station with a cart stall next to the train",
+      "a landscape photo of a train in a train station",
+      "a white and red subway sits at a covered station"
+    ]
+  },
+  {
+    "image_id": 381021,
+    "file_name": "000000381021.jpg",
+    "height": 640,
+    "width": 476,
+    "captions": [
+      "a woman is on a poster hanging outside",
+      "A sign in a median is displaying an ad of a woman.",
+      "A city sidewalk billboard featuring a young woman.",
+      "A billboard on the median of an intersection.",
+      "City art installation showing a picture of a girl."
+    ],
+    "raw_captions": [
+      "a woman is on a poster hanging outside",
+      "A sign in a median is displaying an ad of a woman.",
+      "A city sidewalk billboard featuring a young woman.",
+      "A billboard on the median of an intersection.",
+      "City art installation showing a picture of a girl."
+    ],
+    "cleaned_captions": [
+      "a woman is on a poster hanging outside",
+      "a sign in a median is displaying an ad of a woman",
+      "a city sidewalk billboard featuring a young woman",
+      "a billboard on the median of an intersection",
+      "city art installation showing a picture of a girl"
+    ]
+  },
+  {
+    "image_id": 92377,
+    "file_name": "000000092377.jpg",
+    "height": 428,
+    "width": 640,
+    "captions": [
+      "A bird is perched on the arm of a bench. ",
+      "a small bird sits on a wooden bench ",
+      "A little bird is sitting on a park bench.",
+      "a small bird perches on the back edge of a wooden bench.",
+      "A bird perched on the back of a wooden bench."
+    ],
+    "raw_captions": [
+      "A bird is perched on the arm of a bench. ",
+      "a small bird sits on a wooden bench ",
+      "A little bird is sitting on a park bench.",
+      "a small bird perches on the back edge of a wooden bench.",
+      "A bird perched on the back of a wooden bench."
+    ],
+    "cleaned_captions": [
+      "a bird is perched on the arm of a bench",
+      "a small bird sits on a wooden bench",
+      "a little bird is sitting on a park bench",
+      "a small bird perches on the back edge of a wooden bench",
+      "a bird perched on the back of a wooden bench"
+    ]
+  },
+  {
+    "image_id": 89909,
+    "file_name": "000000089909.jpg",
+    "height": 612,
+    "width": 612,
+    "captions": [
+      "A wooden bench on a fence and plants surrounding it",
+      "A walled garden has a bench and a fountain.",
+      "Bench in a garden surrounded by vines and flowers. ",
+      "A wooden bench sitting in front of a brick wall surrounded by flowers.",
+      "A wooden bench nestled by a fountain on a vine covered wall in a garden"
+    ],
+    "raw_captions": [
+      "A wooden bench on a fence and plants surrounding it",
+      "A walled garden has a bench and a fountain.",
+      "Bench in a garden surrounded by vines and flowers. ",
+      "A wooden bench sitting in front of a brick wall surrounded by flowers.",
+      "A wooden bench nestled by a fountain on a vine covered wall in a garden"
+    ],
+    "cleaned_captions": [
+      "a wooden bench on a fence and plants surrounding it",
+      "a walled garden has a bench and a fountain",
+      "bench in a garden surrounded by vines and flowers",
+      "a wooden bench sitting in front of a brick wall surrounded by flowers",
+      "a wooden bench nestled by a fountain on a vine covered wall in a garden"
+    ]
+  },
+  {
+    "image_id": 112928,
+    "file_name": "000000112928.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A water hydrant is seen on the footpath.",
+      "A fire hydrant is in between two parking spaces. ",
+      "a red fire hydrant on top of a cement block",
+      "A sidewalk has a fire hydrant on the corner",
+      "A sidewalk lined with yellow markings and a red fire hydrant. "
+    ],
+    "raw_captions": [
+      "A water hydrant is seen on the footpath.",
+      "A fire hydrant is in between two parking spaces. ",
+      "a red fire hydrant on top of a cement block",
+      "A sidewalk has a fire hydrant on the corner",
+      "A sidewalk lined with yellow markings and a red fire hydrant. "
+    ],
+    "cleaned_captions": [
+      "a water hydrant is seen on the footpath",
+      "a fire hydrant is in between two parking spaces",
+      "a red fire hydrant on top of a cement block",
+      "a sidewalk has a fire hydrant on the corner",
+      "a sidewalk lined with yellow markings and a red fire hydrant"
+    ]
+  },
+  {
+    "image_id": 157465,
+    "file_name": "000000157465.jpg",
+    "height": 400,
+    "width": 640,
+    "captions": [
+      "Two different styles of buses parked side by side.",
+      "Buses parked inside a fenced in parking lot.",
+      "Two buses parked next to each other in a parking lot.",
+      "A couple of buses parked beside each other in a parking lot.",
+      "Two old passenger buses parked by a chain link fence"
+    ],
+    "raw_captions": [
+      "Two different styles of buses parked side by side.",
+      "Buses parked inside a fenced in parking lot.",
+      "Two buses parked next to each other in a parking lot.",
+      "A couple of buses parked beside each other in a parking lot.",
+      "Two old passenger buses parked by a chain link fence"
+    ],
+    "cleaned_captions": [
+      "two different styles of buses parked side by side",
+      "buses parked inside a fenced in parking lot",
+      "two buses parked next to each other in a parking lot",
+      "a couple of buses parked beside each other in a parking lot",
+      "two old passenger buses parked by a chain link fence"
+    ]
+  },
+  {
+    "image_id": 359238,
+    "file_name": "000000359238.jpg",
+    "height": 640,
+    "width": 430,
+    "captions": [
+      "a man is sitting at a table on a train",
+      "an asian man with a jar of water in front of him",
+      "I man with a suite jacket and a yellow shirt sitting in a seat.",
+      "A man is sitting at a table on a train.",
+      "An Asian man has put something that is alive in that bottle."
+    ],
+    "raw_captions": [
+      "a man is sitting at a table on a train",
+      "an asian man with a jar of water in front of him",
+      "I man with a suite jacket and a yellow shirt sitting in a seat.",
+      "A man is sitting at a table on a train.",
+      "An Asian man has put something that is alive in that bottle."
+    ],
+    "cleaned_captions": [
+      "a man is sitting at a table on a train",
+      "an asian man with a jar of water in front of him",
+      "i man with a suite jacket and a yellow shirt sitting in a seat",
+      "a man is sitting at a table on a train",
+      "an asian man has put something that is alive in that bottle"
+    ]
+  },
+  {
+    "image_id": 521721,
+    "file_name": "000000521721.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "a red bird flying past a car window",
+      "a bird is flying into the window of a car",
+      "A bird that is flying near a car window.",
+      "Feathers are outside of a car window near the side mirror. ",
+      "A red bird fluttering next to a car window."
+    ],
+    "raw_captions": [
+      "a red bird flying past a car window",
+      "a bird is flying into the window of a car",
+      "A bird that is flying near a car window.",
+      "Feathers are outside of a car window near the side mirror. ",
+      "A red bird fluttering next to a car window."
+    ],
+    "cleaned_captions": [
+      "a red bird flying past a car window",
+      "a bird is flying into the window of a car",
+      "a bird that is flying near a car window",
+      "feathers are outside of a car window near the side mirror",
+      "a red bird fluttering next to a car window"
+    ]
+  },
+  {
+    "image_id": 504103,
+    "file_name": "000000504103.jpg",
+    "height": 640,
+    "width": 480,
+    "captions": [
+      "a red open sign is by a curb",
+      "a pile of stones sitting on the side of a road with some signs above it",
+      "A picture of a hotel sign next to a stone wall.",
+      "A sign for a cafe sitting on top of bricks.",
+      "A sign advertising an Open Cafe outside. "
+    ],
+    "raw_captions": [
+      "a red open sign is by a curb",
+      "a pile of stones sitting on the side of a road with some signs above it",
+      "A picture of a hotel sign next to a stone wall.",
+      "A sign for a cafe sitting on top of bricks.",
+      "A sign advertising an Open Cafe outside. "
+    ],
+    "cleaned_captions": [
+      "a red open sign is by a curb",
+      "a pile of stones sitting on the side of a road with some signs above it",
+      "a picture of a hotel sign next to a stone wall",
+      "a sign for a cafe sitting on top of bricks",
+      "a sign advertising an open cafe outside"
+    ]
+  },
+  {
+    "image_id": 531854,
+    "file_name": "000000531854.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "Two ducks are swimming outdoors in the water. ",
+      "A couple of ducks floating on top of a lake.",
+      "Two ducks swimming alongside each other in a pond.",
+      "A couple of geese wading in some pond water.",
+      "a pond with two ducks laying in the water and looking at each other"
+    ],
+    "raw_captions": [
+      "Two ducks are swimming outdoors in the water. ",
+      "A couple of ducks floating on top of a lake.",
+      "Two ducks swimming alongside each other in a pond.",
+      "A couple of geese wading in some pond water.",
+      "a pond with two ducks laying in the water and looking at each other"
+    ],
+    "cleaned_captions": [
+      "two ducks are swimming outdoors in the water",
+      "a couple of ducks floating on top of a lake",
+      "two ducks swimming alongside each other in a pond",
+      "a couple of geese wading in some pond water",
+      "a pond with two ducks laying in the water and looking at each other"
+    ]
+  },
+  {
+    "image_id": 375810,
+    "file_name": "000000375810.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A couple people are sitting on a bench looking out a window while another guy sits near by. ",
+      "three people sitting on a bench on a bus or train ",
+      "A man sitting on a bench is working while two girls look out a window behind them.",
+      "A man studies in the corner of a ferry as girls look out the window",
+      "A group of people sitting next to each other near a window."
+    ],
+    "raw_captions": [
+      "A couple people are sitting on a bench looking out a window while another guy sits near by. ",
+      "three people sitting on a bench on a bus or train ",
+      "A man sitting on a bench is working while two girls look out a window behind them.",
+      "A man studies in the corner of a ferry as girls look out the window",
+      "A group of people sitting next to each other near a window."
+    ],
+    "cleaned_captions": [
+      "a couple people are sitting on a bench looking out a window while another guy sits near by",
+      "three people sitting on a bench on a bus or train",
+      "a man sitting on a bench is working while two girls look out a window behind them",
+      "a man studies in the corner of a ferry as girls look out the window",
+      "a group of people sitting next to each other near a window"
+    ]
+  },
+  {
+    "image_id": 409369,
+    "file_name": "000000409369.jpg",
+    "height": 608,
+    "width": 640,
+    "captions": [
+      "a buffalo and a giraffe are in a field",
+      "A giraffe grazing from the top of a bush while another animal looks at the camera.",
+      "A giraffe and a wildebeest eating in their natural environment",
+      "A big giraffe eating off of a tree next to a buffalo.",
+      "A yak and a giraffe in a field together. "
+    ],
+    "raw_captions": [
+      "a buffalo and a giraffe are in a field",
+      "A giraffe grazing from the top of a bush while another animal looks at the camera.",
+      "A giraffe and a wildebeest eating in their natural environment",
+      "A big giraffe eating off of a tree next to a buffalo.",
+      "A yak and a giraffe in a field together. "
+    ],
+    "cleaned_captions": [
+      "a buffalo and a giraffe are in a field",
+      "a giraffe grazing from the top of a bush while another animal looks at the camera",
+      "a giraffe and a wildebeest eating in their natural environment",
+      "a big giraffe eating off of a tree next to a buffalo",
+      "a yak and a giraffe in a field together"
+    ]
+  },
+  {
+    "image_id": 136841,
+    "file_name": "000000136841.jpg",
+    "height": 375,
+    "width": 500,
+    "captions": [
+      "a person in a beanie is taking a picture",
+      "A woman wearing a winter hat taking a photo with her camera.",
+      "A young woman is taking a photo through a train window.",
+      "a woman on a train holds up her camera to take a picture of something outside the window",
+      "A girl taking pictures from a train window"
+    ],
+    "raw_captions": [
+      "a person in a beanie is taking a picture",
+      "A woman wearing a winter hat taking a photo with her camera.",
+      "A young woman is taking a photo through a train window.",
+      "a woman on a train holds up her camera to take a picture of something outside the window",
+      "A girl taking pictures from a train window"
+    ],
+    "cleaned_captions": [
+      "a person in a beanie is taking a picture",
+      "a woman wearing a winter hat taking a photo with her camera",
+      "a young woman is taking a photo through a train window",
+      "a woman on a train holds up her camera to take a picture of something outside the window",
+      "a girl taking pictures from a train window"
+    ]
+  },
+  {
+    "image_id": 290610,
+    "file_name": "000000290610.jpg",
+    "height": 427,
+    "width": 640,
+    "captions": [
+      "The train is going past the field with the grass.",
+      "A train is on the train tracks in a rural area.",
+      "A train is going through a rural setting.",
+      "A train traveling through a rural countryside filled with plants.",
+      "A train passing through a grassy field. "
+    ],
+    "raw_captions": [
+      "The train is going past the field with the grass.",
+      "A train is on the train tracks in a rural area.",
+      "A train is going through a rural setting.",
+      "A train traveling through a rural countryside filled with plants.",
+      "A train passing through a grassy field. "
+    ],
+    "cleaned_captions": [
+      "the train is going past the field with the grass",
+      "a train is on the train tracks in a rural area",
+      "a train is going through a rural setting",
+      "a train traveling through a rural countryside filled with plants",
+      "a train passing through a grassy field"
+    ]
+  },
+  {
+    "image_id": 423093,
+    "file_name": "000000423093.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "a woman standing around some tables with a bunch of crabs on them",
+      "a woman water crabs in some white trays and other foods",
+      "a lady with lots of giant crabs cooking them on the drill",
+      "A woman standing at a table filled with red lobsters.",
+      "The open air vendor is selling various kinds of seafood."
+    ],
+    "raw_captions": [
+      "a woman standing around some tables with a bunch of crabs on them",
+      "a woman water crabs in some white trays and other foods",
+      "a lady with lots of giant crabs cooking them on the drill",
+      "A woman standing at a table filled with red lobsters.",
+      "The open air vendor is selling various kinds of seafood."
+    ],
+    "cleaned_captions": [
+      "a woman standing around some tables with a bunch of crabs on them",
+      "a woman water crabs in some white trays and other foods",
+      "a lady with lots of giant crabs cooking them on the drill",
+      "a woman standing at a table filled with red lobsters",
+      "the open air vendor is selling various kinds of seafood"
+    ]
+  },
+  {
+    "image_id": 70334,
+    "file_name": "000000070334.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "Three sheep are standing on a rock of a hill. ",
+      "Three sheep standing together in a grassy field.",
+      "Many sheep sit on a ledge in a field",
+      "A herd of white sheep standing on a green hillside.",
+      "Three mountain goats on a rock with grass around it."
+    ],
+    "raw_captions": [
+      "Three sheep are standing on a rock of a hill. ",
+      "Three sheep standing together in a grassy field.",
+      "Many sheep sit on a ledge in a field",
+      "A herd of white sheep standing on a green hillside.",
+      "Three mountain goats on a rock with grass around it."
+    ],
+    "cleaned_captions": [
+      "three sheep are standing on a rock of a hill",
+      "three sheep standing together in a grassy field",
+      "many sheep sit on a ledge in a field",
+      "a herd of white sheep standing on a green hillside",
+      "three mountain goats on a rock with grass around it"
+    ]
+  },
+  {
+    "image_id": 468115,
+    "file_name": "000000468115.jpg",
+    "height": 333,
+    "width": 500,
+    "captions": [
+      "many different colored signs people buildings and a street",
+      "A city street with many cars and scooters parked",
+      "A busy city street in an Asian country with lots of traffic.",
+      "a lot of colorful signs with writing handing on the side of some buildings",
+      "Traffic and a cacophony of signs on an oriental city street"
+    ],
+    "raw_captions": [
+      "many different colored signs people buildings and a street",
+      "A city street with many cars and scooters parked",
+      "A busy city street in an Asian country with lots of traffic.",
+      "a lot of colorful signs with writing handing on the side of some buildings",
+      "Traffic and a cacophony of signs on an oriental city street"
+    ],
+    "cleaned_captions": [
+      "many different colored signs people buildings and a street",
+      "a city street with many cars and scooters parked",
+      "a busy city street in an asian country with lots of traffic",
+      "a lot of colorful signs with writing handing on the side of some buildings",
+      "traffic and a cacophony of signs on an oriental city street"
+    ]
+  },
+  {
+    "image_id": 292394,
+    "file_name": "000000292394.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A road in front of a shaded building on which it is written Feed Barn",
+      "A red building with a small plant area in the front.",
+      "A one story red building with a large yellow \"Feed Barn\" sign advertising \"backyards to stockyards.\"",
+      "Red and yellow exterior on a small restaurant. ",
+      "The outside of a red building on a street corner."
+    ],
+    "raw_captions": [
+      "A road in front of a shaded building on which it is written Feed Barn",
+      "A red building with a small plant area in the front.",
+      "A one story red building with a large yellow \"Feed Barn\" sign advertising \"backyards to stockyards.\"",
+      "Red and yellow exterior on a small restaurant. ",
+      "The outside of a red building on a street corner."
+    ],
+    "cleaned_captions": [
+      "a road in front of a shaded building on which it is written feed barn",
+      "a red building with a small plant area in the front",
+      "a one story red building with a large yellow feed barn sign advertising backyards to stockyards",
+      "red and yellow exterior on a small restaurant",
+      "the outside of a red building on a street corner"
+    ]
+  },
+  {
+    "image_id": 371395,
+    "file_name": "000000371395.jpg",
+    "height": 424,
+    "width": 640,
+    "captions": [
+      "a wood bench sitting in a park with three people sitting on it ",
+      "a mother and her two children sit on a green bench",
+      "A lady with two children sitting on a park bench.",
+      "A woman and two young children sit on a bench.",
+      "A woman and two children on a wooden bench in an open parkland"
+    ],
+    "raw_captions": [
+      "a wood bench sitting in a park with three people sitting on it ",
+      "a mother and her two children sit on a green bench",
+      "A lady with two children sitting on a park bench.",
+      "A woman and two young children sit on a bench.",
+      "A woman and two children on a wooden bench in an open parkland"
+    ],
+    "cleaned_captions": [
+      "a wood bench sitting in a park with three people sitting on it",
+      "a mother and her two children sit on a green bench",
+      "a lady with two children sitting on a park bench",
+      "a woman and two young children sit on a bench",
+      "a woman and two children on a wooden bench in an open parkland"
+    ]
+  },
+  {
+    "image_id": 462954,
+    "file_name": "000000462954.jpg",
+    "height": 400,
+    "width": 500,
+    "captions": [
+      "a building a sign some cars and traffic and street lights",
+      "A view of a sign and building from the street.",
+      "Someone driving down the middle of a street.",
+      "A view from a person vehicle looking at other vehicles driving down the road.",
+      "A very tall building sitting next to a sign that reads Bourbon Street."
+    ],
+    "raw_captions": [
+      "a building a sign some cars and traffic and street lights",
+      "A view of a sign and building from the street.",
+      "Someone driving down the middle of a street.",
+      "A view from a person vehicle looking at other vehicles driving down the road.",
+      "A very tall building sitting next to a sign that reads Bourbon Street."
+    ],
+    "cleaned_captions": [
+      "a building a sign some cars and traffic and street lights",
+      "a view of a sign and building from the street",
+      "someone driving down the middle of a street",
+      "a view from a person vehicle looking at other vehicles driving down the road",
+      "a very tall building sitting next to a sign that reads bourbon street"
+    ]
+  },
+  {
+    "image_id": 285005,
+    "file_name": "000000285005.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "This is a picture of a very busy street in New York City.",
+      "This looks to be an intersection in a very busy city.",
+      "A street in a city with pedestrians walking down the sidewalk and cars on the street.",
+      "Looking down a midtown street in New York City",
+      "A city street filled with lots of cars and people."
+    ],
+    "raw_captions": [
+      "This is a picture of a very busy street in New York City.",
+      "This looks to be an intersection in a very busy city.",
+      "A street in a city with pedestrians walking down the sidewalk and cars on the street.",
+      "Looking down a midtown street in New York City",
+      "A city street filled with lots of cars and people."
+    ],
+    "cleaned_captions": [
+      "this is a picture of a very busy street in new york city",
+      "this looks to be an intersection in a very busy city",
+      "a street in a city with pedestrians walking down the sidewalk and cars on the street",
+      "looking down a midtown street in new york city",
+      "a city street filled with lots of cars and people"
+    ]
+  },
+  {
+    "image_id": 549687,
+    "file_name": "000000549687.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A pair of giraffe walking around in a zoo exhibit.",
+      "Two giraffes wander around in an enclosure. ",
+      "Giraffes looking over fence of naturalistic zoo enclosure.",
+      "A couple of giraffes in their zoo enclosure",
+      "A giraffe looking away from the camera in the outdoors."
+    ],
+    "raw_captions": [
+      "A pair of giraffe walking around in a zoo exhibit.",
+      "Two giraffes wander around in an enclosure. ",
+      "Giraffes looking over fence of naturalistic zoo enclosure.",
+      "A couple of giraffes in their zoo enclosure",
+      "A giraffe looking away from the camera in the outdoors."
+    ],
+    "cleaned_captions": [
+      "a pair of giraffe walking around in a zoo exhibit",
+      "two giraffes wander around in an enclosure",
+      "giraffes looking over fence of naturalistic zoo enclosure",
+      "a couple of giraffes in their zoo enclosure",
+      "a giraffe looking away from the camera in the outdoors"
+    ]
+  },
+  {
+    "image_id": 12464,
+    "file_name": "000000012464.jpg",
+    "height": 428,
+    "width": 640,
+    "captions": [
+      "a small cake decorated with birds on top",
+      "A cake topped with two frosting birds next to fruit.",
+      "TWO BIRDS AND FRUIT ARE BEING USED AS A TOPPER OF A CAKE",
+      "Figurines of birds outside next to a field of grass.",
+      "two little birds sitting on top of a wedding cake \n"
+    ],
+    "raw_captions": [
+      "a small cake decorated with birds on top",
+      "A cake topped with two frosting birds next to fruit.",
+      "TWO BIRDS AND FRUIT ARE BEING USED AS A TOPPER OF A CAKE",
+      "Figurines of birds outside next to a field of grass.",
+      "two little birds sitting on top of a wedding cake \n"
+    ],
+    "cleaned_captions": [
+      "a small cake decorated with birds on top",
+      "a cake topped with two frosting birds next to fruit",
+      "two birds and fruit are being used as a topper of a cake",
+      "figurines of birds outside next to a field of grass",
+      "two little birds sitting on top of a wedding cake"
+    ]
+  },
+  {
+    "image_id": 360449,
+    "file_name": "000000360449.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "A stoplight on a busy city street in the evening",
+      "A stop light in on a busy street at dusk. ",
+      "There are many types of lights shining including building lights, car lights, and a street light. ",
+      "A busy city street with lots of cars at dusk.",
+      "A street in the dark with car lights and stop lights shining."
+    ],
+    "raw_captions": [
+      "A stoplight on a busy city street in the evening",
+      "A stop light in on a busy street at dusk. ",
+      "There are many types of lights shining including building lights, car lights, and a street light. ",
+      "A busy city street with lots of cars at dusk.",
+      "A street in the dark with car lights and stop lights shining."
+    ],
+    "cleaned_captions": [
+      "a stoplight on a busy city street in the evening",
+      "a stop light in on a busy street at dusk",
+      "there are many types of lights shining including building lights car lights and a street light",
+      "a busy city street with lots of cars at dusk",
+      "a street in the dark with car lights and stop lights shining"
+    ]
+  },
+  {
+    "image_id": 215456,
+    "file_name": "000000215456.jpg",
+    "height": 500,
+    "width": 375,
+    "captions": [
+      "A man cycling and a Stop sign at the front",
+      "A person riding their bike down a path to a gate with a stop sign.",
+      "A man riding a bike towards a gate with a stop sign.",
+      "a man on a bike riding towards a gate with a  stop sign",
+      "A person riding a bicycle toward a stop sign."
+    ],
+    "raw_captions": [
+      "A man cycling and a Stop sign at the front",
+      "A person riding their bike down a path to a gate with a stop sign.",
+      "A man riding a bike towards a gate with a stop sign.",
+      "a man on a bike riding towards a gate with a  stop sign",
+      "A person riding a bicycle toward a stop sign."
+    ],
+    "cleaned_captions": [
+      "a man cycling and a stop sign at the front",
+      "a person riding their bike down a path to a gate with a stop sign",
+      "a man riding a bike towards a gate with a stop sign",
+      "a man on a bike riding towards a gate with a stop sign",
+      "a person riding a bicycle toward a stop sign"
+    ]
+  },
+  {
+    "image_id": 378831,
+    "file_name": "000000378831.jpg",
+    "height": 315,
+    "width": 500,
+    "captions": [
+      "A woman carrying shopping bags past a tall fire hydrant.",
+      "There is a tall yellow and red fire hydrant amongst the weeds.",
+      "a woman is carrying her bags by a very tall fire hydrant",
+      "A lady with a big red bag is walking by the fire hydrant. ",
+      "A woman that is holding two red bags standing in the street."
+    ],
+    "raw_captions": [
+      "A woman carrying shopping bags past a tall fire hydrant.",
+      "There is a tall yellow and red fire hydrant amongst the weeds.",
+      "a woman is carrying her bags by a very tall fire hydrant",
+      "A lady with a big red bag is walking by the fire hydrant. ",
+      "A woman that is holding two red bags standing in the street."
+    ],
+    "cleaned_captions": [
+      "a woman carrying shopping bags past a tall fire hydrant",
+      "there is a tall yellow and red fire hydrant amongst the weeds",
+      "a woman is carrying her bags by a very tall fire hydrant",
+      "a lady with a big red bag is walking by the fire hydrant",
+      "a woman that is holding two red bags standing in the street"
+    ]
+  },
+  {
+    "image_id": 357041,
+    "file_name": "000000357041.jpg",
+    "height": 425,
+    "width": 640,
+    "captions": [
+      "A lone, blue and orange bird sits on a bare tree.",
+      "The colorful bird is perched on the delicate branch.",
+      "A small blue, brown and white bird sitting on a branch.",
+      "A SMALL ORANGE AND BLUE BIRD HANGING ON A BRANCH ",
+      "A small blue bird sits in a leafless tree"
+    ],
+    "raw_captions": [
+      "A lone, blue and orange bird sits on a bare tree.",
+      "The colorful bird is perched on the delicate branch.",
+      "A small blue, brown and white bird sitting on a branch.",
+      "A SMALL ORANGE AND BLUE BIRD HANGING ON A BRANCH ",
+      "A small blue bird sits in a leafless tree"
+    ],
+    "cleaned_captions": [
+      "a lone blue and orange bird sits on a bare tree",
+      "the colorful bird is perched on the delicate branch",
+      "a small blue brown and white bird sitting on a branch",
+      "a small orange and blue bird hanging on a branch",
+      "a small blue bird sits in a leafless tree"
+    ]
+  },
+  {
+    "image_id": 30478,
+    "file_name": "000000030478.jpg",
+    "height": 424,
+    "width": 640,
+    "captions": [
+      "A train in a trainstation with many people nearby. ",
+      "People looking at a train carriage behind a barrier in a warehouse",
+      "Commuter train at station with passengers on nearby platform.",
+      "a parked train sitting in a garage ",
+      "A train is at rest as passengers view it at the station"
+    ],
+    "raw_captions": [
+      "A train in a trainstation with many people nearby. ",
+      "People looking at a train carriage behind a barrier in a warehouse",
+      "Commuter train at station with passengers on nearby platform.",
+      "a parked train sitting in a garage ",
+      "A train is at rest as passengers view it at the station"
+    ],
+    "cleaned_captions": [
+      "a train in a trainstation with many people nearby",
+      "people looking at a train carriage behind a barrier in a warehouse",
+      "commuter train at station with passengers on nearby platform",
+      "a parked train sitting in a garage",
+      "a train is at rest as passengers view it at the station"
+    ]
+  },
+  {
+    "image_id": 564865,
+    "file_name": "000000564865.jpg",
+    "height": 427,
+    "width": 640,
+    "captions": [
+      "A yellow fire hydrant is standing alone in a parking garage.",
+      "An interesting shadow pattern is seen in an otherwise dark area.",
+      "The shadow of a building being reflected onto another building.",
+      "a hydrant in a hall with no lights on",
+      "A fire hydrant stands on a dark road."
+    ],
+    "raw_captions": [
+      "A yellow fire hydrant is standing alone in a parking garage.",
+      "An interesting shadow pattern is seen in an otherwise dark area.",
+      "The shadow of a building being reflected onto another building.",
+      "a hydrant in a hall with no lights on",
+      "A fire hydrant stands on a dark road."
+    ],
+    "cleaned_captions": [
+      "a yellow fire hydrant is standing alone in a parking garage",
+      "an interesting shadow pattern is seen in an otherwise dark area",
+      "the shadow of a building being reflected onto another building",
+      "a hydrant in a hall with no lights on",
+      "a fire hydrant stands on a dark road"
+    ]
+  },
+  {
+    "image_id": 516476,
+    "file_name": "000000516476.jpg",
+    "height": 425,
+    "width": 640,
+    "captions": [
+      "A bus driving down a street next to a white van.",
+      "A bus and a van cross through a busy intersection",
+      "a city bus drives next to a van ",
+      "Buses and cars sitting beside of each other on a busy street.",
+      "A bus and a van travel side by side on a busy city street."
+    ],
+    "raw_captions": [
+      "A bus driving down a street next to a white van.",
+      "A bus and a van cross through a busy intersection",
+      "a city bus drives next to a van ",
+      "Buses and cars sitting beside of each other on a busy street.",
+      "A bus and a van travel side by side on a busy city street."
+    ],
+    "cleaned_captions": [
+      "a bus driving down a street next to a white van",
+      "a bus and a van cross through a busy intersection",
+      "a city bus drives next to a van",
+      "buses and cars sitting beside of each other on a busy street",
+      "a bus and a van travel side by side on a busy city street"
+    ]
+  },
+  {
+    "image_id": 558736,
+    "file_name": "000000558736.jpg",
+    "height": 429,
+    "width": 640,
+    "captions": [
+      "Three zebras and two giraffes in the wilderness. ",
+      "A couple of giraffes and some zebras in a forested area.",
+      "Statues of animals stand in a zoo-like display with plants and rocks.",
+      "Several zebra and giraffe viewed in a natural setting ",
+      "a couple of zebras stand in front of some giraffes "
+    ],
+    "raw_captions": [
+      "Three zebras and two giraffes in the wilderness. ",
+      "A couple of giraffes and some zebras in a forested area.",
+      "Statues of animals stand in a zoo-like display with plants and rocks.",
+      "Several zebra and giraffe viewed in a natural setting ",
+      "a couple of zebras stand in front of some giraffes "
+    ],
+    "cleaned_captions": [
+      "three zebras and two giraffes in the wilderness",
+      "a couple of giraffes and some zebras in a forested area",
+      "statues of animals stand in a zoo like display with plants and rocks",
+      "several zebra and giraffe viewed in a natural setting",
+      "a couple of zebras stand in front of some giraffes"
+    ]
+  },
+  {
+    "image_id": 405175,
+    "file_name": "000000405175.jpg",
+    "height": 399,
+    "width": 640,
+    "captions": [
+      "Small birds in the grass in the sun ",
+      "Three small birds standing in yard of grass.",
+      "Three birds are wandering through a grassy area.",
+      "Three birds with light brown bodies and dark heads sit in the grass.",
+      "three black brown and white birds and some grass"
+    ],
+    "raw_captions": [
+      "Small birds in the grass in the sun ",
+      "Three small birds standing in yard of grass.",
+      "Three birds are wandering through a grassy area.",
+      "Three birds with light brown bodies and dark heads sit in the grass.",
+      "three black brown and white birds and some grass"
+    ],
+    "cleaned_captions": [
+      "small birds in the grass in the sun",
+      "three small birds standing in yard of grass",
+      "three birds are wandering through a grassy area",
+      "three birds with light brown bodies and dark heads sit in the grass",
+      "three black brown and white birds and some grass"
+    ]
+  },
+  {
+    "image_id": 418144,
+    "file_name": "000000418144.jpg",
+    "height": 328,
+    "width": 500,
+    "captions": [
+      "A yellow traffic light lined with lots of birds.",
+      "A traffic light in a the middle a city.",
+      "A traffic signal on a pole with birds perched on it.",
+      "A pole at an intersection for a traffic light has birds all along the expanse.",
+      "A traffic light is in front of a large building. "
+    ],
+    "raw_captions": [
+      "A yellow traffic light lined with lots of birds.",
+      "A traffic light in a the middle a city.",
+      "A traffic signal on a pole with birds perched on it.",
+      "A pole at an intersection for a traffic light has birds all along the expanse.",
+      "A traffic light is in front of a large building. "
+    ],
+    "cleaned_captions": [
+      "a yellow traffic light lined with lots of birds",
+      "a traffic light in a the middle a city",
+      "a traffic signal on a pole with birds perched on it",
+      "a pole at an intersection for a traffic light has birds all along the expanse",
+      "a traffic light is in front of a large building"
+    ]
+  },
+  {
+    "image_id": 507921,
+    "file_name": "000000507921.jpg",
+    "height": 640,
+    "width": 426,
+    "captions": [
+      "Street signage on post near roadway in city environment.",
+      "a no skate boarders sign on the side of the road ",
+      "No skateboarding, littering, and parking street signs ",
+      "A city street with signs stating \"no parking\" and \"no skateboards.\"",
+      "A No Parking, No Skateboards and No Littering sign on a street side."
+    ],
+    "raw_captions": [
+      "Street signage on post near roadway in city environment.",
+      "a no skate boarders sign on the side of the road ",
+      "No skateboarding, littering, and parking street signs ",
+      "A city street with signs stating \"no parking\" and \"no skateboards.\"",
+      "A No Parking, No Skateboards and No Littering sign on a street side."
+    ],
+    "cleaned_captions": [
+      "street signage on post near roadway in city environment",
+      "a no skate boarders sign on the side of the road",
+      "no skateboarding littering and parking street signs",
+      "a city street with signs stating no parking and no skateboards",
+      "a no parking no skateboards and no littering sign on a street side"
+    ]
+  },
+  {
+    "image_id": 210988,
+    "file_name": "000000210988.jpg",
+    "height": 460,
+    "width": 640,
+    "captions": [
+      "A wooden bench sitting in a forest next to a tree.",
+      "A wooden bench overlooks a heavily landscaped pond.",
+      "A bench look at a bridge over a pool of water.",
+      "A wooden park bench sitting with a view of a pond and bridge.",
+      "A bench is the focus of this photo of a tropical park."
+    ],
+    "raw_captions": [
+      "A wooden bench sitting in a forest next to a tree.",
+      "A wooden bench overlooks a heavily landscaped pond.",
+      "A bench look at a bridge over a pool of water.",
+      "A wooden park bench sitting with a view of a pond and bridge.",
+      "A bench is the focus of this photo of a tropical park."
+    ],
+    "cleaned_captions": [
+      "a wooden bench sitting in a forest next to a tree",
+      "a wooden bench overlooks a heavily landscaped pond",
+      "a bench look at a bridge over a pool of water",
+      "a wooden park bench sitting with a view of a pond and bridge",
+      "a bench is the focus of this photo of a tropical park"
+    ]
+  },
+  {
+    "image_id": 247394,
+    "file_name": "000000247394.jpg",
+    "height": 424,
+    "width": 640,
+    "captions": [
+      "A large jetliner taking off from an airport runway.",
+      "A blue and red airplane is about to take off.",
+      "A plane is just lifting off the runway.",
+      "A Southwest jumbo jet airplane taking off from a runway.",
+      "A Southwest Airlines plane takes off from a runway."
+    ],
+    "raw_captions": [
+      "A large jetliner taking off from an airport runway.",
+      "A blue and red airplane is about to take off.",
+      "A plane is just lifting off the runway.",
+      "A Southwest jumbo jet airplane taking off from a runway.",
+      "A Southwest Airlines plane takes off from a runway."
+    ],
+    "cleaned_captions": [
+      "a large jetliner taking off from an airport runway",
+      "a blue and red airplane is about to take off",
+      "a plane is just lifting off the runway",
+      "a southwest jumbo jet airplane taking off from a runway",
+      "a southwest airlines plane takes off from a runway"
+    ]
+  },
+  {
+    "image_id": 444493,
+    "file_name": "000000444493.jpg",
+    "height": 360,
+    "width": 640,
+    "captions": [
+      "People at a bus stop waiting on a bus.",
+      "a bus pulling up in front of a bus pick up spots ",
+      "A group of men waiting for a bus at a bus stop.",
+      "Men waiting a bus stop as a bus approaches ",
+      "Commuter bus near bus stop with passengers waiting."
+    ],
+    "raw_captions": [
+      "People at a bus stop waiting on a bus.",
+      "a bus pulling up in front of a bus pick up spots ",
+      "A group of men waiting for a bus at a bus stop.",
+      "Men waiting a bus stop as a bus approaches ",
+      "Commuter bus near bus stop with passengers waiting."
+    ],
+    "cleaned_captions": [
+      "people at a bus stop waiting on a bus",
+      "a bus pulling up in front of a bus pick up spots",
+      "a group of men waiting for a bus at a bus stop",
+      "men waiting a bus stop as a bus approaches",
+      "commuter bus near bus stop with passengers waiting"
+    ]
+  },
+  {
+    "image_id": 579982,
+    "file_name": "000000579982.jpg",
+    "height": 640,
+    "width": 512,
+    "captions": [
+      "A dried up tree trunk with birds on it's branches.",
+      "A flock of birds perched on top of a tree.",
+      "Birds perched on the branches of an old dead tree.",
+      "Many birds standing on dead tree branches outside. ",
+      "A group of birds perching on a dead tree."
+    ],
+    "raw_captions": [
+      "A dried up tree trunk with birds on it's branches.",
+      "A flock of birds perched on top of a tree.",
+      "Birds perched on the branches of an old dead tree.",
+      "Many birds standing on dead tree branches outside. ",
+      "A group of birds perching on a dead tree."
+    ],
+    "cleaned_captions": [
+      "a dried up tree trunk with birds on it's branches",
+      "a flock of birds perched on top of a tree",
+      "birds perched on the branches of an old dead tree",
+      "many birds standing on dead tree branches outside",
+      "a group of birds perching on a dead tree"
+    ]
+  },
+  {
+    "image_id": 130645,
+    "file_name": "000000130645.jpg",
+    "height": 441,
+    "width": 640,
+    "captions": [
+      "A foreign bus traveling down a street in front of jeep.",
+      "A dirty bus goes down the highway in front of other cars.",
+      "a red and white striped bus in the middle of the road ",
+      "A bus driving down a street with cars behind it.",
+      "Vehicle traffic on a paved road under a cloudy sky."
+    ],
+    "raw_captions": [
+      "A foreign bus traveling down a street in front of jeep.",
+      "A dirty bus goes down the highway in front of other cars.",
+      "a red and white striped bus in the middle of the road ",
+      "A bus driving down a street with cars behind it.",
+      "Vehicle traffic on a paved road under a cloudy sky."
+    ],
+    "cleaned_captions": [
+      "a foreign bus traveling down a street in front of jeep",
+      "a dirty bus goes down the highway in front of other cars",
+      "a red and white striped bus in the middle of the road",
+      "a bus driving down a street with cars behind it",
+      "vehicle traffic on a paved road under a cloudy sky"
+    ]
+  },
+  {
+    "image_id": 482626,
+    "file_name": "000000482626.jpg",
+    "height": 428,
+    "width": 640,
+    "captions": [
+      "Several giraffes walking through a dry grass landscape by a hill",
+      "Four giraffes in the wild walking in dry grass.",
+      "A herd of giraffe walking across a dry grass field.",
+      "A group of giraffes walking together in the same direction in a dried area outdoor.",
+      "a couple of giraffes are standing in a field"
+    ],
+    "raw_captions": [
+      "Several giraffes walking through a dry grass landscape by a hill",
+      "Four giraffes in the wild walking in dry grass.",
+      "A herd of giraffe walking across a dry grass field.",
+      "A group of giraffes walking together in the same direction in a dried area outdoor.",
+      "a couple of giraffes are standing in a field"
+    ],
+    "cleaned_captions": [
+      "several giraffes walking through a dry grass landscape by a hill",
+      "four giraffes in the wild walking in dry grass",
+      "a herd of giraffe walking across a dry grass field",
+      "a group of giraffes walking together in the same direction in a dried area outdoor",
+      "a couple of giraffes are standing in a field"
+    ]
+  },
+  {
+    "image_id": 566941,
+    "file_name": "000000566941.jpg",
+    "height": 480,
+    "width": 640,
+    "captions": [
+      "People laugh at the antics of an elephant. ",
+      "A photographer will be taking new pictures of this elephant.",
+      "An elephant that looks like it is smiling while people look at it.",
+      "A group of people standing around an elephant.",
+      "Some men are standing near an elephant outdoors."
+    ],
+    "raw_captions": [
+      "People laugh at the antics of an elephant. ",
+      "A photographer will be taking new pictures of this elephant.",
+      "An elephant that looks like it is smiling while people look at it.",
+      "A group of people standing around an elephant.",
+      "Some men are standing near an elephant outdoors."
+    ],
+    "cleaned_captions": [
+      "people laugh at the antics of an elephant",
+      "a photographer will be taking new pictures of this elephant",
+      "an elephant that looks like it is smiling while people look at it",
+      "a group of people standing around an elephant",
+      "some men are standing near an elephant outdoors"
+    ]
+  },
+  {
+    "image_id": 483475,
+    "file_name": "000000483475.jpg",
+    "height": 612,
+    "width": 612,
+    "captions": [
+      "A modern jet airplane coming in to park at the gate of an airport",
+      "A large jet sitting on top of an airport runway.",
+      "A plane parked at an airport near a terminal.",
+      "A white airplane is parked preparing for takeoff.",
+      "some people standing at the top of some stairs "
+    ],
+    "raw_captions": [
+      "A modern jet airplane coming in to park at the gate of an airport",
+      "A large jet sitting on top of an airport runway.",
+      "A plane parked at an airport near a terminal.",
+      "A white airplane is parked preparing for takeoff.",
+      "some people standing at the top of some stairs "
+    ],
+    "cleaned_captions": [
+      "a modern jet airplane coming in to park at the gate of an airport",
+      "a large jet sitting on top of an airport runway",
+      "a plane parked at an airport near a terminal",
+      "a white airplane is parked preparing for takeoff",
+      "some people standing at the top of some stairs"
+    ]
+  },
+  {
+    "image_id": 483165,
+    "file_name": "000000483165.jpg",
+    "height": 427,
+    "width": 640,
+    "captions": [
+      "A girl in a pink jacket on a bicycle passes a man in a blue cap on a bicycle.",
+      "A couple of people riding bikes past each other.",
+      "Three people on bicycles greet each other near a traffic light in front of trees and a stone building.",
+      "two people on bikes talking to each other ",
+      "A couple of people on bikes on a street."
+    ],
+    "raw_captions": [
+      "A girl in a pink jacket on a bicycle passes a man in a blue cap on a bicycle.",
+      "A couple of people riding bikes past each other.",
+      "Three people on bicycles greet each other near a traffic light in front of trees and a stone building.",
+      "two people on bikes talking to each other ",
+      "A couple of people on bikes on a street."
+    ],
+    "cleaned_captions": [
+      "a girl in a pink jacket on a bicycle passes a man in a blue cap on a bicycle",
+      "a couple of people riding bikes past each other",
+      "three people on bicycles greet each other near a traffic light in front of trees and a stone building",
+      "two people on bikes talking to each other",
+      "a couple of people on bikes on a street"
+    ]
+  }
+]

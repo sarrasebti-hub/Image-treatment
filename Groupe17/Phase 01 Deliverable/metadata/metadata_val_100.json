@@ -1,0 +1,6547 @@
+[
+  {
+    "image_id": 145073,
+    "width": 640,
+    "height": 406,
+    "objects": [
+      {
+        "category": "stop sign",
+        "supercategory": "outdoor",
+        "bbox": [24.6, 0.9, 479.9, 400.5],
+        "area": 169304.4,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "stop sign": 1 },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["outdoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 44801,
+    "width": 500,
+    "height": 333,
+    "objects": [
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [23.9, 158.7, 187.6, 147.8],
+        "area": 21449.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [148.9, 151.2, 133.2, 122.7],
+        "area": 9041.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [169.4, 125.3, 34.6, 27.8],
+        "area": 726.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [73.1, 127.0, 48.5, 35.1],
+        "area": 1150.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [280.6, 131.1, 21.6, 28.6],
+        "area": 311.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "motorcycle",
+        "supercategory": "vehicle",
+        "bbox": [274.8, 157.5, 91.1, 123.9],
+        "area": 5531.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "motorcycle",
+        "supercategory": "vehicle",
+        "bbox": [113.0, 124.0, 9.3, 15.7],
+        "area": 92.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "bus",
+        "supercategory": "vehicle",
+        "bbox": [343.5, 72.6, 130.2, 126.5],
+        "area": 12452.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [282.1, 126.3, 48.6, 121.8],
+        "area": 1576.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [221.1, 163.8, 22.4, 22.9],
+        "area": 321.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [138.1, 55.9, 8.3, 11.2],
+        "area": 84.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [159.7, 96.8, 9.7, 9.0],
+        "area": 79.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [172.5, 95.7, 8.9, 12.5],
+        "area": 84.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "truck",
+        "supercategory": "vehicle",
+        "bbox": [0.0, 93.9, 53.1, 186.3],
+        "area": 6212.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [90.8, 115.5, 8.3, 9.3],
+        "area": 40.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [40.6, 104.6, 45.0, 60.9],
+        "area": 1696.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [261.8, 128.5, 30.2, 24.7],
+        "area": 444.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [77.3, 35.8, 11.1, 16.9],
+        "area": 176.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [240.3, 95.6, 7.1, 8.3],
+        "area": 42.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [221.1, 98.6, 5.9, 9.5],
+        "area": 51.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [64.9, 83.1, 4.7, 5.8],
+        "area": 23.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [278.3, 134.9, 97.4, 147.3],
+        "area": 2770.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [261.6, 92.8, 6.5, 12.7],
+        "area": 57.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [234.7, 96.1, 5.1, 12.8],
+        "area": 59.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [96.4, 104.3, 7.5, 7.7],
+        "area": 49.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [475.0, 121.0, 21.0, 70.1],
+        "area": 801.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [70.7, 81.5, 3.6, 6.0],
+        "area": 18.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [484.7, 0.1, 15.3, 57.4],
+        "area": 792.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [447.8, 1.7, 41.0, 56.6],
+        "area": 1602.2,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "car": 8,
+      "motorcycle": 2,
+      "bus": 1,
+      "person": 4,
+      "traffic light": 13,
+      "truck": 1
+    },
+    "num_objects": 29,
+    "num_categories": 6,
+    "supercategories": ["outdoor", "person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 342649,
+    "width": 375,
+    "height": 500,
+    "objects": [
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [105.4, 150.7, 252.1, 146.5],
+        "area": 13933.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "bench",
+        "supercategory": "outdoor",
+        "bbox": [1.1, 240.4, 373.9, 253.9],
+        "area": 78434.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [0.0, 105.2, 71.4, 77.9],
+        "area": 2294.8,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "bird": 2, "bench": 1 },
+    "num_objects": 3,
+    "num_categories": 2,
+    "supercategories": ["animal", "outdoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 109012,
+    "width": 500,
+    "height": 400,
+    "objects": [
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [105.2, 228.2, 143.0, 103.6],
+        "area": 11432.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [327.3, 228.6, 114.5, 73.2],
+        "area": 5585.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [277.0, 234.8, 64.3, 38.0],
+        "area": 1808.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [262.6, 236.8, 31.2, 22.2],
+        "area": 357.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [219.2, 227.3, 32.1, 51.2],
+        "area": 472.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [0.0, 331.1, 500.0, 68.9],
+        "area": 25662.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [0.8, 256.6, 21.3, 74.9],
+        "area": 1224.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [96.4, 161.1, 5.1, 16.4],
+        "area": 78.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [141.1, 161.3, 7.7, 16.1],
+        "area": 105.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [49.5, 161.3, 6.1, 16.6],
+        "area": 91.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [310.4, 194.9, 4.1, 9.5],
+        "area": 24.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [188.0, 210.0, 3.5, 7.0],
+        "area": 22.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [208.7, 210.3, 3.7, 8.2],
+        "area": 26.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [297.8, 197.9, 5.0, 8.8],
+        "area": 27.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [8.2, 227.0, 118.6, 73.7],
+        "area": 5641.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [227.9, 211.2, 4.7, 7.9],
+        "area": 34.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [130.8, 150.8, 9.4, 10.2],
+        "area": 79.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [2.4, 195.6, 6.5, 11.9],
+        "area": 56.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [10.7, 199.5, 3.5, 8.8],
+        "area": 25.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [17.2, 201.7, 4.8, 8.8],
+        "area": 23.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [102.8, 231.1, 39.5, 25.9],
+        "area": 524.4,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "car": 9, "traffic light": 12 },
+    "num_objects": 21,
+    "num_categories": 2,
+    "supercategories": ["outdoor", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 375409,
+    "width": 640,
+    "height": 428,
+    "objects": [
+      {
+        "category": "train",
+        "supercategory": "vehicle",
+        "bbox": [1.0, 118.5, 546.3, 196.2],
+        "area": 80621.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [612.6, 271.7, 12.6, 38.5],
+        "area": 258.9,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "train": 1, "person": 1 },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 227033,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "train",
+        "supercategory": "vehicle",
+        "bbox": [0.0, 1.1, 640.0, 471.4],
+        "area": 252038.6,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "train": 1 },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 557422,
+    "width": 458,
+    "height": 640,
+    "objects": [
+      {
+        "category": "bicycle",
+        "supercategory": "vehicle",
+        "bbox": [416.5, 507.1, 41.5, 48.5],
+        "area": 567.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "bicycle",
+        "supercategory": "vehicle",
+        "bbox": [398.4, 555.3, 59.6, 84.4],
+        "area": 1672.1,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "bicycle": 2 },
+    "num_objects": 2,
+    "num_categories": 1,
+    "supercategories": ["vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 386193,
+    "width": 500,
+    "height": 375,
+    "objects": [
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [196.3, 88.0, 32.3, 29.4],
+        "area": 324.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [239.1, 80.3, 49.1, 29.1],
+        "area": 775.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [319.9, 151.3, 48.6, 39.7],
+        "area": 810.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "clock",
+        "supercategory": "indoor",
+        "bbox": [114.0, 35.5, 299.8, 285.5],
+        "area": 67399.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [255.1, 231.9, 15.5, 40.8],
+        "area": 388.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [206.2, 227.7, 29.2, 36.6],
+        "area": 429.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [177.5, 193.0, 30.1, 39.9],
+        "area": 494.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [162.3, 119.0, 35.6, 38.1],
+        "area": 712.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [320.0, 120.6, 37.7, 26.1],
+        "area": 419.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [287.1, 221.8, 42.0, 38.4],
+        "area": 425.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [41.3, 183.7, 58.1, 110.4],
+        "area": 2109.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [162.7, 161.5, 44.7, 34.3],
+        "area": 564.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [320.9, 198.8, 34.6, 31.9],
+        "area": 461.8,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "bird": 12, "clock": 1 },
+    "num_objects": 13,
+    "num_categories": 2,
+    "supercategories": ["animal", "indoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 573686,
+    "width": 640,
+    "height": 429,
+    "objects": [
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [406.8, 139.8, 91.6, 269.9],
+        "area": 10686.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [224.6, 58.6, 167.9, 364.7],
+        "area": 44227.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [531.5, 120.6, 11.8, 17.2],
+        "area": 107.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "skis",
+        "supercategory": "sports",
+        "bbox": [39.5, 168.7, 72.1, 260.3],
+        "area": 3979.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "skis",
+        "supercategory": "sports",
+        "bbox": [372.6, 83.5, 64.7, 312.6],
+        "area": 11665.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [350.5, 118.9, 11.6, 24.9],
+        "area": 139.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [371.2, 118.3, 9.2, 39.3],
+        "area": 223.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "chair",
+        "supercategory": "furniture",
+        "bbox": [516.0, 192.8, 71.0, 154.5],
+        "area": 7233.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "chair",
+        "supercategory": "furniture",
+        "bbox": [568.3, 167.1, 71.3, 114.7],
+        "area": 5737.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "truck",
+        "supercategory": "vehicle",
+        "bbox": [520.4, 120.7, 119.6, 59.0],
+        "area": 3241.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [0.0, 22.9, 249.3, 400.1],
+        "area": 64832.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [482.4, 118.4, 9.9, 26.8],
+        "area": 153.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "chair",
+        "supercategory": "furniture",
+        "bbox": [468.8, 210.1, 33.0, 31.2],
+        "area": 528.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "skis",
+        "supercategory": "sports",
+        "bbox": [472.6, 107.0, 58.8, 322.0],
+        "area": 10198.2,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "person": 7, "skis": 3, "chair": 3, "truck": 1 },
+    "num_objects": 14,
+    "num_categories": 4,
+    "supercategories": ["furniture", "person", "sports", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 342814,
+    "width": 640,
+    "height": 427,
+    "objects": [
+      {
+        "category": "bus",
+        "supercategory": "vehicle",
+        "bbox": [276.4, 1.0, 363.6, 421.2],
+        "area": 142664.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "bus",
+        "supercategory": "vehicle",
+        "bbox": [82.5, 174.6, 225.5, 179.4],
+        "area": 32222.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "bus",
+        "supercategory": "vehicle",
+        "bbox": [2.1, 223.2, 67.6, 55.4],
+        "area": 2560.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [21.3, 251.4, 30.7, 74.1],
+        "area": 1350.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [48.0, 255.2, 11.7, 29.4],
+        "area": 178.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [17.8, 262.7, 10.8, 55.0],
+        "area": 339.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "bus",
+        "supercategory": "vehicle",
+        "bbox": [59.8, 214.4, 37.0, 93.6],
+        "area": 2312.8,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "bus": 4, "person": 3 },
+    "num_objects": 7,
+    "num_categories": 2,
+    "supercategories": ["person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 238525,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [16.3, 11.0, 501.7, 467.6],
+        "area": 133673.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [450.9, 0.0, 187.7, 474.6],
+        "area": 50221.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [4.3, 5.2, 101.9, 359.7],
+        "area": 18505.3,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "giraffe": 3 },
+    "num_objects": 3,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 436044,
+    "width": 640,
+    "height": 428,
+    "objects": [
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [230.3, 146.1, 150.1, 183.7],
+        "area": 6411.1,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "bird": 1 },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 176906,
+    "width": 460,
+    "height": 500,
+    "objects": [
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [92.5, 288.8, 109.1, 91.6],
+        "area": 4742.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [188.8, 283.3, 75.1, 113.7],
+        "area": 5230.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [25.4, 342.0, 193.7, 129.5],
+        "area": 13255.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [208.8, 341.7, 197.0, 146.7],
+        "area": 11810.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [251.7, 270.2, 107.2, 110.2],
+        "area": 4171.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [365.2, 23.6, 89.9, 395.5],
+        "area": 25110.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [260.8, 105.0, 23.3, 63.0],
+        "area": 777.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "bench",
+        "supercategory": "outdoor",
+        "bbox": [162.2, 133.1, 75.5, 36.6],
+        "area": 1442.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "bench",
+        "supercategory": "outdoor",
+        "bbox": [0.0, 168.2, 43.6, 38.4],
+        "area": 1066.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "handbag",
+        "supercategory": "accessory",
+        "bbox": [127.2, 157.8, 39.8, 37.4],
+        "area": 769.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "truck",
+        "supercategory": "vehicle",
+        "bbox": [287.9, 118.9, 58.1, 31.3],
+        "area": 1271.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "bowl",
+        "supercategory": "kitchen",
+        "bbox": [201.9, 418.4, 53.7, 23.4],
+        "area": 817.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [249.8, 127.2, 49.9, 22.8],
+        "area": 575.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [5.2, 91.6, 103.6, 209.3],
+        "area": 10193.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [113.9, 87.6, 56.5, 161.9],
+        "area": 5791.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [230.6, 106.0, 28.4, 63.0],
+        "area": 941.6,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "sheep": 5,
+      "person": 5,
+      "bench": 2,
+      "handbag": 1,
+      "truck": 1,
+      "bowl": 1,
+      "car": 1
+    },
+    "num_objects": 16,
+    "num_categories": 7,
+    "supercategories": [
+      "accessory",
+      "animal",
+      "kitchen",
+      "outdoor",
+      "person",
+      "vehicle"
+    ],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 562171,
+    "width": 500,
+    "height": 350,
+    "objects": [
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [300.1, 180.7, 15.5, 20.1],
+        "area": 201.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [298.6, 193.6, 41.2, 12.5],
+        "area": 271.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [79.6, 32.9, 357.7, 272.1],
+        "area": 44239.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [0.4, 104.7, 30.9, 23.5],
+        "area": 552.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [52.0, 107.4, 52.5, 23.8],
+        "area": 777.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [7.2, 83.2, 81.8, 26.0],
+        "area": 1451.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [0.3, 127.4, 64.1, 23.6],
+        "area": 1093.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [80.6, 132.1, 73.0, 23.1],
+        "area": 431.1,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "person": 2, "giraffe": 1, "car": 5 },
+    "num_objects": 8,
+    "num_categories": 3,
+    "supercategories": ["animal", "person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 87435,
+    "width": 640,
+    "height": 360,
+    "objects": [
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [368.8, 212.1, 38.5, 39.0],
+        "area": 934.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "bus",
+        "supercategory": "vehicle",
+        "bbox": [76.8, 16.2, 324.4, 329.3],
+        "area": 72827.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [582.0, 294.8, 43.9, 29.0],
+        "area": 270.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [596.3, 297.8, 42.5, 31.6],
+        "area": 407.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [558.0, 281.4, 36.7, 34.4],
+        "area": 491.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "motorcycle",
+        "supercategory": "vehicle",
+        "bbox": [435.6, 243.6, 39.8, 27.1],
+        "area": 602.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "bench",
+        "supercategory": "outdoor",
+        "bbox": [589.1, 306.4, 9.8, 11.6],
+        "area": 66.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [607.1, 301.9, 32.9, 32.5],
+        "area": 409.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "bench",
+        "supercategory": "outdoor",
+        "bbox": [629.6, 322.2, 10.3, 7.2],
+        "area": 31.7,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "car": 1,
+      "bus": 1,
+      "person": 4,
+      "motorcycle": 1,
+      "bench": 2
+    },
+    "num_objects": 9,
+    "num_categories": 5,
+    "supercategories": ["outdoor", "person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 5356,
+    "width": 640,
+    "height": 427,
+    "objects": [
+      {
+        "category": "airplane",
+        "supercategory": "vehicle",
+        "bbox": [1.9, 45.0, 610.8, 309.2],
+        "area": 80554.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [216.1, 191.5, 83.2, 210.5],
+        "area": 11778.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [474.4, 268.7, 24.2, 11.9],
+        "area": 106.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [588.9, 179.7, 48.8, 238.5],
+        "area": 5938.9,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "airplane": 1, "person": 2, "bird": 1 },
+    "num_objects": 4,
+    "num_categories": 3,
+    "supercategories": ["animal", "person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 543713,
+    "width": 640,
+    "height": 481,
+    "objects": [
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [12.2, 218.8, 12.6, 10.4],
+        "area": 70.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [52.9, 211.0, 317.2, 229.1],
+        "area": 42070.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [529.0, 132.7, 36.5, 24.9],
+        "area": 548.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [67.5, 175.8, 39.8, 27.9],
+        "area": 683.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [192.5, 151.1, 26.5, 22.7],
+        "area": 384.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [376.6, 128.1, 17.1, 26.6],
+        "area": 261.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [538.6, 98.7, 29.5, 20.8],
+        "area": 361.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [97.9, 167.7, 30.1, 22.9],
+        "area": 484.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [326.9, 129.2, 20.4, 23.8],
+        "area": 375.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [456.2, 106.6, 16.0, 17.4],
+        "area": 157.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [613.9, 121.5, 16.5, 25.9],
+        "area": 318.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "truck",
+        "supercategory": "vehicle",
+        "bbox": [326.6, 70.8, 131.3, 59.4],
+        "area": 6187.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [162.4, 175.0, 38.4, 29.4],
+        "area": 732.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [107.2, 103.2, 21.5, 21.5],
+        "area": 364.8,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "bird": 1, "sheep": 12, "truck": 1 },
+    "num_objects": 14,
+    "num_categories": 3,
+    "supercategories": ["animal", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 518604,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [280.5, 79.8, 226.9, 300.9],
+        "area": 26257.0,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "bird": 1 },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 526459,
+    "width": 480,
+    "height": 640,
+    "objects": [
+      {
+        "category": "bus",
+        "supercategory": "vehicle",
+        "bbox": [15.8, 43.1, 448.7, 350.9],
+        "area": 122401.0,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "bus": 1 },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 3849,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [408.4, 320.4, 32.6, 26.4],
+        "area": 655.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [262.2, 320.0, 40.4, 27.0],
+        "area": 851.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [378.6, 320.0, 10.8, 11.3],
+        "area": 90.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [300.7, 320.0, 20.5, 17.9],
+        "area": 294.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [504.7, 320.7, 26.2, 11.8],
+        "area": 212.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "truck",
+        "supercategory": "vehicle",
+        "bbox": [321.5, 307.6, 49.8, 48.9],
+        "area": 1872.0,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "car": 5, "truck": 1 },
+    "num_objects": 6,
+    "num_categories": 2,
+    "supercategories": ["vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 58569,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "bus",
+        "supercategory": "vehicle",
+        "bbox": [2.2, 0.0, 339.6, 420.5],
+        "area": 98024.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "bus",
+        "supercategory": "vehicle",
+        "bbox": [332.7, 147.8, 196.4, 164.4],
+        "area": 24467.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "bus",
+        "supercategory": "vehicle",
+        "bbox": [526.4, 226.3, 46.4, 61.5],
+        "area": 2216.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [607.1, 260.8, 20.7, 99.8],
+        "area": 937.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [617.2, 258.8, 22.8, 155.4],
+        "area": 2482.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [226.6, 167.4, 30.7, 58.2],
+        "area": 1326.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [12.6, 155.8, 49.9, 57.3],
+        "area": 724.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "handbag",
+        "supercategory": "accessory",
+        "bbox": [618.2, 274.1, 21.8, 36.2],
+        "area": 456.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [368.1, 215.9, 18.8, 20.0],
+        "area": 299.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "bus",
+        "supercategory": "vehicle",
+        "bbox": [569.1, 245.3, 21.5, 35.7],
+        "area": 566.2,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "bus": 4, "person": 5, "handbag": 1 },
+    "num_objects": 10,
+    "num_categories": 3,
+    "supercategories": ["accessory", "person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 161010,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "fire hydrant",
+        "supercategory": "outdoor",
+        "bbox": [229.6, 316.3, 86.3, 163.7],
+        "area": 8928.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [376.3, 213.0, 8.5, 21.1],
+        "area": 107.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [430.1, 212.2, 12.6, 23.2],
+        "area": 114.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [268.0, 207.9, 4.9, 17.2],
+        "area": 58.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [257.4, 208.7, 3.9, 5.1],
+        "area": 12.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [0.0, 183.1, 95.2, 78.4],
+        "area": 5438.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [148.3, 206.2, 21.9, 13.8],
+        "area": 237.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [121.0, 204.1, 12.7, 14.5],
+        "area": 138.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [279.0, 209.0, 12.3, 11.4],
+        "area": 101.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "truck",
+        "supercategory": "vehicle",
+        "bbox": [0.0, 181.7, 94.9, 78.2],
+        "area": 5550.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [400.7, 210.5, 50.0, 21.7],
+        "area": 664.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "truck",
+        "supercategory": "vehicle",
+        "bbox": [167.7, 203.1, 71.1, 39.1],
+        "area": 2083.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [336.7, 172.9, 2.7, 7.2],
+        "area": 17.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [288.5, 210.3, 13.1, 8.7],
+        "area": 71.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [258.8, 206.7, 22.7, 13.8],
+        "area": 196.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [379.9, 212.3, 15.4, 18.6],
+        "area": 228.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [169.0, 204.3, 11.7, 13.7],
+        "area": 87.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [227.7, 206.0, 15.8, 19.8],
+        "area": 133.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [342.0, 211.7, 15.4, 7.9],
+        "area": 87.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [328.0, 168.9, 8.2, 3.7],
+        "area": 29.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [128.6, 205.2, 22.7, 14.2],
+        "area": 226.4,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "fire hydrant": 1,
+      "person": 4,
+      "car": 12,
+      "truck": 2,
+      "traffic light": 2
+    },
+    "num_objects": 21,
+    "num_categories": 5,
+    "supercategories": ["outdoor", "person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 251768,
+    "width": 640,
+    "height": 427,
+    "objects": [
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [446.3, 303.7, 51.4, 66.0],
+        "area": 2212.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [408.5, 322.7, 42.0, 53.6],
+        "area": 1163.0,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "sheep": 2 },
+    "num_objects": 2,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 340922,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [563.6, 216.2, 25.8, 75.5],
+        "area": 1180.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [536.1, 212.9, 20.7, 65.9],
+        "area": 317.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [27.8, 275.8, 120.2, 169.9],
+        "area": 9050.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [97.7, 208.1, 14.9, 36.8],
+        "area": 280.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [121.0, 206.6, 15.1, 19.4],
+        "area": 187.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [446.0, 219.7, 15.1, 26.2],
+        "area": 317.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [628.9, 213.4, 11.1, 64.5],
+        "area": 317.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "bench",
+        "supercategory": "outdoor",
+        "bbox": [49.9, 296.1, 590.1, 183.9],
+        "area": 89678.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "dining table",
+        "supercategory": "furniture",
+        "bbox": [0.0, 338.4, 77.4, 125.8],
+        "area": 1773.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [609.1, 217.4, 27.9, 70.8],
+        "area": 1364.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [573.1, 204.1, 5.2, 10.0],
+        "area": 45.9,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "person": 8,
+      "bench": 1,
+      "dining table": 1,
+      "traffic light": 1
+    },
+    "num_objects": 11,
+    "num_categories": 4,
+    "supercategories": ["furniture", "outdoor", "person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 288603,
+    "width": 640,
+    "height": 428,
+    "objects": [
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [39.6, 203.4, 96.6, 175.8],
+        "area": 9297.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [425.5, 161.7, 81.3, 137.8],
+        "area": 6253.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [319.8, 167.8, 85.5, 160.9],
+        "area": 8329.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [495.3, 146.4, 98.2, 116.1],
+        "area": 5660.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [0.0, 178.5, 86.4, 135.4],
+        "area": 5118.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [40.1, 144.5, 41.0, 44.9],
+        "area": 1165.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [286.0, 80.2, 171.8, 58.5],
+        "area": 6119.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [457.5, 90.4, 79.9, 44.4],
+        "area": 2188.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [567.5, 74.2, 72.3, 135.2],
+        "area": 4999.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [544.4, 78.9, 40.4, 76.9],
+        "area": 1698.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [478.6, 98.9, 41.5, 40.3],
+        "area": 849.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [320.8, 105.9, 40.4, 37.5],
+        "area": 739.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [393.4, 154.8, 60.6, 133.7],
+        "area": 3333.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [175.9, 58.1, 33.5, 38.5],
+        "area": 484.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [1.4, 110.1, 108.1, 153.4],
+        "area": 3505.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [583.1, 146.0, 50.5, 109.9],
+        "area": 3558.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [471.3, 132.5, 81.7, 106.5],
+        "area": 1608.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [9.3, 69.0, 32.9, 27.6],
+        "area": 450.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "truck",
+        "supercategory": "vehicle",
+        "bbox": [0.0, 11.9, 324.7, 149.0],
+        "area": 36036.5,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "sheep": 9, "car": 4, "person": 5, "truck": 1 },
+    "num_objects": 19,
+    "num_categories": 4,
+    "supercategories": ["animal", "person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 345275,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [54.7, 247.5, 88.9, 161.6],
+        "area": 8441.2,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "traffic light": 1 },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["outdoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 224970,
+    "width": 640,
+    "height": 478,
+    "objects": [],
+    "object_counts": {},
+    "num_objects": 0,
+    "num_categories": 0,
+    "supercategories": [],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 316396,
+    "width": 607,
+    "height": 640,
+    "objects": [
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [197.6, 247.2, 164.6, 251.2],
+        "area": 11352.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [296.5, 211.0, 150.9, 271.5],
+        "area": 7437.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [63.8, 245.8, 106.1, 288.1],
+        "area": 12311.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [277.6, 254.6, 178.3, 231.6],
+        "area": 5944.5,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "giraffe": 4 },
+    "num_objects": 4,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 173080,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [533.9, 383.7, 106.1, 76.6],
+        "area": 5397.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [362.4, 383.8, 85.9, 72.0],
+        "area": 4988.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [491.6, 386.9, 66.2, 42.2],
+        "area": 1961.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [187.1, 379.9, 91.0, 78.7],
+        "area": 5538.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [338.7, 376.4, 65.1, 70.0],
+        "area": 2007.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [448.5, 388.1, 56.2, 42.3],
+        "area": 1707.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [319.1, 35.0, 80.4, 71.1],
+        "area": 4669.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [553.1, 369.8, 65.2, 37.1],
+        "area": 1576.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [277.1, 392.7, 20.6, 15.4],
+        "area": 271.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [338.1, 362.7, 9.3, 20.4],
+        "area": 176.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [287.6, 368.1, 9.1, 16.0],
+        "area": 119.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [298.3, 374.4, 7.6, 9.3],
+        "area": 55.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [267.5, 359.1, 7.5, 13.7],
+        "area": 97.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [253.5, 375.9, 5.0, 6.3],
+        "area": 25.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [274.0, 373.1, 5.0, 8.1],
+        "area": 38.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [262.5, 335.8, 6.0, 10.1],
+        "area": 33.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "motorcycle",
+        "supercategory": "vehicle",
+        "bbox": [279.4, 396.7, 17.9, 34.7],
+        "area": 428.0,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "car": 8, "traffic light": 8, "motorcycle": 1 },
+    "num_objects": 17,
+    "num_categories": 3,
+    "supercategories": ["outdoor", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 179563,
+    "width": 411,
+    "height": 411,
+    "objects": [
+      {
+        "category": "stop sign",
+        "supercategory": "outdoor",
+        "bbox": [261.4, 26.8, 59.1, 62.8],
+        "area": 3027.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [208.2, 163.2, 77.9, 162.2],
+        "area": 4091.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [80.4, 225.2, 16.5, 39.1],
+        "area": 346.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [273.3, 241.4, 83.6, 47.5],
+        "area": 2658.9,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "stop sign": 1, "person": 2, "car": 1 },
+    "num_objects": 4,
+    "num_categories": 3,
+    "supercategories": ["outdoor", "person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 87958,
+    "width": 471,
+    "height": 500,
+    "objects": [
+      {
+        "category": "train",
+        "supercategory": "vehicle",
+        "bbox": [66.9, 173.1, 386.3, 313.1],
+        "area": 40384.7,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "train": 1 },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 503724,
+    "width": 640,
+    "height": 257,
+    "objects": [
+      {
+        "category": "train",
+        "supercategory": "vehicle",
+        "bbox": [1.3, 41.4, 632.8, 174.6],
+        "area": 70815.9,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "train": 1 },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 83602,
+    "width": 640,
+    "height": 425,
+    "objects": [
+      {
+        "category": "train",
+        "supercategory": "vehicle",
+        "bbox": [22.0, 61.1, 509.0, 316.1],
+        "area": 95965.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [307.1, 170.1, 51.3, 20.5],
+        "area": 217.1,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "train": 1, "person": 1 },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 507550,
+    "width": 640,
+    "height": 428,
+    "objects": [
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [10.9, 237.1, 32.9, 25.7],
+        "area": 223.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [379.5, 252.9, 22.2, 12.5],
+        "area": 156.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [67.3, 231.8, 23.1, 34.6],
+        "area": 392.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [34.3, 248.6, 15.6, 14.4],
+        "area": 115.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [328.2, 260.2, 13.7, 13.9],
+        "area": 114.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [249.1, 256.0, 10.8, 18.0],
+        "area": 101.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [331.6, 239.2, 38.1, 37.0],
+        "area": 453.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [242.4, 242.4, 31.1, 29.6],
+        "area": 349.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [577.5, 247.4, 37.8, 30.1],
+        "area": 306.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [494.3, 247.3, 28.4, 22.5],
+        "area": 269.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [425.9, 243.2, 26.3, 20.5],
+        "area": 229.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [424.2, 262.0, 24.6, 15.0],
+        "area": 183.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [52, 242, 277, 34],
+        "area": 398,
+        "iscrowd": 1
+      }
+    ],
+    "object_counts": { "bird": 13 },
+    "num_objects": 13,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 500717,
+    "width": 640,
+    "height": 549,
+    "objects": [
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [549.2, 185.2, 82.2, 29.3],
+        "area": 1605.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "train",
+        "supercategory": "vehicle",
+        "bbox": [32.0, 186.1, 521.1, 237.2],
+        "area": 86010.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [53.9, 335.6, 45.2, 93.2],
+        "area": 2455.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [489.1, 259.9, 16.4, 18.5],
+        "area": 205.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [605.4, 358.0, 13.6, 38.6],
+        "area": 333.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [234.4, 186.8, 46.9, 10.4],
+        "area": 281.1,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "car": 2, "train": 1, "person": 3 },
+    "num_objects": 6,
+    "num_categories": 3,
+    "supercategories": ["person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 244421,
+    "width": 640,
+    "height": 426,
+    "objects": [
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [124.2, 256.9, 373.3, 152.5],
+        "area": 40484.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "bus",
+        "supercategory": "vehicle",
+        "bbox": [24.0, 84.6, 537.3, 238.9],
+        "area": 100215.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "train",
+        "supercategory": "vehicle",
+        "bbox": [24.9, 87.3, 531.3, 250.8],
+        "area": 99367.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [95.0, 192.8, 21.6, 34.3],
+        "area": 418.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [134.8, 192.0, 12.1, 32.7],
+        "area": 277.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [115.8, 194.5, 10.9, 31.4],
+        "area": 190.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [83.2, 205.7, 6.6, 21.4],
+        "area": 95.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [308.2, 182.8, 23.9, 40.2],
+        "area": 684.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [428.2, 184.9, 23.6, 32.3],
+        "area": 451.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [290.2, 183.8, 10.8, 40.3],
+        "area": 308.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [219.2, 194.3, 10.4, 28.6],
+        "area": 186.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [157.7, 201.3, 6.5, 18.1],
+        "area": 82.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [76.1, 198.0, 13.1, 32.6],
+        "area": 178.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "handbag",
+        "supercategory": "accessory",
+        "bbox": [317.8, 199.8, 14.1, 22.8],
+        "area": 143.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [193.4, 192.5, 13.1, 17.9],
+        "area": 163.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [56.4, 196.1, 16.4, 30.2],
+        "area": 306.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [308.5, 184.8, 8.7, 27.0],
+        "area": 150.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [169, 167, 421, 96],
+        "area": 1898,
+        "iscrowd": 1
+      }
+    ],
+    "object_counts": {
+      "car": 1,
+      "bus": 1,
+      "train": 1,
+      "person": 14,
+      "handbag": 1
+    },
+    "num_objects": 18,
+    "num_categories": 5,
+    "supercategories": ["accessory", "person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 559047,
+    "width": 640,
+    "height": 430,
+    "objects": [
+      {
+        "category": "cat",
+        "supercategory": "animal",
+        "bbox": [354.6, 93.6, 132.8, 244.6],
+        "area": 23753.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "bench",
+        "supercategory": "outdoor",
+        "bbox": [264.1, 164.1, 325.1, 253.7],
+        "area": 34681.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "potted plant",
+        "supercategory": "furniture",
+        "bbox": [577.7, 342.7, 62.3, 62.2],
+        "area": 2178.9,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "cat": 1, "bench": 1, "potted plant": 1 },
+    "num_objects": 3,
+    "num_categories": 3,
+    "supercategories": ["animal", "furniture", "outdoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 95371,
+    "width": 640,
+    "height": 436,
+    "objects": [
+      {
+        "category": "bus",
+        "supercategory": "vehicle",
+        "bbox": [180.3, 46.7, 417.4, 324.3],
+        "area": 120730.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [197.4, 92.2, 37.0, 38.8],
+        "area": 998.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "truck",
+        "supercategory": "vehicle",
+        "bbox": [1.0, 139.1, 176.4, 208.7],
+        "area": 29014.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [314.3, 98.0, 35.8, 33.3],
+        "area": 775.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [211.9, 207.9, 48.2, 46.5],
+        "area": 966.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [441.2, 104.7, 44.8, 30.6],
+        "area": 648.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [426.6, 103.0, 10.2, 22.8],
+        "area": 130.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [476.1, 104.7, 14.8, 30.4],
+        "area": 207.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [388.9, 113.9, 8.1, 13.1],
+        "area": 82.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [236.5, 93.7, 28.3, 37.3],
+        "area": 647.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [572.3, 124.9, 10.5, 13.2],
+        "area": 101.0,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "bus": 1, "person": 9, "truck": 1 },
+    "num_objects": 11,
+    "num_categories": 3,
+    "supercategories": ["person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 248395,
+    "width": 480,
+    "height": 640,
+    "objects": [
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [123.9, 208.2, 268.4, 214.7],
+        "area": 23067.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [0.0, 0.1, 474.6, 524.9],
+        "area": 102432.7,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "bird": 1, "person": 1 },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["animal", "person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 449403,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [0.0, 301.9, 128.8, 103.0],
+        "area": 10994.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [131.5, 312.4, 27.0, 30.4],
+        "area": 483.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [86.0, 302.6, 58.3, 58.7],
+        "area": 1198.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [191.1, 308.3, 37.8, 25.1],
+        "area": 707.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [453.1, 303.6, 17.2, 26.1],
+        "area": 381.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [20.2, 296.5, 44.8, 10.8],
+        "area": 369.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "bus",
+        "supercategory": "vehicle",
+        "bbox": [265.4, 157.5, 154.2, 226.5],
+        "area": 32482.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [556.5, 293.0, 28.9, 83.6],
+        "area": 1614.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "umbrella",
+        "supercategory": "accessory",
+        "bbox": [545.5, 288.4, 40.0, 21.6],
+        "area": 484.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [284.2, 282.6, 29.6, 24.9],
+        "area": 342.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [256.4, 310.0, 9.1, 38.9],
+        "area": 234.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [414.3, 290.6, 7.9, 44.1],
+        "area": 232.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [320.0, 90.8, 48.6, 35.5],
+        "area": 1080.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [54.2, 170.7, 30.4, 21.1],
+        "area": 378.8,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "car": 8,
+      "bus": 1,
+      "person": 2,
+      "umbrella": 1,
+      "traffic light": 2
+    },
+    "num_objects": 14,
+    "num_categories": 5,
+    "supercategories": ["accessory", "outdoor", "person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 174987,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "train",
+        "supercategory": "vehicle",
+        "bbox": [0.0, 1.1, 640.0, 475.7],
+        "area": 271978.3,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "train": 1 },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 64016,
+    "width": 640,
+    "height": 427,
+    "objects": [
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [244.4, 146.4, 113.4, 175.4],
+        "area": 6327.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [1.0, 184.4, 235.9, 233.1],
+        "area": 33757.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [10.6, 122.8, 290.7, 263.9],
+        "area": 14782.6,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "bird": 1, "person": 2 },
+    "num_objects": 3,
+    "num_categories": 2,
+    "supercategories": ["animal", "person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 90560,
+    "width": 640,
+    "height": 360,
+    "objects": [
+      {
+        "category": "train",
+        "supercategory": "vehicle",
+        "bbox": [356.1, 100.7, 129.9, 128.7],
+        "area": 12889.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "train",
+        "supercategory": "vehicle",
+        "bbox": [251.4, 112.9, 107.8, 111.0],
+        "area": 8583.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [135.7, 160.1, 20.4, 53.4],
+        "area": 651.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [97.3, 153.7, 20.2, 64.7],
+        "area": 830.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [273.6, 172.2, 21.6, 57.8],
+        "area": 818.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [63.0, 157.5, 18.7, 64.3],
+        "area": 602.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [157.3, 154.5, 15.4, 45.4],
+        "area": 591.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "suitcase",
+        "supercategory": "accessory",
+        "bbox": [148.2, 187.8, 10.3, 14.5],
+        "area": 128.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "suitcase",
+        "supercategory": "accessory",
+        "bbox": [156.6, 187.4, 18.5, 30.9],
+        "area": 369.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "suitcase",
+        "supercategory": "accessory",
+        "bbox": [249.6, 186.1, 4.8, 13.4],
+        "area": 57.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "suitcase",
+        "supercategory": "accessory",
+        "bbox": [71.4, 182.8, 16.1, 38.4],
+        "area": 405.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [187.6, 156.4, 10.7, 48.8],
+        "area": 337.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [0.0, 146.1, 22.0, 82.3],
+        "area": 1078.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [229.7, 160.5, 16.1, 34.5],
+        "area": 254.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [195.3, 159.7, 16.0, 48.8],
+        "area": 517.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [125.5, 159.3, 13.7, 43.1],
+        "area": 397.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [20.4, 153.1, 20.4, 63.1],
+        "area": 664.5,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "train": 2, "person": 11, "suitcase": 4 },
+    "num_objects": 17,
+    "num_categories": 3,
+    "supercategories": ["accessory", "person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 109939,
+    "width": 480,
+    "height": 640,
+    "objects": [
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [92.9, 284.8, 56.9, 45.4],
+        "area": 1273.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [245.2, 262.0, 39.0, 38.0],
+        "area": 853.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [461.5, 276.6, 18.0, 51.0],
+        "area": 598.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [149.9, 287.4, 66.6, 33.9],
+        "area": 1339.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [1.5, 288.6, 126.5, 61.0],
+        "area": 6016.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "bus",
+        "supercategory": "vehicle",
+        "bbox": [205.4, 96.4, 227.6, 298.7],
+        "area": 58257.0,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "car": 3, "person": 2, "bus": 1 },
+    "num_objects": 6,
+    "num_categories": 3,
+    "supercategories": ["person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 415714,
+    "width": 428,
+    "height": 640,
+    "objects": [],
+    "object_counts": {},
+    "num_objects": 0,
+    "num_categories": 0,
+    "supercategories": [],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 578713,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "stop sign",
+        "supercategory": "outdoor",
+        "bbox": [100.3, 271.5, 43.1, 45.3],
+        "area": 1455.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [79.7, 218.7, 39.0, 14.3],
+        "area": 304.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [68.0, 224.9, 49.9, 12.8],
+        "area": 276.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [147.2, 222.7, 25.3, 11.1],
+        "area": 199.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [0.1, 224.7, 48.3, 14.8],
+        "area": 408.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [269.2, 217.8, 17.8, 12.2],
+        "area": 161.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [254.4, 216.6, 11.0, 7.7],
+        "area": 57.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [283.4, 217.7, 6.1, 9.0],
+        "area": 33.0,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "stop sign": 1, "car": 7 },
+    "num_objects": 8,
+    "num_categories": 2,
+    "supercategories": ["outdoor", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 291298,
+    "width": 640,
+    "height": 359,
+    "objects": [
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [280.3, 25.0, 333.3, 330.1],
+        "area": 57075.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [548.6, 63.9, 91.4, 291.7],
+        "area": 14767.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [0.0, 58.6, 377.6, 300.4],
+        "area": 39128.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "handbag",
+        "supercategory": "accessory",
+        "bbox": [453.4, 168.5, 98.5, 185.6],
+        "area": 3270.4,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "person": 2, "giraffe": 1, "handbag": 1 },
+    "num_objects": 4,
+    "num_categories": 3,
+    "supercategories": ["accessory", "animal", "person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 133867,
+    "width": 470,
+    "height": 500,
+    "objects": [
+      {
+        "category": "elephant",
+        "supercategory": "animal",
+        "bbox": [112.8, 122.4, 194.5, 159.8],
+        "area": 18193.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "elephant",
+        "supercategory": "animal",
+        "bbox": [389.9, 134.9, 78.5, 123.6],
+        "area": 5598.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [162.9, 84.7, 56.3, 89.7],
+        "area": 1622.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [290.2, 185.3, 50.0, 169.1],
+        "area": 4343.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [417.4, 98.5, 37.6, 43.3],
+        "area": 993.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [40.6, 181.0, 24.6, 88.8],
+        "area": 1633.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [97.1, 177.7, 15.2, 52.3],
+        "area": 365.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [345.4, 179.1, 47.1, 128.2],
+        "area": 3426.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [334.7, 179.9, 13.9, 22.9],
+        "area": 172.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [26.2, 190.2, 18.4, 69.2],
+        "area": 924.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [149.3, 180.8, 37.5, 120.1],
+        "area": 2511.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [439.3, 185.4, 26.9, 86.1],
+        "area": 1192.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [63.5, 191.5, 30.0, 64.1],
+        "area": 1106.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [6.5, 179.4, 13.8, 20.9],
+        "area": 121.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [86.3, 188.0, 25.6, 64.6],
+        "area": 870.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [0, 162, 469, 214],
+        "area": 7901,
+        "iscrowd": 1
+      }
+    ],
+    "object_counts": { "elephant": 2, "person": 14 },
+    "num_objects": 16,
+    "num_categories": 2,
+    "supercategories": ["animal", "person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 201420,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [1.1, 39.8, 459.6, 434.9],
+        "area": 150899.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [340.2, 1.6, 299.1, 478.4],
+        "area": 69379.4,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "giraffe": 2 },
+    "num_objects": 2,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 200274,
+    "width": 640,
+    "height": 430,
+    "objects": [
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [468.1, 307.9, 58.2, 21.7],
+        "area": 915.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [261.9, 94.7, 32.5, 58.4],
+        "area": 1672.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [379.7, 95.0, 33.2, 58.2],
+        "area": 1582.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [1.9, 211.7, 33.7, 65.4],
+        "area": 1608.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "truck",
+        "supercategory": "vehicle",
+        "bbox": [574.9, 46.2, 65.1, 378.8],
+        "area": 13161.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [128.7, 97.4, 33.2, 60.1],
+        "area": 1646.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [182.5, 256.0, 11.6, 16.5],
+        "area": 163.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [145.6, 254.4, 11.5, 17.6],
+        "area": 146.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [110.8, 255.5, 9.0, 16.5],
+        "area": 135.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "truck",
+        "supercategory": "vehicle",
+        "bbox": [86.5, 285.4, 216.6, 49.5],
+        "area": 7504.3,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "car": 1, "traffic light": 7, "truck": 2 },
+    "num_objects": 10,
+    "num_categories": 3,
+    "supercategories": ["outdoor", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 533625,
+    "width": 480,
+    "height": 640,
+    "objects": [
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [0.2, 541.7, 261.0, 98.3],
+        "area": 19486.4,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "car": 1 },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 127474,
+    "width": 640,
+    "height": 426,
+    "objects": [
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [68.0, 62.9, 292.0, 344.6],
+        "area": 39307.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [352.3, 83.3, 255.6, 337.9],
+        "area": 52645.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "fire hydrant",
+        "supercategory": "outdoor",
+        "bbox": [311.5, 69.3, 162.5, 356.6],
+        "area": 26000.0,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "person": 2, "fire hydrant": 1 },
+    "num_objects": 3,
+    "num_categories": 2,
+    "supercategories": ["outdoor", "person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 234785,
+    "width": 500,
+    "height": 356,
+    "objects": [
+      {
+        "category": "dog",
+        "supercategory": "animal",
+        "bbox": [257.6, 224.5, 40.0, 59.0],
+        "area": 1457.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [312.7, 113.3, 16.6, 17.1],
+        "area": 87.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [149.4, 127.2, 43.6, 31.2],
+        "area": 539.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [99.1, 163.3, 52.1, 30.0],
+        "area": 541.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [4.3, 182.3, 37.0, 21.8],
+        "area": 454.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [406.2, 56.2, 36.2, 32.0],
+        "area": 428.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [313.4, 111.4, 8.5, 12.9],
+        "area": 52.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "bench",
+        "supercategory": "outdoor",
+        "bbox": [327.1, 116.8, 27.3, 14.8],
+        "area": 200.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "bench",
+        "supercategory": "outdoor",
+        "bbox": [284.8, 104.8, 14.4, 11.2],
+        "area": 72.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [303.8, 112.5, 7.5, 10.3],
+        "area": 44.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "bench",
+        "supercategory": "outdoor",
+        "bbox": [117.5, 111.4, 29.9, 23.2],
+        "area": 287.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "bench",
+        "supercategory": "outdoor",
+        "bbox": [181.2, 95.8, 12.4, 9.2],
+        "area": 56.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [103.0, 62.7, 21.0, 49.0],
+        "area": 555.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [417.0, 185.6, 12.9, 10.8],
+        "area": 78.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [395.1, 166.6, 18.7, 11.6],
+        "area": 96.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [234.2, 96.0, 20.5, 21.3],
+        "area": 204.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [429.1, 83.5, 41.1, 35.3],
+        "area": 608.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [180.3, 94.2, 14.2, 13.2],
+        "area": 84.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [227, 55, 235, 151],
+        "area": 720,
+        "iscrowd": 1
+      }
+    ],
+    "object_counts": { "dog": 1, "bird": 14, "bench": 4 },
+    "num_objects": 19,
+    "num_categories": 3,
+    "supercategories": ["animal", "outdoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 73119,
+    "width": 640,
+    "height": 427,
+    "objects": [
+      {
+        "category": "train",
+        "supercategory": "vehicle",
+        "bbox": [115.6, 64.1, 492.9, 263.7],
+        "area": 92598.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [432.9, 207.8, 62.4, 152.9],
+        "area": 5139.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [85.5, 216.0, 53.6, 122.3],
+        "area": 2749.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [0.0, 105.5, 48.5, 84.6],
+        "area": 2499.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [473.8, 274.9, 9.3, 67.1],
+        "area": 510.0,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "train": 1, "person": 4 },
+    "num_objects": 5,
+    "num_categories": 2,
+    "supercategories": ["person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 32960,
+    "width": 640,
+    "height": 427,
+    "objects": [
+      {
+        "category": "train",
+        "supercategory": "vehicle",
+        "bbox": [1.0, 65.9, 585.7, 333.7],
+        "area": 138104.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [1.1, 150.4, 16.0, 61.2],
+        "area": 459.2,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "train": 1, "person": 1 },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 27969,
+    "width": 640,
+    "height": 424,
+    "objects": [
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [542.8, 181.8, 32.8, 19.4],
+        "area": 501.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [134.9, 55.2, 202.2, 326.5],
+        "area": 24921.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "bench",
+        "supercategory": "outdoor",
+        "bbox": [55.4, 176.5, 481.1, 247.5],
+        "area": 49843.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "truck",
+        "supercategory": "vehicle",
+        "bbox": [428.8, 170.0, 54.8, 22.1],
+        "area": 955.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "truck",
+        "supercategory": "vehicle",
+        "bbox": [308.4, 127.9, 121.3, 64.6],
+        "area": 6480.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [273.6, 100.8, 48.4, 96.8],
+        "area": 1797.6,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "car": 1, "person": 2, "bench": 1, "truck": 2 },
+    "num_objects": 6,
+    "num_categories": 4,
+    "supercategories": ["outdoor", "person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 108541,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [331.0, 346.3, 23.9, 20.4],
+        "area": 410.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [164.0, 351.6, 10.8, 7.5],
+        "area": 53.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [203.7, 352.7, 8.8, 3.6],
+        "area": 26.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [287.5, 350.4, 15.8, 13.1],
+        "area": 156.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "truck",
+        "supercategory": "vehicle",
+        "bbox": [386.9, 248.6, 134.5, 154.4],
+        "area": 18720.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [70.5, 349.0, 20.8, 10.8],
+        "area": 135.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [175.1, 348.7, 15.5, 9.3],
+        "area": 114.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [211.8, 351.1, 7.0, 5.4],
+        "area": 31.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "truck",
+        "supercategory": "vehicle",
+        "bbox": [191.1, 343.7, 9.7, 12.9],
+        "area": 116.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [96.2, 351.9, 14.9, 7.7],
+        "area": 93.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [231.3, 350.5, 8.1, 4.7],
+        "area": 24.1,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "car": 9, "truck": 2 },
+    "num_objects": 11,
+    "num_categories": 2,
+    "supercategories": ["vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 54562,
+    "width": 640,
+    "height": 214,
+    "objects": [
+      {
+        "category": "train",
+        "supercategory": "vehicle",
+        "bbox": [0.0, 26.3, 640.0, 160.9],
+        "area": 75248.2,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "train": 1 },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 381021,
+    "width": 476,
+    "height": 640,
+    "objects": [
+      {
+        "category": "potted plant",
+        "supercategory": "furniture",
+        "bbox": [308.7, 275.8, 49.1, 131.7],
+        "area": 4806.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [355.2, 275.1, 66.3, 49.9],
+        "area": 1286.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [334.4, 286.2, 80.1, 65.1],
+        "area": 2486.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [447.5, 279.3, 28.5, 35.6],
+        "area": 658.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [397.0, 280.2, 18.3, 15.2],
+        "area": 151.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "truck",
+        "supercategory": "vehicle",
+        "bbox": [41.5, 227.3, 50.6, 99.0],
+        "area": 3555.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [106.5, 53.2, 22.8, 46.0],
+        "area": 702.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [403.2, 276.5, 32.1, 51.2],
+        "area": 630.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [437.9, 278.0, 13.3, 25.3],
+        "area": 230.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [4.0, 274.5, 13.7, 37.7],
+        "area": 254.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "bus",
+        "supercategory": "vehicle",
+        "bbox": [309.6, 258.6, 29.1, 24.6],
+        "area": 553.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [85.9, 55.9, 15.4, 42.4],
+        "area": 495.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "bicycle",
+        "supercategory": "vehicle",
+        "bbox": [12.9, 289.4, 28.5, 28.2],
+        "area": 494.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [357.4, 277.6, 18.4, 9.3],
+        "area": 82.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [35.0, 272.4, 6.7, 18.6],
+        "area": 91.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "truck",
+        "supercategory": "vehicle",
+        "bbox": [307.8, 255.9, 29.5, 29.1],
+        "area": 665.0,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "potted plant": 1,
+      "car": 5,
+      "truck": 2,
+      "traffic light": 2,
+      "person": 4,
+      "bus": 1,
+      "bicycle": 1
+    },
+    "num_objects": 16,
+    "num_categories": 7,
+    "supercategories": ["furniture", "outdoor", "person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 92377,
+    "width": 640,
+    "height": 428,
+    "objects": [
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [240.6, 71.8, 213.4, 189.6],
+        "area": 12136.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "bench",
+        "supercategory": "outdoor",
+        "bbox": [0.0, 197.2, 640.0, 226.0],
+        "area": 118716.2,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "bird": 1, "bench": 1 },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["animal", "outdoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 89909,
+    "width": 612,
+    "height": 612,
+    "objects": [
+      {
+        "category": "bench",
+        "supercategory": "outdoor",
+        "bbox": [137.2, 321.2, 366.4, 244.3],
+        "area": 58436.9,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "bench": 1 },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["outdoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 112928,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "fire hydrant",
+        "supercategory": "outdoor",
+        "bbox": [118.7, 14.1, 55.0, 144.5],
+        "area": 5197.5,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "fire hydrant": 1 },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["outdoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 157465,
+    "width": 640,
+    "height": 400,
+    "objects": [
+      {
+        "category": "bus",
+        "supercategory": "vehicle",
+        "bbox": [69.2, 111.7, 316.4, 163.6],
+        "area": 43456.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "bus",
+        "supercategory": "vehicle",
+        "bbox": [362.1, 119.2, 219.7, 160.6],
+        "area": 28444.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "truck",
+        "supercategory": "vehicle",
+        "bbox": [1.0, 188.3, 75.1, 91.8],
+        "area": 4160.0,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "bus": 2, "truck": 1 },
+    "num_objects": 3,
+    "num_categories": 2,
+    "supercategories": ["vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 359238,
+    "width": 430,
+    "height": 640,
+    "objects": [
+      {
+        "category": "dining table",
+        "supercategory": "furniture",
+        "bbox": [164.9, 381.3, 264.8, 257.2],
+        "area": 38289.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [8.3, 59.1, 317.9, 573.6],
+        "area": 125292.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [326.5, 378.2, 94.9, 185.5],
+        "area": 11792.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [0.0, 31.4, 44.9, 38.2],
+        "area": 1136.2,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "dining table": 1, "person": 2, "bottle": 1 },
+    "num_objects": 4,
+    "num_categories": 3,
+    "supercategories": ["furniture", "kitchen", "person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 521721,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [297.7, 30.5, 172.0, 368.8],
+        "area": 25835.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [24.8, 0.0, 615.2, 480.0],
+        "area": 151050.3,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "bird": 1, "car": 1 },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["animal", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 504103,
+    "width": 480,
+    "height": 640,
+    "objects": [
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [178.0, 355.3, 31.4, 27.5],
+        "area": 663.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [169.7, 352.6, 11.9, 31.9],
+        "area": 256.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [155.2, 352.2, 13.4, 31.7],
+        "area": 242.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [122.2, 348.9, 11.2, 32.4],
+        "area": 176.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [144.1, 354.9, 11.8, 27.0],
+        "area": 196.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [132.2, 346.8, 16.9, 34.1],
+        "area": 330.0,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "car": 1, "person": 5 },
+    "num_objects": 6,
+    "num_categories": 2,
+    "supercategories": ["person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 531854,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [453.0, 209.8, 52.4, 56.3],
+        "area": 1728.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [191.3, 189.7, 47.8, 46.0],
+        "area": 1310.4,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "bird": 2 },
+    "num_objects": 2,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 375810,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [312.5, 131.0, 150.9, 331.6],
+        "area": 20982.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [439.0, 115.2, 141.3, 335.5],
+        "area": 25854.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [142.9, 124.8, 140.4, 339.0],
+        "area": 24266.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "tie",
+        "supercategory": "accessory",
+        "bbox": [196.1, 193.7, 23.6, 67.5],
+        "area": 705.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "bench",
+        "supercategory": "outdoor",
+        "bbox": [543.6, 199.4, 96.4, 157.5],
+        "area": 10413.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "bench",
+        "supercategory": "outdoor",
+        "bbox": [421.0, 200.8, 78.8, 83.1],
+        "area": 3428.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [152.4, 255.8, 100.8, 22.3],
+        "area": 1321.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "handbag",
+        "supercategory": "accessory",
+        "bbox": [430.3, 181.2, 142.4, 112.4],
+        "area": 1982.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "handbag",
+        "supercategory": "accessory",
+        "bbox": [147.8, 265.6, 125.1, 49.6],
+        "area": 4501.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "handbag",
+        "supercategory": "accessory",
+        "bbox": [317.6, 194.4, 109.6, 99.8],
+        "area": 1851.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "cell phone",
+        "supercategory": "electronic",
+        "bbox": [452.1, 252.7, 22.9, 8.3],
+        "area": 87.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "bench",
+        "supercategory": "outdoor",
+        "bbox": [243.1, 199.5, 175.8, 174.6],
+        "area": 13163.0,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "person": 3,
+      "tie": 1,
+      "bench": 3,
+      "book": 1,
+      "handbag": 3,
+      "cell phone": 1
+    },
+    "num_objects": 12,
+    "num_categories": 6,
+    "supercategories": [
+      "accessory",
+      "electronic",
+      "indoor",
+      "outdoor",
+      "person"
+    ],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 409369,
+    "width": 640,
+    "height": 608,
+    "objects": [
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [75.6, 11.9, 368.9, 455.9],
+        "area": 50734.2,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "giraffe": 1 },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 136841,
+    "width": 500,
+    "height": 375,
+    "objects": [
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [349.2, 306.2, 70.2, 64.5],
+        "area": 2663.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [190.0, 57.0, 309.1, 313.3],
+        "area": 39185.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [331.6, 120.8, 45.9, 41.7],
+        "area": 1336.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [274.7, 151.7, 111.2, 72.5],
+        "area": 5789.9,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "bottle": 1, "person": 3 },
+    "num_objects": 4,
+    "num_categories": 2,
+    "supercategories": ["kitchen", "person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 290610,
+    "width": 640,
+    "height": 427,
+    "objects": [
+      {
+        "category": "train",
+        "supercategory": "vehicle",
+        "bbox": [83.9, 185.1, 481.7, 54.8],
+        "area": 18049.2,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "train": 1 },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 423093,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [269.2, 60.9, 211.8, 172.2],
+        "area": 15540.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "bowl",
+        "supercategory": "kitchen",
+        "bbox": [500.4, 208.2, 57.2, 35.4],
+        "area": 1153.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "boat",
+        "supercategory": "vehicle",
+        "bbox": [0.0, 102.6, 382.8, 328.5],
+        "area": 37400.7,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "person": 1, "bowl": 1, "boat": 1 },
+    "num_objects": 3,
+    "num_categories": 3,
+    "supercategories": ["kitchen", "person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 70334,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [190.7, 156.7, 174.3, 114.4],
+        "area": 11392.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [199.2, 109.2, 213.7, 89.8],
+        "area": 6654.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [351.0, 129.1, 101.2, 143.5],
+        "area": 9218.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [308.8, 229.8, 19.4, 35.5],
+        "area": 354.1,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "sheep": 4 },
+    "num_objects": 4,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 468115,
+    "width": 500,
+    "height": 333,
+    "objects": [
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [87.9, 256.9, 107.3, 75.8],
+        "area": 3161.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [423.2, 256.3, 75.7, 68.7],
+        "area": 3691.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [181.3, 249.8, 12.6, 25.1],
+        "area": 160.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [205.4, 244.8, 12.0, 16.4],
+        "area": 85.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "motorcycle",
+        "supercategory": "vehicle",
+        "bbox": [97.3, 274.6, 116.0, 54.6],
+        "area": 1859.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "motorcycle",
+        "supercategory": "vehicle",
+        "bbox": [413.8, 279.0, 20.9, 29.1],
+        "area": 290.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "motorcycle",
+        "supercategory": "vehicle",
+        "bbox": [392.3, 274.9, 15.5, 24.3],
+        "area": 203.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "motorcycle",
+        "supercategory": "vehicle",
+        "bbox": [253.9, 253.2, 22.9, 29.2],
+        "area": 401.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "motorcycle",
+        "supercategory": "vehicle",
+        "bbox": [231.3, 247.9, 6.4, 11.8],
+        "area": 50.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "motorcycle",
+        "supercategory": "vehicle",
+        "bbox": [367.2, 268.0, 21.0, 25.9],
+        "area": 450.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [215.6, 195.2, 19.4, 4.3],
+        "area": 72.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [277.0, 179.1, 26.9, 9.7],
+        "area": 180.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [26.9, 250.5, 21.7, 73.9],
+        "area": 1081.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [301.7, 240.5, 15.0, 49.8],
+        "area": 434.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [130.8, 251.8, 48.1, 81.2],
+        "area": 2155.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [375.8, 246.9, 13.8, 22.3],
+        "area": 210.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [49.8, 247.7, 26.3, 83.1],
+        "area": 1080.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [314.4, 243.5, 22.8, 51.7],
+        "area": 567.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [273.5, 242.3, 14.5, 25.3],
+        "area": 174.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [257.2, 243.7, 15.8, 21.2],
+        "area": 207.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [337.6, 241.6, 33.4, 36.8],
+        "area": 726.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "truck",
+        "supercategory": "vehicle",
+        "bbox": [322.8, 234.6, 33.2, 36.6],
+        "area": 674.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [239.0, 243.2, 3.6, 8.3],
+        "area": 15.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [182.6, 247.6, 15.7, 24.2],
+        "area": 159.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [9.8, 243.1, 249.4, 70.8],
+        "area": 2283.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [200.7, 247.3, 11.6, 13.7],
+        "area": 88.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [208.5, 244.8, 10.9, 13.6],
+        "area": 33.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [194.3, 247.1, 14.4, 16.8],
+        "area": 150.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [177.9, 243.8, 10.3, 3.8],
+        "area": 31.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "motorcycle",
+        "supercategory": "vehicle",
+        "bbox": [404.4, 265.5, 36.0, 37.4],
+        "area": 441.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "motorcycle",
+        "supercategory": "vehicle",
+        "bbox": [277.4, 260.1, 10.3, 16.0],
+        "area": 123.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "motorcycle",
+        "supercategory": "vehicle",
+        "bbox": [284.1, 258.6, 7.3, 12.2],
+        "area": 52.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [167.9, 248.1, 16.9, 18.0],
+        "area": 129.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [298.9, 245.9, 22.6, 22.9],
+        "area": 159.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [294.4, 243.1, 7.0, 19.0],
+        "area": 95.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [52, 44, 352, 255],
+        "area": 2600,
+        "iscrowd": 1
+      }
+    ],
+    "object_counts": {
+      "car": 12,
+      "motorcycle": 9,
+      "traffic light": 2,
+      "person": 12,
+      "truck": 1
+    },
+    "num_objects": 36,
+    "num_categories": 5,
+    "supercategories": ["outdoor", "person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 292394,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [477.8, 62.7, 34.2, 99.1],
+        "area": 1984.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [621.1, 330.6, 13.5, 42.0],
+        "area": 338.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "potted plant",
+        "supercategory": "furniture",
+        "bbox": [453.0, 366.3, 34.1, 32.3],
+        "area": 854.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "potted plant",
+        "supercategory": "furniture",
+        "bbox": [552.4, 356.6, 14.5, 9.3],
+        "area": 87.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "potted plant",
+        "supercategory": "furniture",
+        "bbox": [574.7, 358.4, 8.4, 5.4],
+        "area": 32.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "potted plant",
+        "supercategory": "furniture",
+        "bbox": [597.6, 358.1, 6.4, 9.3],
+        "area": 46.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "potted plant",
+        "supercategory": "furniture",
+        "bbox": [567.0, 346.7, 23.8, 5.1],
+        "area": 92.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "potted plant",
+        "supercategory": "furniture",
+        "bbox": [550.0, 348.8, 5.9, 4.9],
+        "area": 20.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "potted plant",
+        "supercategory": "furniture",
+        "bbox": [526.9, 307.0, 21.0, 34.7],
+        "area": 450.3,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "traffic light": 1, "person": 1, "potted plant": 7 },
+    "num_objects": 9,
+    "num_categories": 3,
+    "supercategories": ["furniture", "outdoor", "person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 371395,
+    "width": 640,
+    "height": 424,
+    "objects": [
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [360.7, 256.7, 38.8, 89.5],
+        "area": 2390.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [475.9, 241.4, 51.2, 86.6],
+        "area": 2302.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "bench",
+        "supercategory": "outdoor",
+        "bbox": [309.4, 256.8, 233.8, 122.0],
+        "area": 9551.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [396.8, 236.8, 85.7, 159.2],
+        "area": 5465.7,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "person": 3, "bench": 1 },
+    "num_objects": 4,
+    "num_categories": 2,
+    "supercategories": ["outdoor", "person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 462954,
+    "width": 500,
+    "height": 400,
+    "objects": [
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [354.8, 375.3, 31.3, 23.8],
+        "area": 549.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [328.5, 373.3, 25.3, 23.2],
+        "area": 374.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [455.3, 338.8, 10.2, 11.0],
+        "area": 84.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [446.3, 343.1, 4.1, 8.6],
+        "area": 27.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [468.8, 339.8, 6.2, 9.4],
+        "area": 49.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [35.9, 342.0, 195.3, 53.8],
+        "area": 7696.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [282.2, 373.2, 54.3, 26.8],
+        "area": 1107.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [397.1, 359.8, 70.5, 40.1],
+        "area": 2139.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [213.8, 363.3, 26.3, 36.7],
+        "area": 418.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [387.1, 338.9, 5.1, 10.2],
+        "area": 41.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [467.6, 348.5, 2.3, 5.8],
+        "area": 10.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [415.1, 339.2, 3.0, 9.3],
+        "area": 23.3,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "car": 6, "traffic light": 6 },
+    "num_objects": 12,
+    "num_categories": 2,
+    "supercategories": ["outdoor", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 285005,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [562.2, 373.2, 41.7, 87.7],
+        "area": 2169.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [620.5, 388.6, 19.5, 84.3],
+        "area": 676.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [247.8, 358.5, 61.2, 102.6],
+        "area": 2314.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [106.4, 367.2, 11.3, 42.1],
+        "area": 268.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [54.0, 391.9, 165.4, 83.2],
+        "area": 10000.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [453.7, 374.1, 37.4, 26.2],
+        "area": 718.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "potted plant",
+        "supercategory": "furniture",
+        "bbox": [359.2, 363.8, 79.8, 112.2],
+        "area": 4790.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "potted plant",
+        "supercategory": "furniture",
+        "bbox": [473.3, 410.4, 50.2, 53.2],
+        "area": 2223.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "potted plant",
+        "supercategory": "furniture",
+        "bbox": [542.9, 378.3, 11.8, 64.7],
+        "area": 461.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "potted plant",
+        "supercategory": "furniture",
+        "bbox": [517.6, 404.4, 15.5, 52.0],
+        "area": 526.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "potted plant",
+        "supercategory": "furniture",
+        "bbox": [531.2, 381.4, 14.0, 65.8],
+        "area": 687.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "potted plant",
+        "supercategory": "furniture",
+        "bbox": [551.7, 396.9, 11.7, 40.3],
+        "area": 290.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [79.1, 357.6, 17.0, 33.3],
+        "area": 261.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [101.3, 363.6, 10.5, 27.7],
+        "area": 129.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [119.7, 360.8, 7.7, 10.8],
+        "area": 48.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [406.2, 390.8, 70.9, 62.2],
+        "area": 2231.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [596.8, 372.2, 42.6, 39.2],
+        "area": 1272.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [116.5, 366.6, 91.7, 28.9],
+        "area": 1878.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [504.0, 374.7, 35.0, 24.0],
+        "area": 456.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [411.6, 372.7, 26.3, 24.3],
+        "area": 455.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [406.5, 367.8, 15.0, 9.8],
+        "area": 97.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [526.8, 369.0, 17.1, 11.4],
+        "area": 92.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [472.5, 366.7, 36.9, 17.3],
+        "area": 269.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [361.9, 362.9, 48.5, 29.4],
+        "area": 803.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [272.2, 249.9, 57.3, 50.0],
+        "area": 2680.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [193.9, 349.9, 7.5, 7.6],
+        "area": 51.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [139.2, 276.2, 11.2, 21.5],
+        "area": 178.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [394.0, 354.1, 4.1, 4.8],
+        "area": 18.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [24.7, 367.0, 12.0, 35.4],
+        "area": 207.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [537.2, 378.6, 23.9, 12.4],
+        "area": 170.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [124.9, 274.6, 10.7, 23.5],
+        "area": 192.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [5.2, 281.7, 11.5, 26.5],
+        "area": 251.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [354.8, 364.9, 39.8, 38.0],
+        "area": 974.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [14, 350, 569, 45],
+        "area": 2641,
+        "iscrowd": 1
+      }
+    ],
+    "object_counts": {
+      "person": 8,
+      "car": 14,
+      "potted plant": 6,
+      "traffic light": 6
+    },
+    "num_objects": 34,
+    "num_categories": 4,
+    "supercategories": ["furniture", "outdoor", "person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 549687,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [237.3, 31.2, 194.4, 241.6],
+        "area": 17814.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [104.8, 95.0, 399.1, 385.0],
+        "area": 43769.2,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "giraffe": 2 },
+    "num_objects": 2,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 12464,
+    "width": 640,
+    "height": 428,
+    "objects": [
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [98.8, 41.8, 193.8, 314.8],
+        "area": 35257.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [257.8, 66.4, 118.3, 232.8],
+        "area": 13799.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "cake",
+        "supercategory": "food",
+        "bbox": [52.8, 44.3, 451.5, 383.7],
+        "area": 117057.3,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "bird": 2, "cake": 1 },
+    "num_objects": 3,
+    "num_categories": 2,
+    "supercategories": ["animal", "food"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 360449,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [138.4, 361.0, 74.0, 58.7],
+        "area": 3314.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [42.7, 346.9, 88.8, 81.6],
+        "area": 5569.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [288.1, 111.8, 45.8, 103.1],
+        "area": 4454.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [243.8, 239.3, 16.4, 42.5],
+        "area": 634.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [355.3, 341.2, 25.5, 16.4],
+        "area": 334.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [394.2, 319.4, 65.4, 53.5],
+        "area": 2905.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [2.1, 367.3, 61.0, 75.8],
+        "area": 3232.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [471.3, 360.8, 75.4, 59.9],
+        "area": 3815.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [216.3, 335.8, 30.7, 35.9],
+        "area": 965.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [320.2, 383.1, 63.8, 63.0],
+        "area": 3436.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [384.6, 358.6, 39.0, 37.9],
+        "area": 1262.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [333.9, 350.8, 42.9, 21.1],
+        "area": 678.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [216.2, 372.8, 31.2, 37.7],
+        "area": 925.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [264.2, 292.5, 10.0, 9.2],
+        "area": 81.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [280.2, 286.9, 11.2, 10.1],
+        "area": 102.9,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "car": 11, "traffic light": 4 },
+    "num_objects": 15,
+    "num_categories": 2,
+    "supercategories": ["outdoor", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 215456,
+    "width": 375,
+    "height": 500,
+    "objects": [
+      {
+        "category": "bicycle",
+        "supercategory": "vehicle",
+        "bbox": [173.4, 266.8, 13.7, 77.3],
+        "area": 768.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [316.1, 195.2, 58.9, 96.2],
+        "area": 3615.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [161.8, 202.0, 48.3, 131.5],
+        "area": 2858.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "stop sign",
+        "supercategory": "outdoor",
+        "bbox": [196.7, 242.2, 41.6, 49.0],
+        "area": 1480.3,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "bicycle": 1, "car": 1, "person": 1, "stop sign": 1 },
+    "num_objects": 4,
+    "num_categories": 4,
+    "supercategories": ["outdoor", "person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 378831,
+    "width": 500,
+    "height": 315,
+    "objects": [
+      {
+        "category": "fire hydrant",
+        "supercategory": "outdoor",
+        "bbox": [312.1, 73.3, 50.1, 149.0],
+        "area": 4611.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [98.8, 70.9, 54.0, 216.9],
+        "area": 7795.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "handbag",
+        "supercategory": "accessory",
+        "bbox": [124.3, 110.1, 41.1, 68.2],
+        "area": 1248.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "handbag",
+        "supercategory": "accessory",
+        "bbox": [96.7, 193.6, 65.9, 89.5],
+        "area": 4906.8,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "fire hydrant": 1, "person": 1, "handbag": 2 },
+    "num_objects": 4,
+    "num_categories": 3,
+    "supercategories": ["accessory", "outdoor", "person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 357041,
+    "width": 640,
+    "height": 425,
+    "objects": [
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [272.8, 158.8, 61.5, 66.3],
+        "area": 2208.7,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "bird": 1 },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 30478,
+    "width": 640,
+    "height": 424,
+    "objects": [
+      {
+        "category": "train",
+        "supercategory": "vehicle",
+        "bbox": [52.4, 93.4, 435.4, 314.4],
+        "area": 91783.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [557.6, 262.0, 28.1, 71.6],
+        "area": 1275.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [577.2, 264.6, 15.9, 60.2],
+        "area": 346.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [598.8, 263.6, 21.4, 50.8],
+        "area": 502.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [529.9, 270.9, 16.7, 41.0],
+        "area": 290.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [547.8, 265.9, 16.9, 24.5],
+        "area": 171.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [590.3, 265.8, 10.8, 21.8],
+        "area": 139.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [620.5, 263.1, 19.6, 59.1],
+        "area": 675.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [584.3, 269.8, 15.9, 45.0],
+        "area": 188.7,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "train": 1, "person": 8 },
+    "num_objects": 9,
+    "num_categories": 2,
+    "supercategories": ["person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 564865,
+    "width": 640,
+    "height": 427,
+    "objects": [
+      {
+        "category": "train",
+        "supercategory": "vehicle",
+        "bbox": [1.9, 1.9, 638.1, 224.5],
+        "area": 140910.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "fire hydrant",
+        "supercategory": "outdoor",
+        "bbox": [181.6, 354.5, 93.5, 72.5],
+        "area": 3357.6,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "train": 1, "fire hydrant": 1 },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["outdoor", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 516476,
+    "width": 640,
+    "height": 425,
+    "objects": [
+      {
+        "category": "bus",
+        "supercategory": "vehicle",
+        "bbox": [70.7, 106.2, 249.3, 292.2],
+        "area": 65078.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "bus",
+        "supercategory": "vehicle",
+        "bbox": [1.0, 190.1, 74.5, 87.9],
+        "area": 5750.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "bus",
+        "supercategory": "vehicle",
+        "bbox": [428.6, 199.5, 211.1, 126.7],
+        "area": 16294.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [252.4, 57.6, 19.7, 42.1],
+        "area": 745.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [429.8, 170.6, 9.9, 25.3],
+        "area": 235.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [1.0, 237.8, 17.6, 54.9],
+        "area": 643.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [349.6, 225.1, 183.4, 155.7],
+        "area": 23823.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [313.4, 242.7, 43.5, 120.7],
+        "area": 3787.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [310.8, 232.2, 48.3, 40.4],
+        "area": 511.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [249.8, 208.3, 35.2, 52.5],
+        "area": 1270.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "handbag",
+        "supercategory": "accessory",
+        "bbox": [13.5, 255.1, 6.5, 11.9],
+        "area": 48.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [331.6, 211.4, 11.7, 21.1],
+        "area": 175.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [361.0, 224.3, 6.6, 8.9],
+        "area": 44.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [340.1, 208.3, 9.3, 24.5],
+        "area": 112.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [319.6, 214.2, 9.0, 16.4],
+        "area": 113.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [328.9, 209.4, 6.0, 22.3],
+        "area": 85.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "truck",
+        "supercategory": "vehicle",
+        "bbox": [347.4, 224.6, 196.2, 159.5],
+        "area": 24914.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [343.6, 217.3, 10.1, 16.5],
+        "area": 107.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [171.2, 37.3, 24.3, 49.1],
+        "area": 912.8,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "bus": 3,
+      "traffic light": 3,
+      "person": 8,
+      "car": 3,
+      "handbag": 1,
+      "truck": 1
+    },
+    "num_objects": 19,
+    "num_categories": 6,
+    "supercategories": ["accessory", "outdoor", "person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 558736,
+    "width": 640,
+    "height": 429,
+    "objects": [
+      {
+        "category": "zebra",
+        "supercategory": "animal",
+        "bbox": [257.1, 223.9, 124.5, 85.7],
+        "area": 5589.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "zebra",
+        "supercategory": "animal",
+        "bbox": [390.9, 219.7, 44.8, 89.1],
+        "area": 2892.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "zebra",
+        "supercategory": "animal",
+        "bbox": [469.3, 212.1, 46.9, 102.7],
+        "area": 2859.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [404.5, 12.7, 185.8, 217.6],
+        "area": 10215.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [492.6, 9.5, 108.0, 111.8],
+        "area": 3944.8,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "zebra": 3, "giraffe": 2 },
+    "num_objects": 5,
+    "num_categories": 2,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 405175,
+    "width": 640,
+    "height": 399,
+    "objects": [
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [155.2, 153.8, 68.3, 67.5],
+        "area": 2120.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [227.9, 195.2, 75.5, 61.5],
+        "area": 1900.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [389.6, 213.6, 82.7, 78.8],
+        "area": 2448.9,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "bird": 3 },
+    "num_objects": 3,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 418144,
+    "width": 500,
+    "height": 328,
+    "objects": [
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [325.0, 132.1, 11.5, 16.7],
+        "area": 99.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [243.3, 147.0, 10.6, 13.3],
+        "area": 92.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [206.6, 170.2, 13.1, 6.3],
+        "area": 56.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [151.3, 163.5, 9.7, 20.0],
+        "area": 90.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [95.0, 174.3, 9.3, 12.1],
+        "area": 68.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [161.3, 218.1, 9.0, 11.1],
+        "area": 61.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [109.5, 170.5, 8.4, 13.7],
+        "area": 93.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [192.9, 199.2, 14.2, 9.4],
+        "area": 58.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [375.0, 149.6, 27.3, 66.5],
+        "area": 1327.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [402.8, 148.9, 37.3, 62.4],
+        "area": 1723.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [224.8, 151.1, 9.6, 14.7],
+        "area": 85.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [374.9, 141.7, 9.9, 14.7],
+        "area": 103.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [333.1, 126.3, 8.6, 12.6],
+        "area": 66.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [313.3, 131.1, 12.0, 12.1],
+        "area": 112.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [296.6, 133.3, 10.3, 12.1],
+        "area": 66.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [68, 110, 339, 151],
+        "area": 3816,
+        "iscrowd": 1
+      }
+    ],
+    "object_counts": { "bird": 14, "traffic light": 2 },
+    "num_objects": 16,
+    "num_categories": 2,
+    "supercategories": ["animal", "outdoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 507921,
+    "width": 426,
+    "height": 640,
+    "objects": [
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [0.0, 432.1, 41.2, 21.0],
+        "area": 442.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [150.9, 431.1, 36.8, 16.8],
+        "area": 383.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [390.1, 430.8, 8.9, 7.1],
+        "area": 45.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [271.3, 432.8, 24.3, 9.8],
+        "area": 171.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [405.6, 431.2, 10.7, 6.8],
+        "area": 58.6,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "car": 5 },
+    "num_objects": 5,
+    "num_categories": 1,
+    "supercategories": ["vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 210988,
+    "width": 640,
+    "height": 460,
+    "objects": [
+      {
+        "category": "bench",
+        "supercategory": "outdoor",
+        "bbox": [53.8, 225.3, 301.9, 224.3],
+        "area": 36658.6,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "bench": 1 },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["outdoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 247394,
+    "width": 640,
+    "height": 424,
+    "objects": [
+      {
+        "category": "airplane",
+        "supercategory": "vehicle",
+        "bbox": [149.9, 272.9, 340.5, 86.3],
+        "area": 13840.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [413.8, 229.0, 32.0, 13.6],
+        "area": 296.5,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "airplane": 1, "car": 1 },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 444493,
+    "width": 640,
+    "height": 360,
+    "objects": [
+      {
+        "category": "bus",
+        "supercategory": "vehicle",
+        "bbox": [0.0, 141.4, 167.8, 158.9],
+        "area": 24354.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [270.6, 211.9, 28.7, 72.8],
+        "area": 1052.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [173.4, 214.1, 25.6, 55.1],
+        "area": 711.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [540.3, 207.9, 29.8, 89.0],
+        "area": 1723.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [581.5, 207.1, 37.0, 99.1],
+        "area": 2452.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [24.2, 198.6, 24.9, 36.0],
+        "area": 375.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "suitcase",
+        "supercategory": "accessory",
+        "bbox": [498.3, 278.6, 20.4, 17.0],
+        "area": 278.5,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "bus": 1, "person": 5, "suitcase": 1 },
+    "num_objects": 7,
+    "num_categories": 3,
+    "supercategories": ["accessory", "person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 579982,
+    "width": 512,
+    "height": 640,
+    "objects": [
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [233.2, 326.7, 26.5, 37.5],
+        "area": 499.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [381.7, 318.0, 23.6, 49.0],
+        "area": 607.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [75.6, 71.0, 45.4, 45.4],
+        "area": 416.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [76.7, 120.7, 34.2, 45.1],
+        "area": 518.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [188.2, 296.1, 26.1, 64.5],
+        "area": 837.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [77.2, 165.8, 31.6, 41.1],
+        "area": 373.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [76.7, 139.4, 35.0, 48.6],
+        "area": 440.1,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "bird": 7 },
+    "num_objects": 7,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 130645,
+    "width": 640,
+    "height": 441,
+    "objects": [
+      {
+        "category": "bus",
+        "supercategory": "vehicle",
+        "bbox": [87.2, 113.7, 379.6, 284.4],
+        "area": 91141.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [569.2, 265.1, 27.9, 25.5],
+        "area": 423.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [214.3, 192.3, 42.1, 41.8],
+        "area": 1120.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [513.7, 261.9, 22.1, 20.1],
+        "area": 264.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [140.4, 170.6, 61.9, 55.5],
+        "area": 1562.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [454.5, 236.6, 101.7, 110.0],
+        "area": 8993.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [478.1, 261.6, 14.2, 14.6],
+        "area": 95.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [489.3, 261.9, 18.6, 17.4],
+        "area": 236.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [370.4, 200.0, 7.2, 47.3],
+        "area": 197.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [550.5, 252.4, 81.3, 105.7],
+        "area": 7057.0,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "bus": 1, "person": 7, "car": 2 },
+    "num_objects": 10,
+    "num_categories": 3,
+    "supercategories": ["person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 482626,
+    "width": 640,
+    "height": 428,
+    "objects": [
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [312.3, 105.5, 196.8, 187.1],
+        "area": 9259.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [239.6, 142.2, 121.8, 118.6],
+        "area": 4269.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [119.7, 110.2, 161.8, 169.5],
+        "area": 6856.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [173.4, 140.8, 127.8, 121.9],
+        "area": 2852.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [312.2, 162.5, 39.2, 71.9],
+        "area": 561.3,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "giraffe": 5 },
+    "num_objects": 5,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 566941,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [269.2, 173.0, 109.2, 299.5],
+        "area": 20467.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [419.3, 210.5, 95.3, 239.5],
+        "area": 12868.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [610.1, 214.4, 29.9, 186.4],
+        "area": 3119.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "elephant",
+        "supercategory": "animal",
+        "bbox": [123.0, 111.1, 368.9, 334.4],
+        "area": 52290.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "backpack",
+        "supercategory": "accessory",
+        "bbox": [244.8, 277.0, 45.0, 91.7],
+        "area": 2245.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "handbag",
+        "supercategory": "accessory",
+        "bbox": [431.1, 258.3, 55.9, 96.7],
+        "area": 1567.4,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "person": 3,
+      "elephant": 1,
+      "backpack": 1,
+      "handbag": 1
+    },
+    "num_objects": 6,
+    "num_categories": 4,
+    "supercategories": ["accessory", "animal", "person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 483475,
+    "width": 612,
+    "height": 612,
+    "objects": [
+      {
+        "category": "airplane",
+        "supercategory": "vehicle",
+        "bbox": [111.4, 25.7, 481.4, 220.1],
+        "area": 18321.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [401.1, 379.3, 37.9, 63.1],
+        "area": 918.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [183.6, 276.8, 22.9, 64.9],
+        "area": 735.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [164.6, 274.5, 20.3, 69.0],
+        "area": 817.2,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": { "airplane": 1, "person": 3 },
+    "num_objects": 4,
+    "num_categories": 2,
+    "supercategories": ["person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 483165,
+    "width": 640,
+    "height": 427,
+    "objects": [
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [195.7, 176.5, 64.6, 56.7],
+        "area": 1358.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [420.4, 69.9, 138.6, 277.3],
+        "area": 16378.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [90.2, 111.5, 104.6, 189.0],
+        "area": 7965.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [302.5, 153.4, 50.8, 127.8],
+        "area": 3121.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [228.3, 173.4, 16.9, 36.2],
+        "area": 389.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [424.1, 0.0, 48.9, 79.6],
+        "area": 3182.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "backpack",
+        "supercategory": "accessory",
+        "bbox": [488.6, 94.8, 75.7, 82.1],
+        "area": 1717.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "bicycle",
+        "supercategory": "vehicle",
+        "bbox": [32.6, 206.3, 237.0, 136.3],
+        "area": 16914.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "bicycle",
+        "supercategory": "vehicle",
+        "bbox": [352.2, 203.4, 281.1, 169.8],
+        "area": 27072.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "bicycle",
+        "supercategory": "vehicle",
+        "bbox": [314.8, 212.8, 28.1, 75.5],
+        "area": 1024.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "bicycle",
+        "supercategory": "vehicle",
+        "bbox": [342.1, 203.4, 58.6, 65.8],
+        "area": 1299.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [13.3, 179.0, 4.8, 9.7],
+        "area": 41.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [29.2, 182.7, 4.1, 8.4],
+        "area": 29.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "bench",
+        "supercategory": "outdoor",
+        "bbox": [587.4, 219.2, 52.6, 57.0],
+        "area": 548.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "backpack",
+        "supercategory": "accessory",
+        "bbox": [71.6, 152.6, 35.1, 63.6],
+        "area": 1196.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [81.3, 161.2, 11.8, 16.1],
+        "area": 124.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "potted plant",
+        "supercategory": "furniture",
+        "bbox": [597.6, 97.0, 42.4, 43.6],
+        "area": 1188.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "bicycle",
+        "supercategory": "vehicle",
+        "bbox": [227.7, 197.7, 41.4, 40.8],
+        "area": 814.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "bicycle",
+        "supercategory": "vehicle",
+        "bbox": [286.1, 225.1, 18.8, 26.2],
+        "area": 230.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "bicycle",
+        "supercategory": "vehicle",
+        "bbox": [219.2, 208.2, 24.4, 31.0],
+        "area": 268.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "bicycle",
+        "supercategory": "vehicle",
+        "bbox": [279.5, 208.1, 27.6, 40.9],
+        "area": 393.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "bicycle",
+        "supercategory": "vehicle",
+        "bbox": [250.6, 212.9, 14.2, 26.8],
+        "area": 179.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "bicycle",
+        "supercategory": "vehicle",
+        "bbox": [297.5, 214.2, 12.2, 37.2],
+        "area": 219.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "bicycle",
+        "supercategory": "vehicle",
+        "bbox": [256.4, 213.3, 14.9, 30.2],
+        "area": 306.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "bicycle",
+        "supercategory": "vehicle",
+        "bbox": [270.7, 203.3, 28.6, 42.7],
+        "area": 459.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [178.2, 183.0, 11.5, 37.5],
+        "area": 222.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [201.3, 182.6, 6.3, 8.2],
+        "area": 24.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [41.5, 193.9, 11.2, 9.9],
+        "area": 89.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [61.8, 195.1, 13.1, 8.2],
+        "area": 58.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [252.2, 178.9, 10.8, 17.3],
+        "area": 90.4,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "car": 3,
+      "person": 7,
+      "traffic light": 3,
+      "backpack": 2,
+      "bicycle": 12,
+      "bench": 1,
+      "bottle": 1,
+      "potted plant": 1
+    },
+    "num_objects": 30,
+    "num_categories": 8,
+    "supercategories": [
+      "accessory",
+      "furniture",
+      "kitchen",
+      "outdoor",
+      "person",
+      "vehicle"
+    ],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  }
+]

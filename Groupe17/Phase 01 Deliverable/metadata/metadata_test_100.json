@@ -1,0 +1,5290 @@
+[
+  {
+    "image_id": 376856,
+    "width": 480,
+    "height": 640,
+    "objects": [
+      {
+        "category": "clock",
+        "supercategory": "indoor",
+        "bbox": [240.6, 91.2, 52.2, 36.7],
+        "area": 1384.4,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "clock": 1
+    },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["indoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 263474,
+    "width": 479,
+    "height": 640,
+    "objects": [
+      {
+        "category": "toilet",
+        "supercategory": "furniture",
+        "bbox": [10.1, 201.3, 373.9, 415.6],
+        "area": 82026.7,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "toilet": 1
+    },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["furniture"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 437392,
+    "width": 480,
+    "height": 640,
+    "objects": [
+      {
+        "category": "toilet",
+        "supercategory": "furniture",
+        "bbox": [154.6, 102.3, 241.5, 519.2],
+        "area": 94943.5,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "toilet": 1
+    },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["furniture"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 161008,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "scissors",
+        "supercategory": "indoor",
+        "bbox": [84.1, 0.0, 490.8, 473.5],
+        "area": 60631.8,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "scissors": 1
+    },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["indoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 167240,
+    "width": 640,
+    "height": 427,
+    "objects": [
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [132.4, 116.1, 222.6, 306.1],
+        "area": 52934.0,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "vase": 1
+    },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["indoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 206271,
+    "width": 323,
+    "height": 640,
+    "objects": [
+      {
+        "category": "toilet",
+        "supercategory": "furniture",
+        "bbox": [214.8, 293.3, 99.5, 136.9],
+        "area": 9723.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "toilet",
+        "supercategory": "furniture",
+        "bbox": [22.3, 301.0, 96.9, 138.2],
+        "area": 9347.2,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "toilet": 2
+    },
+    "num_objects": 2,
+    "num_categories": 1,
+    "supercategories": ["furniture"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 266206,
+    "width": 427,
+    "height": 640,
+    "objects": [
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [255.1, 300.4, 10.8, 31.6],
+        "area": 251.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [262.7, 283.1, 24.5, 45.1],
+        "area": 646.9,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "bottle": 2
+    },
+    "num_objects": 2,
+    "num_categories": 1,
+    "supercategories": ["kitchen"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 505169,
+    "width": 480,
+    "height": 640,
+    "objects": [
+      {
+        "category": "toilet",
+        "supercategory": "furniture",
+        "bbox": [346.4, 494.2, 81.0, 102.4],
+        "area": 6519.8,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "toilet": 1
+    },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["furniture"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 50844,
+    "width": 334,
+    "height": 500,
+    "objects": [
+      {
+        "category": "teddy bear",
+        "supercategory": "indoor",
+        "bbox": [13.5, 49.2, 198.9, 334.8],
+        "area": 36394.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "teddy bear",
+        "supercategory": "indoor",
+        "bbox": [94.4, 144.6, 234.8, 337.1],
+        "area": 42770.8,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "teddy bear": 2
+    },
+    "num_objects": 2,
+    "num_categories": 1,
+    "supercategories": ["indoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 140658,
+    "width": 480,
+    "height": 640,
+    "objects": [
+      {
+        "category": "clock",
+        "supercategory": "indoor",
+        "bbox": [144.7, 124.4, 39.3, 35.5],
+        "area": 956.9,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "clock": 1
+    },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["indoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 482487,
+    "width": 480,
+    "height": 640,
+    "objects": [
+      {
+        "category": "clock",
+        "supercategory": "indoor",
+        "bbox": [134.1, 139.8, 112.4, 111.0],
+        "area": 9559.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "clock",
+        "supercategory": "indoor",
+        "bbox": [330.7, 383.4, 37.7, 44.0],
+        "area": 1524.3,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "clock": 2
+    },
+    "num_objects": 2,
+    "num_categories": 1,
+    "supercategories": ["indoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 521282,
+    "width": 424,
+    "height": 640,
+    "objects": [
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [68.9, 298.5, 216.7, 330.0],
+        "area": 59916.4,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "vase": 1
+    },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["indoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 207538,
+    "width": 500,
+    "height": 375,
+    "objects": [
+      {
+        "category": "microwave",
+        "supercategory": "appliance",
+        "bbox": [103.0, 152.9, 308.3, 189.2],
+        "area": 52191.3,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "microwave": 1
+    },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["appliance"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 356968,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "horse",
+        "supercategory": "animal",
+        "bbox": [0.0, 115.0, 558.3, 332.7],
+        "area": 75872.3,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "horse": 1
+    },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 439522,
+    "width": 428,
+    "height": 640,
+    "objects": [
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [41.7, 24.4, 386.3, 581.0],
+        "area": 83160.5,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "person": 1
+    },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 402783,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "orange",
+        "supercategory": "food",
+        "bbox": [246.2, 266.6, 173.1, 170.6],
+        "area": 16285.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "orange",
+        "supercategory": "food",
+        "bbox": [110.7, 68.9, 399.8, 297.0],
+        "area": 55603.7,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "orange": 2
+    },
+    "num_objects": 2,
+    "num_categories": 1,
+    "supercategories": ["food"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 579893,
+    "width": 500,
+    "height": 332,
+    "objects": [
+      {
+        "category": "stop sign",
+        "supercategory": "outdoor",
+        "bbox": [353.5, 126.3, 139.6, 202.0],
+        "area": 18489.3,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "stop sign": 1
+    },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["outdoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 324818,
+    "width": 640,
+    "height": 426,
+    "objects": [
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [392.1, 134.7, 132.8, 249.2],
+        "area": 20844.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [195.6, 116.7, 176.4, 304.4],
+        "area": 28361.6,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "bird": 2
+    },
+    "num_objects": 2,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 100489,
+    "width": 479,
+    "height": 640,
+    "objects": [
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [82.4, 74.2, 225.2, 288.4],
+        "area": 22910.9,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "bird": 1
+    },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 520301,
+    "width": 480,
+    "height": 640,
+    "objects": [
+      {
+        "category": "dog",
+        "supercategory": "animal",
+        "bbox": [112.7, 154.8, 367.3, 479.4],
+        "area": 108316.7,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "dog": 1
+    },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 270402,
+    "width": 640,
+    "height": 426,
+    "objects": [
+      {
+        "category": "elephant",
+        "supercategory": "animal",
+        "bbox": [69.4, 73.7, 281.8, 285.9],
+        "area": 47924.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "elephant",
+        "supercategory": "animal",
+        "bbox": [79.6, 31.7, 120.9, 251.4],
+        "area": 9843.9,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "elephant": 2
+    },
+    "num_objects": 2,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 15272,
+    "width": 424,
+    "height": 640,
+    "objects": [
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [42.0, 38.9, 234.5, 97.9],
+        "area": 19343.5,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "traffic light": 1
+    },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["outdoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 466567,
+    "width": 480,
+    "height": 640,
+    "objects": [
+      {
+        "category": "donut",
+        "supercategory": "food",
+        "bbox": [105.0, 227.2, 253.1, 235.9],
+        "area": 40926.3,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "donut": 1
+    },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["food"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 402519,
+    "width": 640,
+    "height": 427,
+    "objects": [
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [282.8, 186.4, 74.4, 211.2],
+        "area": 11490.7,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "bird": 1
+    },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 130599,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [0.0, 113.0, 463.9, 362.5],
+        "area": 58466.2,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "person": 1
+    },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 140420,
+    "width": 640,
+    "height": 428,
+    "objects": [
+      {
+        "category": "motorcycle",
+        "supercategory": "vehicle",
+        "bbox": [402.6, 233.1, 45.6, 75.7],
+        "area": 1988.4,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "motorcycle": 1
+    },
+    "num_objects": 1,
+    "num_categories": 1,
+    "supercategories": ["vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 450686,
+    "width": 511,
+    "height": 640,
+    "objects": [
+      {
+        "category": "cell phone",
+        "supercategory": "electronic",
+        "bbox": [166.1, 166.7, 200.8, 300.5],
+        "area": 41606.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [25.8, 173.1, 361.6, 466.9],
+        "area": 54468.6,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "cell phone": 1,
+      "person": 1
+    },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["electronic", "person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 324614,
+    "width": 640,
+    "height": 427,
+    "objects": [
+      {
+        "category": "toothbrush",
+        "supercategory": "indoor",
+        "bbox": [151.6, 232.8, 123.1, 59.5],
+        "area": 827.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [0.0, 76.3, 356.0, 350.7],
+        "area": 81240.0,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "toothbrush": 1,
+      "person": 1
+    },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["indoor", "person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 129113,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "dining table",
+        "supercategory": "furniture",
+        "bbox": [0.0, 2.7, 640.0, 472.4],
+        "area": 292710.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "spoon",
+        "supercategory": "kitchen",
+        "bbox": [22.6, 151.0, 589.0, 158.6],
+        "area": 36031.7,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "dining table": 1,
+      "spoon": 1
+    },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["furniture", "kitchen"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 343706,
+    "width": 640,
+    "height": 496,
+    "objects": [
+      {
+        "category": "cell phone",
+        "supercategory": "electronic",
+        "bbox": [179.2, 313.8, 131.1, 85.6],
+        "area": 5981.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [0.0, 2.3, 640.0, 487.1],
+        "area": 266844.9,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "cell phone": 1,
+      "person": 1
+    },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["electronic", "person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 194746,
+    "width": 500,
+    "height": 375,
+    "objects": [
+      {
+        "category": "pizza",
+        "supercategory": "food",
+        "bbox": [194.2, 113.3, 157.5, 53.0],
+        "area": 6479.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "oven",
+        "supercategory": "appliance",
+        "bbox": [0.0, 0.0, 500.0, 375.0],
+        "area": 186148.2,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "pizza": 1,
+      "oven": 1
+    },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["appliance", "food"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 342186,
+    "width": 480,
+    "height": 640,
+    "objects": [
+      {
+        "category": "pizza",
+        "supercategory": "food",
+        "bbox": [0.0, 2.9, 448.7, 628.5],
+        "area": 234827.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "dining table",
+        "supercategory": "furniture",
+        "bbox": [0.0, 0.0, 480.0, 640.0],
+        "area": 297985.8,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "pizza": 1,
+      "dining table": 1
+    },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["food", "furniture"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 13004,
+    "width": 375,
+    "height": 500,
+    "objects": [
+      {
+        "category": "banana",
+        "supercategory": "food",
+        "bbox": [44.7, 72.9, 298.8, 217.7],
+        "area": 26679.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "dining table",
+        "supercategory": "furniture",
+        "bbox": [1.1, 6.8, 373.9, 477.5],
+        "area": 175772.0,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "banana": 1,
+      "dining table": 1
+    },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["food", "furniture"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 84431,
+    "width": 361,
+    "height": 640,
+    "objects": [
+      {
+        "category": "tv",
+        "supercategory": "electronic",
+        "bbox": [86.6, 70.5, 164.3, 123.0],
+        "area": 18453.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "pizza",
+        "supercategory": "food",
+        "bbox": [20.1, 257.4, 304.9, 283.3],
+        "area": 51967.2,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "tv": 1,
+      "pizza": 1
+    },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["electronic", "food"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 403353,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "bed",
+        "supercategory": "furniture",
+        "bbox": [2.2, 144.5, 455.2, 329.0],
+        "area": 126202.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [172.8, 306.0, 132.5, 93.7],
+        "area": 6641.0,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "bed": 1,
+      "book": 1
+    },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["furniture", "indoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 322944,
+    "width": 457,
+    "height": 640,
+    "objects": [
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [32.9, 4.4, 379.4, 624.2],
+        "area": 128157.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "teddy bear",
+        "supercategory": "indoor",
+        "bbox": [15.8, 210.0, 398.4, 414.2],
+        "area": 63020.4,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "person": 1,
+      "teddy bear": 1
+    },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["indoor", "person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 351096,
+    "width": 500,
+    "height": 375,
+    "objects": [
+      {
+        "category": "scissors",
+        "supercategory": "indoor",
+        "bbox": [53.9, 37.8, 446.1, 272.2],
+        "area": 34363.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [0.0, 219.2, 100.3, 151.0],
+        "area": 8260.9,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "scissors": 1,
+      "person": 1
+    },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["indoor", "person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 243199,
+    "width": 500,
+    "height": 333,
+    "objects": [
+      {
+        "category": "bed",
+        "supercategory": "furniture",
+        "bbox": [0.0, 31.0, 387.2, 298.9],
+        "area": 67443.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "laptop",
+        "supercategory": "electronic",
+        "bbox": [260.4, 3.5, 236.5, 324.0],
+        "area": 43521.4,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "bed": 1,
+      "laptop": 1
+    },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["electronic", "furniture"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 69795,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "potted plant",
+        "supercategory": "furniture",
+        "bbox": [168.5, 102.1, 251.7, 303.0],
+        "area": 46393.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [164.6, 208.2, 174.6, 195.7],
+        "area": 19843.3,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "potted plant": 1,
+      "vase": 1
+    },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["furniture", "indoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 102356,
+    "width": 427,
+    "height": 640,
+    "objects": [
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [166.2, 52.6, 237.4, 359.8],
+        "area": 30699.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "motorcycle",
+        "supercategory": "vehicle",
+        "bbox": [14.4, 166.5, 366.1, 462.7],
+        "area": 80382.9,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "person": 1,
+      "motorcycle": 1
+    },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 416330,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "cat",
+        "supercategory": "animal",
+        "bbox": [35.2, 0.0, 604.8, 454.7],
+        "area": 166135.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "bed",
+        "supercategory": "furniture",
+        "bbox": [1.2, 1.2, 638.8, 471.3],
+        "area": 299325.2,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "cat": 1,
+      "bed": 1
+    },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["animal", "furniture"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 193429,
+    "width": 640,
+    "height": 428,
+    "objects": [
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [208.3, 101.1, 213.4, 203.4],
+        "area": 22530.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "snowboard",
+        "supercategory": "sports",
+        "bbox": [134.7, 277.2, 384.7, 97.1],
+        "area": 23068.2,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "person": 1,
+      "snowboard": 1
+    },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["person", "sports"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 115898,
+    "width": 640,
+    "height": 427,
+    "objects": [
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [279.9, 6.2, 182.7, 291.4],
+        "area": 24934.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "surfboard",
+        "supercategory": "sports",
+        "bbox": [139.7, 239.0, 243.0, 73.8],
+        "area": 8552.5,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "person": 1,
+      "surfboard": 1
+    },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["person", "sports"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 328337,
+    "width": 640,
+    "height": 427,
+    "objects": [
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [71.0, 36.5, 319.5, 385.7],
+        "area": 58896.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "frisbee",
+        "supercategory": "sports",
+        "bbox": [127.6, 32.7, 137.2, 135.3],
+        "area": 5789.5,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "person": 1,
+      "frisbee": 1
+    },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["person", "sports"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 212226,
+    "width": 500,
+    "height": 335,
+    "objects": [
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [235.6, 84.3, 158.1, 185.9],
+        "area": 12836.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "truck",
+        "supercategory": "vehicle",
+        "bbox": [54.7, 0.8, 363.5, 330.6],
+        "area": 67748.9,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "person": 1,
+      "truck": 1
+    },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 292908,
+    "width": 384,
+    "height": 640,
+    "objects": [
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [179.3, 132.2, 46.3, 59.5],
+        "area": 777.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "surfboard",
+        "supercategory": "sports",
+        "bbox": [201.6, 168.0, 67.1, 21.3],
+        "area": 393.2,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "person": 1,
+      "surfboard": 1
+    },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["person", "sports"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 270908,
+    "width": 500,
+    "height": 299,
+    "objects": [
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [31.6, 30.0, 335.3, 176.7],
+        "area": 14750.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "tennis racket",
+        "supercategory": "sports",
+        "bbox": [338.6, 151.2, 147.2, 121.6],
+        "area": 5141.2,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "person": 1,
+      "tennis racket": 1
+    },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["person", "sports"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 546829,
+    "width": 640,
+    "height": 425,
+    "objects": [
+      {
+        "category": "dog",
+        "supercategory": "animal",
+        "bbox": [208.6, 147.5, 84.6, 141.7],
+        "area": 8706.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "bench",
+        "supercategory": "outdoor",
+        "bbox": [119.2, 143.5, 349.9, 259.4],
+        "area": 53242.5,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "dog": 1,
+      "bench": 1
+    },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["animal", "outdoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 120572,
+    "width": 640,
+    "height": 427,
+    "objects": [
+      {
+        "category": "bench",
+        "supercategory": "outdoor",
+        "bbox": [468.5, 265.8, 41.2, 15.8],
+        "area": 468.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "clock",
+        "supercategory": "indoor",
+        "bbox": [131.7, 123.5, 18.6, 23.2],
+        "area": 304.3,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "bench": 1,
+      "clock": 1
+    },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["indoor", "outdoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 80671,
+    "width": 640,
+    "height": 427,
+    "objects": [
+      {
+        "category": "skis",
+        "supercategory": "sports",
+        "bbox": [201.5, 331.0, 263.9, 46.1],
+        "area": 2375.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [219.7, 117.2, 202.5, 252.2],
+        "area": 27713.8,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "skis": 1,
+      "person": 1
+    },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["person", "sports"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 297595,
+    "width": 640,
+    "height": 427,
+    "objects": [
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [136.4, 231.0, 42.8, 37.0],
+        "area": 579.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "surfboard",
+        "supercategory": "sports",
+        "bbox": [139.2, 265.2, 62.5, 13.4],
+        "area": 531.5,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "person": 1,
+      "surfboard": 1
+    },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["person", "sports"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 252507,
+    "width": 375,
+    "height": 500,
+    "objects": [
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [137.2, 277.3, 57.9, 146.2],
+        "area": 3867.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "skis",
+        "supercategory": "sports",
+        "bbox": [114.9, 406.4, 112.6, 26.1],
+        "area": 421.7,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "person": 1,
+      "skis": 1
+    },
+    "num_objects": 2,
+    "num_categories": 2,
+    "supercategories": ["person", "sports"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 377670,
+    "width": 487,
+    "height": 640,
+    "objects": [
+      {
+        "category": "teddy bear",
+        "supercategory": "indoor",
+        "bbox": [183.0, 217.2, 149.9, 270.4],
+        "area": 12836.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "teddy bear",
+        "supercategory": "indoor",
+        "bbox": [44.0, 301.7, 100.0, 89.2],
+        "area": 4581.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "teddy bear",
+        "supercategory": "indoor",
+        "bbox": [2.9, 54.9, 451.9, 493.8],
+        "area": 53029.2,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "teddy bear": 3
+    },
+    "num_objects": 3,
+    "num_categories": 1,
+    "supercategories": ["indoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 464689,
+    "width": 586,
+    "height": 640,
+    "objects": [
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [507.9, 386.1, 10.1, 29.8],
+        "area": 194.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [201.3, 386.1, 8.2, 25.2],
+        "area": 174.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [471.3, 293.1, 9.5, 24.2],
+        "area": 163.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [481.5, 294.9, 9.4, 22.1],
+        "area": 148.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [82.6, 296.5, 8.8, 23.9],
+        "area": 138.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [119.9, 300.1, 8.4, 25.0],
+        "area": 137.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [69.7, 307.8, 6.0, 18.4],
+        "area": 89.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [181.2, 301.2, 8.1, 21.0],
+        "area": 101.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [175.0, 297.6, 7.5, 25.6],
+        "area": 142.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [55.1, 316.0, 7.1, 13.0],
+        "area": 80.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [171.4, 394.4, 7.5, 22.2],
+        "area": 129.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [534.5, 300.7, 12.9, 16.1],
+        "area": 116.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [531.1, 283.9, 9.3, 26.8],
+        "area": 155.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [131, 294, 115, 126],
+        "area": 890,
+        "iscrowd": 1
+      }
+    ],
+    "object_counts": {
+      "bottle": 14
+    },
+    "num_objects": 14,
+    "num_categories": 1,
+    "supercategories": ["kitchen"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 370900,
+    "width": 640,
+    "height": 478,
+    "objects": [
+      {
+        "category": "teddy bear",
+        "supercategory": "indoor",
+        "bbox": [146.1, 40.8, 176.2, 229.9],
+        "area": 25872.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "teddy bear",
+        "supercategory": "indoor",
+        "bbox": [2.1, 198.7, 324.4, 273.9],
+        "area": 59256.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "teddy bear",
+        "supercategory": "indoor",
+        "bbox": [293.2, 46.2, 304.0, 426.4],
+        "area": 94219.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "teddy bear",
+        "supercategory": "indoor",
+        "bbox": [589.0, 386.2, 51.0, 82.2],
+        "area": 2807.5,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "teddy bear": 4
+    },
+    "num_objects": 4,
+    "num_categories": 1,
+    "supercategories": ["indoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 519522,
+    "width": 427,
+    "height": 640,
+    "objects": [
+      {
+        "category": "clock",
+        "supercategory": "indoor",
+        "bbox": [108.3, 246.6, 42.1, 53.1],
+        "area": 2088.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "clock",
+        "supercategory": "indoor",
+        "bbox": [172.9, 247.7, 32.9, 48.1],
+        "area": 1194.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "clock",
+        "supercategory": "indoor",
+        "bbox": [369.8, 400.9, 9.1, 17.6],
+        "area": 131.1,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "clock": 3
+    },
+    "num_objects": 3,
+    "num_categories": 1,
+    "supercategories": ["indoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 458054,
+    "width": 640,
+    "height": 426,
+    "objects": [
+      {
+        "category": "toilet",
+        "supercategory": "furniture",
+        "bbox": [33.3, 0.0, 303.2, 426.0],
+        "area": 46990.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "toilet",
+        "supercategory": "furniture",
+        "bbox": [228.8, 172.4, 195.3, 180.9],
+        "area": 24038.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "toilet",
+        "supercategory": "furniture",
+        "bbox": [236.3, 11.5, 268.8, 379.3],
+        "area": 28197.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "toilet",
+        "supercategory": "furniture",
+        "bbox": [346.7, 73.5, 193.9, 239.7],
+        "area": 13459.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "toilet",
+        "supercategory": "furniture",
+        "bbox": [448.4, 41.5, 138.3, 165.2],
+        "area": 7161.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "toilet",
+        "supercategory": "furniture",
+        "bbox": [399.9, 28.4, 150.5, 212.7],
+        "area": 5298.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "toilet",
+        "supercategory": "furniture",
+        "bbox": [539.9, 78.9, 100.1, 151.0],
+        "area": 7676.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "toilet",
+        "supercategory": "furniture",
+        "bbox": [0.0, 0.0, 201.7, 426.0],
+        "area": 47570.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "toilet",
+        "supercategory": "furniture",
+        "bbox": [504.2, 135.9, 52.6, 34.3],
+        "area": 666.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "toilet",
+        "supercategory": "furniture",
+        "bbox": [428.6, 129.3, 134.7, 104.0],
+        "area": 4439.1,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "toilet": 10
+    },
+    "num_objects": 10,
+    "num_categories": 1,
+    "supercategories": ["furniture"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 334977,
+    "width": 640,
+    "height": 320,
+    "objects": [
+      {
+        "category": "cell phone",
+        "supercategory": "electronic",
+        "bbox": [138.8, 21.6, 146.0, 278.3],
+        "area": 40017.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "cell phone",
+        "supercategory": "electronic",
+        "bbox": [331.7, 18.8, 145.8, 280.8],
+        "area": 40245.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "cell phone",
+        "supercategory": "electronic",
+        "bbox": [296.7, 22.2, 25.2, 279.9],
+        "area": 6518.5,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "cell phone": 3
+    },
+    "num_objects": 3,
+    "num_categories": 1,
+    "supercategories": ["electronic"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 348045,
+    "width": 588,
+    "height": 640,
+    "objects": [
+      {
+        "category": "toilet",
+        "supercategory": "furniture",
+        "bbox": [453.0, 399.6, 132.3, 179.8],
+        "area": 18927.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "toilet",
+        "supercategory": "furniture",
+        "bbox": [5.6, 411.8, 133.6, 181.8],
+        "area": 19124.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "toilet",
+        "supercategory": "furniture",
+        "bbox": [238.3, 408.3, 123.3, 186.7],
+        "area": 17203.0,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "toilet": 3
+    },
+    "num_objects": 3,
+    "num_categories": 1,
+    "supercategories": ["furniture"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 218362,
+    "width": 640,
+    "height": 426,
+    "objects": [
+      {
+        "category": "clock",
+        "supercategory": "indoor",
+        "bbox": [279.6, 0.9, 105.6, 116.1],
+        "area": 9106.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "clock",
+        "supercategory": "indoor",
+        "bbox": [97.6, 1.0, 151.3, 66.0],
+        "area": 7464.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "clock",
+        "supercategory": "indoor",
+        "bbox": [498.3, 83.4, 52.2, 82.0],
+        "area": 3139.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "clock",
+        "supercategory": "indoor",
+        "bbox": [560.4, 103.2, 77.3, 113.2],
+        "area": 6163.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "clock",
+        "supercategory": "indoor",
+        "bbox": [175.2, 270.0, 180.0, 148.4],
+        "area": 25447.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "clock",
+        "supercategory": "indoor",
+        "bbox": [484.6, 301.0, 70.3, 89.1],
+        "area": 4523.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "clock",
+        "supercategory": "indoor",
+        "bbox": [417.2, 54.2, 72.7, 91.8],
+        "area": 4655.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "clock",
+        "supercategory": "indoor",
+        "bbox": [241.7, 132.6, 205.3, 123.6],
+        "area": 19684.5,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "clock": 8
+    },
+    "num_objects": 8,
+    "num_categories": 1,
+    "supercategories": ["indoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 370042,
+    "width": 640,
+    "height": 356,
+    "objects": [
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [271.1, 186.9, 61.3, 149.5],
+        "area": 6079.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [392.8, 178.4, 69.6, 145.6],
+        "area": 7137.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [537.3, 261.1, 19.5, 49.9],
+        "area": 577.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [498.2, 213.8, 54.7, 100.3],
+        "area": 4190.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [559.7, 200.1, 55.0, 110.4],
+        "area": 3611.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [352.8, 244.0, 46.4, 86.4],
+        "area": 2787.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [197.9, 269.9, 42.1, 48.9],
+        "area": 1185.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [15.2, 263.2, 39.2, 65.6],
+        "area": 1623.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [111.5, 263.0, 37.2, 58.6],
+        "area": 1366.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [493.4, 250.4, 11.2, 27.6],
+        "area": 151.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [232.3, 268.2, 29.5, 46.3],
+        "area": 1022.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [145.6, 270.5, 42.6, 50.9],
+        "area": 1274.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [220.3, 163.6, 34.5, 50.4],
+        "area": 1120.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [43, 147, 96, 75],
+        "area": 4816,
+        "iscrowd": 1
+      }
+    ],
+    "object_counts": {
+      "vase": 14
+    },
+    "num_objects": 14,
+    "num_categories": 1,
+    "supercategories": ["indoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 97585,
+    "width": 480,
+    "height": 640,
+    "objects": [
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [122.5, 478.6, 73.1, 161.2],
+        "area": 10370.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [2.8, 488.9, 58.1, 145.9],
+        "area": 6241.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [8.4, 348.0, 70.0, 118.1],
+        "area": 6193.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [277.3, 418.7, 63.7, 158.4],
+        "area": 9787.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [391.5, 475.3, 87.8, 164.7],
+        "area": 11831.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [385.4, 293.0, 94.6, 164.2],
+        "area": 12140.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [397.4, 111.9, 62.6, 142.0],
+        "area": 7695.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [245.9, 87.5, 98.3, 140.7],
+        "area": 10039.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [114.7, 282.6, 99.7, 172.9],
+        "area": 12857.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [128.0, 113.0, 64.8, 136.3],
+        "area": 8287.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [33.3, 59.5, 61.3, 123.5],
+        "area": 5677.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [119.3, 0.8, 90.1, 96.6],
+        "area": 5619.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [22.1, 197.0, 50.0, 107.7],
+        "area": 4836.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [41, 0, 402, 95],
+        "area": 10467,
+        "iscrowd": 1
+      }
+    ],
+    "object_counts": {
+      "vase": 14
+    },
+    "num_objects": 14,
+    "num_categories": 1,
+    "supercategories": ["indoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 75393,
+    "width": 640,
+    "height": 435,
+    "objects": [
+      {
+        "category": "fork",
+        "supercategory": "kitchen",
+        "bbox": [176.4, 322.4, 247.0, 58.6],
+        "area": 7820.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "fork",
+        "supercategory": "kitchen",
+        "bbox": [21.7, 172.8, 327.0, 80.7],
+        "area": 12651.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "fork",
+        "supercategory": "kitchen",
+        "bbox": [398.8, 129.0, 180.8, 56.7],
+        "area": 5573.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "fork",
+        "supercategory": "kitchen",
+        "bbox": [274.3, 116.4, 126.4, 56.6],
+        "area": 3778.6,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "fork": 4
+    },
+    "num_objects": 4,
+    "num_categories": 1,
+    "supercategories": ["kitchen"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 172083,
+    "width": 640,
+    "height": 360,
+    "objects": [
+      {
+        "category": "sink",
+        "supercategory": "appliance",
+        "bbox": [521.2, 112.3, 64.5, 20.7],
+        "area": 668.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "sink",
+        "supercategory": "appliance",
+        "bbox": [459.0, 124.3, 126.5, 77.4],
+        "area": 4129.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "sink",
+        "supercategory": "appliance",
+        "bbox": [532.2, 107.2, 50.1, 16.3],
+        "area": 358.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "sink",
+        "supercategory": "appliance",
+        "bbox": [349.8, 223.4, 100.1, 96.4],
+        "area": 6763.1,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "sink": 4
+    },
+    "num_objects": 4,
+    "num_categories": 1,
+    "supercategories": ["appliance"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 447313,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "zebra",
+        "supercategory": "animal",
+        "bbox": [144.9, 202.4, 115.5, 128.0],
+        "area": 11260.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "zebra",
+        "supercategory": "animal",
+        "bbox": [280.3, 148.1, 163.3, 172.5],
+        "area": 18301.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "zebra",
+        "supercategory": "animal",
+        "bbox": [303.5, 163.6, 206.6, 184.0],
+        "area": 8257.8,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "zebra": 3
+    },
+    "num_objects": 3,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 283070,
+    "width": 640,
+    "height": 428,
+    "objects": [
+      {
+        "category": "orange",
+        "supercategory": "food",
+        "bbox": [250.6, 161.5, 121.5, 109.9],
+        "area": 10968.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "orange",
+        "supercategory": "food",
+        "bbox": [504.8, 201.4, 119.3, 54.0],
+        "area": 4818.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "orange",
+        "supercategory": "food",
+        "bbox": [17.3, 138.5, 137.5, 128.9],
+        "area": 13768.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "orange",
+        "supercategory": "food",
+        "bbox": [507.6, 98.1, 120.4, 64.4],
+        "area": 5817.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "orange",
+        "supercategory": "food",
+        "bbox": [502.4, 286.0, 116.8, 62.0],
+        "area": 5755.0,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "orange": 5
+    },
+    "num_objects": 5,
+    "num_categories": 1,
+    "supercategories": ["food"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 525600,
+    "width": 640,
+    "height": 326,
+    "objects": [
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [366.7, 136.8, 92.1, 142.9],
+        "area": 3906.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [179.8, 137.4, 102.3, 162.3],
+        "area": 5091.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [266.8, 84.3, 46.5, 134.1],
+        "area": 2039.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [376.7, 88.2, 30.6, 102.5],
+        "area": 1827.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [463.6, 70.5, 39.0, 50.8],
+        "area": 872.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [299.6, 104.0, 65.2, 123.1],
+        "area": 4062.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [430.6, 77.0, 110.2, 84.1],
+        "area": 1867.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [421.0, 108.4, 120.2, 161.6],
+        "area": 2617.0,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "giraffe": 8
+    },
+    "num_objects": 8,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 328286,
+    "width": 640,
+    "height": 424,
+    "objects": [
+      {
+        "category": "boat",
+        "supercategory": "vehicle",
+        "bbox": [191.4, 322.0, 119.5, 41.5],
+        "area": 3820.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "boat",
+        "supercategory": "vehicle",
+        "bbox": [145.4, 341.9, 108.8, 67.1],
+        "area": 4141.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "boat",
+        "supercategory": "vehicle",
+        "bbox": [45.1, 355.1, 136.2, 68.9],
+        "area": 6738.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "boat",
+        "supercategory": "vehicle",
+        "bbox": [118.7, 221.4, 215.5, 60.7],
+        "area": 8244.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "boat",
+        "supercategory": "vehicle",
+        "bbox": [564.8, 208.1, 18.9, 6.5],
+        "area": 71.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "boat",
+        "supercategory": "vehicle",
+        "bbox": [217.0, 212.8, 11.7, 2.4],
+        "area": 16.8,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "boat": 6
+    },
+    "num_objects": 6,
+    "num_categories": 1,
+    "supercategories": ["vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 535156,
+    "width": 640,
+    "height": 505,
+    "objects": [
+      {
+        "category": "elephant",
+        "supercategory": "animal",
+        "bbox": [133.6, 50.2, 397.4, 388.4],
+        "area": 81350.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "elephant",
+        "supercategory": "animal",
+        "bbox": [1.1, 112.0, 197.0, 129.1],
+        "area": 14383.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "elephant",
+        "supercategory": "animal",
+        "bbox": [373.6, 190.2, 195.6, 230.8],
+        "area": 10860.2,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "elephant": 3
+    },
+    "num_objects": 3,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 522751,
+    "width": 640,
+    "height": 335,
+    "objects": [
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [206.7, 4.9, 135.1, 102.6],
+        "area": 9569.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [0.8, 44.3, 99.2, 90.1],
+        "area": 7453.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [473.2, 201.0, 22.5, 42.1],
+        "area": 840.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [261.8, 269.7, 14.6, 32.4],
+        "area": 348.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [581.6, 313.4, 16.8, 12.6],
+        "area": 164.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [619.5, 311.3, 17.7, 13.4],
+        "area": 201.7,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "traffic light": 6
+    },
+    "num_objects": 6,
+    "num_categories": 1,
+    "supercategories": ["outdoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 548267,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [595.9, 412.0, 28.7, 16.9],
+        "area": 291.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [468.6, 403.9, 13.6, 16.1],
+        "area": 158.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [539.3, 403.8, 15.8, 11.7],
+        "area": 133.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [488.9, 402.8, 20.9, 15.7],
+        "area": 245.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [392.5, 446.8, 35.9, 33.2],
+        "area": 711.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [363.8, 433.6, 25.6, 22.6],
+        "area": 348.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [237.2, 438.7, 32.0, 18.4],
+        "area": 396.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [565.4, 409.7, 22.9, 19.9],
+        "area": 307.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [153.0, 439.5, 32.4, 31.4],
+        "area": 754.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [128.8, 450.3, 22.8, 27.7],
+        "area": 498.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [242.8, 450.7, 28.8, 29.2],
+        "area": 492.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [204.3, 459.0, 37.2, 20.1],
+        "area": 558.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "sheep",
+        "supercategory": "animal",
+        "bbox": [256.2, 438.8, 20.6, 20.6],
+        "area": 129.7,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "sheep": 13
+    },
+    "num_objects": 13,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 430875,
+    "width": 500,
+    "height": 375,
+    "objects": [
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [196.6, 270.6, 48.9, 64.4],
+        "area": 2790.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [372.6, 275.3, 32.0, 63.1],
+        "area": 1832.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [49.7, 48.7, 55.7, 106.3],
+        "area": 5777.6,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "traffic light": 3
+    },
+    "num_objects": 3,
+    "num_categories": 1,
+    "supercategories": ["outdoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 7108,
+    "width": 640,
+    "height": 426,
+    "objects": [
+      {
+        "category": "elephant",
+        "supercategory": "animal",
+        "bbox": [125.7, 26.4, 292.6, 394.3],
+        "area": 89989.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "elephant",
+        "supercategory": "animal",
+        "bbox": [401.2, 77.5, 231.8, 348.5],
+        "area": 61337.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "elephant",
+        "supercategory": "animal",
+        "bbox": [338.1, 0.9, 166.2, 92.7],
+        "area": 10198.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "elephant",
+        "supercategory": "animal",
+        "bbox": [120.9, 219.0, 82.7, 127.0],
+        "area": 2628.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "elephant",
+        "supercategory": "animal",
+        "bbox": [567.6, 49.8, 69.7, 323.1],
+        "area": 7426.6,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "elephant": 5
+    },
+    "num_objects": 5,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 545730,
+    "width": 640,
+    "height": 427,
+    "objects": [
+      {
+        "category": "zebra",
+        "supercategory": "animal",
+        "bbox": [560.0, 281.1, 73.8, 48.0],
+        "area": 1817.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "zebra",
+        "supercategory": "animal",
+        "bbox": [167.6, 311.6, 73.5, 48.1],
+        "area": 1665.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "zebra",
+        "supercategory": "animal",
+        "bbox": [394.8, 290.1, 85.8, 50.3],
+        "area": 2015.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "zebra",
+        "supercategory": "animal",
+        "bbox": [84.6, 345.6, 58.3, 47.4],
+        "area": 1767.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "zebra",
+        "supercategory": "animal",
+        "bbox": [0.0, 347.8, 69.3, 50.6],
+        "area": 1902.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "zebra",
+        "supercategory": "animal",
+        "bbox": [0.4, 324.2, 53.5, 25.4],
+        "area": 798.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "zebra",
+        "supercategory": "animal",
+        "bbox": [110.2, 312.6, 60.1, 52.6],
+        "area": 1472.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "zebra",
+        "supercategory": "animal",
+        "bbox": [28.0, 343.1, 66.5, 48.1],
+        "area": 1400.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "zebra",
+        "supercategory": "animal",
+        "bbox": [237.0, 303.4, 83.6, 49.0],
+        "area": 1764.0,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "zebra": 9
+    },
+    "num_objects": 9,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 526751,
+    "width": 640,
+    "height": 427,
+    "objects": [
+      {
+        "category": "boat",
+        "supercategory": "vehicle",
+        "bbox": [239.8, 272.3, 314.3, 128.0],
+        "area": 28278.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "boat",
+        "supercategory": "vehicle",
+        "bbox": [523.0, 200.0, 43.1, 10.9],
+        "area": 334.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "boat",
+        "supercategory": "vehicle",
+        "bbox": [315.5, 198.2, 32.9, 14.9],
+        "area": 269.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "boat",
+        "supercategory": "vehicle",
+        "bbox": [579.2, 208.7, 42.2, 9.4],
+        "area": 307.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "boat",
+        "supercategory": "vehicle",
+        "bbox": [0.7, 149.7, 37.5, 55.9],
+        "area": 462.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "boat",
+        "supercategory": "vehicle",
+        "bbox": [408.0, 255.6, 83.3, 28.3],
+        "area": 1251.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "boat",
+        "supercategory": "vehicle",
+        "bbox": [67.3, 195.0, 25.4, 7.2],
+        "area": 135.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "boat",
+        "supercategory": "vehicle",
+        "bbox": [321.7, 195.8, 37.7, 13.8],
+        "area": 245.5,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "boat": 8
+    },
+    "num_objects": 8,
+    "num_categories": 1,
+    "supercategories": ["vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 235252,
+    "width": 640,
+    "height": 427,
+    "objects": [
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [240.8, 154.7, 96.0, 140.1],
+        "area": 4060.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [266.6, 160.5, 83.1, 127.4],
+        "area": 1757.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "giraffe",
+        "supercategory": "animal",
+        "bbox": [341.3, 155.9, 82.1, 124.6],
+        "area": 3407.5,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "giraffe": 3
+    },
+    "num_objects": 3,
+    "num_categories": 1,
+    "supercategories": ["animal"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 433915,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "tv",
+        "supercategory": "electronic",
+        "bbox": [1.1, 1.7, 574.7, 471.4],
+        "area": 265862.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [134.0, 60.5, 373.1, 359.4],
+        "area": 74885.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [44.2, 61.8, 242.7, 345.2],
+        "area": 33639.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "tie",
+        "supercategory": "accessory",
+        "bbox": [221.0, 354.7, 57.9, 55.1],
+        "area": 1763.1,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "tv": 1,
+      "person": 2,
+      "tie": 1
+    },
+    "num_objects": 4,
+    "num_categories": 3,
+    "supercategories": ["accessory", "electronic", "person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 441491,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [2.2, 2.2, 382.9, 472.4],
+        "area": 158781.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [323.6, 29.1, 209.2, 248.1],
+        "area": 30692.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [398.0, 71.2, 242.0, 408.8],
+        "area": 77254.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "cup",
+        "supercategory": "kitchen",
+        "bbox": [347.3, 396.9, 80.9, 76.6],
+        "area": 4995.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "pizza",
+        "supercategory": "food",
+        "bbox": [283.7, 264.3, 140.2, 76.6],
+        "area": 4706.1,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "person": 3,
+      "cup": 1,
+      "pizza": 1
+    },
+    "num_objects": 5,
+    "num_categories": 3,
+    "supercategories": ["food", "kitchen", "person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 178028,
+    "width": 375,
+    "height": 500,
+    "objects": [
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [89.9, 302.9, 19.4, 50.9],
+        "area": 792.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "cup",
+        "supercategory": "kitchen",
+        "bbox": [276.9, 221.4, 23.6, 42.5],
+        "area": 857.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "sink",
+        "supercategory": "appliance",
+        "bbox": [126.3, 305.8, 154.8, 87.7],
+        "area": 10432.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "hair drier",
+        "supercategory": "indoor",
+        "bbox": [350.9, 37.3, 24.1, 68.7],
+        "area": 833.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "hair drier",
+        "supercategory": "indoor",
+        "bbox": [184.4, 34.9, 32.3, 74.8],
+        "area": 904.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "cup",
+        "supercategory": "kitchen",
+        "bbox": [253.1, 209.9, 26.9, 13.0],
+        "area": 243.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "wine glass",
+        "supercategory": "kitchen",
+        "bbox": [251.2, 212.2, 29.6, 96.9],
+        "area": 1404.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "cup",
+        "supercategory": "kitchen",
+        "bbox": [255.9, 223.3, 21.8, 38.6],
+        "area": 721.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "cup",
+        "supercategory": "kitchen",
+        "bbox": [273.7, 211.5, 20.8, 13.0],
+        "area": 206.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "hair drier",
+        "supercategory": "indoor",
+        "bbox": [333.6, 41.1, 15.3, 20.6],
+        "area": 241.3,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "bottle": 1,
+      "cup": 4,
+      "sink": 1,
+      "hair drier": 3,
+      "wine glass": 1
+    },
+    "num_objects": 10,
+    "num_categories": 5,
+    "supercategories": ["appliance", "indoor", "kitchen"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 470924,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [474.6, 40.2, 41.1, 34.0],
+        "area": 913.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "chair",
+        "supercategory": "furniture",
+        "bbox": [0.2, 229.9, 122.0, 249.0],
+        "area": 9214.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "chair",
+        "supercategory": "furniture",
+        "bbox": [330.4, 136.4, 22.1, 46.4],
+        "area": 187.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "chair",
+        "supercategory": "furniture",
+        "bbox": [578.9, 270.5, 61.1, 209.5],
+        "area": 7507.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "chair",
+        "supercategory": "furniture",
+        "bbox": [317.9, 69.8, 46.2, 31.9],
+        "area": 882.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "chair",
+        "supercategory": "furniture",
+        "bbox": [151.5, 47.1, 61.1, 86.3],
+        "area": 2028.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "chair",
+        "supercategory": "furniture",
+        "bbox": [32.2, 86.0, 54.9, 30.5],
+        "area": 1271.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "chair",
+        "supercategory": "furniture",
+        "bbox": [0.0, 55.6, 33.1, 59.0],
+        "area": 1561.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "chair",
+        "supercategory": "furniture",
+        "bbox": [55.0, 33.2, 33.1, 16.9],
+        "area": 453.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "chair",
+        "supercategory": "furniture",
+        "bbox": [16.5, 30.8, 30.6, 15.1],
+        "area": 332.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "dining table",
+        "supercategory": "furniture",
+        "bbox": [110.0, 153.2, 400.2, 320.4],
+        "area": 74052.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "wine glass",
+        "supercategory": "kitchen",
+        "bbox": [297.7, 154.5, 20.5, 59.7],
+        "area": 713.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "cup",
+        "supercategory": "kitchen",
+        "bbox": [327.6, 193.0, 21.8, 60.0],
+        "area": 1001.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "cup",
+        "supercategory": "kitchen",
+        "bbox": [238.0, 241.6, 27.5, 76.3],
+        "area": 1720.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "cup",
+        "supercategory": "kitchen",
+        "bbox": [333.9, 302.6, 88.4, 128.4],
+        "area": 3716.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "fork",
+        "supercategory": "kitchen",
+        "bbox": [205.7, 442.0, 105.8, 32.2],
+        "area": 548.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "fork",
+        "supercategory": "kitchen",
+        "bbox": [367.3, 312.3, 41.4, 20.7],
+        "area": 234.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "knife",
+        "supercategory": "kitchen",
+        "bbox": [209.5, 425.6, 119.7, 34.0],
+        "area": 709.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "knife",
+        "supercategory": "kitchen",
+        "bbox": [367.4, 297.3, 43.4, 19.1],
+        "area": 243.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "knife",
+        "supercategory": "kitchen",
+        "bbox": [182.2, 274.8, 31.0, 44.0],
+        "area": 322.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "knife",
+        "supercategory": "kitchen",
+        "bbox": [366.6, 246.4, 32.9, 35.6],
+        "area": 220.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "pizza",
+        "supercategory": "food",
+        "bbox": [167.0, 347.8, 49.7, 40.7],
+        "area": 1164.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "pizza",
+        "supercategory": "food",
+        "bbox": [263.9, 249.3, 83.3, 44.8],
+        "area": 2220.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "pizza",
+        "supercategory": "food",
+        "bbox": [197.4, 224.4, 87.4, 29.1],
+        "area": 1728.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "pizza",
+        "supercategory": "food",
+        "bbox": [295.6, 327.8, 44.6, 29.7],
+        "area": 749.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "pizza",
+        "supercategory": "food",
+        "bbox": [188.8, 300.9, 36.7, 18.4],
+        "area": 400.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [556.4, 28.5, 55.0, 24.9],
+        "area": 577.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [499.3, 17.6, 140.7, 44.4],
+        "area": 3059.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [246.9, 79.6, 108.0, 137.5],
+        "area": 9988.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [345.0, 78.4, 133.2, 216.6],
+        "area": 9250.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [403.4, 117.6, 224.4, 362.4],
+        "area": 48384.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [287.8, 18.9, 86.7, 82.1],
+        "area": 2692.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [158.1, 6.7, 62.7, 108.6],
+        "area": 2300.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [215.8, 4.0, 59.8, 117.0],
+        "area": 3142.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [19.3, 113.1, 205.0, 330.1],
+        "area": 38292.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [204.5, 3.9, 36.1, 47.0],
+        "area": 746.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [287.6, 14.4, 41.9, 53.4],
+        "area": 793.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [300.0, 3.7, 6.0, 15.6],
+        "area": 56.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [392.0, 6.0, 4.5, 14.3],
+        "area": 54.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [399.5, 46.4, 25.2, 21.0],
+        "area": 339.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [390.6, 36.3, 20.5, 15.8],
+        "area": 211.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "cup",
+        "supercategory": "kitchen",
+        "bbox": [296.6, 156.2, 21.0, 56.0],
+        "area": 638.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "cup",
+        "supercategory": "kitchen",
+        "bbox": [282.4, 68.0, 10.2, 9.3],
+        "area": 58.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "chair",
+        "supercategory": "furniture",
+        "bbox": [55.4, 59.0, 26.7, 29.2],
+        "area": 494.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "chair",
+        "supercategory": "furniture",
+        "bbox": [232.3, 38.6, 46.5, 89.0],
+        "area": 1612.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [138.6, 7.7, 35.7, 63.9],
+        "area": 1071.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "pizza",
+        "supercategory": "food",
+        "bbox": [211.4, 343.6, 71.8, 70.3],
+        "area": 3339.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "pizza",
+        "supercategory": "food",
+        "bbox": [360.3, 229.2, 28.2, 22.0],
+        "area": 329.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "pizza",
+        "supercategory": "food",
+        "bbox": [133.6, 391.4, 73.2, 44.4],
+        "area": 2714.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "chair",
+        "supercategory": "furniture",
+        "bbox": [79.3, 121.9, 28.1, 67.9],
+        "area": 1228.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [586.1, 9.9, 5.9, 10.0],
+        "area": 35.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "wine glass",
+        "supercategory": "kitchen",
+        "bbox": [385.5, 334.2, 38.7, 97.7],
+        "area": 1832.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "chair",
+        "supercategory": "furniture",
+        "bbox": [129.5, 33.3, 13.3, 39.0],
+        "area": 276.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "dining table",
+        "supercategory": "furniture",
+        "bbox": [0.3, 41.4, 89.6, 26.8],
+        "area": 1385.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "dining table",
+        "supercategory": "furniture",
+        "bbox": [1.9, 111.4, 116.3, 109.5],
+        "area": 8934.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [323, 8, 13, 8],
+        "area": 103,
+        "iscrowd": 1
+      }
+    ],
+    "object_counts": {
+      "car": 5,
+      "chair": 13,
+      "dining table": 3,
+      "wine glass": 2,
+      "cup": 5,
+      "fork": 2,
+      "knife": 4,
+      "pizza": 8,
+      "person": 14
+    },
+    "num_objects": 56,
+    "num_categories": 9,
+    "supercategories": ["food", "furniture", "kitchen", "person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 233238,
+    "width": 480,
+    "height": 640,
+    "objects": [
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [342.5, 428.3, 68.6, 175.2],
+        "area": 8437.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [171.0, 475.6, 15.6, 123.2],
+        "area": 788.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [152.7, 408.7, 21.6, 51.5],
+        "area": 894.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [6.1, 373.8, 39.3, 141.8],
+        "area": 2333.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [123.1, 431.1, 47.2, 199.0],
+        "area": 5855.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [232.8, 491.0, 71.4, 144.0],
+        "area": 6634.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "bowl",
+        "supercategory": "kitchen",
+        "bbox": [178.0, 430.0, 186.8, 105.7],
+        "area": 12747.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [5.8, 123.7, 138.1, 330.8],
+        "area": 14031.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [39.4, 177.2, 158.4, 179.7],
+        "area": 6368.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [334.6, 128.4, 145.4, 371.8],
+        "area": 28842.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [113.5, 163.6, 54.9, 155.3],
+        "area": 3056.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [131.2, 169.1, 108.2, 145.5],
+        "area": 7134.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [318.9, 189.0, 46.5, 109.0],
+        "area": 1331.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [70.3, 124.5, 120.2, 195.0],
+        "area": 8828.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [1.4, 142.1, 61.8, 382.6],
+        "area": 13153.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "spoon",
+        "supercategory": "kitchen",
+        "bbox": [412.9, 545.5, 67.1, 36.9],
+        "area": 968.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "chair",
+        "supercategory": "furniture",
+        "bbox": [260.7, 245.0, 49.1, 45.4],
+        "area": 1286.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [308.9, 171.5, 104.6, 131.3],
+        "area": 5364.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "spoon",
+        "supercategory": "kitchen",
+        "bbox": [194.2, 304.9, 60.4, 15.8],
+        "area": 320.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "spoon",
+        "supercategory": "kitchen",
+        "bbox": [111.8, 415.8, 108.7, 46.7],
+        "area": 891.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "spoon",
+        "supercategory": "kitchen",
+        "bbox": [301.4, 533.4, 42.2, 16.4],
+        "area": 208.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "dining table",
+        "supercategory": "furniture",
+        "bbox": [103.0, 321.8, 295.3, 111.5],
+        "area": 21659.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [176.4, 457.9, 55.1, 182.0],
+        "area": 7941.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [154.0, 458.5, 27.1, 140.0],
+        "area": 2177.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "dining table",
+        "supercategory": "furniture",
+        "bbox": [1.6, 388.5, 478.4, 243.4],
+        "area": 96832.8,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "bottle": 8,
+      "bowl": 1,
+      "person": 9,
+      "spoon": 4,
+      "chair": 1,
+      "dining table": 2
+    },
+    "num_objects": 25,
+    "num_categories": 6,
+    "supercategories": ["furniture", "kitchen", "person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 302030,
+    "width": 640,
+    "height": 359,
+    "objects": [
+      {
+        "category": "tv",
+        "supercategory": "electronic",
+        "bbox": [436.1, 0.8, 101.4, 87.6],
+        "area": 8590.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "laptop",
+        "supercategory": "electronic",
+        "bbox": [0.0, 133.3, 226.9, 221.4],
+        "area": 25731.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "mouse",
+        "supercategory": "electronic",
+        "bbox": [562.8, 109.6, 21.9, 17.0],
+        "area": 262.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "keyboard",
+        "supercategory": "electronic",
+        "bbox": [418.4, 91.5, 136.8, 36.6],
+        "area": 3168.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [175.1, 112.0, 126.5, 39.9],
+        "area": 2912.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [163.2, 12.8, 15.1, 56.2],
+        "area": 575.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [139.1, 18.4, 9.6, 47.6],
+        "area": 207.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [0.8, 1.6, 102.2, 40.2],
+        "area": 3313.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [15.2, 43.8, 98.0, 67.1],
+        "area": 4692.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [187.9, 106.9, 110.5, 17.8],
+        "area": 1300.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [108.8, 21.7, 16.9, 44.6],
+        "area": 438.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "chair",
+        "supercategory": "furniture",
+        "bbox": [0.0, 86.7, 156.7, 158.5],
+        "area": 13234.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "chair",
+        "supercategory": "furniture",
+        "bbox": [389.8, 175.3, 250.2, 179.0],
+        "area": 39478.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [194.0, 92.0, 108.2, 20.7],
+        "area": 1837.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [196.2, 265.2, 207.3, 92.3],
+        "area": 15354.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [186.9, 16.9, 21.4, 52.8],
+        "area": 821.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [157.3, 97.1, 16.7, 46.1],
+        "area": 476.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [135.5, 18.7, 9.1, 47.7],
+        "area": 185.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [177.4, 16.6, 13.8, 51.1],
+        "area": 362.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [105, 1, 112, 158],
+        "area": 6658,
+        "iscrowd": 1
+      }
+    ],
+    "object_counts": {
+      "tv": 1,
+      "laptop": 1,
+      "mouse": 1,
+      "keyboard": 1,
+      "book": 14,
+      "chair": 2
+    },
+    "num_objects": 20,
+    "num_categories": 6,
+    "supercategories": ["electronic", "furniture", "indoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 479448,
+    "width": 500,
+    "height": 375,
+    "objects": [
+      {
+        "category": "spoon",
+        "supercategory": "kitchen",
+        "bbox": [0.8, 5.5, 51.2, 67.0],
+        "area": 1824.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "orange",
+        "supercategory": "food",
+        "bbox": [424.9, 179.5, 75.1, 150.3],
+        "area": 7154.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "banana",
+        "supercategory": "food",
+        "bbox": [149.2, 66.1, 93.2, 70.6],
+        "area": 4227.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "banana",
+        "supercategory": "food",
+        "bbox": [274.7, 165.6, 62.4, 48.0],
+        "area": 2426.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "banana",
+        "supercategory": "food",
+        "bbox": [83.4, 187.1, 81.7, 54.8],
+        "area": 3217.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "banana",
+        "supercategory": "food",
+        "bbox": [146.6, 213.4, 69.8, 126.7],
+        "area": 6670.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "banana",
+        "supercategory": "food",
+        "bbox": [16.2, 150.7, 84.1, 101.9],
+        "area": 6053.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "banana",
+        "supercategory": "food",
+        "bbox": [30.5, 79.4, 156.5, 126.9],
+        "area": 10602.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "banana",
+        "supercategory": "food",
+        "bbox": [327.1, 115.8, 74.2, 76.2],
+        "area": 4220.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "banana",
+        "supercategory": "food",
+        "bbox": [272.2, 208.2, 69.9, 75.0],
+        "area": 3463.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "banana",
+        "supercategory": "food",
+        "bbox": [232.8, 23.4, 81.7, 78.1],
+        "area": 4384.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "banana",
+        "supercategory": "food",
+        "bbox": [284.1, 81.7, 69.4, 57.0],
+        "area": 2004.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "cup",
+        "supercategory": "kitchen",
+        "bbox": [391.5, 30.2, 108.5, 146.7],
+        "area": 13306.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "banana",
+        "supercategory": "food",
+        "bbox": [264.7, 104.3, 66.6, 64.0],
+        "area": 3343.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "banana",
+        "supercategory": "food",
+        "bbox": [161.3, 34.6, 101.0, 76.7],
+        "area": 3118.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "banana",
+        "supercategory": "food",
+        "bbox": [215.8, 239.8, 80.1, 96.7],
+        "area": 5907.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "pizza",
+        "supercategory": "food",
+        "bbox": [0.0, 21.1, 425.8, 353.8],
+        "area": 119692.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "banana",
+        "supercategory": "food",
+        "bbox": [70, 173, 331, 144],
+        "area": 8619,
+        "iscrowd": 1
+      }
+    ],
+    "object_counts": {
+      "spoon": 1,
+      "orange": 1,
+      "banana": 14,
+      "cup": 1,
+      "pizza": 1
+    },
+    "num_objects": 18,
+    "num_categories": 5,
+    "supercategories": ["food", "kitchen"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 216277,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "cell phone",
+        "supercategory": "electronic",
+        "bbox": [393.3, 73.4, 136.5, 172.3],
+        "area": 18904.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "apple",
+        "supercategory": "food",
+        "bbox": [87.0, 127.6, 255.2, 245.1],
+        "area": 48213.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [454.4, 1.9, 185.6, 162.2],
+        "area": 17843.2,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "cell phone": 1,
+      "apple": 1,
+      "person": 1
+    },
+    "num_objects": 3,
+    "num_categories": 3,
+    "supercategories": ["electronic", "food", "person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 459954,
+    "width": 500,
+    "height": 375,
+    "objects": [
+      {
+        "category": "refrigerator",
+        "supercategory": "appliance",
+        "bbox": [264.0, 133.3, 109.3, 146.3],
+        "area": 13489.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [242.2, 148.9, 31.9, 143.0],
+        "area": 3151.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "refrigerator",
+        "supercategory": "appliance",
+        "bbox": [187.1, 147.5, 57.3, 177.8],
+        "area": 8092.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "refrigerator",
+        "supercategory": "appliance",
+        "bbox": [255.3, 255.3, 105.3, 114.6],
+        "area": 5737.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "refrigerator",
+        "supercategory": "appliance",
+        "bbox": [366.2, 45.8, 133.8, 162.7],
+        "area": 18269.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "refrigerator",
+        "supercategory": "appliance",
+        "bbox": [198.1, 286.0, 130.4, 89.0],
+        "area": 6050.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "refrigerator",
+        "supercategory": "appliance",
+        "bbox": [0.0, 106.3, 200.9, 222.1],
+        "area": 35755.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "refrigerator",
+        "supercategory": "appliance",
+        "bbox": [17.5, 254.7, 171.9, 114.6],
+        "area": 8622.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "refrigerator",
+        "supercategory": "appliance",
+        "bbox": [196.2, 97.4, 72.1, 38.0],
+        "area": 1986.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "refrigerator",
+        "supercategory": "appliance",
+        "bbox": [354.6, 201.6, 121.8, 173.4],
+        "area": 12726.9,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "refrigerator": 9,
+      "person": 1
+    },
+    "num_objects": 10,
+    "num_categories": 2,
+    "supercategories": ["appliance", "person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 411817,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "tv",
+        "supercategory": "electronic",
+        "bbox": [7.2, 90.0, 183.7, 178.3],
+        "area": 25868.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [380.5, 276.8, 73.0, 203.2],
+        "area": 8466.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [347.2, 129.0, 47.1, 205.8],
+        "area": 4415.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [443.6, 185.0, 144.5, 294.6],
+        "area": 28977.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [543.2, 144.9, 80.3, 173.2],
+        "area": 6402.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [580.3, 221.1, 59.3, 253.5],
+        "area": 13152.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [543.0, 95.4, 41.4, 93.6],
+        "area": 1938.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [570.6, 81.6, 66.2, 133.3],
+        "area": 3711.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "cell phone",
+        "supercategory": "electronic",
+        "bbox": [565.2, 177.6, 13.7, 18.4],
+        "area": 141.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "remote",
+        "supercategory": "electronic",
+        "bbox": [390.4, 352.2, 49.2, 27.1],
+        "area": 568.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "tv",
+        "supercategory": "electronic",
+        "bbox": [624.2, 76.6, 15.8, 59.8],
+        "area": 737.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [626.2, 192.8, 13.8, 37.1],
+        "area": 340.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "tv",
+        "supercategory": "electronic",
+        "bbox": [251.4, 83.0, 98.8, 124.7],
+        "area": 10642.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "tv",
+        "supercategory": "electronic",
+        "bbox": [391.4, 78.3, 64.1, 99.1],
+        "area": 5560.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "tv",
+        "supercategory": "electronic",
+        "bbox": [469.6, 76.7, 49.5, 75.7],
+        "area": 3469.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "tv",
+        "supercategory": "electronic",
+        "bbox": [517.2, 74.5, 34.0, 58.3],
+        "area": 1837.7,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "tv": 6,
+      "person": 8,
+      "cell phone": 1,
+      "remote": 1
+    },
+    "num_objects": 16,
+    "num_categories": 4,
+    "supercategories": ["electronic", "person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 483667,
+    "width": 426,
+    "height": 640,
+    "objects": [
+      {
+        "category": "tie",
+        "supercategory": "accessory",
+        "bbox": [200.3, 399.1, 50.8, 239.5],
+        "area": 7451.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [2.9, 2.9, 423.1, 627.0],
+        "area": 177020.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "chair",
+        "supercategory": "furniture",
+        "bbox": [67.0, 551.8, 48.8, 88.2],
+        "area": 2240.8,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "tie": 1,
+      "person": 1,
+      "chair": 1
+    },
+    "num_objects": 3,
+    "num_categories": 3,
+    "supercategories": ["accessory", "furniture", "person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 128148,
+    "width": 640,
+    "height": 428,
+    "objects": [
+      {
+        "category": "potted plant",
+        "supercategory": "furniture",
+        "bbox": [521.3, 138.2, 29.8, 62.5],
+        "area": 1138.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "chair",
+        "supercategory": "furniture",
+        "bbox": [0.0, 212.4, 63.8, 102.6],
+        "area": 1624.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "chair",
+        "supercategory": "furniture",
+        "bbox": [67.9, 200.6, 21.9, 30.0],
+        "area": 530.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "chair",
+        "supercategory": "furniture",
+        "bbox": [69.1, 192.6, 28.4, 31.7],
+        "area": 407.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "couch",
+        "supercategory": "furniture",
+        "bbox": [262.3, 192.4, 243.9, 127.0],
+        "area": 26432.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "couch",
+        "supercategory": "furniture",
+        "bbox": [45.9, 205.8, 212.3, 162.2],
+        "area": 23563.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "dining table",
+        "supercategory": "furniture",
+        "bbox": [1.4, 206.1, 68.2, 36.4],
+        "area": 881.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [131.1, 146.2, 7.8, 20.2],
+        "area": 82.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [103.8, 150.3, 18.4, 8.6],
+        "area": 123.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [112.8, 124.5, 3.9, 17.3],
+        "area": 54.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [120.5, 131.9, 9.6, 10.2],
+        "area": 88.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "potted plant",
+        "supercategory": "furniture",
+        "bbox": [280.2, 139.3, 11.3, 52.5],
+        "area": 136.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [141.6, 144.2, 5.9, 20.4],
+        "area": 103.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [128.2, 148.7, 3.7, 16.8],
+        "area": 45.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [111.6, 147.9, 11.4, 20.1],
+        "area": 72.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [125.0, 199.1, 6.0, 17.6],
+        "area": 77.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [141.6, 194.2, 9.4, 17.4],
+        "area": 133.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [113.9, 204.5, 3.5, 15.5],
+        "area": 25.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [107.1, 199.6, 14.8, 20.8],
+        "area": 242.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "tv",
+        "supercategory": "electronic",
+        "bbox": [605.2, 202.4, 34.8, 125.4],
+        "area": 3178.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [129.5, 168.5, 9.9, 26.0],
+        "area": 60.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [105.7, 175.9, 6.2, 23.6],
+        "area": 50.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "book",
+        "supercategory": "indoor",
+        "bbox": [93, 123, 245, 133],
+        "area": 3225,
+        "iscrowd": 1
+      }
+    ],
+    "object_counts": {
+      "potted plant": 2,
+      "chair": 3,
+      "couch": 2,
+      "dining table": 1,
+      "book": 14,
+      "tv": 1
+    },
+    "num_objects": 23,
+    "num_categories": 6,
+    "supercategories": ["electronic", "furniture", "indoor"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 388056,
+    "width": 500,
+    "height": 332,
+    "objects": [
+      {
+        "category": "baseball bat",
+        "supercategory": "sports",
+        "bbox": [106.2, 22.7, 66.6, 59.4],
+        "area": 587.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "baseball glove",
+        "supercategory": "sports",
+        "bbox": [284.5, 212.2, 36.2, 23.6],
+        "area": 615.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [283.5, 152.8, 145.7, 138.9],
+        "area": 8548.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [79.8, 68.6, 148.5, 244.7],
+        "area": 14010.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [237.4, 0.0, 58.6, 83.8],
+        "area": 2647.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [393.9, 94.8, 106.1, 206.7],
+        "area": 11541.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [364.9, 0.0, 67.9, 93.3],
+        "area": 2972.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [429.0, 0.4, 60.6, 104.3],
+        "area": 2520.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [267.8, 0.0, 39.5, 46.2],
+        "area": 959.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [304.4, 0.8, 67.1, 88.0],
+        "area": 3048.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [211.9, 0.0, 45.5, 79.8],
+        "area": 1942.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [108.2, 4.9, 34.4, 67.2],
+        "area": 1248.6,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "baseball bat": 1,
+      "baseball glove": 1,
+      "person": 10
+    },
+    "num_objects": 12,
+    "num_categories": 3,
+    "supercategories": ["person", "sports"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 450075,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "tie",
+        "supercategory": "accessory",
+        "bbox": [209.2, 277.5, 142.7, 202.5],
+        "area": 3448.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [125.7, 143.0, 207.6, 336.2],
+        "area": 47325.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [0.0, 196.9, 36.5, 281.8],
+        "area": 5324.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [276.0, 26.7, 364.0, 447.0],
+        "area": 100188.1,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "tie": 1,
+      "person": 3
+    },
+    "num_objects": 4,
+    "num_categories": 2,
+    "supercategories": ["accessory", "person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 119452,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "banana",
+        "supercategory": "food",
+        "bbox": [34.9, 0.0, 605.1, 480.0],
+        "area": 117161.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "banana",
+        "supercategory": "food",
+        "bbox": [219.1, 1.0, 122.0, 132.1],
+        "area": 8487.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "orange",
+        "supercategory": "food",
+        "bbox": [1.1, 183.0, 311.7, 290.3],
+        "area": 63598.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "orange",
+        "supercategory": "food",
+        "bbox": [486.8, 66.3, 153.2, 342.2],
+        "area": 36818.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "apple",
+        "supercategory": "food",
+        "bbox": [389.4, 221.6, 76.3, 83.8],
+        "area": 1630.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "apple",
+        "supercategory": "food",
+        "bbox": [458.7, 262.6, 37.5, 80.0],
+        "area": 1657.3,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "banana": 2,
+      "orange": 2,
+      "apple": 2
+    },
+    "num_objects": 6,
+    "num_categories": 3,
+    "supercategories": ["food"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 374052,
+    "width": 640,
+    "height": 427,
+    "objects": [
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [104.2, 255.7, 429.3, 55.3],
+        "area": 1913.4,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [594.1, 332.6, 34.9, 37.0],
+        "area": 613.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [474.8, 353.5, 25.7, 45.0],
+        "area": 551.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [184.4, 359.7, 36.9, 31.9],
+        "area": 472.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [115.0, 365.4, 26.5, 41.6],
+        "area": 707.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [563.6, 384.4, 26.6, 35.5],
+        "area": 675.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [163.4, 349.2, 28.6, 36.6],
+        "area": 604.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [172.9, 375.8, 60.8, 38.4],
+        "area": 1131.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [245.0, 364.9, 30.7, 30.9],
+        "area": 458.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [301.9, 373.8, 29.1, 32.3],
+        "area": 596.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [310.5, 148.3, 127.8, 251.6],
+        "area": 13586.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [437.6, 79.5, 29.7, 76.6],
+        "area": 1332.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "bench",
+        "supercategory": "outdoor",
+        "bbox": [12.5, 175.5, 514.5, 229.8],
+        "area": 29032.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "cup",
+        "supercategory": "kitchen",
+        "bbox": [375.8, 405.5, 42.5, 21.5],
+        "area": 724.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [230.4, 356.1, 19.9, 30.2],
+        "area": 313.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [374.1, 94.5, 24.6, 13.9],
+        "area": 166.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [46.2, 93.4, 11.9, 30.6],
+        "area": 252.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [464.9, 84.8, 20.2, 39.2],
+        "area": 508.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [118.2, 168.8, 30.0, 57.2],
+        "area": 1072.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "bird",
+        "supercategory": "animal",
+        "bbox": [193, 343, 203, 83],
+        "area": 3025,
+        "iscrowd": 1
+      }
+    ],
+    "object_counts": {
+      "bird": 13,
+      "person": 5,
+      "bench": 1,
+      "cup": 1
+    },
+    "num_objects": 20,
+    "num_categories": 4,
+    "supercategories": ["animal", "kitchen", "outdoor", "person"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 269942,
+    "width": 480,
+    "height": 640,
+    "objects": [
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [92.4, 460.0, 59.4, 48.9],
+        "area": 2248.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [92.4, 452.9, 34.5, 20.1],
+        "area": 234.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [261.5, 257.4, 32.8, 61.5],
+        "area": 940.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [181.7, 157.6, 50.3, 98.6],
+        "area": 4100.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [377.1, 421.9, 7.2, 17.6],
+        "area": 90.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [172.1, 279.2, 26.7, 54.4],
+        "area": 671.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [63.5, 421.7, 10.6, 14.7],
+        "area": 106.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [91.5, 444.9, 7.8, 6.8],
+        "area": 41.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [104.5, 444.8, 7.8, 5.2],
+        "area": 33.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "traffic light",
+        "supercategory": "outdoor",
+        "bbox": [68.5, 391.6, 5.0, 11.3],
+        "area": 42.3,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "car": 4,
+      "traffic light": 6
+    },
+    "num_objects": 10,
+    "num_categories": 2,
+    "supercategories": ["outdoor", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 375469,
+    "width": 640,
+    "height": 181,
+    "objects": [
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [314.1, 74.0, 65.3, 65.3],
+        "area": 1840.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [220.6, 61.9, 81.1, 98.3],
+        "area": 2285.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "surfboard",
+        "supercategory": "sports",
+        "bbox": [236.5, 135.6, 218.0, 32.5],
+        "area": 3553.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "surfboard",
+        "supercategory": "sports",
+        "bbox": [329.1, 123.8, 100.4, 17.7],
+        "area": 470.4,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "person": 2,
+      "surfboard": 2
+    },
+    "num_objects": 4,
+    "num_categories": 2,
+    "supercategories": ["person", "sports"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 57232,
+    "width": 612,
+    "height": 612,
+    "objects": [
+      {
+        "category": "baseball bat",
+        "supercategory": "sports",
+        "bbox": [370.6, 246.0, 215.3, 98.2],
+        "area": 5974.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "baseball bat",
+        "supercategory": "sports",
+        "bbox": [366.5, 290.5, 206.4, 94.3],
+        "area": 5308.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "baseball bat",
+        "supercategory": "sports",
+        "bbox": [390.0, 232.1, 215.6, 87.7],
+        "area": 4827.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "baseball bat",
+        "supercategory": "sports",
+        "bbox": [66.9, 212.5, 354.1, 121.5],
+        "area": 5344.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "baseball bat",
+        "supercategory": "sports",
+        "bbox": [319.7, 421.9, 200.2, 138.2],
+        "area": 5127.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "baseball bat",
+        "supercategory": "sports",
+        "bbox": [327.6, 436.6, 213.6, 157.3],
+        "area": 7694.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "baseball bat",
+        "supercategory": "sports",
+        "bbox": [37.4, 260.6, 239.0, 246.2],
+        "area": 9982.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "baseball bat",
+        "supercategory": "sports",
+        "bbox": [46.2, 6.5, 316.1, 69.3],
+        "area": 6727.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "baseball bat",
+        "supercategory": "sports",
+        "bbox": [73.3, 102.6, 320.1, 76.1],
+        "area": 4541.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "baseball bat",
+        "supercategory": "sports",
+        "bbox": [56.2, 128.8, 353.1, 86.1],
+        "area": 3760.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "vase",
+        "supercategory": "indoor",
+        "bbox": [511.8, 57.6, 70.0, 94.7],
+        "area": 4091.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "baseball bat",
+        "supercategory": "sports",
+        "bbox": [56.6, 37.3, 329.1, 65.2],
+        "area": 8751.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "chair",
+        "supercategory": "furniture",
+        "bbox": [6.4, 14.3, 605.6, 596.1],
+        "area": 250900.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "baseball bat",
+        "supercategory": "sports",
+        "bbox": [373.9, 322.3, 187.0, 93.2],
+        "area": 3307.5,
+        "iscrowd": 0
+      },
+      {
+        "category": "baseball bat",
+        "supercategory": "sports",
+        "bbox": [58.7, 61.8, 340.9, 76.1],
+        "area": 8255.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "baseball bat",
+        "supercategory": "sports",
+        "bbox": [6, 62, 593, 539],
+        "area": 36820,
+        "iscrowd": 1
+      }
+    ],
+    "object_counts": {
+      "baseball bat": 14,
+      "vase": 1,
+      "chair": 1
+    },
+    "num_objects": 16,
+    "num_categories": 3,
+    "supercategories": ["furniture", "indoor", "sports"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 40083,
+    "width": 500,
+    "height": 333,
+    "objects": [
+      {
+        "category": "chair",
+        "supercategory": "furniture",
+        "bbox": [30.4, 205.5, 92.8, 123.3],
+        "area": 4206.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "bicycle",
+        "supercategory": "vehicle",
+        "bbox": [290.3, 162.2, 48.2, 53.0],
+        "area": 1507.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [134.6, 136.2, 118.9, 73.0],
+        "area": 6412.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [223.7, 130.4, 44.5, 58.6],
+        "area": 1258.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [38.1, 111.0, 174.7, 174.7],
+        "area": 11025.2,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [257.8, 139.1, 140.1, 154.2],
+        "area": 10172.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "umbrella",
+        "supercategory": "accessory",
+        "bbox": [62.9, 1.3, 394.4, 110.0],
+        "area": 36328.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [275.2, 126.5, 10.7, 68.3],
+        "area": 491.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "bicycle",
+        "supercategory": "vehicle",
+        "bbox": [125.6, 156.8, 13.0, 27.6],
+        "area": 222.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [270.8, 129.1, 9.7, 14.6],
+        "area": 104.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "bottle",
+        "supercategory": "kitchen",
+        "bbox": [156.6, 281.1, 23.4, 21.6],
+        "area": 279.6,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "chair": 1,
+      "bicycle": 2,
+      "car": 3,
+      "person": 3,
+      "umbrella": 1,
+      "bottle": 1
+    },
+    "num_objects": 11,
+    "num_categories": 6,
+    "supercategories": [
+      "accessory",
+      "furniture",
+      "kitchen",
+      "person",
+      "vehicle"
+    ],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 509403,
+    "width": 640,
+    "height": 427,
+    "objects": [
+      {
+        "category": "dog",
+        "supercategory": "animal",
+        "bbox": [513.5, 212.9, 75.5, 133.8],
+        "area": 3830.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [360.0, 59.4, 120.6, 315.0],
+        "area": 21066.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [175.7, 126.2, 37.3, 107.6],
+        "area": 2212.9,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [40.9, 163.1, 53.0, 129.9],
+        "area": 3344.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "frisbee",
+        "supercategory": "sports",
+        "bbox": [24.5, 221.3, 25.4, 26.6],
+        "area": 459.3,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "dog": 1,
+      "person": 3,
+      "frisbee": 1
+    },
+    "num_objects": 5,
+    "num_categories": 3,
+    "supercategories": ["animal", "person", "sports"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 30828,
+    "width": 640,
+    "height": 427,
+    "objects": [
+      {
+        "category": "parking meter",
+        "supercategory": "outdoor",
+        "bbox": [225.5, 75.5, 69.1, 84.4],
+        "area": 4177.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [181.8, 160.6, 394.3, 104.8],
+        "area": 25200.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "bench",
+        "supercategory": "outdoor",
+        "bbox": [57.7, 156.8, 542.4, 181.8],
+        "area": 24677.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "backpack",
+        "supercategory": "accessory",
+        "bbox": [82.5, 187.1, 150.7, 50.9],
+        "area": 5075.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "car",
+        "supercategory": "vehicle",
+        "bbox": [0.3, 174.8, 20.1, 54.3],
+        "area": 803.0,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "parking meter": 1,
+      "person": 1,
+      "bench": 1,
+      "backpack": 1,
+      "car": 1
+    },
+    "num_objects": 5,
+    "num_categories": 5,
+    "supercategories": ["accessory", "outdoor", "person", "vehicle"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 93261,
+    "width": 500,
+    "height": 375,
+    "objects": [
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [55.9, 33.6, 205.7, 207.4],
+        "area": 24686.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [328.6, 243.5, 171.1, 127.2],
+        "area": 7612.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "kite",
+        "supercategory": "sports",
+        "bbox": [150.7, 112.4, 212.5, 215.9],
+        "area": 11276.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [65.7, 71.8, 198.7, 166.4],
+        "area": 1548.7,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "person": 3,
+      "kite": 1
+    },
+    "num_objects": 4,
+    "num_categories": 2,
+    "supercategories": ["person", "sports"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  },
+  {
+    "image_id": 341719,
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [310.6, 256.7, 51.8, 124.0],
+        "area": 3798.1,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [522.1, 306.0, 76.4, 106.1],
+        "area": 2990.7,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [411.5, 256.1, 8.4, 27.3],
+        "area": 137.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [357.0, 260.0, 15.1, 57.2],
+        "area": 485.3,
+        "iscrowd": 0
+      },
+      {
+        "category": "snowboard",
+        "supercategory": "sports",
+        "bbox": [543.5, 296.5, 46.1, 112.6],
+        "area": 2623.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [374.3, 256.8, 16.0, 55.1],
+        "area": 498.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "skis",
+        "supercategory": "sports",
+        "bbox": [388.9, 305.1, 23.6, 6.8],
+        "area": 74.0,
+        "iscrowd": 0
+      },
+      {
+        "category": "skis",
+        "supercategory": "sports",
+        "bbox": [374.2, 267.8, 7.9, 48.2],
+        "area": 138.8,
+        "iscrowd": 0
+      },
+      {
+        "category": "skis",
+        "supercategory": "sports",
+        "bbox": [294.8, 357.2, 77.8, 27.4],
+        "area": 553.6,
+        "iscrowd": 0
+      },
+      {
+        "category": "person",
+        "supercategory": "person",
+        "bbox": [401.9, 255.9, 11.9, 29.0],
+        "area": 160.8,
+        "iscrowd": 0
+      }
+    ],
+    "object_counts": {
+      "person": 6,
+      "snowboard": 1,
+      "skis": 3
+    },
+    "num_objects": 10,
+    "num_categories": 3,
+    "supercategories": ["person", "sports"],
+    "source": "COCO instances ground-truth annotations (no detector, confidence N/A)"
+  }
+]

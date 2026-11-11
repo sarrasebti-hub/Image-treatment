@@ -1,0 +1,264 @@
+{
+  "status": "OK",
+  "eval_image_ever_retrieved": false,
+  "examples": [
+    {
+      "split": "val_100",
+      "query_image_id": 145073,
+      "top5_images": [
+        {
+          "image_id": 572427,
+          "score": 0.9302
+        },
+        {
+          "image_id": 390685,
+          "score": 0.9222
+        },
+        {
+          "image_id": 420627,
+          "score": 0.9099
+        },
+        {
+          "image_id": 82662,
+          "score": 0.9094
+        },
+        {
+          "image_id": 88652,
+          "score": 0.9093
+        }
+      ],
+      "top3_captions": [
+        {
+          "image_id": 227134,
+          "caption": "A stop sign that has been graffitied to say never stop loving.",
+          "score": 0.335
+        },
+        {
+          "image_id": 575633,
+          "caption": "A STOP sign with the word IT written in graffiti after STOP",
+          "score": 0.3347
+        },
+        {
+          "image_id": 388873,
+          "caption": "Closeup view of a stop sign with a black background.",
+          "score": 0.3345
+        }
+      ]
+    },
+    {
+      "split": "val_100",
+      "query_image_id": 44801,
+      "top5_images": [
+        {
+          "image_id": 332877,
+          "score": 0.8205
+        },
+        {
+          "image_id": 581401,
+          "score": 0.8167
+        },
+        {
+          "image_id": 140197,
+          "score": 0.7972
+        },
+        {
+          "image_id": 331289,
+          "score": 0.7905
+        },
+        {
+          "image_id": 267802,
+          "score": 0.7862
+        }
+      ],
+      "top3_captions": [
+        {
+          "image_id": 312341,
+          "caption": "a motor bike and other cars sit parked at an intersection",
+          "score": 0.3492
+        },
+        {
+          "image_id": 471488,
+          "caption": "An urban street with two motorcyclists, a person and a car.",
+          "score": 0.3478
+        },
+        {
+          "image_id": 110081,
+          "caption": "a group of motorcyclists riding with traffic in the city",
+          "score": 0.3469
+        }
+      ]
+    },
+    {
+      "split": "val_100",
+      "query_image_id": 342649,
+      "top5_images": [
+        {
+          "image_id": 209728,
+          "score": 0.7818
+        },
+        {
+          "image_id": 409088,
+          "score": 0.7433
+        },
+        {
+          "image_id": 205183,
+          "score": 0.7402
+        },
+        {
+          "image_id": 177468,
+          "score": 0.7396
+        },
+        {
+          "image_id": 197191,
+          "score": 0.7367
+        }
+      ],
+      "top3_captions": [
+        {
+          "image_id": 350341,
+          "caption": "A bird is eating bread from a basket on a table.",
+          "score": 0.3235
+        },
+        {
+          "image_id": 527040,
+          "caption": "Two birds perched on a bread basked on a table.",
+          "score": 0.3191
+        },
+        {
+          "image_id": 19783,
+          "caption": "A man feeding a bird a piece of bread",
+          "score": 0.316
+        }
+      ]
+    },
+    {
+      "split": "test_100",
+      "query_image_id": 376856,
+      "top5_images": [
+        {
+          "image_id": 513497,
+          "score": 0.8629
+        },
+        {
+          "image_id": 547106,
+          "score": 0.8344
+        },
+        {
+          "image_id": 418757,
+          "score": 0.833
+        },
+        {
+          "image_id": 471578,
+          "score": 0.832
+        },
+        {
+          "image_id": 498804,
+          "score": 0.8281
+        }
+      ],
+      "top3_captions": [
+        {
+          "image_id": 418757,
+          "caption": "A large church type steeple with a clock surrounded by blue skies.",
+          "score": 0.3394
+        },
+        {
+          "image_id": 535997,
+          "caption": "A picture of a church tower during the day.",
+          "score": 0.3391
+        },
+        {
+          "image_id": 498804,
+          "caption": "A large brick building with a tall tower containing a clock near the top",
+          "score": 0.3329
+        }
+      ]
+    },
+    {
+      "split": "test_100",
+      "query_image_id": 263474,
+      "top5_images": [
+        {
+          "image_id": 431355,
+          "score": 0.8767
+        },
+        {
+          "image_id": 552454,
+          "score": 0.8755
+        },
+        {
+          "image_id": 575946,
+          "score": 0.8715
+        },
+        {
+          "image_id": 213309,
+          "score": 0.8703
+        },
+        {
+          "image_id": 426053,
+          "score": 0.8703
+        }
+      ],
+      "top3_captions": [
+        {
+          "image_id": 257660,
+          "caption": "a bathroom toilet with a carpteted seat cover and floor rug.",
+          "score": 0.3625
+        },
+        {
+          "image_id": 210467,
+          "caption": "A toilet with a faucet mounted on the seat sits in a multicolored tile bathroom.",
+          "score": 0.3529
+        },
+        {
+          "image_id": 294131,
+          "caption": "A toilet is shown with a basket and toilet paper.",
+          "score": 0.3508
+        }
+      ]
+    },
+    {
+      "split": "test_100",
+      "query_image_id": 437392,
+      "top5_images": [
+        {
+          "image_id": 56212,
+          "score": 0.7762
+        },
+        {
+          "image_id": 329534,
+          "score": 0.7685
+        },
+        {
+          "image_id": 120157,
+          "score": 0.7621
+        },
+        {
+          "image_id": 300245,
+          "score": 0.7597
+        },
+        {
+          "image_id": 440299,
+          "score": 0.7585
+        }
+      ],
+      "top3_captions": [
+        {
+          "image_id": 202658,
+          "caption": "A broken toilet bowl with  a Hello Kitty toilet seat cover.",
+          "score": 0.3324
+        },
+        {
+          "image_id": 202658,
+          "caption": "A toilette with a pink hello kitty toilette seat cover.",
+          "score": 0.3293
+        },
+        {
+          "image_id": 24386,
+          "caption": "A woman sitting on top of a toilet with he panties down.",
+          "score": 0.3279
+        }
+      ]
+    }
+  ]
+}

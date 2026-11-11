@@ -1,0 +1,8 @@
+overlap kb_10k & val_100: 0
+overlap kb_10k & test_100: 0
+overlap kb_10k & test_1000: 0
+overlap val_100 & test_100: 0
+overlap val_100 & test_1000: 0
+overlap test_100 & test_1000: 0
+set(indexed_db_ids).isdisjoint(eval_ids): True
+rule: test image never retrieved for itself -> guaranteed, eval images are not in the index

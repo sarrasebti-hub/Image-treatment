@@ -1,0 +1,32 @@
+{
+  "split_sizes": {
+    "kb_10k": 10000,
+    "val_100": 100,
+    "test_100": 100,
+    "test_1000": 1000
+  },
+  "image_embedding_shapes": {
+    "kb_10k": [10000, 512],
+    "val_100": [100, 512],
+    "test_100": [100, 512],
+    "test_1000": [1000, 512]
+  },
+  "shape_alignment_ok": true,
+  "nan_found": {
+    "kb_10k": false,
+    "val_100": false,
+    "test_100": false,
+    "test_1000": false,
+    "kb_text_sbert": false,
+    "kb_text_clip": false
+  },
+  "duplicate_ids": {
+    "kb_10k": 0,
+    "val_100": 0,
+    "test_100": 0,
+    "test_1000": 0
+  },
+  "five_captions_per_image": true,
+  "caption_mismatches_raw_vs_original": 0,
+  "kb_images_without_objects": 219
+}

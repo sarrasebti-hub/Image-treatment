@@ -1,0 +1,6598 @@
+[
+  {
+    "image_id": 376856,
+    "file_name": "000000376856.jpg",
+    "raw_reference_captions": [
+      "a tall church tower with a clock at the top",
+      "a big brick building with a clock at the top",
+      "A clock tower made of brick with vines growing up one side.",
+      "A clock is at the top of a tall brick building. ",
+      "A clock is seen at the top of a very tall building."
+    ],
+    "cleaned_retrieval_captions": [
+      "a tall church tower with a clock at the top",
+      "a big brick building with a clock at the top",
+      "a clock tower made of brick with vines growing up one side.",
+      "a clock is at the top of a tall brick building.",
+      "a clock is seen at the top of a very tall building."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "tall",
+        "church",
+        "tower",
+        "with",
+        "a",
+        "clock",
+        "at",
+        "the",
+        "top"
+      ],
+      [
+        "a",
+        "big",
+        "brick",
+        "building",
+        "with",
+        "a",
+        "clock",
+        "at",
+        "the",
+        "top"
+      ],
+      [
+        "a",
+        "clock",
+        "tower",
+        "made",
+        "of",
+        "brick",
+        "with",
+        "vines",
+        "growing",
+        "up",
+        "one",
+        "side"
+      ],
+      [
+        "a",
+        "clock",
+        "is",
+        "at",
+        "the",
+        "top",
+        "of",
+        "a",
+        "tall",
+        "brick",
+        "building"
+      ],
+      [
+        "a",
+        "clock",
+        "is",
+        "seen",
+        "at",
+        "the",
+        "top",
+        "of",
+        "a",
+        "very",
+        "tall",
+        "building"
+      ]
+    ]
+  },
+  {
+    "image_id": 263474,
+    "file_name": "000000263474.jpg",
+    "raw_reference_captions": [
+      "A bathroom area with a toilet, trashcan and dresser.",
+      "A bathroom toilet seat lid is highly decorated.",
+      "The toilet seat cover is made up of many colors.",
+      "A toilet decorated with a colorful quilted top.",
+      "An ordinary bathroom with a toilet and trash bin."
+    ],
+    "cleaned_retrieval_captions": [
+      "a bathroom area with a toilet, trashcan and dresser.",
+      "a bathroom toilet seat lid is highly decorated.",
+      "the toilet seat cover is made up of many colors.",
+      "a toilet decorated with a colorful quilted top.",
+      "an ordinary bathroom with a toilet and trash bin."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "bathroom",
+        "area",
+        "with",
+        "a",
+        "toilet",
+        "trashcan",
+        "and",
+        "dresser"
+      ],
+      ["a", "bathroom", "toilet", "seat", "lid", "is", "highly", "decorated"],
+      [
+        "the",
+        "toilet",
+        "seat",
+        "cover",
+        "is",
+        "made",
+        "up",
+        "of",
+        "many",
+        "colors"
+      ],
+      ["a", "toilet", "decorated", "with", "a", "colorful", "quilted", "top"],
+      [
+        "an",
+        "ordinary",
+        "bathroom",
+        "with",
+        "a",
+        "toilet",
+        "and",
+        "trash",
+        "bin"
+      ]
+    ]
+  },
+  {
+    "image_id": 437392,
+    "file_name": "000000437392.jpg",
+    "raw_reference_captions": [
+      "A toilet that is decorated like a pink stuffed animal",
+      "A pink monster made out of a toilet seat with googley eyes.",
+      "A pink think with a mop for hair and bulging eyeballs",
+      "A pink, handmade puppet sits on the floor.",
+      "A pink puppet toy with googly eyes on a hanger."
+    ],
+    "cleaned_retrieval_captions": [
+      "a toilet that is decorated like a pink stuffed animal",
+      "a pink monster made out of a toilet seat with googley eyes.",
+      "a pink think with a mop for hair and bulging eyeballs",
+      "a pink, handmade puppet sits on the floor.",
+      "a pink puppet toy with googly eyes on a hanger."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "toilet",
+        "that",
+        "is",
+        "decorated",
+        "like",
+        "a",
+        "pink",
+        "stuffed",
+        "animal"
+      ],
+      [
+        "a",
+        "pink",
+        "monster",
+        "made",
+        "out",
+        "of",
+        "a",
+        "toilet",
+        "seat",
+        "with",
+        "googley",
+        "eyes"
+      ],
+      [
+        "a",
+        "pink",
+        "think",
+        "with",
+        "a",
+        "mop",
+        "for",
+        "hair",
+        "and",
+        "bulging",
+        "eyeballs"
+      ],
+      ["a", "pink", "handmade", "puppet", "sits", "on", "the", "floor"],
+      [
+        "a",
+        "pink",
+        "puppet",
+        "toy",
+        "with",
+        "googly",
+        "eyes",
+        "on",
+        "a",
+        "hanger"
+      ]
+    ]
+  },
+  {
+    "image_id": 161008,
+    "file_name": "000000161008.jpg",
+    "raw_reference_captions": [
+      "A pair of scissors sitting on top of a wooden box.",
+      "An open pair of scissors sitting on a wooden box.",
+      "A pair of scissors sitting on a wooden box on a table.",
+      "A big pair of scissors is on a wooden box.",
+      "a pair of large sheers on top of a box."
+    ],
+    "cleaned_retrieval_captions": [
+      "a pair of scissors sitting on top of a wooden box.",
+      "an open pair of scissors sitting on a wooden box.",
+      "a pair of scissors sitting on a wooden box on a table.",
+      "a big pair of scissors is on a wooden box.",
+      "a pair of large sheers on top of a box."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "pair",
+        "of",
+        "scissors",
+        "sitting",
+        "on",
+        "top",
+        "of",
+        "a",
+        "wooden",
+        "box"
+      ],
+      [
+        "an",
+        "open",
+        "pair",
+        "of",
+        "scissors",
+        "sitting",
+        "on",
+        "a",
+        "wooden",
+        "box"
+      ],
+      [
+        "a",
+        "pair",
+        "of",
+        "scissors",
+        "sitting",
+        "on",
+        "a",
+        "wooden",
+        "box",
+        "on",
+        "a",
+        "table"
+      ],
+      ["a", "big", "pair", "of", "scissors", "is", "on", "a", "wooden", "box"],
+      ["a", "pair", "of", "large", "sheers", "on", "top", "of", "a", "box"]
+    ]
+  },
+  {
+    "image_id": 167240,
+    "file_name": "000000167240.jpg",
+    "raw_reference_captions": [
+      "A vase siting on top of a wooden shelf near a map.",
+      "A blue vase with an orange floral patters sits in front of a map.",
+      "An inlaid vase sitting in front of a map.",
+      "A brightly colored flower vase sits in front of a wall map.",
+      "A vase with red flowers on it next to a map."
+    ],
+    "cleaned_retrieval_captions": [
+      "a vase siting on top of a wooden shelf near a map.",
+      "a blue vase with an orange floral patters sits in front of a map.",
+      "an inlaid vase sitting in front of a map.",
+      "a brightly colored flower vase sits in front of a wall map.",
+      "a vase with red flowers on it next to a map."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "vase",
+        "siting",
+        "on",
+        "top",
+        "of",
+        "a",
+        "wooden",
+        "shelf",
+        "near",
+        "a",
+        "map"
+      ],
+      [
+        "a",
+        "blue",
+        "vase",
+        "with",
+        "an",
+        "orange",
+        "floral",
+        "patters",
+        "sits",
+        "in",
+        "front",
+        "of",
+        "a",
+        "map"
+      ],
+      ["an", "inlaid", "vase", "sitting", "in", "front", "of", "a", "map"],
+      [
+        "a",
+        "brightly",
+        "colored",
+        "flower",
+        "vase",
+        "sits",
+        "in",
+        "front",
+        "of",
+        "a",
+        "wall",
+        "map"
+      ],
+      [
+        "a",
+        "vase",
+        "with",
+        "red",
+        "flowers",
+        "on",
+        "it",
+        "next",
+        "to",
+        "a",
+        "map"
+      ]
+    ]
+  },
+  {
+    "image_id": 206271,
+    "file_name": "000000206271.jpg",
+    "raw_reference_captions": [
+      "The two urinals are on the wall with color tiles. ",
+      "Two urinals in a restroom with multicolored tile.",
+      "A view of a bathroom, with two urinals in it.",
+      "Two wall mounted urinals sitting next to trash cans.",
+      "two urinals near one another with trash cans"
+    ],
+    "cleaned_retrieval_captions": [
+      "the two urinals are on the wall with color tiles.",
+      "two urinals in a restroom with multicolored tile.",
+      "a view of a bathroom, with two urinals in it.",
+      "two wall mounted urinals sitting next to trash cans.",
+      "two urinals near one another with trash cans"
+    ],
+    "retrieval_tokens": [
+      [
+        "the",
+        "two",
+        "urinals",
+        "are",
+        "on",
+        "the",
+        "wall",
+        "with",
+        "color",
+        "tiles"
+      ],
+      ["two", "urinals", "in", "a", "restroom", "with", "multicolored", "tile"],
+      [
+        "a",
+        "view",
+        "of",
+        "a",
+        "bathroom",
+        "with",
+        "two",
+        "urinals",
+        "in",
+        "it"
+      ],
+      [
+        "two",
+        "wall",
+        "mounted",
+        "urinals",
+        "sitting",
+        "next",
+        "to",
+        "trash",
+        "cans"
+      ],
+      ["two", "urinals", "near", "one", "another", "with", "trash", "cans"]
+    ]
+  },
+  {
+    "image_id": 266206,
+    "file_name": "000000266206.jpg",
+    "raw_reference_captions": [
+      "Partially open door leading to a kitchen from a hallway.",
+      "A bathroom with the lights on visible through a slightly ajar door.",
+      "The bathroom door has three panels of frosted glass.",
+      "The open door to the bathroom is shown here.",
+      "Outside shot of a restroom showing the door partially open."
+    ],
+    "cleaned_retrieval_captions": [
+      "partially open door leading to a kitchen from a hallway.",
+      "a bathroom with the lights on visible through a slightly ajar door.",
+      "the bathroom door has three panels of frosted glass.",
+      "the open door to the bathroom is shown here.",
+      "outside shot of a restroom showing the door partially open."
+    ],
+    "retrieval_tokens": [
+      [
+        "partially",
+        "open",
+        "door",
+        "leading",
+        "to",
+        "a",
+        "kitchen",
+        "from",
+        "a",
+        "hallway"
+      ],
+      [
+        "a",
+        "bathroom",
+        "with",
+        "the",
+        "lights",
+        "on",
+        "visible",
+        "through",
+        "a",
+        "slightly",
+        "ajar",
+        "door"
+      ],
+      [
+        "the",
+        "bathroom",
+        "door",
+        "has",
+        "three",
+        "panels",
+        "of",
+        "frosted",
+        "glass"
+      ],
+      ["the", "open", "door", "to", "the", "bathroom", "is", "shown", "here"],
+      [
+        "outside",
+        "shot",
+        "of",
+        "a",
+        "restroom",
+        "showing",
+        "the",
+        "door",
+        "partially",
+        "open"
+      ]
+    ]
+  },
+  {
+    "image_id": 505169,
+    "file_name": "000000505169.jpg",
+    "raw_reference_captions": [
+      "A toilet next to a chain shower stall in a bathroom.",
+      "Stylish circular shower stall, next to a toilet in a compact bathroom.",
+      "a bath room with a stand up shower and a toilet",
+      "A bathroom with a toilet, tiled walls and a chained shower. ",
+      "A blue pained bathroom with a toilet missing the upper half. "
+    ],
+    "cleaned_retrieval_captions": [
+      "a toilet next to a chain shower stall in a bathroom.",
+      "stylish circular shower stall, next to a toilet in a compact bathroom.",
+      "a bath room with a stand up shower and a toilet",
+      "a bathroom with a toilet, tiled walls and a chained shower.",
+      "a blue pained bathroom with a toilet missing the upper half."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "toilet",
+        "next",
+        "to",
+        "a",
+        "chain",
+        "shower",
+        "stall",
+        "in",
+        "a",
+        "bathroom"
+      ],
+      [
+        "stylish",
+        "circular",
+        "shower",
+        "stall",
+        "next",
+        "to",
+        "a",
+        "toilet",
+        "in",
+        "a",
+        "compact",
+        "bathroom"
+      ],
+      [
+        "a",
+        "bath",
+        "room",
+        "with",
+        "a",
+        "stand",
+        "up",
+        "shower",
+        "and",
+        "a",
+        "toilet"
+      ],
+      [
+        "a",
+        "bathroom",
+        "with",
+        "a",
+        "toilet",
+        "tiled",
+        "walls",
+        "and",
+        "a",
+        "chained",
+        "shower"
+      ],
+      [
+        "a",
+        "blue",
+        "pained",
+        "bathroom",
+        "with",
+        "a",
+        "toilet",
+        "missing",
+        "the",
+        "upper",
+        "half"
+      ]
+    ]
+  },
+  {
+    "image_id": 50844,
+    "file_name": "000000050844.jpg",
+    "raw_reference_captions": [
+      "A bed filled with different types of stuffed animals.",
+      "two teddy bears and a stuffed snowman wearing hats",
+      "tHERE ARE SEVERAL STUFFED ANIMALS TOGETHER ON A BED",
+      "A group of three stuffed animals sitting next to each other on a bed.",
+      "a pair of teddy bears laying on a bed"
+    ],
+    "cleaned_retrieval_captions": [
+      "a bed filled with different types of stuffed animals.",
+      "two teddy bears and a stuffed snowman wearing hats",
+      "there are several stuffed animals together on a bed",
+      "a group of three stuffed animals sitting next to each other on a bed.",
+      "a pair of teddy bears laying on a bed"
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "bed",
+        "filled",
+        "with",
+        "different",
+        "types",
+        "of",
+        "stuffed",
+        "animals"
+      ],
+      [
+        "two",
+        "teddy",
+        "bears",
+        "and",
+        "a",
+        "stuffed",
+        "snowman",
+        "wearing",
+        "hats"
+      ],
+      [
+        "there",
+        "are",
+        "several",
+        "stuffed",
+        "animals",
+        "together",
+        "on",
+        "a",
+        "bed"
+      ],
+      [
+        "a",
+        "group",
+        "of",
+        "three",
+        "stuffed",
+        "animals",
+        "sitting",
+        "next",
+        "to",
+        "each",
+        "other",
+        "on",
+        "a",
+        "bed"
+      ],
+      ["a", "pair", "of", "teddy", "bears", "laying", "on", "a", "bed"]
+    ]
+  },
+  {
+    "image_id": 140658,
+    "file_name": "000000140658.jpg",
+    "raw_reference_captions": [
+      "A brick building with a tall clock tower beside it.",
+      "The exterior of a building with a clock.",
+      "A clock on the very top of a building.",
+      "A brick structure with a clock tower in the background.",
+      "A clock tower on top of a church with a weather vein."
+    ],
+    "cleaned_retrieval_captions": [
+      "a brick building with a tall clock tower beside it.",
+      "the exterior of a building with a clock.",
+      "a clock on the very top of a building.",
+      "a brick structure with a clock tower in the background.",
+      "a clock tower on top of a church with a weather vein."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "brick",
+        "building",
+        "with",
+        "a",
+        "tall",
+        "clock",
+        "tower",
+        "beside",
+        "it"
+      ],
+      ["the", "exterior", "of", "a", "building", "with", "a", "clock"],
+      ["a", "clock", "on", "the", "very", "top", "of", "a", "building"],
+      [
+        "a",
+        "brick",
+        "structure",
+        "with",
+        "a",
+        "clock",
+        "tower",
+        "in",
+        "the",
+        "background"
+      ],
+      [
+        "a",
+        "clock",
+        "tower",
+        "on",
+        "top",
+        "of",
+        "a",
+        "church",
+        "with",
+        "a",
+        "weather",
+        "vein"
+      ]
+    ]
+  },
+  {
+    "image_id": 482487,
+    "file_name": "000000482487.jpg",
+    "raw_reference_captions": [
+      "Two small clocks sit behind a glass window.",
+      "Two clocks behind glass reflecting grass and shrubs.",
+      "looking through a window at a small clock and a large one",
+      "A large ornate metal clock rests beside a miniature clock, also, featuring great detail, both of which stand behind a pane of glass that  also shows the view from outside. ",
+      "A clock in a metal frame mounted on a wall."
+    ],
+    "cleaned_retrieval_captions": [
+      "two small clocks sit behind a glass window.",
+      "two clocks behind glass reflecting grass and shrubs.",
+      "looking through a window at a small clock and a large one",
+      "a large ornate metal clock rests beside a miniature clock, also, featuring great detail, both of which stand behind a pane of glass that also shows the view from outside.",
+      "a clock in a metal frame mounted on a wall."
+    ],
+    "retrieval_tokens": [
+      ["two", "small", "clocks", "sit", "behind", "a", "glass", "window"],
+      [
+        "two",
+        "clocks",
+        "behind",
+        "glass",
+        "reflecting",
+        "grass",
+        "and",
+        "shrubs"
+      ],
+      [
+        "looking",
+        "through",
+        "a",
+        "window",
+        "at",
+        "a",
+        "small",
+        "clock",
+        "and",
+        "a",
+        "large",
+        "one"
+      ],
+      [
+        "a",
+        "large",
+        "ornate",
+        "metal",
+        "clock",
+        "rests",
+        "beside",
+        "a",
+        "miniature",
+        "clock",
+        "also",
+        "featuring",
+        "great",
+        "detail",
+        "both",
+        "of",
+        "which",
+        "stand",
+        "behind",
+        "a",
+        "pane",
+        "of",
+        "glass",
+        "that",
+        "also",
+        "shows",
+        "the",
+        "view",
+        "from",
+        "outside"
+      ],
+      ["a", "clock", "in", "a", "metal", "frame", "mounted", "on", "a", "wall"]
+    ]
+  },
+  {
+    "image_id": 521282,
+    "file_name": "000000521282.jpg",
+    "raw_reference_captions": [
+      "A vase filled with yellow and white flowers.",
+      "Flowers neatly arranged in a clear vase filled with water. ",
+      "Vase with a handle containing flowers sitting on table. ",
+      "A close up of a clear vase with flowers.",
+      "clear vase filled with white and yellow flowers with water"
+    ],
+    "cleaned_retrieval_captions": [
+      "a vase filled with yellow and white flowers.",
+      "flowers neatly arranged in a clear vase filled with water.",
+      "vase with a handle containing flowers sitting on table.",
+      "a close up of a clear vase with flowers.",
+      "clear vase filled with white and yellow flowers with water"
+    ],
+    "retrieval_tokens": [
+      ["a", "vase", "filled", "with", "yellow", "and", "white", "flowers"],
+      [
+        "flowers",
+        "neatly",
+        "arranged",
+        "in",
+        "a",
+        "clear",
+        "vase",
+        "filled",
+        "with",
+        "water"
+      ],
+      [
+        "vase",
+        "with",
+        "a",
+        "handle",
+        "containing",
+        "flowers",
+        "sitting",
+        "on",
+        "table"
+      ],
+      ["a", "close", "up", "of", "a", "clear", "vase", "with", "flowers"],
+      [
+        "clear",
+        "vase",
+        "filled",
+        "with",
+        "white",
+        "and",
+        "yellow",
+        "flowers",
+        "with",
+        "water"
+      ]
+    ]
+  },
+  {
+    "image_id": 207538,
+    "file_name": "000000207538.jpg",
+    "raw_reference_captions": [
+      "A white Samsung microwave oven installed into a natural wood kitchen cabinet.",
+      "A white microwave hangs above the oven under cabinets",
+      "a microwave sits built in some cupboards ",
+      "a close up of a microwave attached to a wall",
+      "White microwave oven installed beneath cabinets in kitchens."
+    ],
+    "cleaned_retrieval_captions": [
+      "a white samsung microwave oven installed into a natural wood kitchen cabinet.",
+      "a white microwave hangs above the oven under cabinets",
+      "a microwave sits built in some cupboards",
+      "a close up of a microwave attached to a wall",
+      "white microwave oven installed beneath cabinets in kitchens."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "white",
+        "samsung",
+        "microwave",
+        "oven",
+        "installed",
+        "into",
+        "a",
+        "natural",
+        "wood",
+        "kitchen",
+        "cabinet"
+      ],
+      [
+        "a",
+        "white",
+        "microwave",
+        "hangs",
+        "above",
+        "the",
+        "oven",
+        "under",
+        "cabinets"
+      ],
+      ["a", "microwave", "sits", "built", "in", "some", "cupboards"],
+      [
+        "a",
+        "close",
+        "up",
+        "of",
+        "a",
+        "microwave",
+        "attached",
+        "to",
+        "a",
+        "wall"
+      ],
+      [
+        "white",
+        "microwave",
+        "oven",
+        "installed",
+        "beneath",
+        "cabinets",
+        "in",
+        "kitchens"
+      ]
+    ]
+  },
+  {
+    "image_id": 356968,
+    "file_name": "000000356968.jpg",
+    "raw_reference_captions": [
+      "A brown horse with blonde hair standing in an open field.",
+      "A brown horse walking outside in the grass",
+      "A lone horse walking through a grassy field.",
+      "A brown horse with a white mane is on the grass.",
+      "A single horse trotting around in a field."
+    ],
+    "cleaned_retrieval_captions": [
+      "a brown horse with blonde hair standing in an open field.",
+      "a brown horse walking outside in the grass",
+      "a lone horse walking through a grassy field.",
+      "a brown horse with a white mane is on the grass.",
+      "a single horse trotting around in a field."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "brown",
+        "horse",
+        "with",
+        "blonde",
+        "hair",
+        "standing",
+        "in",
+        "an",
+        "open",
+        "field"
+      ],
+      ["a", "brown", "horse", "walking", "outside", "in", "the", "grass"],
+      ["a", "lone", "horse", "walking", "through", "a", "grassy", "field"],
+      [
+        "a",
+        "brown",
+        "horse",
+        "with",
+        "a",
+        "white",
+        "mane",
+        "is",
+        "on",
+        "the",
+        "grass"
+      ],
+      ["a", "single", "horse", "trotting", "around", "in", "a", "field"]
+    ]
+  },
+  {
+    "image_id": 439522,
+    "file_name": "000000439522.jpg",
+    "raw_reference_captions": [
+      "She is cross-country skiing for the exercise it provides for her.",
+      "The woman using the skies is wearing all black.",
+      "a woman in skies is walking in the snow",
+      "A woman riding skis across snow covered ground.",
+      "A cross country skier listens to music as she glides across the snow."
+    ],
+    "cleaned_retrieval_captions": [
+      "she is cross-country skiing for the exercise it provides for her.",
+      "the woman using the skies is wearing all black.",
+      "a woman in skies is walking in the snow",
+      "a woman riding skis across snow covered ground.",
+      "a cross country skier listens to music as she glides across the snow."
+    ],
+    "retrieval_tokens": [
+      [
+        "she",
+        "is",
+        "cross",
+        "country",
+        "skiing",
+        "for",
+        "the",
+        "exercise",
+        "it",
+        "provides",
+        "for",
+        "her"
+      ],
+      [
+        "the",
+        "woman",
+        "using",
+        "the",
+        "skies",
+        "is",
+        "wearing",
+        "all",
+        "black"
+      ],
+      ["a", "woman", "in", "skies", "is", "walking", "in", "the", "snow"],
+      ["a", "woman", "riding", "skis", "across", "snow", "covered", "ground"],
+      [
+        "a",
+        "cross",
+        "country",
+        "skier",
+        "listens",
+        "to",
+        "music",
+        "as",
+        "she",
+        "glides",
+        "across",
+        "the",
+        "snow"
+      ]
+    ]
+  },
+  {
+    "image_id": 402783,
+    "file_name": "000000402783.jpg",
+    "raw_reference_captions": [
+      "A white plate topped with orange peel slices.",
+      "Several orange wedges sit on a white plate.",
+      "Cut up orange peels on the white plate. ",
+      "Seven pieces of orange peel on a white plate.",
+      "Slices of orange peels on a white plate."
+    ],
+    "cleaned_retrieval_captions": [
+      "a white plate topped with orange peel slices.",
+      "several orange wedges sit on a white plate.",
+      "cut up orange peels on the white plate.",
+      "seven pieces of orange peel on a white plate.",
+      "slices of orange peels on a white plate."
+    ],
+    "retrieval_tokens": [
+      ["a", "white", "plate", "topped", "with", "orange", "peel", "slices"],
+      ["several", "orange", "wedges", "sit", "on", "a", "white", "plate"],
+      ["cut", "up", "orange", "peels", "on", "the", "white", "plate"],
+      ["seven", "pieces", "of", "orange", "peel", "on", "a", "white", "plate"],
+      ["slices", "of", "orange", "peels", "on", "a", "white", "plate"]
+    ]
+  },
+  {
+    "image_id": 579893,
+    "file_name": "000000579893.jpg",
+    "raw_reference_captions": [
+      "A close up of the stop sign and to street signs.",
+      "a close up of a street sign with a sky background",
+      "The stop sign is at a four way intersection. ",
+      "A stop sign located at the intersection of East Village and Woodfield Rd.",
+      "A red stop sign with two green street signs on top of it."
+    ],
+    "cleaned_retrieval_captions": [
+      "a close up of the stop sign and to street signs.",
+      "a close up of a street sign with a sky background",
+      "the stop sign is at a four way intersection.",
+      "a stop sign located at the intersection of east village and woodfield rd.",
+      "a red stop sign with two green street signs on top of it."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "close",
+        "up",
+        "of",
+        "the",
+        "stop",
+        "sign",
+        "and",
+        "to",
+        "street",
+        "signs"
+      ],
+      [
+        "a",
+        "close",
+        "up",
+        "of",
+        "a",
+        "street",
+        "sign",
+        "with",
+        "a",
+        "sky",
+        "background"
+      ],
+      ["the", "stop", "sign", "is", "at", "a", "four", "way", "intersection"],
+      [
+        "a",
+        "stop",
+        "sign",
+        "located",
+        "at",
+        "the",
+        "intersection",
+        "of",
+        "east",
+        "village",
+        "and",
+        "woodfield",
+        "rd"
+      ],
+      [
+        "a",
+        "red",
+        "stop",
+        "sign",
+        "with",
+        "two",
+        "green",
+        "street",
+        "signs",
+        "on",
+        "top",
+        "of",
+        "it"
+      ]
+    ]
+  },
+  {
+    "image_id": 324818,
+    "file_name": "000000324818.jpg",
+    "raw_reference_captions": [
+      "a couple of birds are standing on a branch",
+      "Two multicolored exotic birds perched on a wooden branch with trees and flowers behind them.",
+      "There are two parrots perched on the branch. ",
+      "Two parrots sitting on a branch side by side ",
+      "Two parrots perching on a tree branch in a tropical garden."
+    ],
+    "cleaned_retrieval_captions": [
+      "a couple of birds are standing on a branch",
+      "two multicolored exotic birds perched on a wooden branch with trees and flowers behind them.",
+      "there are two parrots perched on the branch.",
+      "two parrots sitting on a branch side by side",
+      "two parrots perching on a tree branch in a tropical garden."
+    ],
+    "retrieval_tokens": [
+      ["a", "couple", "of", "birds", "are", "standing", "on", "a", "branch"],
+      [
+        "two",
+        "multicolored",
+        "exotic",
+        "birds",
+        "perched",
+        "on",
+        "a",
+        "wooden",
+        "branch",
+        "with",
+        "trees",
+        "and",
+        "flowers",
+        "behind",
+        "them"
+      ],
+      ["there", "are", "two", "parrots", "perched", "on", "the", "branch"],
+      ["two", "parrots", "sitting", "on", "a", "branch", "side", "by", "side"],
+      [
+        "two",
+        "parrots",
+        "perching",
+        "on",
+        "a",
+        "tree",
+        "branch",
+        "in",
+        "a",
+        "tropical",
+        "garden"
+      ]
+    ]
+  },
+  {
+    "image_id": 100489,
+    "file_name": "000000100489.jpg",
+    "raw_reference_captions": [
+      "A bird perched on top of a tree filled with leaves.",
+      "A light blue bird perched on top of a tree branch.",
+      "A blue bird is sitting on a tree branch.",
+      "A bird perches on a tree branch, against a clear blue sky.",
+      "A blue bird sitting on the top of a branch with autumn leaves"
+    ],
+    "cleaned_retrieval_captions": [
+      "a bird perched on top of a tree filled with leaves.",
+      "a light blue bird perched on top of a tree branch.",
+      "a blue bird is sitting on a tree branch.",
+      "a bird perches on a tree branch, against a clear blue sky.",
+      "a blue bird sitting on the top of a branch with autumn leaves"
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "bird",
+        "perched",
+        "on",
+        "top",
+        "of",
+        "a",
+        "tree",
+        "filled",
+        "with",
+        "leaves"
+      ],
+      [
+        "a",
+        "light",
+        "blue",
+        "bird",
+        "perched",
+        "on",
+        "top",
+        "of",
+        "a",
+        "tree",
+        "branch"
+      ],
+      ["a", "blue", "bird", "is", "sitting", "on", "a", "tree", "branch"],
+      [
+        "a",
+        "bird",
+        "perches",
+        "on",
+        "a",
+        "tree",
+        "branch",
+        "against",
+        "a",
+        "clear",
+        "blue",
+        "sky"
+      ],
+      [
+        "a",
+        "blue",
+        "bird",
+        "sitting",
+        "on",
+        "the",
+        "top",
+        "of",
+        "a",
+        "branch",
+        "with",
+        "autumn",
+        "leaves"
+      ]
+    ]
+  },
+  {
+    "image_id": 520301,
+    "file_name": "000000520301.jpg",
+    "raw_reference_captions": [
+      "A brown dog hanging it's head out of a car window.",
+      "A brown dog is looking outside of the car window.",
+      "A brown medium sized dog stares out of a window.",
+      "An open-mouthed, leashed dog has its head outside of an unlocked car door window as a blurry park-like vista rushes by.",
+      "A dog looking out the window of a car."
+    ],
+    "cleaned_retrieval_captions": [
+      "a brown dog hanging it's head out of a car window.",
+      "a brown dog is looking outside of the car window.",
+      "a brown medium sized dog stares out of a window.",
+      "an open-mouthed, leashed dog has its head outside of an unlocked car door window as a blurry park-like vista rushes by.",
+      "a dog looking out the window of a car."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "brown",
+        "dog",
+        "hanging",
+        "it's",
+        "head",
+        "out",
+        "of",
+        "a",
+        "car",
+        "window"
+      ],
+      [
+        "a",
+        "brown",
+        "dog",
+        "is",
+        "looking",
+        "outside",
+        "of",
+        "the",
+        "car",
+        "window"
+      ],
+      [
+        "a",
+        "brown",
+        "medium",
+        "sized",
+        "dog",
+        "stares",
+        "out",
+        "of",
+        "a",
+        "window"
+      ],
+      [
+        "an",
+        "open",
+        "mouthed",
+        "leashed",
+        "dog",
+        "has",
+        "its",
+        "head",
+        "outside",
+        "of",
+        "an",
+        "unlocked",
+        "car",
+        "door",
+        "window",
+        "as",
+        "a",
+        "blurry",
+        "park",
+        "like",
+        "vista",
+        "rushes",
+        "by"
+      ],
+      ["a", "dog", "looking", "out", "the", "window", "of", "a", "car"]
+    ]
+  },
+  {
+    "image_id": 270402,
+    "file_name": "000000270402.jpg",
+    "raw_reference_captions": [
+      "Two gray elephants standing next to each other on a road.",
+      "A couple of elephants are walking around in the dirt",
+      "An elephant trying to reach something on the ground with his trunk.",
+      "Two elephants are standing are standing in an enclosure.",
+      "Two elephants standing in a pen in different spots."
+    ],
+    "cleaned_retrieval_captions": [
+      "two gray elephants standing next to each other on a road.",
+      "a couple of elephants are walking around in the dirt",
+      "an elephant trying to reach something on the ground with his trunk.",
+      "two elephants are standing are standing in an enclosure.",
+      "two elephants standing in a pen in different spots."
+    ],
+    "retrieval_tokens": [
+      [
+        "two",
+        "gray",
+        "elephants",
+        "standing",
+        "next",
+        "to",
+        "each",
+        "other",
+        "on",
+        "a",
+        "road"
+      ],
+      [
+        "a",
+        "couple",
+        "of",
+        "elephants",
+        "are",
+        "walking",
+        "around",
+        "in",
+        "the",
+        "dirt"
+      ],
+      [
+        "an",
+        "elephant",
+        "trying",
+        "to",
+        "reach",
+        "something",
+        "on",
+        "the",
+        "ground",
+        "with",
+        "his",
+        "trunk"
+      ],
+      [
+        "two",
+        "elephants",
+        "are",
+        "standing",
+        "are",
+        "standing",
+        "in",
+        "an",
+        "enclosure"
+      ],
+      [
+        "two",
+        "elephants",
+        "standing",
+        "in",
+        "a",
+        "pen",
+        "in",
+        "different",
+        "spots"
+      ]
+    ]
+  },
+  {
+    "image_id": 15272,
+    "file_name": "000000015272.jpg",
+    "raw_reference_captions": [
+      "A red light is a wonderful contrast to the pink leaves on trees",
+      "A stoplight that has turned red on a road lined with trees that are in bloom.",
+      "A traffic light in front of trees with white blossoms.",
+      "a beautiful red bud tree full of flowers under a stop light ",
+      "A traffic light hanging in front of blossoming trees."
+    ],
+    "cleaned_retrieval_captions": [
+      "a red light is a wonderful contrast to the pink leaves on trees",
+      "a stoplight that has turned red on a road lined with trees that are in bloom.",
+      "a traffic light in front of trees with white blossoms.",
+      "a beautiful red bud tree full of flowers under a stop light",
+      "a traffic light hanging in front of blossoming trees."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "red",
+        "light",
+        "is",
+        "a",
+        "wonderful",
+        "contrast",
+        "to",
+        "the",
+        "pink",
+        "leaves",
+        "on",
+        "trees"
+      ],
+      [
+        "a",
+        "stoplight",
+        "that",
+        "has",
+        "turned",
+        "red",
+        "on",
+        "a",
+        "road",
+        "lined",
+        "with",
+        "trees",
+        "that",
+        "are",
+        "in",
+        "bloom"
+      ],
+      [
+        "a",
+        "traffic",
+        "light",
+        "in",
+        "front",
+        "of",
+        "trees",
+        "with",
+        "white",
+        "blossoms"
+      ],
+      [
+        "a",
+        "beautiful",
+        "red",
+        "bud",
+        "tree",
+        "full",
+        "of",
+        "flowers",
+        "under",
+        "a",
+        "stop",
+        "light"
+      ],
+      [
+        "a",
+        "traffic",
+        "light",
+        "hanging",
+        "in",
+        "front",
+        "of",
+        "blossoming",
+        "trees"
+      ]
+    ]
+  },
+  {
+    "image_id": 466567,
+    "file_name": "000000466567.jpg",
+    "raw_reference_captions": [
+      "A tree with a donut as an ornament",
+      "A plastic tree with a doughnut hanging by a strip of red ribbon. ",
+      "A Christmas ornament is a donut with a squirrel on it.",
+      "A doughnut hanging from a Christmas tree as a decoration.",
+      "a donut being used as an ornament for a chistmas tree\n"
+    ],
+    "cleaned_retrieval_captions": [
+      "a tree with a donut as an ornament",
+      "a plastic tree with a doughnut hanging by a strip of red ribbon.",
+      "a christmas ornament is a donut with a squirrel on it.",
+      "a doughnut hanging from a christmas tree as a decoration.",
+      "a donut being used as an ornament for a chistmas tree"
+    ],
+    "retrieval_tokens": [
+      ["a", "tree", "with", "a", "donut", "as", "an", "ornament"],
+      [
+        "a",
+        "plastic",
+        "tree",
+        "with",
+        "a",
+        "doughnut",
+        "hanging",
+        "by",
+        "a",
+        "strip",
+        "of",
+        "red",
+        "ribbon"
+      ],
+      [
+        "a",
+        "christmas",
+        "ornament",
+        "is",
+        "a",
+        "donut",
+        "with",
+        "a",
+        "squirrel",
+        "on",
+        "it"
+      ],
+      [
+        "a",
+        "doughnut",
+        "hanging",
+        "from",
+        "a",
+        "christmas",
+        "tree",
+        "as",
+        "a",
+        "decoration"
+      ],
+      [
+        "a",
+        "donut",
+        "being",
+        "used",
+        "as",
+        "an",
+        "ornament",
+        "for",
+        "a",
+        "chistmas",
+        "tree"
+      ]
+    ]
+  },
+  {
+    "image_id": 402519,
+    "file_name": "000000402519.jpg",
+    "raw_reference_captions": [
+      "A small yellow bird on a small branch.",
+      "A bird perched on top of a brown tree branch.",
+      "A bird perched on a branch of a tree. ",
+      "A yellow and red bird is sitting in a tree.",
+      "A BRIGHT COLORED BIRD IS SITTING ON A BRANCH OF A FULL TREE"
+    ],
+    "cleaned_retrieval_captions": [
+      "a small yellow bird on a small branch.",
+      "a bird perched on top of a brown tree branch.",
+      "a bird perched on a branch of a tree.",
+      "a yellow and red bird is sitting in a tree.",
+      "a bright colored bird is sitting on a branch of a full tree"
+    ],
+    "retrieval_tokens": [
+      ["a", "small", "yellow", "bird", "on", "a", "small", "branch"],
+      [
+        "a",
+        "bird",
+        "perched",
+        "on",
+        "top",
+        "of",
+        "a",
+        "brown",
+        "tree",
+        "branch"
+      ],
+      ["a", "bird", "perched", "on", "a", "branch", "of", "a", "tree"],
+      ["a", "yellow", "and", "red", "bird", "is", "sitting", "in", "a", "tree"],
+      [
+        "a",
+        "bright",
+        "colored",
+        "bird",
+        "is",
+        "sitting",
+        "on",
+        "a",
+        "branch",
+        "of",
+        "a",
+        "full",
+        "tree"
+      ]
+    ]
+  },
+  {
+    "image_id": 130599,
+    "file_name": "000000130599.jpg",
+    "raw_reference_captions": [
+      "A man punching an innocent giraffe in the side of it's head.",
+      "A young man is playing with a giraffe",
+      "A man pretending to punch a giraffe sculpture.",
+      "A man is miming punching a giraffe statue.",
+      "A man is pretending to hit a statue of a giraffe."
+    ],
+    "cleaned_retrieval_captions": [
+      "a man punching an innocent giraffe in the side of it's head.",
+      "a young man is playing with a giraffe",
+      "a man pretending to punch a giraffe sculpture.",
+      "a man is miming punching a giraffe statue.",
+      "a man is pretending to hit a statue of a giraffe."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "man",
+        "punching",
+        "an",
+        "innocent",
+        "giraffe",
+        "in",
+        "the",
+        "side",
+        "of",
+        "it's",
+        "head"
+      ],
+      ["a", "young", "man", "is", "playing", "with", "a", "giraffe"],
+      ["a", "man", "pretending", "to", "punch", "a", "giraffe", "sculpture"],
+      ["a", "man", "is", "miming", "punching", "a", "giraffe", "statue"],
+      [
+        "a",
+        "man",
+        "is",
+        "pretending",
+        "to",
+        "hit",
+        "a",
+        "statue",
+        "of",
+        "a",
+        "giraffe"
+      ]
+    ]
+  },
+  {
+    "image_id": 140420,
+    "file_name": "000000140420.jpg",
+    "raw_reference_captions": [
+      "A motorcycle is parked on a dirt road in a forest.",
+      "A loan bike sits by itself on a dirt road on a bend in a wooded area",
+      "A motorcycle is parked on a tree lined dirt road.",
+      "Motorcycle on a dirt road by a stream and trees.",
+      "A motorcycle is parked on a gravel road in a forest by a stream."
+    ],
+    "cleaned_retrieval_captions": [
+      "a motorcycle is parked on a dirt road in a forest.",
+      "a loan bike sits by itself on a dirt road on a bend in a wooded area",
+      "a motorcycle is parked on a tree lined dirt road.",
+      "motorcycle on a dirt road by a stream and trees.",
+      "a motorcycle is parked on a gravel road in a forest by a stream."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "motorcycle",
+        "is",
+        "parked",
+        "on",
+        "a",
+        "dirt",
+        "road",
+        "in",
+        "a",
+        "forest"
+      ],
+      [
+        "a",
+        "loan",
+        "bike",
+        "sits",
+        "by",
+        "itself",
+        "on",
+        "a",
+        "dirt",
+        "road",
+        "on",
+        "a",
+        "bend",
+        "in",
+        "a",
+        "wooded",
+        "area"
+      ],
+      [
+        "a",
+        "motorcycle",
+        "is",
+        "parked",
+        "on",
+        "a",
+        "tree",
+        "lined",
+        "dirt",
+        "road"
+      ],
+      [
+        "motorcycle",
+        "on",
+        "a",
+        "dirt",
+        "road",
+        "by",
+        "a",
+        "stream",
+        "and",
+        "trees"
+      ],
+      [
+        "a",
+        "motorcycle",
+        "is",
+        "parked",
+        "on",
+        "a",
+        "gravel",
+        "road",
+        "in",
+        "a",
+        "forest",
+        "by",
+        "a",
+        "stream"
+      ]
+    ]
+  },
+  {
+    "image_id": 450686,
+    "file_name": "000000450686.jpg",
+    "raw_reference_captions": [
+      "A hand holding a smart phone with apps on a screen.",
+      "A person's hand holding up an active smartphone.",
+      "A hand holds an iPhone displaying various applications. ",
+      "The hand is holding an iPhone for the picture.",
+      "a left hand holding onto a black smart ohone"
+    ],
+    "cleaned_retrieval_captions": [
+      "a hand holding a smart phone with apps on a screen.",
+      "a person's hand holding up an active smartphone.",
+      "a hand holds an iphone displaying various applications.",
+      "the hand is holding an iphone for the picture.",
+      "a left hand holding onto a black smart ohone"
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "hand",
+        "holding",
+        "a",
+        "smart",
+        "phone",
+        "with",
+        "apps",
+        "on",
+        "a",
+        "screen"
+      ],
+      ["a", "person's", "hand", "holding", "up", "an", "active", "smartphone"],
+      [
+        "a",
+        "hand",
+        "holds",
+        "an",
+        "iphone",
+        "displaying",
+        "various",
+        "applications"
+      ],
+      ["the", "hand", "is", "holding", "an", "iphone", "for", "the", "picture"],
+      ["a", "left", "hand", "holding", "onto", "a", "black", "smart", "ohone"]
+    ]
+  },
+  {
+    "image_id": 324614,
+    "file_name": "000000324614.jpg",
+    "raw_reference_captions": [
+      "Young lady, wearing a black dress, brushing her teeth.",
+      "Asian woman hiding her face while brushing her teeth.",
+      "A smiling asian woman is brushing her teeth.",
+      "A girl brushing her teeth holding up her other hand trying to shield from the camera.",
+      "a woman looking a mirror whiile brushing her teeth "
+    ],
+    "cleaned_retrieval_captions": [
+      "young lady, wearing a black dress, brushing her teeth.",
+      "asian woman hiding her face while brushing her teeth.",
+      "a smiling asian woman is brushing her teeth.",
+      "a girl brushing her teeth holding up her other hand trying to shield from the camera.",
+      "a woman looking a mirror whiile brushing her teeth"
+    ],
+    "retrieval_tokens": [
+      [
+        "young",
+        "lady",
+        "wearing",
+        "a",
+        "black",
+        "dress",
+        "brushing",
+        "her",
+        "teeth"
+      ],
+      [
+        "asian",
+        "woman",
+        "hiding",
+        "her",
+        "face",
+        "while",
+        "brushing",
+        "her",
+        "teeth"
+      ],
+      ["a", "smiling", "asian", "woman", "is", "brushing", "her", "teeth"],
+      [
+        "a",
+        "girl",
+        "brushing",
+        "her",
+        "teeth",
+        "holding",
+        "up",
+        "her",
+        "other",
+        "hand",
+        "trying",
+        "to",
+        "shield",
+        "from",
+        "the",
+        "camera"
+      ],
+      [
+        "a",
+        "woman",
+        "looking",
+        "a",
+        "mirror",
+        "whiile",
+        "brushing",
+        "her",
+        "teeth"
+      ]
+    ]
+  },
+  {
+    "image_id": 129113,
+    "file_name": "000000129113.jpg",
+    "raw_reference_captions": [
+      "a burnt tea spoon sits on a wooden surface ",
+      "a big spoon that is laying on a table",
+      "An old corroded spoon setting on a bamboo mat.",
+      "a close up of a spoon on a wooden surface ",
+      "A large dark colored spoon sitting on a rack"
+    ],
+    "cleaned_retrieval_captions": [
+      "a burnt tea spoon sits on a wooden surface",
+      "a big spoon that is laying on a table",
+      "an old corroded spoon setting on a bamboo mat.",
+      "a close up of a spoon on a wooden surface",
+      "a large dark colored spoon sitting on a rack"
+    ],
+    "retrieval_tokens": [
+      ["a", "burnt", "tea", "spoon", "sits", "on", "a", "wooden", "surface"],
+      ["a", "big", "spoon", "that", "is", "laying", "on", "a", "table"],
+      ["an", "old", "corroded", "spoon", "setting", "on", "a", "bamboo", "mat"],
+      ["a", "close", "up", "of", "a", "spoon", "on", "a", "wooden", "surface"],
+      ["a", "large", "dark", "colored", "spoon", "sitting", "on", "a", "rack"]
+    ]
+  },
+  {
+    "image_id": 343706,
+    "file_name": "000000343706.jpg",
+    "raw_reference_captions": [
+      "A woman holding her cell phone tucked in a wool cover.",
+      "A cell phone fits snugly in a crocheted phone case.",
+      "A woman has crocheted case for her iPhone. ",
+      "A woman's hand holding a crocheted iPhone cover.",
+      "It is winter, and this young woman wearing her cold weaterh coat also has her Smartphone in a handknitted sleeve."
+    ],
+    "cleaned_retrieval_captions": [
+      "a woman holding her cell phone tucked in a wool cover.",
+      "a cell phone fits snugly in a crocheted phone case.",
+      "a woman has crocheted case for her iphone.",
+      "a woman's hand holding a crocheted iphone cover.",
+      "it is winter, and this young woman wearing her cold weaterh coat also has her smartphone in a handknitted sleeve."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "woman",
+        "holding",
+        "her",
+        "cell",
+        "phone",
+        "tucked",
+        "in",
+        "a",
+        "wool",
+        "cover"
+      ],
+      [
+        "a",
+        "cell",
+        "phone",
+        "fits",
+        "snugly",
+        "in",
+        "a",
+        "crocheted",
+        "phone",
+        "case"
+      ],
+      ["a", "woman", "has", "crocheted", "case", "for", "her", "iphone"],
+      ["a", "woman's", "hand", "holding", "a", "crocheted", "iphone", "cover"],
+      [
+        "it",
+        "is",
+        "winter",
+        "and",
+        "this",
+        "young",
+        "woman",
+        "wearing",
+        "her",
+        "cold",
+        "weaterh",
+        "coat",
+        "also",
+        "has",
+        "her",
+        "smartphone",
+        "in",
+        "a",
+        "handknitted",
+        "sleeve"
+      ]
+    ]
+  },
+  {
+    "image_id": 194746,
+    "file_name": "000000194746.jpg",
+    "raw_reference_captions": [
+      "A pizza covered in cheese dripping down onto the bottom of an oven burning.",
+      "The pizza is beginning to melt in the oven.",
+      "There is a pizza in the oven that has melted onto the bottom.",
+      "A pizza in an oven that had a lot of cheese melted off of it.",
+      "a food being cooked in an oven that has overflown "
+    ],
+    "cleaned_retrieval_captions": [
+      "a pizza covered in cheese dripping down onto the bottom of an oven burning.",
+      "the pizza is beginning to melt in the oven.",
+      "there is a pizza in the oven that has melted onto the bottom.",
+      "a pizza in an oven that had a lot of cheese melted off of it.",
+      "a food being cooked in an oven that has overflown"
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "pizza",
+        "covered",
+        "in",
+        "cheese",
+        "dripping",
+        "down",
+        "onto",
+        "the",
+        "bottom",
+        "of",
+        "an",
+        "oven",
+        "burning"
+      ],
+      ["the", "pizza", "is", "beginning", "to", "melt", "in", "the", "oven"],
+      [
+        "there",
+        "is",
+        "a",
+        "pizza",
+        "in",
+        "the",
+        "oven",
+        "that",
+        "has",
+        "melted",
+        "onto",
+        "the",
+        "bottom"
+      ],
+      [
+        "a",
+        "pizza",
+        "in",
+        "an",
+        "oven",
+        "that",
+        "had",
+        "a",
+        "lot",
+        "of",
+        "cheese",
+        "melted",
+        "off",
+        "of",
+        "it"
+      ],
+      [
+        "a",
+        "food",
+        "being",
+        "cooked",
+        "in",
+        "an",
+        "oven",
+        "that",
+        "has",
+        "overflown"
+      ]
+    ]
+  },
+  {
+    "image_id": 342186,
+    "file_name": "000000342186.jpg",
+    "raw_reference_captions": [
+      "A closeup of a pizza on a plate. ",
+      "A pizza that is sitting on a plate, on a table.",
+      "A pizza with toppings served on a plate",
+      "A very tasty looking pizza with some toppings.",
+      "A veggie pizza is sitting on a white plate."
+    ],
+    "cleaned_retrieval_captions": [
+      "a closeup of a pizza on a plate.",
+      "a pizza that is sitting on a plate, on a table.",
+      "a pizza with toppings served on a plate",
+      "a very tasty looking pizza with some toppings.",
+      "a veggie pizza is sitting on a white plate."
+    ],
+    "retrieval_tokens": [
+      ["a", "closeup", "of", "a", "pizza", "on", "a", "plate"],
+      [
+        "a",
+        "pizza",
+        "that",
+        "is",
+        "sitting",
+        "on",
+        "a",
+        "plate",
+        "on",
+        "a",
+        "table"
+      ],
+      ["a", "pizza", "with", "toppings", "served", "on", "a", "plate"],
+      ["a", "very", "tasty", "looking", "pizza", "with", "some", "toppings"],
+      ["a", "veggie", "pizza", "is", "sitting", "on", "a", "white", "plate"]
+    ]
+  },
+  {
+    "image_id": 13004,
+    "file_name": "000000013004.jpg",
+    "raw_reference_captions": [
+      "a banana is laying on a small plate",
+      "A banana that is sitting on a plate.",
+      "A banana sitting next to a dollop of butterscotch.",
+      "A white plate topped with a banana and pudding.",
+      "A peeled banana and sauce on a plate."
+    ],
+    "cleaned_retrieval_captions": [
+      "a banana is laying on a small plate",
+      "a banana that is sitting on a plate.",
+      "a banana sitting next to a dollop of butterscotch.",
+      "a white plate topped with a banana and pudding.",
+      "a peeled banana and sauce on a plate."
+    ],
+    "retrieval_tokens": [
+      ["a", "banana", "is", "laying", "on", "a", "small", "plate"],
+      ["a", "banana", "that", "is", "sitting", "on", "a", "plate"],
+      [
+        "a",
+        "banana",
+        "sitting",
+        "next",
+        "to",
+        "a",
+        "dollop",
+        "of",
+        "butterscotch"
+      ],
+      [
+        "a",
+        "white",
+        "plate",
+        "topped",
+        "with",
+        "a",
+        "banana",
+        "and",
+        "pudding"
+      ],
+      ["a", "peeled", "banana", "and", "sauce", "on", "a", "plate"]
+    ]
+  },
+  {
+    "image_id": 84431,
+    "file_name": "000000084431.jpg",
+    "raw_reference_captions": [
+      "A slice of pizza sitting on top of a white plate.",
+      "A slice of pizza with toppings on a plate. ",
+      "A piece of pizza sitting on a plate while a t.v. is on. ",
+      "a single slice of pizza with ham slices on it  on a plate",
+      "A ham pizza with grated parmesan is on a plate in front of a TV."
+    ],
+    "cleaned_retrieval_captions": [
+      "a slice of pizza sitting on top of a white plate.",
+      "a slice of pizza with toppings on a plate.",
+      "a piece of pizza sitting on a plate while a t.v. is on.",
+      "a single slice of pizza with ham slices on it on a plate",
+      "a ham pizza with grated parmesan is on a plate in front of a tv."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "slice",
+        "of",
+        "pizza",
+        "sitting",
+        "on",
+        "top",
+        "of",
+        "a",
+        "white",
+        "plate"
+      ],
+      ["a", "slice", "of", "pizza", "with", "toppings", "on", "a", "plate"],
+      [
+        "a",
+        "piece",
+        "of",
+        "pizza",
+        "sitting",
+        "on",
+        "a",
+        "plate",
+        "while",
+        "a",
+        "t",
+        "v",
+        "is",
+        "on"
+      ],
+      [
+        "a",
+        "single",
+        "slice",
+        "of",
+        "pizza",
+        "with",
+        "ham",
+        "slices",
+        "on",
+        "it",
+        "on",
+        "a",
+        "plate"
+      ],
+      [
+        "a",
+        "ham",
+        "pizza",
+        "with",
+        "grated",
+        "parmesan",
+        "is",
+        "on",
+        "a",
+        "plate",
+        "in",
+        "front",
+        "of",
+        "a",
+        "tv"
+      ]
+    ]
+  },
+  {
+    "image_id": 403353,
+    "file_name": "000000403353.jpg",
+    "raw_reference_captions": [
+      "A lamp sitting next to a small bed with a book on top of it.",
+      "A lamp shining light on a bed with a book on it.",
+      "A book sitting on a bed with a lamp next to it",
+      "Bedside with lamp, large bound book, and humidifier. ",
+      "A bedroom with a book on the bed "
+    ],
+    "cleaned_retrieval_captions": [
+      "a lamp sitting next to a small bed with a book on top of it.",
+      "a lamp shining light on a bed with a book on it.",
+      "a book sitting on a bed with a lamp next to it",
+      "bedside with lamp, large bound book, and humidifier.",
+      "a bedroom with a book on the bed"
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "lamp",
+        "sitting",
+        "next",
+        "to",
+        "a",
+        "small",
+        "bed",
+        "with",
+        "a",
+        "book",
+        "on",
+        "top",
+        "of",
+        "it"
+      ],
+      [
+        "a",
+        "lamp",
+        "shining",
+        "light",
+        "on",
+        "a",
+        "bed",
+        "with",
+        "a",
+        "book",
+        "on",
+        "it"
+      ],
+      [
+        "a",
+        "book",
+        "sitting",
+        "on",
+        "a",
+        "bed",
+        "with",
+        "a",
+        "lamp",
+        "next",
+        "to",
+        "it"
+      ],
+      [
+        "bedside",
+        "with",
+        "lamp",
+        "large",
+        "bound",
+        "book",
+        "and",
+        "humidifier"
+      ],
+      ["a", "bedroom", "with", "a", "book", "on", "the", "bed"]
+    ]
+  },
+  {
+    "image_id": 322944,
+    "file_name": "000000322944.jpg",
+    "raw_reference_captions": [
+      "A woman with a badly bruised face holding a stuffed animal.",
+      "An injured woman holding a teddy bear close to her chest",
+      "A beat up girl holding a teddy bear.",
+      "a woman is hugging a stuffed mouse close to herself",
+      "A young woman with bruised face and bloody now holding a stuffed animal mouse in her arms."
+    ],
+    "cleaned_retrieval_captions": [
+      "a woman with a badly bruised face holding a stuffed animal.",
+      "an injured woman holding a teddy bear close to her chest",
+      "a beat up girl holding a teddy bear.",
+      "a woman is hugging a stuffed mouse close to herself",
+      "a young woman with bruised face and bloody now holding a stuffed animal mouse in her arms."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "woman",
+        "with",
+        "a",
+        "badly",
+        "bruised",
+        "face",
+        "holding",
+        "a",
+        "stuffed",
+        "animal"
+      ],
+      [
+        "an",
+        "injured",
+        "woman",
+        "holding",
+        "a",
+        "teddy",
+        "bear",
+        "close",
+        "to",
+        "her",
+        "chest"
+      ],
+      ["a", "beat", "up", "girl", "holding", "a", "teddy", "bear"],
+      [
+        "a",
+        "woman",
+        "is",
+        "hugging",
+        "a",
+        "stuffed",
+        "mouse",
+        "close",
+        "to",
+        "herself"
+      ],
+      [
+        "a",
+        "young",
+        "woman",
+        "with",
+        "bruised",
+        "face",
+        "and",
+        "bloody",
+        "now",
+        "holding",
+        "a",
+        "stuffed",
+        "animal",
+        "mouse",
+        "in",
+        "her",
+        "arms"
+      ]
+    ]
+  },
+  {
+    "image_id": 351096,
+    "file_name": "000000351096.jpg",
+    "raw_reference_captions": [
+      "A hand holding a pair of giant scissors above boxes.",
+      "A giant pair of scissors sitting on top of camera boxes.",
+      "A pair of scissors near a camera and some other devices.",
+      "An oversized pair of scissors are held by a hand.",
+      "a close up of a person holding large wooden scissors"
+    ],
+    "cleaned_retrieval_captions": [
+      "a hand holding a pair of giant scissors above boxes.",
+      "a giant pair of scissors sitting on top of camera boxes.",
+      "a pair of scissors near a camera and some other devices.",
+      "an oversized pair of scissors are held by a hand.",
+      "a close up of a person holding large wooden scissors"
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "hand",
+        "holding",
+        "a",
+        "pair",
+        "of",
+        "giant",
+        "scissors",
+        "above",
+        "boxes"
+      ],
+      [
+        "a",
+        "giant",
+        "pair",
+        "of",
+        "scissors",
+        "sitting",
+        "on",
+        "top",
+        "of",
+        "camera",
+        "boxes"
+      ],
+      [
+        "a",
+        "pair",
+        "of",
+        "scissors",
+        "near",
+        "a",
+        "camera",
+        "and",
+        "some",
+        "other",
+        "devices"
+      ],
+      [
+        "an",
+        "oversized",
+        "pair",
+        "of",
+        "scissors",
+        "are",
+        "held",
+        "by",
+        "a",
+        "hand"
+      ],
+      [
+        "a",
+        "close",
+        "up",
+        "of",
+        "a",
+        "person",
+        "holding",
+        "large",
+        "wooden",
+        "scissors"
+      ]
+    ]
+  },
+  {
+    "image_id": 243199,
+    "file_name": "000000243199.jpg",
+    "raw_reference_captions": [
+      "An open laptop computer sitting on top of a bed.",
+      "A laptop computer sitting on a quilt comforter on a bed.",
+      "A laptop sitting on a bed near a window",
+      "Bedroom scene of bed with laptop computer on the side.",
+      "A plaid comforter with a laptop sitting on it."
+    ],
+    "cleaned_retrieval_captions": [
+      "an open laptop computer sitting on top of a bed.",
+      "a laptop computer sitting on a quilt comforter on a bed.",
+      "a laptop sitting on a bed near a window",
+      "bedroom scene of bed with laptop computer on the side.",
+      "a plaid comforter with a laptop sitting on it."
+    ],
+    "retrieval_tokens": [
+      [
+        "an",
+        "open",
+        "laptop",
+        "computer",
+        "sitting",
+        "on",
+        "top",
+        "of",
+        "a",
+        "bed"
+      ],
+      [
+        "a",
+        "laptop",
+        "computer",
+        "sitting",
+        "on",
+        "a",
+        "quilt",
+        "comforter",
+        "on",
+        "a",
+        "bed"
+      ],
+      ["a", "laptop", "sitting", "on", "a", "bed", "near", "a", "window"],
+      [
+        "bedroom",
+        "scene",
+        "of",
+        "bed",
+        "with",
+        "laptop",
+        "computer",
+        "on",
+        "the",
+        "side"
+      ],
+      ["a", "plaid", "comforter", "with", "a", "laptop", "sitting", "on", "it"]
+    ]
+  },
+  {
+    "image_id": 69795,
+    "file_name": "000000069795.jpg",
+    "raw_reference_captions": [
+      "A purple flower is in a watering can on the window sill.",
+      "An old watering can used as a window sill planter.",
+      "Lavender flowers are in flower pot on a windowsill. ",
+      "a watering can for a vase of purple flowers",
+      "Lilacs in a blue watering can vase sitting outdoors on a ledge."
+    ],
+    "cleaned_retrieval_captions": [
+      "a purple flower is in a watering can on the window sill.",
+      "an old watering can used as a window sill planter.",
+      "lavender flowers are in flower pot on a windowsill.",
+      "a watering can for a vase of purple flowers",
+      "lilacs in a blue watering can vase sitting outdoors on a ledge."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "purple",
+        "flower",
+        "is",
+        "in",
+        "a",
+        "watering",
+        "can",
+        "on",
+        "the",
+        "window",
+        "sill"
+      ],
+      [
+        "an",
+        "old",
+        "watering",
+        "can",
+        "used",
+        "as",
+        "a",
+        "window",
+        "sill",
+        "planter"
+      ],
+      [
+        "lavender",
+        "flowers",
+        "are",
+        "in",
+        "flower",
+        "pot",
+        "on",
+        "a",
+        "windowsill"
+      ],
+      ["a", "watering", "can", "for", "a", "vase", "of", "purple", "flowers"],
+      [
+        "lilacs",
+        "in",
+        "a",
+        "blue",
+        "watering",
+        "can",
+        "vase",
+        "sitting",
+        "outdoors",
+        "on",
+        "a",
+        "ledge"
+      ]
+    ]
+  },
+  {
+    "image_id": 102356,
+    "file_name": "000000102356.jpg",
+    "raw_reference_captions": [
+      "Woman on a motorcycle with a sidecar in front of scenic backdrop in a showroom.",
+      "A woman riding a green motorcycle with a side car.",
+      "A picture of a women sitting on a motorcycle with a side car with a desert background of hills.  ",
+      "a woman sits on a motor bike with a cart extended ",
+      "A woman sits on a motorcycle with a sidecar."
+    ],
+    "cleaned_retrieval_captions": [
+      "woman on a motorcycle with a sidecar in front of scenic backdrop in a showroom.",
+      "a woman riding a green motorcycle with a side car.",
+      "a picture of a women sitting on a motorcycle with a side car with a desert background of hills.",
+      "a woman sits on a motor bike with a cart extended",
+      "a woman sits on a motorcycle with a sidecar."
+    ],
+    "retrieval_tokens": [
+      [
+        "woman",
+        "on",
+        "a",
+        "motorcycle",
+        "with",
+        "a",
+        "sidecar",
+        "in",
+        "front",
+        "of",
+        "scenic",
+        "backdrop",
+        "in",
+        "a",
+        "showroom"
+      ],
+      [
+        "a",
+        "woman",
+        "riding",
+        "a",
+        "green",
+        "motorcycle",
+        "with",
+        "a",
+        "side",
+        "car"
+      ],
+      [
+        "a",
+        "picture",
+        "of",
+        "a",
+        "women",
+        "sitting",
+        "on",
+        "a",
+        "motorcycle",
+        "with",
+        "a",
+        "side",
+        "car",
+        "with",
+        "a",
+        "desert",
+        "background",
+        "of",
+        "hills"
+      ],
+      [
+        "a",
+        "woman",
+        "sits",
+        "on",
+        "a",
+        "motor",
+        "bike",
+        "with",
+        "a",
+        "cart",
+        "extended"
+      ],
+      ["a", "woman", "sits", "on", "a", "motorcycle", "with", "a", "sidecar"]
+    ]
+  },
+  {
+    "image_id": 416330,
+    "file_name": "000000416330.jpg",
+    "raw_reference_captions": [
+      "The cat is laying down squashing one side of its face.",
+      "A black and white cat lies on a bed and relaxes",
+      "A black and white cat is lazily laying around.",
+      "A closeup of a black and white cat with one eye open. ",
+      "A photo of a cat laying down on a blanket."
+    ],
+    "cleaned_retrieval_captions": [
+      "the cat is laying down squashing one side of its face.",
+      "a black and white cat lies on a bed and relaxes",
+      "a black and white cat is lazily laying around.",
+      "a closeup of a black and white cat with one eye open.",
+      "a photo of a cat laying down on a blanket."
+    ],
+    "retrieval_tokens": [
+      [
+        "the",
+        "cat",
+        "is",
+        "laying",
+        "down",
+        "squashing",
+        "one",
+        "side",
+        "of",
+        "its",
+        "face"
+      ],
+      [
+        "a",
+        "black",
+        "and",
+        "white",
+        "cat",
+        "lies",
+        "on",
+        "a",
+        "bed",
+        "and",
+        "relaxes"
+      ],
+      ["a", "black", "and", "white", "cat", "is", "lazily", "laying", "around"],
+      [
+        "a",
+        "closeup",
+        "of",
+        "a",
+        "black",
+        "and",
+        "white",
+        "cat",
+        "with",
+        "one",
+        "eye",
+        "open"
+      ],
+      ["a", "photo", "of", "a", "cat", "laying", "down", "on", "a", "blanket"]
+    ]
+  },
+  {
+    "image_id": 193429,
+    "file_name": "000000193429.jpg",
+    "raw_reference_captions": [
+      "Man sitting in snow with snowboard attached to shoes. ",
+      "A man sitting down with a snowboard strapped on",
+      "A snow boarder sits in the snow looking at the camera. ",
+      "A male snowboarder sits with his board on a snowy hill.",
+      "A man sits in the snow with a snowboard still on his feet."
+    ],
+    "cleaned_retrieval_captions": [
+      "man sitting in snow with snowboard attached to shoes.",
+      "a man sitting down with a snowboard strapped on",
+      "a snow boarder sits in the snow looking at the camera.",
+      "a male snowboarder sits with his board on a snowy hill.",
+      "a man sits in the snow with a snowboard still on his feet."
+    ],
+    "retrieval_tokens": [
+      [
+        "man",
+        "sitting",
+        "in",
+        "snow",
+        "with",
+        "snowboard",
+        "attached",
+        "to",
+        "shoes"
+      ],
+      [
+        "a",
+        "man",
+        "sitting",
+        "down",
+        "with",
+        "a",
+        "snowboard",
+        "strapped",
+        "on"
+      ],
+      [
+        "a",
+        "snow",
+        "boarder",
+        "sits",
+        "in",
+        "the",
+        "snow",
+        "looking",
+        "at",
+        "the",
+        "camera"
+      ],
+      [
+        "a",
+        "male",
+        "snowboarder",
+        "sits",
+        "with",
+        "his",
+        "board",
+        "on",
+        "a",
+        "snowy",
+        "hill"
+      ],
+      [
+        "a",
+        "man",
+        "sits",
+        "in",
+        "the",
+        "snow",
+        "with",
+        "a",
+        "snowboard",
+        "still",
+        "on",
+        "his",
+        "feet"
+      ]
+    ]
+  },
+  {
+    "image_id": 115898,
+    "file_name": "000000115898.jpg",
+    "raw_reference_captions": [
+      "A man in black wetsuit on white surfboard riding wave.",
+      "A man surfing rocking waves in the water.",
+      "A man is on his surfboard in the water. ",
+      "A surfer is on the water and is waiting for a wave. ",
+      "A man riding a surfboard in the water."
+    ],
+    "cleaned_retrieval_captions": [
+      "a man in black wetsuit on white surfboard riding wave.",
+      "a man surfing rocking waves in the water.",
+      "a man is on his surfboard in the water.",
+      "a surfer is on the water and is waiting for a wave.",
+      "a man riding a surfboard in the water."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "man",
+        "in",
+        "black",
+        "wetsuit",
+        "on",
+        "white",
+        "surfboard",
+        "riding",
+        "wave"
+      ],
+      ["a", "man", "surfing", "rocking", "waves", "in", "the", "water"],
+      ["a", "man", "is", "on", "his", "surfboard", "in", "the", "water"],
+      [
+        "a",
+        "surfer",
+        "is",
+        "on",
+        "the",
+        "water",
+        "and",
+        "is",
+        "waiting",
+        "for",
+        "a",
+        "wave"
+      ],
+      ["a", "man", "riding", "a", "surfboard", "in", "the", "water"]
+    ]
+  },
+  {
+    "image_id": 328337,
+    "file_name": "000000328337.jpg",
+    "raw_reference_captions": [
+      "A little boy wearing a red shirt holding a white frisbee.",
+      "A boy prepares to throw a frisbee to someone out of the shot.",
+      "young male preparing to throw a white plastic Frisbee",
+      "Young boy almost ready to throw a frisbee.",
+      "A boy preparing to throw a frisbee outside."
+    ],
+    "cleaned_retrieval_captions": [
+      "a little boy wearing a red shirt holding a white frisbee.",
+      "a boy prepares to throw a frisbee to someone out of the shot.",
+      "young male preparing to throw a white plastic frisbee",
+      "young boy almost ready to throw a frisbee.",
+      "a boy preparing to throw a frisbee outside."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "little",
+        "boy",
+        "wearing",
+        "a",
+        "red",
+        "shirt",
+        "holding",
+        "a",
+        "white",
+        "frisbee"
+      ],
+      [
+        "a",
+        "boy",
+        "prepares",
+        "to",
+        "throw",
+        "a",
+        "frisbee",
+        "to",
+        "someone",
+        "out",
+        "of",
+        "the",
+        "shot"
+      ],
+      [
+        "young",
+        "male",
+        "preparing",
+        "to",
+        "throw",
+        "a",
+        "white",
+        "plastic",
+        "frisbee"
+      ],
+      ["young", "boy", "almost", "ready", "to", "throw", "a", "frisbee"],
+      ["a", "boy", "preparing", "to", "throw", "a", "frisbee", "outside"]
+    ]
+  },
+  {
+    "image_id": 212226,
+    "file_name": "000000212226.jpg",
+    "raw_reference_captions": [
+      "A person in a the reflection of a truck mirror.",
+      "A reflection of a woman driving a truck.",
+      "The reflection of a women in a mirror.",
+      "A girl sitting in a truck is reflected in a mirror. ",
+      "Women worker looking at rear view mirror smiling"
+    ],
+    "cleaned_retrieval_captions": [
+      "a person in a the reflection of a truck mirror.",
+      "a reflection of a woman driving a truck.",
+      "the reflection of a women in a mirror.",
+      "a girl sitting in a truck is reflected in a mirror.",
+      "women worker looking at rear view mirror smiling"
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "person",
+        "in",
+        "a",
+        "the",
+        "reflection",
+        "of",
+        "a",
+        "truck",
+        "mirror"
+      ],
+      ["a", "reflection", "of", "a", "woman", "driving", "a", "truck"],
+      ["the", "reflection", "of", "a", "women", "in", "a", "mirror"],
+      [
+        "a",
+        "girl",
+        "sitting",
+        "in",
+        "a",
+        "truck",
+        "is",
+        "reflected",
+        "in",
+        "a",
+        "mirror"
+      ],
+      ["women", "worker", "looking", "at", "rear", "view", "mirror", "smiling"]
+    ]
+  },
+  {
+    "image_id": 292908,
+    "file_name": "000000292908.jpg",
+    "raw_reference_captions": [
+      "A man is surfing on a wave in the ocean.",
+      "a person riding a surf board on a wave",
+      "A lone surfer trying to ride a small wave.",
+      "A person on a surfboard riding a wave in the ocean.",
+      "there is a surfer at the beach riding waves in the ocean"
+    ],
+    "cleaned_retrieval_captions": [
+      "a man is surfing on a wave in the ocean.",
+      "a person riding a surf board on a wave",
+      "a lone surfer trying to ride a small wave.",
+      "a person on a surfboard riding a wave in the ocean.",
+      "there is a surfer at the beach riding waves in the ocean"
+    ],
+    "retrieval_tokens": [
+      ["a", "man", "is", "surfing", "on", "a", "wave", "in", "the", "ocean"],
+      ["a", "person", "riding", "a", "surf", "board", "on", "a", "wave"],
+      ["a", "lone", "surfer", "trying", "to", "ride", "a", "small", "wave"],
+      [
+        "a",
+        "person",
+        "on",
+        "a",
+        "surfboard",
+        "riding",
+        "a",
+        "wave",
+        "in",
+        "the",
+        "ocean"
+      ],
+      [
+        "there",
+        "is",
+        "a",
+        "surfer",
+        "at",
+        "the",
+        "beach",
+        "riding",
+        "waves",
+        "in",
+        "the",
+        "ocean"
+      ]
+    ]
+  },
+  {
+    "image_id": 270908,
+    "file_name": "000000270908.jpg",
+    "raw_reference_captions": [
+      "A man laying on top of a tennis court while holding a tennis racquet.",
+      "This is an image of a man laying down with a tennis racket.",
+      "The player lies extended on a tennis court.",
+      "There is a tennis player laying down on the court",
+      "A male tennis player lays on the ground"
+    ],
+    "cleaned_retrieval_captions": [
+      "a man laying on top of a tennis court while holding a tennis racquet.",
+      "this is an image of a man laying down with a tennis racket.",
+      "the player lies extended on a tennis court.",
+      "there is a tennis player laying down on the court",
+      "a male tennis player lays on the ground"
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "man",
+        "laying",
+        "on",
+        "top",
+        "of",
+        "a",
+        "tennis",
+        "court",
+        "while",
+        "holding",
+        "a",
+        "tennis",
+        "racquet"
+      ],
+      [
+        "this",
+        "is",
+        "an",
+        "image",
+        "of",
+        "a",
+        "man",
+        "laying",
+        "down",
+        "with",
+        "a",
+        "tennis",
+        "racket"
+      ],
+      ["the", "player", "lies", "extended", "on", "a", "tennis", "court"],
+      [
+        "there",
+        "is",
+        "a",
+        "tennis",
+        "player",
+        "laying",
+        "down",
+        "on",
+        "the",
+        "court"
+      ],
+      ["a", "male", "tennis", "player", "lays", "on", "the", "ground"]
+    ]
+  },
+  {
+    "image_id": 546829,
+    "file_name": "000000546829.jpg",
+    "raw_reference_captions": [
+      "A small white dog on a wooden bench.",
+      "Cute white fluffy dog standing on an old wooden bench",
+      "A little white dog is standing on a bench.",
+      "A white dog is sitting on a wooden bench",
+      "A small white dog stands on a wooden bench."
+    ],
+    "cleaned_retrieval_captions": [
+      "a small white dog on a wooden bench.",
+      "cute white fluffy dog standing on an old wooden bench",
+      "a little white dog is standing on a bench.",
+      "a white dog is sitting on a wooden bench",
+      "a small white dog stands on a wooden bench."
+    ],
+    "retrieval_tokens": [
+      ["a", "small", "white", "dog", "on", "a", "wooden", "bench"],
+      [
+        "cute",
+        "white",
+        "fluffy",
+        "dog",
+        "standing",
+        "on",
+        "an",
+        "old",
+        "wooden",
+        "bench"
+      ],
+      ["a", "little", "white", "dog", "is", "standing", "on", "a", "bench"],
+      ["a", "white", "dog", "is", "sitting", "on", "a", "wooden", "bench"],
+      ["a", "small", "white", "dog", "stands", "on", "a", "wooden", "bench"]
+    ]
+  },
+  {
+    "image_id": 120572,
+    "file_name": "000000120572.jpg",
+    "raw_reference_captions": [
+      "A long stone wall at a church with a cemetary.",
+      "There is a church near a cemetary. ",
+      "A wall is surrounding a graveyard at a cemetery.",
+      "a old looking tower that has a clock on it",
+      "An old gothic church next to a cemetery with a rock fence in front."
+    ],
+    "cleaned_retrieval_captions": [
+      "a long stone wall at a church with a cemetary.",
+      "there is a church near a cemetary.",
+      "a wall is surrounding a graveyard at a cemetery.",
+      "a old looking tower that has a clock on it",
+      "an old gothic church next to a cemetery with a rock fence in front."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "long",
+        "stone",
+        "wall",
+        "at",
+        "a",
+        "church",
+        "with",
+        "a",
+        "cemetary"
+      ],
+      ["there", "is", "a", "church", "near", "a", "cemetary"],
+      [
+        "a",
+        "wall",
+        "is",
+        "surrounding",
+        "a",
+        "graveyard",
+        "at",
+        "a",
+        "cemetery"
+      ],
+      ["a", "old", "looking", "tower", "that", "has", "a", "clock", "on", "it"],
+      [
+        "an",
+        "old",
+        "gothic",
+        "church",
+        "next",
+        "to",
+        "a",
+        "cemetery",
+        "with",
+        "a",
+        "rock",
+        "fence",
+        "in",
+        "front"
+      ]
+    ]
+  },
+  {
+    "image_id": 80671,
+    "file_name": "000000080671.jpg",
+    "raw_reference_captions": [
+      "A person is trying to ski down a snowy slope.",
+      "The woman is learning how to ski on the snow.",
+      "A child is bent over on skis in the snow.",
+      "someone that has some skiies on in the snow",
+      "A woman touching her skis going down a ski hill."
+    ],
+    "cleaned_retrieval_captions": [
+      "a person is trying to ski down a snowy slope.",
+      "the woman is learning how to ski on the snow.",
+      "a child is bent over on skis in the snow.",
+      "someone that has some skiies on in the snow",
+      "a woman touching her skis going down a ski hill."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "person",
+        "is",
+        "trying",
+        "to",
+        "ski",
+        "down",
+        "a",
+        "snowy",
+        "slope"
+      ],
+      [
+        "the",
+        "woman",
+        "is",
+        "learning",
+        "how",
+        "to",
+        "ski",
+        "on",
+        "the",
+        "snow"
+      ],
+      ["a", "child", "is", "bent", "over", "on", "skis", "in", "the", "snow"],
+      ["someone", "that", "has", "some", "skiies", "on", "in", "the", "snow"],
+      [
+        "a",
+        "woman",
+        "touching",
+        "her",
+        "skis",
+        "going",
+        "down",
+        "a",
+        "ski",
+        "hill"
+      ]
+    ]
+  },
+  {
+    "image_id": 297595,
+    "file_name": "000000297595.jpg",
+    "raw_reference_captions": [
+      "A person on a surfboard is surfing on a crashing wave.",
+      "A surfer is riding on a surfboard against a wave",
+      "a single person riding a big wave with a surfboard ",
+      "A person in a black wetsuit surfing on a wave alone",
+      "The surfers is surfing against a high wave."
+    ],
+    "cleaned_retrieval_captions": [
+      "a person on a surfboard is surfing on a crashing wave.",
+      "a surfer is riding on a surfboard against a wave",
+      "a single person riding a big wave with a surfboard",
+      "a person in a black wetsuit surfing on a wave alone",
+      "the surfers is surfing against a high wave."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "person",
+        "on",
+        "a",
+        "surfboard",
+        "is",
+        "surfing",
+        "on",
+        "a",
+        "crashing",
+        "wave"
+      ],
+      [
+        "a",
+        "surfer",
+        "is",
+        "riding",
+        "on",
+        "a",
+        "surfboard",
+        "against",
+        "a",
+        "wave"
+      ],
+      [
+        "a",
+        "single",
+        "person",
+        "riding",
+        "a",
+        "big",
+        "wave",
+        "with",
+        "a",
+        "surfboard"
+      ],
+      [
+        "a",
+        "person",
+        "in",
+        "a",
+        "black",
+        "wetsuit",
+        "surfing",
+        "on",
+        "a",
+        "wave",
+        "alone"
+      ],
+      ["the", "surfers", "is", "surfing", "against", "a", "high", "wave"]
+    ]
+  },
+  {
+    "image_id": 252507,
+    "file_name": "000000252507.jpg",
+    "raw_reference_captions": [
+      "A cross country skier on the slopes on a sunny day",
+      "A man riding skis across a snow covered slope.",
+      "A skier about to head down the slope.",
+      "A skier posing on a snowy ski slope.",
+      "a man on skis standing on a snowy terrain "
+    ],
+    "cleaned_retrieval_captions": [
+      "a cross country skier on the slopes on a sunny day",
+      "a man riding skis across a snow covered slope.",
+      "a skier about to head down the slope.",
+      "a skier posing on a snowy ski slope.",
+      "a man on skis standing on a snowy terrain"
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "cross",
+        "country",
+        "skier",
+        "on",
+        "the",
+        "slopes",
+        "on",
+        "a",
+        "sunny",
+        "day"
+      ],
+      ["a", "man", "riding", "skis", "across", "a", "snow", "covered", "slope"],
+      ["a", "skier", "about", "to", "head", "down", "the", "slope"],
+      ["a", "skier", "posing", "on", "a", "snowy", "ski", "slope"],
+      ["a", "man", "on", "skis", "standing", "on", "a", "snowy", "terrain"]
+    ]
+  },
+  {
+    "image_id": 377670,
+    "file_name": "000000377670.jpg",
+    "raw_reference_captions": [
+      "Teddy bears are re-enacting soldiers on the beach with others looking on.",
+      "toys on a beach made to look like he military ",
+      "A group of teddy bears are dressed in army outfits.",
+      "A set up to look like D-Day but with teddy bears.",
+      "A bunch of teddy bears posed to look like a D-day scene."
+    ],
+    "cleaned_retrieval_captions": [
+      "teddy bears are re-enacting soldiers on the beach with others looking on.",
+      "toys on a beach made to look like he military",
+      "a group of teddy bears are dressed in army outfits.",
+      "a set up to look like d-day but with teddy bears.",
+      "a bunch of teddy bears posed to look like a d-day scene."
+    ],
+    "retrieval_tokens": [
+      [
+        "teddy",
+        "bears",
+        "are",
+        "re",
+        "enacting",
+        "soldiers",
+        "on",
+        "the",
+        "beach",
+        "with",
+        "others",
+        "looking",
+        "on"
+      ],
+      [
+        "toys",
+        "on",
+        "a",
+        "beach",
+        "made",
+        "to",
+        "look",
+        "like",
+        "he",
+        "military"
+      ],
+      [
+        "a",
+        "group",
+        "of",
+        "teddy",
+        "bears",
+        "are",
+        "dressed",
+        "in",
+        "army",
+        "outfits"
+      ],
+      [
+        "a",
+        "set",
+        "up",
+        "to",
+        "look",
+        "like",
+        "d",
+        "day",
+        "but",
+        "with",
+        "teddy",
+        "bears"
+      ],
+      [
+        "a",
+        "bunch",
+        "of",
+        "teddy",
+        "bears",
+        "posed",
+        "to",
+        "look",
+        "like",
+        "a",
+        "d",
+        "day",
+        "scene"
+      ]
+    ]
+  },
+  {
+    "image_id": 464689,
+    "file_name": "000000464689.jpg",
+    "raw_reference_captions": [
+      "A picture of the entrance to an old house.",
+      "the front door to the house is open ",
+      "a building that has some stairs out front",
+      "these stairs are leading up to an open door",
+      "Concrete stairs lead to the double doors of the house."
+    ],
+    "cleaned_retrieval_captions": [
+      "a picture of the entrance to an old house.",
+      "the front door to the house is open",
+      "a building that has some stairs out front",
+      "these stairs are leading up to an open door",
+      "concrete stairs lead to the double doors of the house."
+    ],
+    "retrieval_tokens": [
+      ["a", "picture", "of", "the", "entrance", "to", "an", "old", "house"],
+      ["the", "front", "door", "to", "the", "house", "is", "open"],
+      ["a", "building", "that", "has", "some", "stairs", "out", "front"],
+      ["these", "stairs", "are", "leading", "up", "to", "an", "open", "door"],
+      [
+        "concrete",
+        "stairs",
+        "lead",
+        "to",
+        "the",
+        "double",
+        "doors",
+        "of",
+        "the",
+        "house"
+      ]
+    ]
+  },
+  {
+    "image_id": 370900,
+    "file_name": "000000370900.jpg",
+    "raw_reference_captions": [
+      "A group of white teddy bears on a white table.",
+      "four small teddy bears with tiaras and bows",
+      "A group of teddy bears with princess crowns on.",
+      "a stuffed bear with others wearing crowns ",
+      "Four stuffed bears have crowns on their heads."
+    ],
+    "cleaned_retrieval_captions": [
+      "a group of white teddy bears on a white table.",
+      "four small teddy bears with tiaras and bows",
+      "a group of teddy bears with princess crowns on.",
+      "a stuffed bear with others wearing crowns",
+      "four stuffed bears have crowns on their heads."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "group",
+        "of",
+        "white",
+        "teddy",
+        "bears",
+        "on",
+        "a",
+        "white",
+        "table"
+      ],
+      ["four", "small", "teddy", "bears", "with", "tiaras", "and", "bows"],
+      [
+        "a",
+        "group",
+        "of",
+        "teddy",
+        "bears",
+        "with",
+        "princess",
+        "crowns",
+        "on"
+      ],
+      ["a", "stuffed", "bear", "with", "others", "wearing", "crowns"],
+      ["four", "stuffed", "bears", "have", "crowns", "on", "their", "heads"]
+    ]
+  },
+  {
+    "image_id": 519522,
+    "file_name": "000000519522.jpg",
+    "raw_reference_captions": [
+      "a large tower that has a big clock at top",
+      "The Big Ben clock tower towering over the city of London.",
+      "a lit up clock is on a tall tower",
+      "A clock tower on top of a tall historic building.",
+      "Clock tower next to a large building in a city."
+    ],
+    "cleaned_retrieval_captions": [
+      "a large tower that has a big clock at top",
+      "the big ben clock tower towering over the city of london.",
+      "a lit up clock is on a tall tower",
+      "a clock tower on top of a tall historic building.",
+      "clock tower next to a large building in a city."
+    ],
+    "retrieval_tokens": [
+      ["a", "large", "tower", "that", "has", "a", "big", "clock", "at", "top"],
+      [
+        "the",
+        "big",
+        "ben",
+        "clock",
+        "tower",
+        "towering",
+        "over",
+        "the",
+        "city",
+        "of",
+        "london"
+      ],
+      ["a", "lit", "up", "clock", "is", "on", "a", "tall", "tower"],
+      [
+        "a",
+        "clock",
+        "tower",
+        "on",
+        "top",
+        "of",
+        "a",
+        "tall",
+        "historic",
+        "building"
+      ],
+      [
+        "clock",
+        "tower",
+        "next",
+        "to",
+        "a",
+        "large",
+        "building",
+        "in",
+        "a",
+        "city"
+      ]
+    ]
+  },
+  {
+    "image_id": 458054,
+    "file_name": "000000458054.jpg",
+    "raw_reference_captions": [
+      "A row of white toilets sitting on top of a dirt ground.",
+      "A bunch of dirty looking white toilets in a row outside.",
+      "There is a row of used and broken toilets in a field.",
+      "A row of toilets with broken seat tops on the ground.",
+      "LOTS OF BROKEN TOILETS SITTING OUT ON A LAWN"
+    ],
+    "cleaned_retrieval_captions": [
+      "a row of white toilets sitting on top of a dirt ground.",
+      "a bunch of dirty looking white toilets in a row outside.",
+      "there is a row of used and broken toilets in a field.",
+      "a row of toilets with broken seat tops on the ground.",
+      "lots of broken toilets sitting out on a lawn"
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "row",
+        "of",
+        "white",
+        "toilets",
+        "sitting",
+        "on",
+        "top",
+        "of",
+        "a",
+        "dirt",
+        "ground"
+      ],
+      [
+        "a",
+        "bunch",
+        "of",
+        "dirty",
+        "looking",
+        "white",
+        "toilets",
+        "in",
+        "a",
+        "row",
+        "outside"
+      ],
+      [
+        "there",
+        "is",
+        "a",
+        "row",
+        "of",
+        "used",
+        "and",
+        "broken",
+        "toilets",
+        "in",
+        "a",
+        "field"
+      ],
+      [
+        "a",
+        "row",
+        "of",
+        "toilets",
+        "with",
+        "broken",
+        "seat",
+        "tops",
+        "on",
+        "the",
+        "ground"
+      ],
+      ["lots", "of", "broken", "toilets", "sitting", "out", "on", "a", "lawn"]
+    ]
+  },
+  {
+    "image_id": 334977,
+    "file_name": "000000334977.jpg",
+    "raw_reference_captions": [
+      "A smart phone at different angles with windows.",
+      "A pink smartphone with Windows 8 on the screen.  ",
+      "Various angle shots of the Nokia Windows cell phone",
+      "A new nokia phone has the features to muti-task",
+      "We are looking at multiple views of a windows phone."
+    ],
+    "cleaned_retrieval_captions": [
+      "a smart phone at different angles with windows.",
+      "a pink smartphone with windows 8 on the screen.",
+      "various angle shots of the nokia windows cell phone",
+      "a new nokia phone has the features to muti-task",
+      "we are looking at multiple views of a windows phone."
+    ],
+    "retrieval_tokens": [
+      ["a", "smart", "phone", "at", "different", "angles", "with", "windows"],
+      [
+        "a",
+        "pink",
+        "smartphone",
+        "with",
+        "windows",
+        "8",
+        "on",
+        "the",
+        "screen"
+      ],
+      [
+        "various",
+        "angle",
+        "shots",
+        "of",
+        "the",
+        "nokia",
+        "windows",
+        "cell",
+        "phone"
+      ],
+      [
+        "a",
+        "new",
+        "nokia",
+        "phone",
+        "has",
+        "the",
+        "features",
+        "to",
+        "muti",
+        "task"
+      ],
+      [
+        "we",
+        "are",
+        "looking",
+        "at",
+        "multiple",
+        "views",
+        "of",
+        "a",
+        "windows",
+        "phone"
+      ]
+    ]
+  },
+  {
+    "image_id": 348045,
+    "file_name": "000000348045.jpg",
+    "raw_reference_captions": [
+      "Three white urinals mounted to a bathroom wall.",
+      "Three urinals each have small signs posted above them.",
+      "Three urinals are displayed with sings above them.",
+      "Urinals with signs hanging over them in a restroom.",
+      "A view of a bunch of urinals with stickers above them."
+    ],
+    "cleaned_retrieval_captions": [
+      "three white urinals mounted to a bathroom wall.",
+      "three urinals each have small signs posted above them.",
+      "three urinals are displayed with sings above them.",
+      "urinals with signs hanging over them in a restroom.",
+      "a view of a bunch of urinals with stickers above them."
+    ],
+    "retrieval_tokens": [
+      ["three", "white", "urinals", "mounted", "to", "a", "bathroom", "wall"],
+      [
+        "three",
+        "urinals",
+        "each",
+        "have",
+        "small",
+        "signs",
+        "posted",
+        "above",
+        "them"
+      ],
+      [
+        "three",
+        "urinals",
+        "are",
+        "displayed",
+        "with",
+        "sings",
+        "above",
+        "them"
+      ],
+      [
+        "urinals",
+        "with",
+        "signs",
+        "hanging",
+        "over",
+        "them",
+        "in",
+        "a",
+        "restroom"
+      ],
+      [
+        "a",
+        "view",
+        "of",
+        "a",
+        "bunch",
+        "of",
+        "urinals",
+        "with",
+        "stickers",
+        "above",
+        "them"
+      ]
+    ]
+  },
+  {
+    "image_id": 218362,
+    "file_name": "000000218362.jpg",
+    "raw_reference_captions": [
+      "A large digital clock mounted to a wall.",
+      "A wall displaying an assorted collection of different clocks.",
+      "A wall with several different clocks hanging from it with a mirror next to them.",
+      "Multiple time pieces displayed on the wall and on a flat surface.",
+      "A wall with several different clocks on it, in both traditional and modern styles"
+    ],
+    "cleaned_retrieval_captions": [
+      "a large digital clock mounted to a wall.",
+      "a wall displaying an assorted collection of different clocks.",
+      "a wall with several different clocks hanging from it with a mirror next to them.",
+      "multiple time pieces displayed on the wall and on a flat surface.",
+      "a wall with several different clocks on it, in both traditional and modern styles"
+    ],
+    "retrieval_tokens": [
+      ["a", "large", "digital", "clock", "mounted", "to", "a", "wall"],
+      [
+        "a",
+        "wall",
+        "displaying",
+        "an",
+        "assorted",
+        "collection",
+        "of",
+        "different",
+        "clocks"
+      ],
+      [
+        "a",
+        "wall",
+        "with",
+        "several",
+        "different",
+        "clocks",
+        "hanging",
+        "from",
+        "it",
+        "with",
+        "a",
+        "mirror",
+        "next",
+        "to",
+        "them"
+      ],
+      [
+        "multiple",
+        "time",
+        "pieces",
+        "displayed",
+        "on",
+        "the",
+        "wall",
+        "and",
+        "on",
+        "a",
+        "flat",
+        "surface"
+      ],
+      [
+        "a",
+        "wall",
+        "with",
+        "several",
+        "different",
+        "clocks",
+        "on",
+        "it",
+        "in",
+        "both",
+        "traditional",
+        "and",
+        "modern",
+        "styles"
+      ]
+    ]
+  },
+  {
+    "image_id": 370042,
+    "file_name": "000000370042.jpg",
+    "raw_reference_captions": [
+      "Large assortment of small and large vases displayed outdoors.",
+      "A pile of clay and gold vases sitting in a yard.",
+      "there are many vases on the ground in the street",
+      "There are many vases on display outside the building.",
+      "A bunch of pottery sitting on a sidewalk "
+    ],
+    "cleaned_retrieval_captions": [
+      "large assortment of small and large vases displayed outdoors.",
+      "a pile of clay and gold vases sitting in a yard.",
+      "there are many vases on the ground in the street",
+      "there are many vases on display outside the building.",
+      "a bunch of pottery sitting on a sidewalk"
+    ],
+    "retrieval_tokens": [
+      [
+        "large",
+        "assortment",
+        "of",
+        "small",
+        "and",
+        "large",
+        "vases",
+        "displayed",
+        "outdoors"
+      ],
+      [
+        "a",
+        "pile",
+        "of",
+        "clay",
+        "and",
+        "gold",
+        "vases",
+        "sitting",
+        "in",
+        "a",
+        "yard"
+      ],
+      [
+        "there",
+        "are",
+        "many",
+        "vases",
+        "on",
+        "the",
+        "ground",
+        "in",
+        "the",
+        "street"
+      ],
+      [
+        "there",
+        "are",
+        "many",
+        "vases",
+        "on",
+        "display",
+        "outside",
+        "the",
+        "building"
+      ],
+      ["a", "bunch", "of", "pottery", "sitting", "on", "a", "sidewalk"]
+    ]
+  },
+  {
+    "image_id": 97585,
+    "file_name": "000000097585.jpg",
+    "raw_reference_captions": [
+      "A wall with different types of decorations of art pieces. ",
+      "A mosaic of vases hung on a wall.",
+      "Assorted vases hanging on a wall next to each other.",
+      "Glass is hanging on the white wall all bunched together.",
+      "a white wall displaying art that look like vases"
+    ],
+    "cleaned_retrieval_captions": [
+      "a wall with different types of decorations of art pieces.",
+      "a mosaic of vases hung on a wall.",
+      "assorted vases hanging on a wall next to each other.",
+      "glass is hanging on the white wall all bunched together.",
+      "a white wall displaying art that look like vases"
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "wall",
+        "with",
+        "different",
+        "types",
+        "of",
+        "decorations",
+        "of",
+        "art",
+        "pieces"
+      ],
+      ["a", "mosaic", "of", "vases", "hung", "on", "a", "wall"],
+      [
+        "assorted",
+        "vases",
+        "hanging",
+        "on",
+        "a",
+        "wall",
+        "next",
+        "to",
+        "each",
+        "other"
+      ],
+      [
+        "glass",
+        "is",
+        "hanging",
+        "on",
+        "the",
+        "white",
+        "wall",
+        "all",
+        "bunched",
+        "together"
+      ],
+      [
+        "a",
+        "white",
+        "wall",
+        "displaying",
+        "art",
+        "that",
+        "look",
+        "like",
+        "vases"
+      ]
+    ]
+  },
+  {
+    "image_id": 75393,
+    "file_name": "000000075393.jpg",
+    "raw_reference_captions": [
+      "A table topped with wooden combs and plastic display cases.",
+      "A display case of three different wooden combs.",
+      "Carefully sculpted pieces of wood in a display case.",
+      "Some wooden objects and beads in a display case.",
+      "some large wooden forks and other items on display"
+    ],
+    "cleaned_retrieval_captions": [
+      "a table topped with wooden combs and plastic display cases.",
+      "a display case of three different wooden combs.",
+      "carefully sculpted pieces of wood in a display case.",
+      "some wooden objects and beads in a display case.",
+      "some large wooden forks and other items on display"
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "table",
+        "topped",
+        "with",
+        "wooden",
+        "combs",
+        "and",
+        "plastic",
+        "display",
+        "cases"
+      ],
+      ["a", "display", "case", "of", "three", "different", "wooden", "combs"],
+      [
+        "carefully",
+        "sculpted",
+        "pieces",
+        "of",
+        "wood",
+        "in",
+        "a",
+        "display",
+        "case"
+      ],
+      [
+        "some",
+        "wooden",
+        "objects",
+        "and",
+        "beads",
+        "in",
+        "a",
+        "display",
+        "case"
+      ],
+      [
+        "some",
+        "large",
+        "wooden",
+        "forks",
+        "and",
+        "other",
+        "items",
+        "on",
+        "display"
+      ]
+    ]
+  },
+  {
+    "image_id": 172083,
+    "file_name": "000000172083.jpg",
+    "raw_reference_captions": [
+      "Counter top inside a house designed with different colors. ",
+      "A very colorful vanity in a public restroom.",
+      "Fancy designed sink in a bathroom with stained glass window pattern",
+      "a really cool bathroom counter with bright colors",
+      "A public restroom has been redone to resemble a party."
+    ],
+    "cleaned_retrieval_captions": [
+      "counter top inside a house designed with different colors.",
+      "a very colorful vanity in a public restroom.",
+      "fancy designed sink in a bathroom with stained glass window pattern",
+      "a really cool bathroom counter with bright colors",
+      "a public restroom has been redone to resemble a party."
+    ],
+    "retrieval_tokens": [
+      [
+        "counter",
+        "top",
+        "inside",
+        "a",
+        "house",
+        "designed",
+        "with",
+        "different",
+        "colors"
+      ],
+      ["a", "very", "colorful", "vanity", "in", "a", "public", "restroom"],
+      [
+        "fancy",
+        "designed",
+        "sink",
+        "in",
+        "a",
+        "bathroom",
+        "with",
+        "stained",
+        "glass",
+        "window",
+        "pattern"
+      ],
+      [
+        "a",
+        "really",
+        "cool",
+        "bathroom",
+        "counter",
+        "with",
+        "bright",
+        "colors"
+      ],
+      [
+        "a",
+        "public",
+        "restroom",
+        "has",
+        "been",
+        "redone",
+        "to",
+        "resemble",
+        "a",
+        "party"
+      ]
+    ]
+  },
+  {
+    "image_id": 447313,
+    "file_name": "000000447313.jpg",
+    "raw_reference_captions": [
+      "Three zebras eating hay at the edge of a forest.",
+      "Pack of three zebras eating grass near a log.",
+      "Several zebras grazing on grasses in a natural habitat.",
+      "A group of zebras standing on a field next to a fallen tree.",
+      "A group of zebras graze on grass beneath tall trees."
+    ],
+    "cleaned_retrieval_captions": [
+      "three zebras eating hay at the edge of a forest.",
+      "pack of three zebras eating grass near a log.",
+      "several zebras grazing on grasses in a natural habitat.",
+      "a group of zebras standing on a field next to a fallen tree.",
+      "a group of zebras graze on grass beneath tall trees."
+    ],
+    "retrieval_tokens": [
+      [
+        "three",
+        "zebras",
+        "eating",
+        "hay",
+        "at",
+        "the",
+        "edge",
+        "of",
+        "a",
+        "forest"
+      ],
+      ["pack", "of", "three", "zebras", "eating", "grass", "near", "a", "log"],
+      [
+        "several",
+        "zebras",
+        "grazing",
+        "on",
+        "grasses",
+        "in",
+        "a",
+        "natural",
+        "habitat"
+      ],
+      [
+        "a",
+        "group",
+        "of",
+        "zebras",
+        "standing",
+        "on",
+        "a",
+        "field",
+        "next",
+        "to",
+        "a",
+        "fallen",
+        "tree"
+      ],
+      [
+        "a",
+        "group",
+        "of",
+        "zebras",
+        "graze",
+        "on",
+        "grass",
+        "beneath",
+        "tall",
+        "trees"
+      ]
+    ]
+  },
+  {
+    "image_id": 283070,
+    "file_name": "000000283070.jpg",
+    "raw_reference_captions": [
+      "some oranges that are sitting on some wood",
+      "An orange is shown whole, halved, and sliced.",
+      "One whole orange joins one sliced orange on a wooden surface.",
+      "One naval orange is whole, another cut in half and three orange pieces on the right.",
+      "The fresh oranges are cut up on the table outside."
+    ],
+    "cleaned_retrieval_captions": [
+      "some oranges that are sitting on some wood",
+      "an orange is shown whole, halved, and sliced.",
+      "one whole orange joins one sliced orange on a wooden surface.",
+      "one naval orange is whole, another cut in half and three orange pieces on the right.",
+      "the fresh oranges are cut up on the table outside."
+    ],
+    "retrieval_tokens": [
+      ["some", "oranges", "that", "are", "sitting", "on", "some", "wood"],
+      ["an", "orange", "is", "shown", "whole", "halved", "and", "sliced"],
+      [
+        "one",
+        "whole",
+        "orange",
+        "joins",
+        "one",
+        "sliced",
+        "orange",
+        "on",
+        "a",
+        "wooden",
+        "surface"
+      ],
+      [
+        "one",
+        "naval",
+        "orange",
+        "is",
+        "whole",
+        "another",
+        "cut",
+        "in",
+        "half",
+        "and",
+        "three",
+        "orange",
+        "pieces",
+        "on",
+        "the",
+        "right"
+      ],
+      [
+        "the",
+        "fresh",
+        "oranges",
+        "are",
+        "cut",
+        "up",
+        "on",
+        "the",
+        "table",
+        "outside"
+      ]
+    ]
+  },
+  {
+    "image_id": 525600,
+    "file_name": "000000525600.jpg",
+    "raw_reference_captions": [
+      "a number of giraffes near one another ",
+      "A group of giraffes roam their enclosure at the zoo.",
+      "A herd of giraffes in a zoo enclosure.",
+      "a bunch of giraffes are in a large pin",
+      "a group of zebras standing in a close little group by a fence "
+    ],
+    "cleaned_retrieval_captions": [
+      "a number of giraffes near one another",
+      "a group of giraffes roam their enclosure at the zoo.",
+      "a herd of giraffes in a zoo enclosure.",
+      "a bunch of giraffes are in a large pin",
+      "a group of zebras standing in a close little group by a fence"
+    ],
+    "retrieval_tokens": [
+      ["a", "number", "of", "giraffes", "near", "one", "another"],
+      [
+        "a",
+        "group",
+        "of",
+        "giraffes",
+        "roam",
+        "their",
+        "enclosure",
+        "at",
+        "the",
+        "zoo"
+      ],
+      ["a", "herd", "of", "giraffes", "in", "a", "zoo", "enclosure"],
+      ["a", "bunch", "of", "giraffes", "are", "in", "a", "large", "pin"],
+      [
+        "a",
+        "group",
+        "of",
+        "zebras",
+        "standing",
+        "in",
+        "a",
+        "close",
+        "little",
+        "group",
+        "by",
+        "a",
+        "fence"
+      ]
+    ]
+  },
+  {
+    "image_id": 328286,
+    "file_name": "000000328286.jpg",
+    "raw_reference_captions": [
+      "Boats docked at a harbor facing the city.",
+      "A city's downtown skyline at dusk on the waterfront.",
+      "A city ferry sits docked with the city in the background. ",
+      "A small ferry boat is moored at the end of a dock.",
+      "Boats at the dock with a city backdrop."
+    ],
+    "cleaned_retrieval_captions": [
+      "boats docked at a harbor facing the city.",
+      "a city's downtown skyline at dusk on the waterfront.",
+      "a city ferry sits docked with the city in the background.",
+      "a small ferry boat is moored at the end of a dock.",
+      "boats at the dock with a city backdrop."
+    ],
+    "retrieval_tokens": [
+      ["boats", "docked", "at", "a", "harbor", "facing", "the", "city"],
+      [
+        "a",
+        "city's",
+        "downtown",
+        "skyline",
+        "at",
+        "dusk",
+        "on",
+        "the",
+        "waterfront"
+      ],
+      [
+        "a",
+        "city",
+        "ferry",
+        "sits",
+        "docked",
+        "with",
+        "the",
+        "city",
+        "in",
+        "the",
+        "background"
+      ],
+      [
+        "a",
+        "small",
+        "ferry",
+        "boat",
+        "is",
+        "moored",
+        "at",
+        "the",
+        "end",
+        "of",
+        "a",
+        "dock"
+      ],
+      ["boats", "at", "the", "dock", "with", "a", "city", "backdrop"]
+    ]
+  },
+  {
+    "image_id": 535156,
+    "file_name": "000000535156.jpg",
+    "raw_reference_captions": [
+      "A large elephant scratching it's back on the side of a pole.",
+      "A large elephant rests on a black pole.",
+      "An elephant scratching it's neck on a post.",
+      "An elephant leans against a post in a fenced area.",
+      "An elephant rubbing its head against a large metal pole."
+    ],
+    "cleaned_retrieval_captions": [
+      "a large elephant scratching it's back on the side of a pole.",
+      "a large elephant rests on a black pole.",
+      "an elephant scratching it's neck on a post.",
+      "an elephant leans against a post in a fenced area.",
+      "an elephant rubbing its head against a large metal pole."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "large",
+        "elephant",
+        "scratching",
+        "it's",
+        "back",
+        "on",
+        "the",
+        "side",
+        "of",
+        "a",
+        "pole"
+      ],
+      ["a", "large", "elephant", "rests", "on", "a", "black", "pole"],
+      ["an", "elephant", "scratching", "it's", "neck", "on", "a", "post"],
+      [
+        "an",
+        "elephant",
+        "leans",
+        "against",
+        "a",
+        "post",
+        "in",
+        "a",
+        "fenced",
+        "area"
+      ],
+      [
+        "an",
+        "elephant",
+        "rubbing",
+        "its",
+        "head",
+        "against",
+        "a",
+        "large",
+        "metal",
+        "pole"
+      ]
+    ]
+  },
+  {
+    "image_id": 522751,
+    "file_name": "000000522751.jpg",
+    "raw_reference_captions": [
+      "A view of a stoplight by a street.",
+      "a traffic light attached to a pole with a sky in the background",
+      "A traffic signal next to two other traffic signals.",
+      "There are a group of traffic lights on a nice day.",
+      "Some yellow street lights on some poles in the middle of a street."
+    ],
+    "cleaned_retrieval_captions": [
+      "a view of a stoplight by a street.",
+      "a traffic light attached to a pole with a sky in the background",
+      "a traffic signal next to two other traffic signals.",
+      "there are a group of traffic lights on a nice day.",
+      "some yellow street lights on some poles in the middle of a street."
+    ],
+    "retrieval_tokens": [
+      ["a", "view", "of", "a", "stoplight", "by", "a", "street"],
+      [
+        "a",
+        "traffic",
+        "light",
+        "attached",
+        "to",
+        "a",
+        "pole",
+        "with",
+        "a",
+        "sky",
+        "in",
+        "the",
+        "background"
+      ],
+      [
+        "a",
+        "traffic",
+        "signal",
+        "next",
+        "to",
+        "two",
+        "other",
+        "traffic",
+        "signals"
+      ],
+      [
+        "there",
+        "are",
+        "a",
+        "group",
+        "of",
+        "traffic",
+        "lights",
+        "on",
+        "a",
+        "nice",
+        "day"
+      ],
+      [
+        "some",
+        "yellow",
+        "street",
+        "lights",
+        "on",
+        "some",
+        "poles",
+        "in",
+        "the",
+        "middle",
+        "of",
+        "a",
+        "street"
+      ]
+    ]
+  },
+  {
+    "image_id": 548267,
+    "file_name": "000000548267.jpg",
+    "raw_reference_captions": [
+      "A herd of sheep grazing on a lush green field.",
+      "There is a herd of sheep grazing on the grassy field. ",
+      "A farm with a lot of animals near mountains. ",
+      "A grassy pasture with a herd of sheep with mountains in the background.",
+      "A large grassy pasture with grazing sheep in it"
+    ],
+    "cleaned_retrieval_captions": [
+      "a herd of sheep grazing on a lush green field.",
+      "there is a herd of sheep grazing on the grassy field.",
+      "a farm with a lot of animals near mountains.",
+      "a grassy pasture with a herd of sheep with mountains in the background.",
+      "a large grassy pasture with grazing sheep in it"
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "herd",
+        "of",
+        "sheep",
+        "grazing",
+        "on",
+        "a",
+        "lush",
+        "green",
+        "field"
+      ],
+      [
+        "there",
+        "is",
+        "a",
+        "herd",
+        "of",
+        "sheep",
+        "grazing",
+        "on",
+        "the",
+        "grassy",
+        "field"
+      ],
+      ["a", "farm", "with", "a", "lot", "of", "animals", "near", "mountains"],
+      [
+        "a",
+        "grassy",
+        "pasture",
+        "with",
+        "a",
+        "herd",
+        "of",
+        "sheep",
+        "with",
+        "mountains",
+        "in",
+        "the",
+        "background"
+      ],
+      [
+        "a",
+        "large",
+        "grassy",
+        "pasture",
+        "with",
+        "grazing",
+        "sheep",
+        "in",
+        "it"
+      ]
+    ]
+  },
+  {
+    "image_id": 430875,
+    "file_name": "000000430875.jpg",
+    "raw_reference_captions": [
+      "A green traffic light suspended above a street.",
+      "A double traffic signal shows three green lights.",
+      "Two green lit traffic lights with a blue sky behind them.",
+      "Green lights a shining bright against a cool blue sky.",
+      "The traffic lights glow green in the night sky."
+    ],
+    "cleaned_retrieval_captions": [
+      "a green traffic light suspended above a street.",
+      "a double traffic signal shows three green lights.",
+      "two green lit traffic lights with a blue sky behind them.",
+      "green lights a shining bright against a cool blue sky.",
+      "the traffic lights glow green in the night sky."
+    ],
+    "retrieval_tokens": [
+      ["a", "green", "traffic", "light", "suspended", "above", "a", "street"],
+      ["a", "double", "traffic", "signal", "shows", "three", "green", "lights"],
+      [
+        "two",
+        "green",
+        "lit",
+        "traffic",
+        "lights",
+        "with",
+        "a",
+        "blue",
+        "sky",
+        "behind",
+        "them"
+      ],
+      [
+        "green",
+        "lights",
+        "a",
+        "shining",
+        "bright",
+        "against",
+        "a",
+        "cool",
+        "blue",
+        "sky"
+      ],
+      ["the", "traffic", "lights", "glow", "green", "in", "the", "night", "sky"]
+    ]
+  },
+  {
+    "image_id": 7108,
+    "file_name": "000000007108.jpg",
+    "raw_reference_captions": [
+      "A herd of elephants walking away from a watering hole.",
+      "A close up from knees up front view of an elephant with trunk forward, outside on dirt, with other elephants, grass, bushes and white-blue sky.",
+      "An elephant is seen head on amongst other elephants.",
+      "Elephants walking along a dirt path next to water.",
+      "Several elephants walking together in a line near water."
+    ],
+    "cleaned_retrieval_captions": [
+      "a herd of elephants walking away from a watering hole.",
+      "a close up from knees up front view of an elephant with trunk forward, outside on dirt, with other elephants, grass, bushes and white-blue sky.",
+      "an elephant is seen head on amongst other elephants.",
+      "elephants walking along a dirt path next to water.",
+      "several elephants walking together in a line near water."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "herd",
+        "of",
+        "elephants",
+        "walking",
+        "away",
+        "from",
+        "a",
+        "watering",
+        "hole"
+      ],
+      [
+        "a",
+        "close",
+        "up",
+        "from",
+        "knees",
+        "up",
+        "front",
+        "view",
+        "of",
+        "an",
+        "elephant",
+        "with",
+        "trunk",
+        "forward",
+        "outside",
+        "on",
+        "dirt",
+        "with",
+        "other",
+        "elephants",
+        "grass",
+        "bushes",
+        "and",
+        "white",
+        "blue",
+        "sky"
+      ],
+      [
+        "an",
+        "elephant",
+        "is",
+        "seen",
+        "head",
+        "on",
+        "amongst",
+        "other",
+        "elephants"
+      ],
+      [
+        "elephants",
+        "walking",
+        "along",
+        "a",
+        "dirt",
+        "path",
+        "next",
+        "to",
+        "water"
+      ],
+      [
+        "several",
+        "elephants",
+        "walking",
+        "together",
+        "in",
+        "a",
+        "line",
+        "near",
+        "water"
+      ]
+    ]
+  },
+  {
+    "image_id": 545730,
+    "file_name": "000000545730.jpg",
+    "raw_reference_captions": [
+      "a herd of zebras crossing a shallow part of a river",
+      "A herd of zebra crossing a river with trees in the background.",
+      "A herd of zebra crossing a river near a forest.",
+      "A group of zebras are crossing a stream.",
+      "Some black and white zebras crossing a shallow stream."
+    ],
+    "cleaned_retrieval_captions": [
+      "a herd of zebras crossing a shallow part of a river",
+      "a herd of zebra crossing a river with trees in the background.",
+      "a herd of zebra crossing a river near a forest.",
+      "a group of zebras are crossing a stream.",
+      "some black and white zebras crossing a shallow stream."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "herd",
+        "of",
+        "zebras",
+        "crossing",
+        "a",
+        "shallow",
+        "part",
+        "of",
+        "a",
+        "river"
+      ],
+      [
+        "a",
+        "herd",
+        "of",
+        "zebra",
+        "crossing",
+        "a",
+        "river",
+        "with",
+        "trees",
+        "in",
+        "the",
+        "background"
+      ],
+      [
+        "a",
+        "herd",
+        "of",
+        "zebra",
+        "crossing",
+        "a",
+        "river",
+        "near",
+        "a",
+        "forest"
+      ],
+      ["a", "group", "of", "zebras", "are", "crossing", "a", "stream"],
+      [
+        "some",
+        "black",
+        "and",
+        "white",
+        "zebras",
+        "crossing",
+        "a",
+        "shallow",
+        "stream"
+      ]
+    ]
+  },
+  {
+    "image_id": 526751,
+    "file_name": "000000526751.jpg",
+    "raw_reference_captions": [
+      "A boat sitting on top of a beach next to a body of water.",
+      "A boat is sitting in the sand near the water.",
+      "A boat out of the water on the shore with other boats in the background.",
+      "A small boat is beached on the shore.",
+      "A boat stowed up on the beaches on sand."
+    ],
+    "cleaned_retrieval_captions": [
+      "a boat sitting on top of a beach next to a body of water.",
+      "a boat is sitting in the sand near the water.",
+      "a boat out of the water on the shore with other boats in the background.",
+      "a small boat is beached on the shore.",
+      "a boat stowed up on the beaches on sand."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "boat",
+        "sitting",
+        "on",
+        "top",
+        "of",
+        "a",
+        "beach",
+        "next",
+        "to",
+        "a",
+        "body",
+        "of",
+        "water"
+      ],
+      [
+        "a",
+        "boat",
+        "is",
+        "sitting",
+        "in",
+        "the",
+        "sand",
+        "near",
+        "the",
+        "water"
+      ],
+      [
+        "a",
+        "boat",
+        "out",
+        "of",
+        "the",
+        "water",
+        "on",
+        "the",
+        "shore",
+        "with",
+        "other",
+        "boats",
+        "in",
+        "the",
+        "background"
+      ],
+      ["a", "small", "boat", "is", "beached", "on", "the", "shore"],
+      ["a", "boat", "stowed", "up", "on", "the", "beaches", "on", "sand"]
+    ]
+  },
+  {
+    "image_id": 235252,
+    "file_name": "000000235252.jpg",
+    "raw_reference_captions": [
+      "A herd of giraffe walking along a grassy tree covered plain.",
+      "THREE GIRAFFES STANDING NEAR A TREE IN A FOREST.",
+      "A small herd of giraffe standing in a plain.",
+      "a small group of giraffes walking across a field with dried grass and trees ",
+      "an image of a herd of giraffes herding in the wilderness"
+    ],
+    "cleaned_retrieval_captions": [
+      "a herd of giraffe walking along a grassy tree covered plain.",
+      "three giraffes standing near a tree in a forest.",
+      "a small herd of giraffe standing in a plain.",
+      "a small group of giraffes walking across a field with dried grass and trees",
+      "an image of a herd of giraffes herding in the wilderness"
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "herd",
+        "of",
+        "giraffe",
+        "walking",
+        "along",
+        "a",
+        "grassy",
+        "tree",
+        "covered",
+        "plain"
+      ],
+      [
+        "three",
+        "giraffes",
+        "standing",
+        "near",
+        "a",
+        "tree",
+        "in",
+        "a",
+        "forest"
+      ],
+      ["a", "small", "herd", "of", "giraffe", "standing", "in", "a", "plain"],
+      [
+        "a",
+        "small",
+        "group",
+        "of",
+        "giraffes",
+        "walking",
+        "across",
+        "a",
+        "field",
+        "with",
+        "dried",
+        "grass",
+        "and",
+        "trees"
+      ],
+      [
+        "an",
+        "image",
+        "of",
+        "a",
+        "herd",
+        "of",
+        "giraffes",
+        "herding",
+        "in",
+        "the",
+        "wilderness"
+      ]
+    ]
+  },
+  {
+    "image_id": 433915,
+    "file_name": "000000433915.jpg",
+    "raw_reference_captions": [
+      "A double image of a comedian and a singer on the television screen.  ",
+      "A video screen with faces of a couple of guys on it.",
+      "Stephen Colbert on TV doing an interview with Paul McCartney.",
+      "A picture of a tv screen with two faces overlapping ",
+      "The TV has two men merged together on it."
+    ],
+    "cleaned_retrieval_captions": [
+      "a double image of a comedian and a singer on the television screen.",
+      "a video screen with faces of a couple of guys on it.",
+      "stephen colbert on tv doing an interview with paul mccartney.",
+      "a picture of a tv screen with two faces overlapping",
+      "the tv has two men merged together on it."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "double",
+        "image",
+        "of",
+        "a",
+        "comedian",
+        "and",
+        "a",
+        "singer",
+        "on",
+        "the",
+        "television",
+        "screen"
+      ],
+      [
+        "a",
+        "video",
+        "screen",
+        "with",
+        "faces",
+        "of",
+        "a",
+        "couple",
+        "of",
+        "guys",
+        "on",
+        "it"
+      ],
+      [
+        "stephen",
+        "colbert",
+        "on",
+        "tv",
+        "doing",
+        "an",
+        "interview",
+        "with",
+        "paul",
+        "mccartney"
+      ],
+      [
+        "a",
+        "picture",
+        "of",
+        "a",
+        "tv",
+        "screen",
+        "with",
+        "two",
+        "faces",
+        "overlapping"
+      ],
+      ["the", "tv", "has", "two", "men", "merged", "together", "on", "it"]
+    ]
+  },
+  {
+    "image_id": 441491,
+    "file_name": "000000441491.jpg",
+    "raw_reference_captions": [
+      "Three women are taking a bite out of the same piece of pizza.",
+      "Three beautiful young ladies eating one slice of pizza.",
+      "Two girls that appear to be sharing food while another looks on.",
+      "Three women simultaneously take a bite of pizza.",
+      "Three girls share a bite of pizza clowning for the camera."
+    ],
+    "cleaned_retrieval_captions": [
+      "three women are taking a bite out of the same piece of pizza.",
+      "three beautiful young ladies eating one slice of pizza.",
+      "two girls that appear to be sharing food while another looks on.",
+      "three women simultaneously take a bite of pizza.",
+      "three girls share a bite of pizza clowning for the camera."
+    ],
+    "retrieval_tokens": [
+      [
+        "three",
+        "women",
+        "are",
+        "taking",
+        "a",
+        "bite",
+        "out",
+        "of",
+        "the",
+        "same",
+        "piece",
+        "of",
+        "pizza"
+      ],
+      [
+        "three",
+        "beautiful",
+        "young",
+        "ladies",
+        "eating",
+        "one",
+        "slice",
+        "of",
+        "pizza"
+      ],
+      [
+        "two",
+        "girls",
+        "that",
+        "appear",
+        "to",
+        "be",
+        "sharing",
+        "food",
+        "while",
+        "another",
+        "looks",
+        "on"
+      ],
+      ["three", "women", "simultaneously", "take", "a", "bite", "of", "pizza"],
+      [
+        "three",
+        "girls",
+        "share",
+        "a",
+        "bite",
+        "of",
+        "pizza",
+        "clowning",
+        "for",
+        "the",
+        "camera"
+      ]
+    ]
+  },
+  {
+    "image_id": 178028,
+    "file_name": "000000178028.jpg",
+    "raw_reference_captions": [
+      "A bathroom vanity sink with a large mirror and hairdryer on the wall.",
+      "a bath room sink with  large mirror",
+      "A bathroom sink with a towel rack, hair dryer and a mirror.",
+      "A single basin bathroom sink with a granite vanity.",
+      "a very clean sink in a bathroom and  a towel"
+    ],
+    "cleaned_retrieval_captions": [
+      "a bathroom vanity sink with a large mirror and hairdryer on the wall.",
+      "a bath room sink with large mirror",
+      "a bathroom sink with a towel rack, hair dryer and a mirror.",
+      "a single basin bathroom sink with a granite vanity.",
+      "a very clean sink in a bathroom and a towel"
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "bathroom",
+        "vanity",
+        "sink",
+        "with",
+        "a",
+        "large",
+        "mirror",
+        "and",
+        "hairdryer",
+        "on",
+        "the",
+        "wall"
+      ],
+      ["a", "bath", "room", "sink", "with", "large", "mirror"],
+      [
+        "a",
+        "bathroom",
+        "sink",
+        "with",
+        "a",
+        "towel",
+        "rack",
+        "hair",
+        "dryer",
+        "and",
+        "a",
+        "mirror"
+      ],
+      [
+        "a",
+        "single",
+        "basin",
+        "bathroom",
+        "sink",
+        "with",
+        "a",
+        "granite",
+        "vanity"
+      ],
+      ["a", "very", "clean", "sink", "in", "a", "bathroom", "and", "a", "towel"]
+    ]
+  },
+  {
+    "image_id": 470924,
+    "file_name": "000000470924.jpg",
+    "raw_reference_captions": [
+      "Three men and one woman sit at a table eating pizza. ",
+      "A group of people sitting around a table eating pizza.",
+      "Group of young adults eating pizza and drinking beer at a restaurant. ",
+      "A group of people sit at a wooden table with pizzas on it in an outdoor place.",
+      "Four people enjoying a meal are posing for their picture. "
+    ],
+    "cleaned_retrieval_captions": [
+      "three men and one woman sit at a table eating pizza.",
+      "a group of people sitting around a table eating pizza.",
+      "group of young adults eating pizza and drinking beer at a restaurant.",
+      "a group of people sit at a wooden table with pizzas on it in an outdoor place.",
+      "four people enjoying a meal are posing for their picture."
+    ],
+    "retrieval_tokens": [
+      [
+        "three",
+        "men",
+        "and",
+        "one",
+        "woman",
+        "sit",
+        "at",
+        "a",
+        "table",
+        "eating",
+        "pizza"
+      ],
+      [
+        "a",
+        "group",
+        "of",
+        "people",
+        "sitting",
+        "around",
+        "a",
+        "table",
+        "eating",
+        "pizza"
+      ],
+      [
+        "group",
+        "of",
+        "young",
+        "adults",
+        "eating",
+        "pizza",
+        "and",
+        "drinking",
+        "beer",
+        "at",
+        "a",
+        "restaurant"
+      ],
+      [
+        "a",
+        "group",
+        "of",
+        "people",
+        "sit",
+        "at",
+        "a",
+        "wooden",
+        "table",
+        "with",
+        "pizzas",
+        "on",
+        "it",
+        "in",
+        "an",
+        "outdoor",
+        "place"
+      ],
+      [
+        "four",
+        "people",
+        "enjoying",
+        "a",
+        "meal",
+        "are",
+        "posing",
+        "for",
+        "their",
+        "picture"
+      ]
+    ]
+  },
+  {
+    "image_id": 233238,
+    "file_name": "000000233238.jpg",
+    "raw_reference_captions": [
+      "A group of people gathered around a table filled with food.",
+      "Gathering of people dishing out food set on a long table with checkered tablecloth.",
+      "People are lined up along a long picnic table.",
+      "a long table with many containers of food on it and many people around it",
+      "A group of people eating food at an outdoor picinic"
+    ],
+    "cleaned_retrieval_captions": [
+      "a group of people gathered around a table filled with food.",
+      "gathering of people dishing out food set on a long table with checkered tablecloth.",
+      "people are lined up along a long picnic table.",
+      "a long table with many containers of food on it and many people around it",
+      "a group of people eating food at an outdoor picinic"
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "group",
+        "of",
+        "people",
+        "gathered",
+        "around",
+        "a",
+        "table",
+        "filled",
+        "with",
+        "food"
+      ],
+      [
+        "gathering",
+        "of",
+        "people",
+        "dishing",
+        "out",
+        "food",
+        "set",
+        "on",
+        "a",
+        "long",
+        "table",
+        "with",
+        "checkered",
+        "tablecloth"
+      ],
+      ["people", "are", "lined", "up", "along", "a", "long", "picnic", "table"],
+      [
+        "a",
+        "long",
+        "table",
+        "with",
+        "many",
+        "containers",
+        "of",
+        "food",
+        "on",
+        "it",
+        "and",
+        "many",
+        "people",
+        "around",
+        "it"
+      ],
+      [
+        "a",
+        "group",
+        "of",
+        "people",
+        "eating",
+        "food",
+        "at",
+        "an",
+        "outdoor",
+        "picinic"
+      ]
+    ]
+  },
+  {
+    "image_id": 302030,
+    "file_name": "000000302030.jpg",
+    "raw_reference_captions": [
+      "A picture of a cluttered home office desk.",
+      "Laptop computer on long desk with assorted paperwork.",
+      "In home desk, covered with papers and two computers.",
+      "A white desk is covered with papers and has a silver lap top on it.",
+      "The desk with a laptop has papers strewn all over it."
+    ],
+    "cleaned_retrieval_captions": [
+      "a picture of a cluttered home office desk.",
+      "laptop computer on long desk with assorted paperwork.",
+      "in home desk, covered with papers and two computers.",
+      "a white desk is covered with papers and has a silver lap top on it.",
+      "the desk with a laptop has papers strewn all over it."
+    ],
+    "retrieval_tokens": [
+      ["a", "picture", "of", "a", "cluttered", "home", "office", "desk"],
+      [
+        "laptop",
+        "computer",
+        "on",
+        "long",
+        "desk",
+        "with",
+        "assorted",
+        "paperwork"
+      ],
+      [
+        "in",
+        "home",
+        "desk",
+        "covered",
+        "with",
+        "papers",
+        "and",
+        "two",
+        "computers"
+      ],
+      [
+        "a",
+        "white",
+        "desk",
+        "is",
+        "covered",
+        "with",
+        "papers",
+        "and",
+        "has",
+        "a",
+        "silver",
+        "lap",
+        "top",
+        "on",
+        "it"
+      ],
+      [
+        "the",
+        "desk",
+        "with",
+        "a",
+        "laptop",
+        "has",
+        "papers",
+        "strewn",
+        "all",
+        "over",
+        "it"
+      ]
+    ]
+  },
+  {
+    "image_id": 479448,
+    "file_name": "000000479448.jpg",
+    "raw_reference_captions": [
+      "Belgium waffle loaded with bananas topped with powdered sugar with syrup and more fruit as a garnish.",
+      "The waffle has banana slices and a strawberry in the middle.",
+      "Some bananas and strawberries on a large waffle",
+      "A plate with a big tasty looking waffle topped with fruit.",
+      "A plate of waffles with bananas and strawberries on top."
+    ],
+    "cleaned_retrieval_captions": [
+      "belgium waffle loaded with bananas topped with powdered sugar with syrup and more fruit as a garnish.",
+      "the waffle has banana slices and a strawberry in the middle.",
+      "some bananas and strawberries on a large waffle",
+      "a plate with a big tasty looking waffle topped with fruit.",
+      "a plate of waffles with bananas and strawberries on top."
+    ],
+    "retrieval_tokens": [
+      [
+        "belgium",
+        "waffle",
+        "loaded",
+        "with",
+        "bananas",
+        "topped",
+        "with",
+        "powdered",
+        "sugar",
+        "with",
+        "syrup",
+        "and",
+        "more",
+        "fruit",
+        "as",
+        "a",
+        "garnish"
+      ],
+      [
+        "the",
+        "waffle",
+        "has",
+        "banana",
+        "slices",
+        "and",
+        "a",
+        "strawberry",
+        "in",
+        "the",
+        "middle"
+      ],
+      ["some", "bananas", "and", "strawberries", "on", "a", "large", "waffle"],
+      [
+        "a",
+        "plate",
+        "with",
+        "a",
+        "big",
+        "tasty",
+        "looking",
+        "waffle",
+        "topped",
+        "with",
+        "fruit"
+      ],
+      [
+        "a",
+        "plate",
+        "of",
+        "waffles",
+        "with",
+        "bananas",
+        "and",
+        "strawberries",
+        "on",
+        "top"
+      ]
+    ]
+  },
+  {
+    "image_id": 216277,
+    "file_name": "000000216277.jpg",
+    "raw_reference_captions": [
+      "A table topped with a half eaten apple next to a smart phone.",
+      "Partially eaten apple and cell phone, near a hand on a table.",
+      "A partially eaten apple by a Verizon device.",
+      "A half-eaten apple sits next to a cell phone.",
+      "An partially eaten apply and a cell phone set on a table."
+    ],
+    "cleaned_retrieval_captions": [
+      "a table topped with a half eaten apple next to a smart phone.",
+      "partially eaten apple and cell phone, near a hand on a table.",
+      "a partially eaten apple by a verizon device.",
+      "a half-eaten apple sits next to a cell phone.",
+      "an partially eaten apply and a cell phone set on a table."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "table",
+        "topped",
+        "with",
+        "a",
+        "half",
+        "eaten",
+        "apple",
+        "next",
+        "to",
+        "a",
+        "smart",
+        "phone"
+      ],
+      [
+        "partially",
+        "eaten",
+        "apple",
+        "and",
+        "cell",
+        "phone",
+        "near",
+        "a",
+        "hand",
+        "on",
+        "a",
+        "table"
+      ],
+      ["a", "partially", "eaten", "apple", "by", "a", "verizon", "device"],
+      [
+        "a",
+        "half",
+        "eaten",
+        "apple",
+        "sits",
+        "next",
+        "to",
+        "a",
+        "cell",
+        "phone"
+      ],
+      [
+        "an",
+        "partially",
+        "eaten",
+        "apply",
+        "and",
+        "a",
+        "cell",
+        "phone",
+        "set",
+        "on",
+        "a",
+        "table"
+      ]
+    ]
+  },
+  {
+    "image_id": 459954,
+    "file_name": "000000459954.jpg",
+    "raw_reference_captions": [
+      "A woman peaking around a pile of old refrigerators.",
+      "A person standing next to some old junk appliances.",
+      "A woman peering around stacks of old mini-fridges. ",
+      "Many old appliances in trash head with woman in center.",
+      "A woman is standing in a room filled with used appliances."
+    ],
+    "cleaned_retrieval_captions": [
+      "a woman peaking around a pile of old refrigerators.",
+      "a person standing next to some old junk appliances.",
+      "a woman peering around stacks of old mini-fridges.",
+      "many old appliances in trash head with woman in center.",
+      "a woman is standing in a room filled with used appliances."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "woman",
+        "peaking",
+        "around",
+        "a",
+        "pile",
+        "of",
+        "old",
+        "refrigerators"
+      ],
+      [
+        "a",
+        "person",
+        "standing",
+        "next",
+        "to",
+        "some",
+        "old",
+        "junk",
+        "appliances"
+      ],
+      [
+        "a",
+        "woman",
+        "peering",
+        "around",
+        "stacks",
+        "of",
+        "old",
+        "mini",
+        "fridges"
+      ],
+      [
+        "many",
+        "old",
+        "appliances",
+        "in",
+        "trash",
+        "head",
+        "with",
+        "woman",
+        "in",
+        "center"
+      ],
+      [
+        "a",
+        "woman",
+        "is",
+        "standing",
+        "in",
+        "a",
+        "room",
+        "filled",
+        "with",
+        "used",
+        "appliances"
+      ]
+    ]
+  },
+  {
+    "image_id": 411817,
+    "file_name": "000000411817.jpg",
+    "raw_reference_captions": [
+      "A group of people playing with interactive gaming units.",
+      "People shopping for interactive video games at Best Buy.",
+      "A group of people playing games while holding remotes",
+      "Group of people play video games at bestbuy",
+      "some people are looking at different television sets"
+    ],
+    "cleaned_retrieval_captions": [
+      "a group of people playing with interactive gaming units.",
+      "people shopping for interactive video games at best buy.",
+      "a group of people playing games while holding remotes",
+      "group of people play video games at bestbuy",
+      "some people are looking at different television sets"
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "group",
+        "of",
+        "people",
+        "playing",
+        "with",
+        "interactive",
+        "gaming",
+        "units"
+      ],
+      [
+        "people",
+        "shopping",
+        "for",
+        "interactive",
+        "video",
+        "games",
+        "at",
+        "best",
+        "buy"
+      ],
+      [
+        "a",
+        "group",
+        "of",
+        "people",
+        "playing",
+        "games",
+        "while",
+        "holding",
+        "remotes"
+      ],
+      ["group", "of", "people", "play", "video", "games", "at", "bestbuy"],
+      [
+        "some",
+        "people",
+        "are",
+        "looking",
+        "at",
+        "different",
+        "television",
+        "sets"
+      ]
+    ]
+  },
+  {
+    "image_id": 483667,
+    "file_name": "000000483667.jpg",
+    "raw_reference_captions": [
+      "a man wearing a top hat and a red tie ",
+      "A very sharp dressed man with a black top hat.",
+      "A man with black hair and a top hat",
+      "A man with a top hat and a red tie.",
+      "A man wearing a top hate with a red tie and black shirt."
+    ],
+    "cleaned_retrieval_captions": [
+      "a man wearing a top hat and a red tie",
+      "a very sharp dressed man with a black top hat.",
+      "a man with black hair and a top hat",
+      "a man with a top hat and a red tie.",
+      "a man wearing a top hate with a red tie and black shirt."
+    ],
+    "retrieval_tokens": [
+      ["a", "man", "wearing", "a", "top", "hat", "and", "a", "red", "tie"],
+      [
+        "a",
+        "very",
+        "sharp",
+        "dressed",
+        "man",
+        "with",
+        "a",
+        "black",
+        "top",
+        "hat"
+      ],
+      ["a", "man", "with", "black", "hair", "and", "a", "top", "hat"],
+      ["a", "man", "with", "a", "top", "hat", "and", "a", "red", "tie"],
+      [
+        "a",
+        "man",
+        "wearing",
+        "a",
+        "top",
+        "hate",
+        "with",
+        "a",
+        "red",
+        "tie",
+        "and",
+        "black",
+        "shirt"
+      ]
+    ]
+  },
+  {
+    "image_id": 128148,
+    "file_name": "000000128148.jpg",
+    "raw_reference_captions": [
+      "A large living room with leather couches and wood flooring",
+      "A living room filled with two leather couches on a hard wood floor.",
+      "The living room is spacious and clean with hardwood floors and seating on leather sofas.",
+      "Two brown leather couches in a living room",
+      "A living room with brown, leather furniture and a red wall"
+    ],
+    "cleaned_retrieval_captions": [
+      "a large living room with leather couches and wood flooring",
+      "a living room filled with two leather couches on a hard wood floor.",
+      "the living room is spacious and clean with hardwood floors and seating on leather sofas.",
+      "two brown leather couches in a living room",
+      "a living room with brown, leather furniture and a red wall"
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "large",
+        "living",
+        "room",
+        "with",
+        "leather",
+        "couches",
+        "and",
+        "wood",
+        "flooring"
+      ],
+      [
+        "a",
+        "living",
+        "room",
+        "filled",
+        "with",
+        "two",
+        "leather",
+        "couches",
+        "on",
+        "a",
+        "hard",
+        "wood",
+        "floor"
+      ],
+      [
+        "the",
+        "living",
+        "room",
+        "is",
+        "spacious",
+        "and",
+        "clean",
+        "with",
+        "hardwood",
+        "floors",
+        "and",
+        "seating",
+        "on",
+        "leather",
+        "sofas"
+      ],
+      ["two", "brown", "leather", "couches", "in", "a", "living", "room"],
+      [
+        "a",
+        "living",
+        "room",
+        "with",
+        "brown",
+        "leather",
+        "furniture",
+        "and",
+        "a",
+        "red",
+        "wall"
+      ]
+    ]
+  },
+  {
+    "image_id": 388056,
+    "file_name": "000000388056.jpg",
+    "raw_reference_captions": [
+      "A baseball player holding a bat and getting ready for the pitch.",
+      "A baseball player is waiting for the pitch while standing in the batters box.",
+      "Several male baseball players playing a game while fans watch",
+      "A batter getting ready to bat with the catcher and umpire behind him.",
+      "Professional baseball players watch the batter, catcher and umpire"
+    ],
+    "cleaned_retrieval_captions": [
+      "a baseball player holding a bat and getting ready for the pitch.",
+      "a baseball player is waiting for the pitch while standing in the batters box.",
+      "several male baseball players playing a game while fans watch",
+      "a batter getting ready to bat with the catcher and umpire behind him.",
+      "professional baseball players watch the batter, catcher and umpire"
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "baseball",
+        "player",
+        "holding",
+        "a",
+        "bat",
+        "and",
+        "getting",
+        "ready",
+        "for",
+        "the",
+        "pitch"
+      ],
+      [
+        "a",
+        "baseball",
+        "player",
+        "is",
+        "waiting",
+        "for",
+        "the",
+        "pitch",
+        "while",
+        "standing",
+        "in",
+        "the",
+        "batters",
+        "box"
+      ],
+      [
+        "several",
+        "male",
+        "baseball",
+        "players",
+        "playing",
+        "a",
+        "game",
+        "while",
+        "fans",
+        "watch"
+      ],
+      [
+        "a",
+        "batter",
+        "getting",
+        "ready",
+        "to",
+        "bat",
+        "with",
+        "the",
+        "catcher",
+        "and",
+        "umpire",
+        "behind",
+        "him"
+      ],
+      [
+        "professional",
+        "baseball",
+        "players",
+        "watch",
+        "the",
+        "batter",
+        "catcher",
+        "and",
+        "umpire"
+      ]
+    ]
+  },
+  {
+    "image_id": 450075,
+    "file_name": "000000450075.jpg",
+    "raw_reference_captions": [
+      "A person helping a woman put on a tie. ",
+      "A woman helping another woman with her tie.",
+      "A person is tying a tie around a girls .neck.",
+      "A woman that is tying a tie onto another woman.",
+      "A woman is getting her tie adjusted in the city."
+    ],
+    "cleaned_retrieval_captions": [
+      "a person helping a woman put on a tie.",
+      "a woman helping another woman with her tie.",
+      "a person is tying a tie around a girls .neck.",
+      "a woman that is tying a tie onto another woman.",
+      "a woman is getting her tie adjusted in the city."
+    ],
+    "retrieval_tokens": [
+      ["a", "person", "helping", "a", "woman", "put", "on", "a", "tie"],
+      ["a", "woman", "helping", "another", "woman", "with", "her", "tie"],
+      [
+        "a",
+        "person",
+        "is",
+        "tying",
+        "a",
+        "tie",
+        "around",
+        "a",
+        "girls",
+        "neck"
+      ],
+      [
+        "a",
+        "woman",
+        "that",
+        "is",
+        "tying",
+        "a",
+        "tie",
+        "onto",
+        "another",
+        "woman"
+      ],
+      [
+        "a",
+        "woman",
+        "is",
+        "getting",
+        "her",
+        "tie",
+        "adjusted",
+        "in",
+        "the",
+        "city"
+      ]
+    ]
+  },
+  {
+    "image_id": 119452,
+    "file_name": "000000119452.jpg",
+    "raw_reference_captions": [
+      "a spotty banana sitting on top of an orange and some other fruit ",
+      "A fruit basket showing a banana and oranges.  ",
+      "There is a great amount of fruit in this picture.",
+      "a big pile of fruit that is on top of each other",
+      "A banana sitting on top of oranges and other fruit."
+    ],
+    "cleaned_retrieval_captions": [
+      "a spotty banana sitting on top of an orange and some other fruit",
+      "a fruit basket showing a banana and oranges.",
+      "there is a great amount of fruit in this picture.",
+      "a big pile of fruit that is on top of each other",
+      "a banana sitting on top of oranges and other fruit."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "spotty",
+        "banana",
+        "sitting",
+        "on",
+        "top",
+        "of",
+        "an",
+        "orange",
+        "and",
+        "some",
+        "other",
+        "fruit"
+      ],
+      ["a", "fruit", "basket", "showing", "a", "banana", "and", "oranges"],
+      [
+        "there",
+        "is",
+        "a",
+        "great",
+        "amount",
+        "of",
+        "fruit",
+        "in",
+        "this",
+        "picture"
+      ],
+      [
+        "a",
+        "big",
+        "pile",
+        "of",
+        "fruit",
+        "that",
+        "is",
+        "on",
+        "top",
+        "of",
+        "each",
+        "other"
+      ],
+      [
+        "a",
+        "banana",
+        "sitting",
+        "on",
+        "top",
+        "of",
+        "oranges",
+        "and",
+        "other",
+        "fruit"
+      ]
+    ]
+  },
+  {
+    "image_id": 374052,
+    "file_name": "000000374052.jpg",
+    "raw_reference_captions": [
+      "A man sitting on a bench surrounded by pigeons.",
+      "A man is feeding birds from a park bench",
+      "A man sits by himself on a bench surrounded by pigeons. ",
+      "A man sits on a park bench surrounded by pigeons",
+      "Man on park bench surrounded by some pigeons."
+    ],
+    "cleaned_retrieval_captions": [
+      "a man sitting on a bench surrounded by pigeons.",
+      "a man is feeding birds from a park bench",
+      "a man sits by himself on a bench surrounded by pigeons.",
+      "a man sits on a park bench surrounded by pigeons",
+      "man on park bench surrounded by some pigeons."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "man",
+        "sitting",
+        "on",
+        "a",
+        "bench",
+        "surrounded",
+        "by",
+        "pigeons"
+      ],
+      ["a", "man", "is", "feeding", "birds", "from", "a", "park", "bench"],
+      [
+        "a",
+        "man",
+        "sits",
+        "by",
+        "himself",
+        "on",
+        "a",
+        "bench",
+        "surrounded",
+        "by",
+        "pigeons"
+      ],
+      [
+        "a",
+        "man",
+        "sits",
+        "on",
+        "a",
+        "park",
+        "bench",
+        "surrounded",
+        "by",
+        "pigeons"
+      ],
+      ["man", "on", "park", "bench", "surrounded", "by", "some", "pigeons"]
+    ]
+  },
+  {
+    "image_id": 269942,
+    "file_name": "000000269942.jpg",
+    "raw_reference_captions": [
+      "Vehicles on a street near a green traffic light.",
+      "A traffic light suspended over a street near  a forest.",
+      "a couple of street lights that is next to the road.",
+      "A red car is parked at a traffic light.",
+      "A green traffic light hovering over a street."
+    ],
+    "cleaned_retrieval_captions": [
+      "vehicles on a street near a green traffic light.",
+      "a traffic light suspended over a street near a forest.",
+      "a couple of street lights that is next to the road.",
+      "a red car is parked at a traffic light.",
+      "a green traffic light hovering over a street."
+    ],
+    "retrieval_tokens": [
+      [
+        "vehicles",
+        "on",
+        "a",
+        "street",
+        "near",
+        "a",
+        "green",
+        "traffic",
+        "light"
+      ],
+      [
+        "a",
+        "traffic",
+        "light",
+        "suspended",
+        "over",
+        "a",
+        "street",
+        "near",
+        "a",
+        "forest"
+      ],
+      [
+        "a",
+        "couple",
+        "of",
+        "street",
+        "lights",
+        "that",
+        "is",
+        "next",
+        "to",
+        "the",
+        "road"
+      ],
+      ["a", "red", "car", "is", "parked", "at", "a", "traffic", "light"],
+      ["a", "green", "traffic", "light", "hovering", "over", "a", "street"]
+    ]
+  },
+  {
+    "image_id": 375469,
+    "file_name": "000000375469.jpg",
+    "raw_reference_captions": [
+      "two people riding surf boards on a wave",
+      "Two surfers riding a wave back to shore.",
+      "Two people trying to surf on the ocean.",
+      "Two surfers are riding a wave on their surf boards.",
+      "Two individuals catching a wave surfing in the ocean."
+    ],
+    "cleaned_retrieval_captions": [
+      "two people riding surf boards on a wave",
+      "two surfers riding a wave back to shore.",
+      "two people trying to surf on the ocean.",
+      "two surfers are riding a wave on their surf boards.",
+      "two individuals catching a wave surfing in the ocean."
+    ],
+    "retrieval_tokens": [
+      ["two", "people", "riding", "surf", "boards", "on", "a", "wave"],
+      ["two", "surfers", "riding", "a", "wave", "back", "to", "shore"],
+      ["two", "people", "trying", "to", "surf", "on", "the", "ocean"],
+      [
+        "two",
+        "surfers",
+        "are",
+        "riding",
+        "a",
+        "wave",
+        "on",
+        "their",
+        "surf",
+        "boards"
+      ],
+      [
+        "two",
+        "individuals",
+        "catching",
+        "a",
+        "wave",
+        "surfing",
+        "in",
+        "the",
+        "ocean"
+      ]
+    ]
+  },
+  {
+    "image_id": 57232,
+    "file_name": "000000057232.jpg",
+    "raw_reference_captions": [
+      "Old baseball bats are turned into a seat.",
+      "A chair is made of bats and baseball bases.",
+      "A chair is fashioned from baseball bats and two cushions.",
+      "A picture of some toys and a box.",
+      "Two white cushions on a chair made of baseball bats."
+    ],
+    "cleaned_retrieval_captions": [
+      "old baseball bats are turned into a seat.",
+      "a chair is made of bats and baseball bases.",
+      "a chair is fashioned from baseball bats and two cushions.",
+      "a picture of some toys and a box.",
+      "two white cushions on a chair made of baseball bats."
+    ],
+    "retrieval_tokens": [
+      ["old", "baseball", "bats", "are", "turned", "into", "a", "seat"],
+      ["a", "chair", "is", "made", "of", "bats", "and", "baseball", "bases"],
+      [
+        "a",
+        "chair",
+        "is",
+        "fashioned",
+        "from",
+        "baseball",
+        "bats",
+        "and",
+        "two",
+        "cushions"
+      ],
+      ["a", "picture", "of", "some", "toys", "and", "a", "box"],
+      [
+        "two",
+        "white",
+        "cushions",
+        "on",
+        "a",
+        "chair",
+        "made",
+        "of",
+        "baseball",
+        "bats"
+      ]
+    ]
+  },
+  {
+    "image_id": 40083,
+    "file_name": "000000040083.jpg",
+    "raw_reference_captions": [
+      "A couple of people sitting under an umbrella.",
+      "Two men sitting underneath an umbrella on a sidewalk.",
+      "a vintage photo of some people sitting under an umbrella ",
+      "two men sitting under an umbrella on the sidewalk ",
+      "A couple of people under a large umbrella."
+    ],
+    "cleaned_retrieval_captions": [
+      "a couple of people sitting under an umbrella.",
+      "two men sitting underneath an umbrella on a sidewalk.",
+      "a vintage photo of some people sitting under an umbrella",
+      "two men sitting under an umbrella on the sidewalk",
+      "a couple of people under a large umbrella."
+    ],
+    "retrieval_tokens": [
+      ["a", "couple", "of", "people", "sitting", "under", "an", "umbrella"],
+      [
+        "two",
+        "men",
+        "sitting",
+        "underneath",
+        "an",
+        "umbrella",
+        "on",
+        "a",
+        "sidewalk"
+      ],
+      [
+        "a",
+        "vintage",
+        "photo",
+        "of",
+        "some",
+        "people",
+        "sitting",
+        "under",
+        "an",
+        "umbrella"
+      ],
+      [
+        "two",
+        "men",
+        "sitting",
+        "under",
+        "an",
+        "umbrella",
+        "on",
+        "the",
+        "sidewalk"
+      ],
+      ["a", "couple", "of", "people", "under", "a", "large", "umbrella"]
+    ]
+  },
+  {
+    "image_id": 509403,
+    "file_name": "000000509403.jpg",
+    "raw_reference_captions": [
+      "A family outside in a yard playing frisbee with their dog. ",
+      "The dog runs near an adult who plays with two children.",
+      "A man, two kids and a dog are playing Frisbee.",
+      "A man throws a ball with to small boys in a yard as a dog runs around.",
+      "A man is playing catch with two children and a dog. \n"
+    ],
+    "cleaned_retrieval_captions": [
+      "a family outside in a yard playing frisbee with their dog.",
+      "the dog runs near an adult who plays with two children.",
+      "a man, two kids and a dog are playing frisbee.",
+      "a man throws a ball with to small boys in a yard as a dog runs around.",
+      "a man is playing catch with two children and a dog."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "family",
+        "outside",
+        "in",
+        "a",
+        "yard",
+        "playing",
+        "frisbee",
+        "with",
+        "their",
+        "dog"
+      ],
+      [
+        "the",
+        "dog",
+        "runs",
+        "near",
+        "an",
+        "adult",
+        "who",
+        "plays",
+        "with",
+        "two",
+        "children"
+      ],
+      [
+        "a",
+        "man",
+        "two",
+        "kids",
+        "and",
+        "a",
+        "dog",
+        "are",
+        "playing",
+        "frisbee"
+      ],
+      [
+        "a",
+        "man",
+        "throws",
+        "a",
+        "ball",
+        "with",
+        "to",
+        "small",
+        "boys",
+        "in",
+        "a",
+        "yard",
+        "as",
+        "a",
+        "dog",
+        "runs",
+        "around"
+      ],
+      [
+        "a",
+        "man",
+        "is",
+        "playing",
+        "catch",
+        "with",
+        "two",
+        "children",
+        "and",
+        "a",
+        "dog"
+      ]
+    ]
+  },
+  {
+    "image_id": 30828,
+    "file_name": "000000030828.jpg",
+    "raw_reference_captions": [
+      "A person with an orange blanket covering them, sleeping on a wooden park bench.",
+      "Person sleeping on bench in sleeping bag near parking meters.",
+      "A person is sleeping on a bench in a sleeping bag.",
+      "The person is sleeping on a park bench.",
+      "A person covered with an orange sleeping bag rests his head on a blue back pack as he sleeps on a park bench. "
+    ],
+    "cleaned_retrieval_captions": [
+      "a person with an orange blanket covering them, sleeping on a wooden park bench.",
+      "person sleeping on bench in sleeping bag near parking meters.",
+      "a person is sleeping on a bench in a sleeping bag.",
+      "the person is sleeping on a park bench.",
+      "a person covered with an orange sleeping bag rests his head on a blue back pack as he sleeps on a park bench."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "person",
+        "with",
+        "an",
+        "orange",
+        "blanket",
+        "covering",
+        "them",
+        "sleeping",
+        "on",
+        "a",
+        "wooden",
+        "park",
+        "bench"
+      ],
+      [
+        "person",
+        "sleeping",
+        "on",
+        "bench",
+        "in",
+        "sleeping",
+        "bag",
+        "near",
+        "parking",
+        "meters"
+      ],
+      [
+        "a",
+        "person",
+        "is",
+        "sleeping",
+        "on",
+        "a",
+        "bench",
+        "in",
+        "a",
+        "sleeping",
+        "bag"
+      ],
+      ["the", "person", "is", "sleeping", "on", "a", "park", "bench"],
+      [
+        "a",
+        "person",
+        "covered",
+        "with",
+        "an",
+        "orange",
+        "sleeping",
+        "bag",
+        "rests",
+        "his",
+        "head",
+        "on",
+        "a",
+        "blue",
+        "back",
+        "pack",
+        "as",
+        "he",
+        "sleeps",
+        "on",
+        "a",
+        "park",
+        "bench"
+      ]
+    ]
+  },
+  {
+    "image_id": 93261,
+    "file_name": "000000093261.jpg",
+    "raw_reference_captions": [
+      "A man in blue shorts putting together a blue and purple kite on a blue towel at the beach. ",
+      "A man prepares to fly his kite on a sandy beach.",
+      "A man fixing a kite on the beach.",
+      "A young man on the beach assembling a kite.",
+      "A man kneels on the beach preparing a kite."
+    ],
+    "cleaned_retrieval_captions": [
+      "a man in blue shorts putting together a blue and purple kite on a blue towel at the beach.",
+      "a man prepares to fly his kite on a sandy beach.",
+      "a man fixing a kite on the beach.",
+      "a young man on the beach assembling a kite.",
+      "a man kneels on the beach preparing a kite."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "man",
+        "in",
+        "blue",
+        "shorts",
+        "putting",
+        "together",
+        "a",
+        "blue",
+        "and",
+        "purple",
+        "kite",
+        "on",
+        "a",
+        "blue",
+        "towel",
+        "at",
+        "the",
+        "beach"
+      ],
+      [
+        "a",
+        "man",
+        "prepares",
+        "to",
+        "fly",
+        "his",
+        "kite",
+        "on",
+        "a",
+        "sandy",
+        "beach"
+      ],
+      ["a", "man", "fixing", "a", "kite", "on", "the", "beach"],
+      ["a", "young", "man", "on", "the", "beach", "assembling", "a", "kite"],
+      ["a", "man", "kneels", "on", "the", "beach", "preparing", "a", "kite"]
+    ]
+  },
+  {
+    "image_id": 341719,
+    "file_name": "000000341719.jpg",
+    "raw_reference_captions": [
+      "A group of people riding skis across a snow covered slope.",
+      "Several people standing in the snow near trees.",
+      "Several people can be seen at the crest of the mountain.",
+      "A group of people with skis and snowboards stand on a mountain.",
+      "Skiers and snowboarders mill about on a mountain."
+    ],
+    "cleaned_retrieval_captions": [
+      "a group of people riding skis across a snow covered slope.",
+      "several people standing in the snow near trees.",
+      "several people can be seen at the crest of the mountain.",
+      "a group of people with skis and snowboards stand on a mountain.",
+      "skiers and snowboarders mill about on a mountain."
+    ],
+    "retrieval_tokens": [
+      [
+        "a",
+        "group",
+        "of",
+        "people",
+        "riding",
+        "skis",
+        "across",
+        "a",
+        "snow",
+        "covered",
+        "slope"
+      ],
+      ["several", "people", "standing", "in", "the", "snow", "near", "trees"],
+      [
+        "several",
+        "people",
+        "can",
+        "be",
+        "seen",
+        "at",
+        "the",
+        "crest",
+        "of",
+        "the",
+        "mountain"
+      ],
+      [
+        "a",
+        "group",
+        "of",
+        "people",
+        "with",
+        "skis",
+        "and",
+        "snowboards",
+        "stand",
+        "on",
+        "a",
+        "mountain"
+      ],
+      ["skiers", "and", "snowboarders", "mill", "about", "on", "a", "mountain"]
+    ]
+  }
+]

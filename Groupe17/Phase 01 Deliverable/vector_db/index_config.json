@@ -1,0 +1,35 @@
+{
+  "library": "faiss 1.16.0",
+  "index_type": "IndexFlatIP (exact)",
+  "metric": "inner product on L2-normalised vectors (= cosine)",
+  "indexes": {
+    "kb_10k_faiss.index": {
+      "vectors": 10000,
+      "dim": 512,
+      "content": "CLIP image embeddings"
+    },
+    "kb_10k_text_faiss.index": {
+      "vectors": 50000,
+      "dim": 384,
+      "content": "SBERT caption embeddings"
+    },
+    "kb_10k_text_clip_faiss.index": {
+      "vectors": 50000,
+      "dim": 512,
+      "content": "CLIP text embeddings"
+    }
+  },
+  "size_mb": {
+    "kb_10k_faiss.index": 20.5,
+    "kb_10k_text_faiss.index": 76.8,
+    "kb_10k_text_clip_faiss.index": 102.4
+  },
+  "indexing_time_sec": {
+    "image": 0.029,
+    "text_sbert": 0.033
+  },
+  "latency_ms_per_query": {
+    "image_to_image": 2.459,
+    "image_to_text_clip": 14.786
+  }
+}

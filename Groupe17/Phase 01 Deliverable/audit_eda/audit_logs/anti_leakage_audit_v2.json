@@ -1,0 +1,254 @@
+{
+  "version": "v2",
+  "created_at_utc": "2026-11-10T16:49:49.770218+00:00",
+  "datasets": {
+    "kb_10k": {
+      "source_json": "/content/phase_01_data_exploration/splitted_data_set/kb_10k.json",
+      "image_count": 10000,
+      "image_id_sha256": "f4b688cc1480d01e0574d50e343bb0bc2a1cb37ea2e994fdec50bc1b35d59b81"
+    },
+    "val_100": {
+      "source_json": "/content/phase_01_data_exploration/splitted_data_set/val_100.json",
+      "image_count": 100,
+      "image_id_sha256": "122530dc5e21b42732166c6e34821da1f7ac44d07ec3d323b14028fd0f1af1ae"
+    },
+    "test_1000": {
+      "source_json": "/content/phase_01_data_exploration/splitted_data_set/test_1000.json",
+      "image_count": 1000,
+      "image_id_sha256": "75dc53ba61cc247dfd3d5f6ba4c303dd366710ebed26aa73439120821317be42"
+    }
+  },
+  "checks": {
+    "kb_10k_expected_size": {
+      "expected": 10000,
+      "actual": 10000,
+      "passed": true
+    },
+    "val_100_expected_size": {
+      "expected": 100,
+      "actual": 100,
+      "passed": true
+    },
+    "test_1000_expected_size": {
+      "expected": 1000,
+      "actual": 1000,
+      "passed": true
+    },
+    "kb_10k_record_checks": {
+      "invalid_records": 0,
+      "missing_image_ids": 0,
+      "missing_filenames": 0,
+      "duplicate_image_ids": 0,
+      "duplicate_filenames": 0,
+      "invalid_captions": 0,
+      "records_not_having_5_captions": 0,
+      "records_with_duplicate_captions": 18
+    },
+    "val_100_record_checks": {
+      "invalid_records": 0,
+      "missing_image_ids": 0,
+      "missing_filenames": 0,
+      "duplicate_image_ids": 0,
+      "duplicate_filenames": 0,
+      "invalid_captions": 0,
+      "records_not_having_5_captions": 0,
+      "records_with_duplicate_captions": 1
+    },
+    "test_1000_record_checks": {
+      "invalid_records": 0,
+      "missing_image_ids": 0,
+      "missing_filenames": 0,
+      "duplicate_image_ids": 0,
+      "duplicate_filenames": 0,
+      "invalid_captions": 0,
+      "records_not_having_5_captions": 0,
+      "records_with_duplicate_captions": 2
+    },
+    "kb_10k_vs_val_100_image_id_overlap": {
+      "overlap_count": 0,
+      "examples": [],
+      "passed": true
+    },
+    "kb_10k_vs_test_1000_image_id_overlap": {
+      "overlap_count": 0,
+      "examples": [],
+      "passed": true
+    },
+    "val_100_vs_test_1000_image_id_overlap": {
+      "overlap_count": 0,
+      "examples": [],
+      "passed": true
+    },
+    "kb_10k_vs_val_100_filename_overlap": {
+      "overlap_count": 0,
+      "examples": [],
+      "passed": true
+    },
+    "kb_10k_vs_test_1000_filename_overlap": {
+      "overlap_count": 0,
+      "examples": [],
+      "passed": true
+    },
+    "val_100_vs_test_1000_filename_overlap": {
+      "overlap_count": 0,
+      "examples": [],
+      "passed": true
+    },
+    "caption_text_overlap": {
+      "kb_10k_vs_val_100_caption_overlap": {
+        "count": 14,
+        "examples": [
+          {
+            "caption": "a couple of giraffes are standing in a field",
+            "split_a_image_ids": ["208671", "573291"],
+            "split_b_image_ids": ["482626"]
+          },
+          {
+            "caption": "a double decker bus driving down a street",
+            "split_a_image_ids": ["252970"],
+            "split_b_image_ids": ["109939", "449403"]
+          },
+          {
+            "caption": "a giraffe is standing in a grassy field",
+            "split_a_image_ids": ["496554", "57345"],
+            "split_b_image_ids": ["562171"]
+          },
+          {
+            "caption": "a group of giraffe standing next to each other",
+            "split_a_image_ids": [
+              "101341",
+              "107511",
+              "190056",
+              "375765",
+              "498610",
+              "577926",
+              "62865"
+            ],
+            "split_b_image_ids": ["201420"]
+          },
+          {
+            "caption": "a large jet sitting on top of an airport runway",
+            "split_a_image_ids": ["126659", "346759"],
+            "split_b_image_ids": ["483475"]
+          },
+          {
+            "caption": "a large jetliner taking off from an airport runway",
+            "split_a_image_ids": ["255213"],
+            "split_b_image_ids": ["247394"]
+          },
+          {
+            "caption": "a picture of an outside region that appears incredible",
+            "split_a_image_ids": ["532463"],
+            "split_b_image_ids": ["436044"]
+          },
+          {
+            "caption": "a red double decker bus driving down a street",
+            "split_a_image_ids": ["172478", "256906", "284160", "315976"],
+            "split_b_image_ids": ["109939"]
+          },
+          {
+            "caption": "a yellow train going down the train track",
+            "split_a_image_ids": ["411866"],
+            "split_b_image_ids": ["500717"]
+          },
+          {
+            "caption": "an uncommon picture of a single person inside this picture",
+            "split_a_image_ids": ["434410"],
+            "split_b_image_ids": ["248395"]
+          }
+        ]
+      },
+      "kb_10k_vs_test_1000_caption_overlap": {
+        "count": 39,
+        "examples": [
+          {
+            "caption": "a bathroom scene with focus on the toilet",
+            "split_a_image_ids": ["306444"],
+            "split_b_image_ids": ["286907", "453634"]
+          },
+          {
+            "caption": "a bathroom with a big mirror above the sink",
+            "split_a_image_ids": ["321706"],
+            "split_b_image_ids": ["58029"]
+          },
+          {
+            "caption": "a bathroom with a sink and a toilet",
+            "split_a_image_ids": [
+              "142337",
+              "35526",
+              "43771",
+              "460812",
+              "480793",
+              "61422"
+            ],
+            "split_b_image_ids": ["453634"]
+          },
+          {
+            "caption": "a bed and a mirror in a small room",
+            "split_a_image_ids": ["144870"],
+            "split_b_image_ids": ["632"]
+          },
+          {
+            "caption": "a busy road full of street signs and cars",
+            "split_a_image_ids": ["467721"],
+            "split_b_image_ids": ["410712"]
+          },
+          {
+            "caption": "a couple of giraffes are standing in a field",
+            "split_a_image_ids": ["208671", "573291"],
+            "split_b_image_ids": ["320425"]
+          },
+          {
+            "caption": "a couple of motorcycles parked next to each other",
+            "split_a_image_ids": ["136572", "44718"],
+            "split_b_image_ids": ["338219"]
+          },
+          {
+            "caption": "a fire hydrant on the side of the street",
+            "split_a_image_ids": ["135763", "391161"],
+            "split_b_image_ids": ["8899"]
+          },
+          {
+            "caption": "a group of giraffes that are standing in the grass",
+            "split_a_image_ids": ["289486", "388812", "553034"],
+            "split_b_image_ids": ["205282"]
+          },
+          {
+            "caption": "a group of people standing around each other",
+            "split_a_image_ids": ["560890"],
+            "split_b_image_ids": ["2685"]
+          }
+        ]
+      },
+      "val_100_vs_test_1000_caption_overlap": {
+        "count": 1,
+        "examples": [
+          {
+            "caption": "a couple of giraffes are standing in a field",
+            "split_a_image_ids": ["482626"],
+            "split_b_image_ids": ["320425"]
+          }
+        ]
+      }
+    },
+    "strict_caption_text_leakage": {
+      "enabled": false,
+      "description": "When enabled, any normalized caption string shared between splits causes the audit to fail."
+    },
+    "self_retrieval_filter": {
+      "passed": true,
+      "queries_checked": 1100,
+      "self_retrieval_errors": []
+    }
+  },
+  "errors": [],
+  "warnings": [
+    "kb_10k: 18 records contain duplicate captions.",
+    "val_100: 1 records contain duplicate captions.",
+    "test_1000: 2 records contain duplicate captions.",
+    "14 normalized caption strings occur in both kb_10k and val_100. This may be natural caption repetition across different images.",
+    "39 normalized caption strings occur in both kb_10k and test_1000. This may be natural caption repetition across different images.",
+    "1 normalized caption strings occur in both val_100 and test_1000. This may be natural caption repetition across different images."
+  ],
+  "overall_status": "PASS"
+}

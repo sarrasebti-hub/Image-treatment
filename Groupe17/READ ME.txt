@@ -6,6 +6,7 @@ Haddab Selsabil
 Berraki zineddine
 BAZINE Rafie
 Saidani Abderraouf
+Hadil Cheikh
 
 ## Project Title
 A comparative study of RAG techniques for 
@@ -16,3 +17,24 @@ generating image captions- Contextual Compression RAG
 - Dataset information
 - Results
 - Final report
+
+---
+
+# Phase 01 Notebooks & Deliverables & Report
+
+Each notebook reads the COCO data or an earlier notebook's output and contributes to `Phase 01 Deliverable/`.
+
+- `download_and_extract_raw_coco_dataset.ipynb`: downloads and extracts COCO images and annotations.
+- `data_exploration_of_sub_datasets.ipynb`: analyzes split sizes, captions, objects, relations, and distributions; results support `audit_eda/`.
+- `image_validation.ipynb`: checks image availability and quality; results support `image_preprocessing/`.
+- `metadata_extraction.ipynb`: extracts object classes, bounding boxes, counts, and image dimensions into `metadata/`.
+- `caption_cleaning_and_diversity.ipynb`: cleans captions and measures caption diversity into `caption_preprocessing/`.
+- `quality_control.ipynb`: validates split, image, caption, and metadata integrity; results go into `audit_eda/audit_logs/`.
+- `embeddings.ipynb`: generates image/caption embeddings and their manifest in `embeddings/`.
+- `faiss_index.ipynb`: builds the FAISS retrieval index and lookup metadata in `vector_db/`.
+- `reorganize_release.ipynb`: collects and packages the validated outputs into `Phase 01 Deliverable/`.
+- `step_1_to_4_of_preprocessing_phase.ipynb`: combined preprocessing workflow covering download, validation, captions, and metadata.
+
+## Output flow
+
+`COCO dataset -> sub-dataset splits -> preprocessing -> quality-control audits -> embeddings -> FAISS index -> Phase 01 Deliverable/`

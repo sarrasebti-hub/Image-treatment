@@ -1,0 +1,13 @@
+{
+  "model": "openai/clip-vit-base-patch32",
+  "dim": 512,
+  "image_batch": 128,
+  "text_batch": 512,
+  "normalisation": "L2",
+  "dtype": "float32",
+  "text_source": "captions_clean (KB only)",
+  "n_image_vectors_kb": 10000,
+  "n_text_vectors_kb": 50000,
+  "image_preprocessing": "EXIF transpose, RGB, CLIPProcessor resize/normalise",
+  "device": "cuda (T4)"
+}

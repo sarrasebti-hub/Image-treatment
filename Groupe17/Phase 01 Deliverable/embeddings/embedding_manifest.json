@@ -1,0 +1,32 @@
+{
+  "image_encoder": {
+    "checkpoint": "openai/clip-vit-base-patch32",
+    "dim": 512,
+    "batch_size": 128,
+    "normalisation": "L2",
+    "dtype": "float32",
+    "preprocessing": "EXIF transpose, RGB, CLIPProcessor resize/normalise"
+  },
+  "text_encoder": {
+    "checkpoint": "sentence-transformers/all-MiniLM-L6-v2",
+    "dim": 384,
+    "batch_size": 256,
+    "normalisation": "L2",
+    "dtype": "float32",
+    "source": "cleaned_captions (KB only)",
+    "encode_time_sec": 278.3,
+    "device": "cpu"
+  },
+  "text_encoder_extra_clip": {
+    "checkpoint": "openai/clip-vit-base-patch32",
+    "dim": 512,
+    "normalisation": "L2",
+    "file": "kb_10k_text_embeddings_clip.npy",
+    "use": "image->text retrieval (shared CLIP space)"
+  },
+  "shapes": {
+    "kb_10k_image": [10000, 512],
+    "kb_10k_text": [50000, 384],
+    "kb_10k_text_clip": [50000, 512]
+  }
+}

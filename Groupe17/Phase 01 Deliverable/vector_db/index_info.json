@@ -1,0 +1,19 @@
+{
+  "library": "faiss 1.16.0",
+  "index_type": "IndexFlatIP (exact search)",
+  "similarity_metric": "inner product on L2-normalised vectors (= cosine)",
+  "dimension": 512,
+  "image_index_vectors": 10000,
+  "text_index_vectors": 50000,
+  "image_index_size_mb": 20.5,
+  "text_index_size_mb": 102.4,
+  "indexing_time_sec": {
+    "image": 0.02,
+    "text": 0.107
+  },
+  "retrieval_latency_ms_per_query": {
+    "image_to_image": 2.733,
+    "image_to_text": 15.191
+  },
+  "id_mapping": "image index row i -> kb_10k_image_ids.json[i]; text index row i -> kb_text_owners.json[i] = [image_id, caption_idx]"
+}

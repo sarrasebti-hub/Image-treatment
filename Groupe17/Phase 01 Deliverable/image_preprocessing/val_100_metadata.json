@@ -1,0 +1,4394 @@
+[
+  {
+    "image_id": "145073",
+    "file_name": "000000145073.jpg",
+    "image_path": "/content/train2017/000000145073.jpg",
+    "width": 640,
+    "height": 406,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.57635,
+    "format": "RGB",
+    "file_size_bytes": 199096,
+    "objects": [
+      {
+        "class_id": 11,
+        "class_name": "stop sign",
+        "confidence": 0.9273,
+        "bbox_xyxy": [14.71, 1.32, 508.54, 400.48]
+      }
+    ]
+  },
+  {
+    "image_id": "44801",
+    "file_name": "000000044801.jpg",
+    "image_path": "/content/train2017/000000044801.jpg",
+    "width": 500,
+    "height": 333,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.5015,
+    "format": "RGB",
+    "file_size_bytes": 58907,
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.9266,
+        "bbox_xyxy": [151.02, 153.18, 281.25, 271.89]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.9225,
+        "bbox_xyxy": [22.06, 160.95, 212.79, 302.46]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.882,
+        "bbox_xyxy": [278.39, 133.48, 376.29, 283.46]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.8289,
+        "bbox_xyxy": [169.23, 124.96, 204.88, 152.75]
+      },
+      {
+        "class_id": 5,
+        "class_name": "bus",
+        "confidence": 0.797,
+        "bbox_xyxy": [339.46, 75.12, 479.31, 196.06]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.7919,
+        "bbox_xyxy": [73.35, 126.75, 121.81, 163.15]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.6612,
+        "bbox_xyxy": [138.28, 56.7, 145.3, 67.89]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.5797,
+        "bbox_xyxy": [264.65, 128.98, 294.31, 157.46]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.5719,
+        "bbox_xyxy": [473.24, 123.92, 493.95, 189.99]
+      },
+      {
+        "class_id": 3,
+        "class_name": "motorcycle",
+        "confidence": 0.4806,
+        "bbox_xyxy": [282.38, 162.8, 363.56, 285.1]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.4419,
+        "bbox_xyxy": [42.66, 127.09, 82.69, 166.79]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.4348,
+        "bbox_xyxy": [214.06, 162.43, 244.99, 186.89]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.3864,
+        "bbox_xyxy": [63.61, 116.94, 88.28, 135.8]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.3773,
+        "bbox_xyxy": [0.0, 98.81, 50.66, 273.69]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.3594,
+        "bbox_xyxy": [260.52, 93.58, 267.31, 104.23]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.3117,
+        "bbox_xyxy": [450.0, 0.86, 497.32, 55.67]
+      }
+    ]
+  },
+  {
+    "image_id": "342649",
+    "file_name": "000000342649.jpg",
+    "image_path": "/content/train2017/000000342649.jpg",
+    "width": 375,
+    "height": 500,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 0.75,
+    "format": "RGB",
+    "file_size_bytes": 98770,
+    "objects": [
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.9141,
+        "bbox_xyxy": [108.03, 158.91, 351.37, 293.51]
+      }
+    ]
+  },
+  {
+    "image_id": "109012",
+    "file_name": "000000109012.jpg",
+    "image_path": "/content/train2017/000000109012.jpg",
+    "width": 500,
+    "height": 400,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.25,
+    "format": "RGB",
+    "file_size_bytes": 145490,
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.9072,
+        "bbox_xyxy": [106.17, 227.52, 250.97, 333.37]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.8881,
+        "bbox_xyxy": [328.61, 228.84, 439.47, 298.74]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.8758,
+        "bbox_xyxy": [278.62, 234.08, 340.9, 273.34]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.8314,
+        "bbox_xyxy": [6.96, 226.95, 122.18, 300.78]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.7004,
+        "bbox_xyxy": [264.13, 236.1, 291.09, 260.74]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.6414,
+        "bbox_xyxy": [0.03, 255.21, 21.55, 333.16]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.6119,
+        "bbox_xyxy": [48.46, 158.53, 55.51, 178.23]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.6004,
+        "bbox_xyxy": [221.16, 229.78, 250.71, 260.25]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.5619,
+        "bbox_xyxy": [141.08, 157.59, 149.28, 178.31]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.5328,
+        "bbox_xyxy": [96.28, 159.94, 103.02, 178.07]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.5317,
+        "bbox_xyxy": [298.03, 197.05, 303.64, 206.9]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.4639,
+        "bbox_xyxy": [129.88, 149.77, 139.31, 162.28]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.3817,
+        "bbox_xyxy": [104.04, 232.78, 140.71, 261.91]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.3733,
+        "bbox_xyxy": [311.44, 195.16, 316.05, 205.31]
+      }
+    ]
+  },
+  {
+    "image_id": "375409",
+    "file_name": "000000375409.jpg",
+    "image_path": "/content/train2017/000000375409.jpg",
+    "width": 640,
+    "height": 428,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.49533,
+    "format": "RGB",
+    "file_size_bytes": 195096,
+    "objects": [
+      {
+        "class_id": 6,
+        "class_name": "train",
+        "confidence": 0.7345,
+        "bbox_xyxy": [0.59, 104.6, 637.46, 314.34]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.6377,
+        "bbox_xyxy": [614.99, 269.97, 626.43, 310.08]
+      }
+    ]
+  },
+  {
+    "image_id": "227033",
+    "file_name": "000000227033.jpg",
+    "image_path": "/content/train2017/000000227033.jpg",
+    "width": 640,
+    "height": 480,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 209110,
+    "objects": [
+      {
+        "class_id": 6,
+        "class_name": "train",
+        "confidence": 0.8158,
+        "bbox_xyxy": [0.0, 1.23, 634.89, 475.07]
+      }
+    ]
+  },
+  {
+    "image_id": "557422",
+    "file_name": "000000557422.jpg",
+    "image_path": "/content/train2017/000000557422.jpg",
+    "width": 458,
+    "height": 640,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 0.71562,
+    "format": "RGB",
+    "file_size_bytes": 156508,
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.287,
+        "bbox_xyxy": [90.18, 471.35, 105.71, 489.93]
+      }
+    ]
+  },
+  {
+    "image_id": "386193",
+    "file_name": "000000386193.jpg",
+    "image_path": "/content/train2017/000000386193.jpg",
+    "width": 500,
+    "height": 375,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 131920,
+    "objects": [
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.8244,
+        "bbox_xyxy": [177.35, 193.84, 207.18, 234.9]
+      },
+      {
+        "class_id": 74,
+        "class_name": "clock",
+        "confidence": 0.7905,
+        "bbox_xyxy": [115.96, 35.2, 410.01, 314.91]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.5659,
+        "bbox_xyxy": [289.27, 223.57, 328.64, 261.72]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.5558,
+        "bbox_xyxy": [321.35, 198.25, 355.24, 231.85]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.3828,
+        "bbox_xyxy": [195.0, 88.22, 230.42, 121.5]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.3281,
+        "bbox_xyxy": [207.39, 227.95, 233.47, 258.21]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.2842,
+        "bbox_xyxy": [246.5, 231.72, 276.9, 278.81]
+      }
+    ]
+  },
+  {
+    "image_id": "573686",
+    "file_name": "000000573686.jpg",
+    "image_path": "/content/train2017/000000573686.jpg",
+    "width": 640,
+    "height": 429,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.49184,
+    "format": "RGB",
+    "file_size_bytes": 166831,
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.898,
+        "bbox_xyxy": [0.37, 28.43, 244.12, 424.57]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.6374,
+        "bbox_xyxy": [384.59, 130.58, 527.38, 426.14]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.5691,
+        "bbox_xyxy": [203.5, 57.73, 422.24, 425.3]
+      },
+      {
+        "class_id": 31,
+        "class_name": "snowboard",
+        "confidence": 0.478,
+        "bbox_xyxy": [0.0, 165.54, 122.19, 425.47]
+      }
+    ]
+  },
+  {
+    "image_id": "342814",
+    "file_name": "000000342814.jpg",
+    "image_path": "/content/train2017/000000342814.jpg",
+    "width": 640,
+    "height": 427,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.49883,
+    "format": "RGB",
+    "file_size_bytes": 225319,
+    "objects": [
+      {
+        "class_id": 5,
+        "class_name": "bus",
+        "confidence": 0.6992,
+        "bbox_xyxy": [89.5, 180.14, 305.18, 353.18]
+      },
+      {
+        "class_id": 5,
+        "class_name": "bus",
+        "confidence": 0.6238,
+        "bbox_xyxy": [282.77, 0.0, 639.42, 422.64]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.5653,
+        "bbox_xyxy": [21.63, 253.03, 52.06, 322.79]
+      }
+    ]
+  },
+  {
+    "image_id": "238525",
+    "file_name": "000000238525.jpg",
+    "image_path": "/content/train2017/000000238525.jpg",
+    "width": 640,
+    "height": 480,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 192012,
+    "objects": [
+      {
+        "class_id": 23,
+        "class_name": "giraffe",
+        "confidence": 0.8693,
+        "bbox_xyxy": [35.02, 11.28, 519.93, 478.61]
+      },
+      {
+        "class_id": 23,
+        "class_name": "giraffe",
+        "confidence": 0.7022,
+        "bbox_xyxy": [0.31, 0.28, 114.32, 381.41]
+      },
+      {
+        "class_id": 23,
+        "class_name": "giraffe",
+        "confidence": 0.495,
+        "bbox_xyxy": [449.91, 1.99, 628.07, 480.0]
+      }
+    ]
+  },
+  {
+    "image_id": "436044",
+    "file_name": "000000436044.jpg",
+    "image_path": "/content/train2017/000000436044.jpg",
+    "width": 640,
+    "height": 428,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.49533,
+    "format": "RGB",
+    "file_size_bytes": 171707,
+    "objects": [
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.8939,
+        "bbox_xyxy": [226.83, 144.9, 390.34, 323.57]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.2656,
+        "bbox_xyxy": [174.2, 269.71, 318.02, 375.24]
+      }
+    ]
+  },
+  {
+    "image_id": "176906",
+    "file_name": "000000176906.jpg",
+    "image_path": "/content/train2017/000000176906.jpg",
+    "width": 460,
+    "height": 500,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 0.92,
+    "format": "RGB",
+    "file_size_bytes": 229414,
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.8987,
+        "bbox_xyxy": [12.6, 90.96, 106.68, 295.87]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.87,
+        "bbox_xyxy": [369.05, 30.31, 459.15, 408.39]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.8063,
+        "bbox_xyxy": [261.51, 103.67, 284.1, 165.33]
+      },
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.7906,
+        "bbox_xyxy": [91.2, 288.36, 184.52, 375.7]
+      },
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.7899,
+        "bbox_xyxy": [24.37, 340.78, 221.58, 468.66]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.7671,
+        "bbox_xyxy": [231.23, 106.73, 255.94, 168.22]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.7623,
+        "bbox_xyxy": [116.29, 88.21, 179.02, 267.18]
+      },
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.62,
+        "bbox_xyxy": [185.68, 281.39, 272.98, 393.69]
+      },
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.4835,
+        "bbox_xyxy": [179.1, 240.02, 248.54, 313.14]
+      },
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.3547,
+        "bbox_xyxy": [207.17, 292.57, 408.06, 484.51]
+      },
+      {
+        "class_id": 13,
+        "class_name": "bench",
+        "confidence": 0.2522,
+        "bbox_xyxy": [163.71, 133.89, 207.81, 165.4]
+      }
+    ]
+  },
+  {
+    "image_id": "562171",
+    "file_name": "000000562171.jpg",
+    "image_path": "/content/train2017/000000562171.jpg",
+    "width": 500,
+    "height": 350,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.42857,
+    "format": "RGB",
+    "file_size_bytes": 140061,
+    "objects": [
+      {
+        "class_id": 23,
+        "class_name": "giraffe",
+        "confidence": 0.9016,
+        "bbox_xyxy": [88.44, 34.11, 433.25, 307.05]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.5621,
+        "bbox_xyxy": [53.23, 104.49, 102.24, 128.75]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.5256,
+        "bbox_xyxy": [6.94, 83.23, 88.64, 108.8]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.4555,
+        "bbox_xyxy": [0.0, 117.62, 64.89, 150.44]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.3948,
+        "bbox_xyxy": [0.22, 105.3, 31.02, 127.7]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.2714,
+        "bbox_xyxy": [294.89, 180.58, 317.19, 218.0]
+      }
+    ]
+  },
+  {
+    "image_id": "87435",
+    "file_name": "000000087435.jpg",
+    "image_path": "/content/train2017/000000087435.jpg",
+    "width": 640,
+    "height": 360,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.77778,
+    "format": "RGB",
+    "file_size_bytes": 230904,
+    "objects": [
+      {
+        "class_id": 5,
+        "class_name": "bus",
+        "confidence": 0.7035,
+        "bbox_xyxy": [78.52, 15.51, 401.8, 339.96]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.6334,
+        "bbox_xyxy": [372.17, 212.69, 407.48, 250.37]
+      }
+    ]
+  },
+  {
+    "image_id": "5356",
+    "file_name": "000000005356.jpg",
+    "image_path": "/content/train2017/000000005356.jpg",
+    "width": 640,
+    "height": 427,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.49883,
+    "format": "RGB",
+    "file_size_bytes": 107331,
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.8581,
+        "bbox_xyxy": [212.99, 190.82, 298.48, 419.76]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.784,
+        "bbox_xyxy": [591.1, 194.43, 639.83, 364.57]
+      },
+      {
+        "class_id": 4,
+        "class_name": "airplane",
+        "confidence": 0.4877,
+        "bbox_xyxy": [1.2, 41.16, 583.02, 340.86]
+      }
+    ]
+  },
+  {
+    "image_id": "543713",
+    "file_name": "000000543713.jpg",
+    "image_path": "/content/train2017/000000543713.jpg",
+    "width": 640,
+    "height": 481,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33056,
+    "format": "RGB",
+    "file_size_bytes": 219879,
+    "objects": [
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.9263,
+        "bbox_xyxy": [44.84, 211.83, 373.9, 440.35]
+      },
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.8078,
+        "bbox_xyxy": [68.87, 178.63, 105.28, 203.03]
+      },
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.783,
+        "bbox_xyxy": [614.19, 122.12, 630.79, 148.21]
+      },
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.7779,
+        "bbox_xyxy": [528.55, 133.07, 565.5, 157.83]
+      },
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.7643,
+        "bbox_xyxy": [162.35, 175.23, 200.06, 205.05]
+      },
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.7201,
+        "bbox_xyxy": [326.55, 129.99, 347.95, 153.11]
+      },
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.6762,
+        "bbox_xyxy": [375.86, 129.55, 393.32, 153.81]
+      },
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.6215,
+        "bbox_xyxy": [107.44, 104.37, 128.34, 123.68]
+      },
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.5901,
+        "bbox_xyxy": [98.61, 167.69, 128.85, 191.77]
+      },
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.5806,
+        "bbox_xyxy": [192.75, 151.83, 218.49, 176.29]
+      },
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.5318,
+        "bbox_xyxy": [537.48, 97.78, 569.34, 119.33]
+      },
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.2622,
+        "bbox_xyxy": [456.72, 106.76, 472.05, 124.18]
+      }
+    ]
+  },
+  {
+    "image_id": "518604",
+    "file_name": "000000518604.jpg",
+    "image_path": "/content/train2017/000000518604.jpg",
+    "width": 640,
+    "height": 480,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 96471,
+    "objects": [
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.9205,
+        "bbox_xyxy": [279.14, 77.19, 507.74, 379.29]
+      }
+    ]
+  },
+  {
+    "image_id": "526459",
+    "file_name": "000000526459.jpg",
+    "image_path": "/content/train2017/000000526459.jpg",
+    "width": 480,
+    "height": 640,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 0.75,
+    "format": "RGB",
+    "file_size_bytes": 168503,
+    "objects": [
+      {
+        "class_id": 7,
+        "class_name": "truck",
+        "confidence": 0.6754,
+        "bbox_xyxy": [14.47, 48.96, 463.51, 395.51]
+      },
+      {
+        "class_id": 5,
+        "class_name": "bus",
+        "confidence": 0.521,
+        "bbox_xyxy": [9.28, 43.69, 462.32, 397.56]
+      }
+    ]
+  },
+  {
+    "image_id": "3849",
+    "file_name": "000000003849.jpg",
+    "image_path": "/content/train2017/000000003849.jpg",
+    "width": 640,
+    "height": 480,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 90142,
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.7691,
+        "bbox_xyxy": [260.97, 319.57, 300.83, 347.24]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.7341,
+        "bbox_xyxy": [409.61, 320.91, 441.43, 347.57]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.6862,
+        "bbox_xyxy": [299.25, 318.85, 323.18, 337.83]
+      },
+      {
+        "class_id": 7,
+        "class_name": "truck",
+        "confidence": 0.684,
+        "bbox_xyxy": [319.73, 307.77, 371.69, 355.11]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.4969,
+        "bbox_xyxy": [502.95, 319.85, 530.64, 335.19]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.3326,
+        "bbox_xyxy": [372.53, 318.42, 389.8, 333.17]
+      }
+    ]
+  },
+  {
+    "image_id": "58569",
+    "file_name": "000000058569.jpg",
+    "image_path": "/content/train2017/000000058569.jpg",
+    "width": 640,
+    "height": 480,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 192800,
+    "objects": [
+      {
+        "class_id": 5,
+        "class_name": "bus",
+        "confidence": 0.916,
+        "bbox_xyxy": [0.31, 0.0, 341.22, 403.79]
+      },
+      {
+        "class_id": 5,
+        "class_name": "bus",
+        "confidence": 0.8901,
+        "bbox_xyxy": [331.6, 152.16, 530.81, 313.89]
+      },
+      {
+        "class_id": 5,
+        "class_name": "bus",
+        "confidence": 0.6295,
+        "bbox_xyxy": [525.4, 223.99, 569.67, 286.28]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.5107,
+        "bbox_xyxy": [614.92, 259.96, 639.82, 419.12]
+      }
+    ]
+  },
+  {
+    "image_id": "161010",
+    "file_name": "000000161010.jpg",
+    "image_path": "/content/train2017/000000161010.jpg",
+    "width": 640,
+    "height": 480,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 195936,
+    "objects": [
+      {
+        "class_id": 10,
+        "class_name": "fire hydrant",
+        "confidence": 0.9185,
+        "bbox_xyxy": [229.3, 319.21, 311.91, 479.84]
+      },
+      {
+        "class_id": 7,
+        "class_name": "truck",
+        "confidence": 0.8372,
+        "bbox_xyxy": [0.11, 182.48, 93.91, 261.09]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.6389,
+        "bbox_xyxy": [169.72, 203.27, 238.09, 243.46]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.5667,
+        "bbox_xyxy": [123.24, 203.8, 177.59, 219.38]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.3338,
+        "bbox_xyxy": [374.26, 212.98, 385.8, 234.31]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.2662,
+        "bbox_xyxy": [262.18, 207.1, 290.2, 222.68]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.2566,
+        "bbox_xyxy": [417.22, 217.37, 440.04, 233.7]
+      }
+    ]
+  },
+  {
+    "image_id": "251768",
+    "file_name": "000000251768.jpg",
+    "image_path": "/content/train2017/000000251768.jpg",
+    "width": 640,
+    "height": 427,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.49883,
+    "format": "RGB",
+    "file_size_bytes": 144599,
+    "objects": [
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.8893,
+        "bbox_xyxy": [408.78, 321.93, 451.28, 373.61]
+      },
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.8824,
+        "bbox_xyxy": [446.37, 302.7, 497.81, 369.98]
+      }
+    ]
+  },
+  {
+    "image_id": "340922",
+    "file_name": "000000340922.jpg",
+    "image_path": "/content/train2017/000000340922.jpg",
+    "width": 640,
+    "height": 480,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 294102,
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.8976,
+        "bbox_xyxy": [31.64, 277.65, 147.45, 443.16]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.5503,
+        "bbox_xyxy": [609.75, 217.9, 639.76, 293.87]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.4715,
+        "bbox_xyxy": [557.11, 214.46, 593.55, 292.14]
+      },
+      {
+        "class_id": 13,
+        "class_name": "bench",
+        "confidence": 0.3974,
+        "bbox_xyxy": [29.46, 294.35, 640.0, 479.3]
+      }
+    ]
+  },
+  {
+    "image_id": "288603",
+    "file_name": "000000288603.jpg",
+    "image_path": "/content/train2017/000000288603.jpg",
+    "width": 640,
+    "height": 428,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.49533,
+    "format": "RGB",
+    "file_size_bytes": 233499,
+    "objects": [
+      {
+        "class_id": 19,
+        "class_name": "cow",
+        "confidence": 0.7863,
+        "bbox_xyxy": [39.81, 205.5, 139.7, 379.87]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.7784,
+        "bbox_xyxy": [545.0, 79.79, 585.81, 152.7]
+      },
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.6411,
+        "bbox_xyxy": [577.33, 148.2, 632.53, 256.51]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.6361,
+        "bbox_xyxy": [474.6, 99.05, 520.67, 143.43]
+      },
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.6042,
+        "bbox_xyxy": [428.71, 159.06, 506.06, 297.71]
+      },
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.5565,
+        "bbox_xyxy": [330.59, 164.54, 414.91, 321.09]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.5142,
+        "bbox_xyxy": [318.82, 105.31, 360.25, 142.7]
+      },
+      {
+        "class_id": 19,
+        "class_name": "cow",
+        "confidence": 0.4637,
+        "bbox_xyxy": [0.0, 177.23, 78.95, 313.0]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.4533,
+        "bbox_xyxy": [0.21, 13.19, 328.41, 156.26]
+      },
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.4365,
+        "bbox_xyxy": [499.31, 136.55, 590.77, 265.34]
+      },
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.3492,
+        "bbox_xyxy": [0.0, 176.96, 81.53, 315.5]
+      },
+      {
+        "class_id": 19,
+        "class_name": "cow",
+        "confidence": 0.2956,
+        "bbox_xyxy": [142.18, 152.89, 290.07, 359.76]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.2916,
+        "bbox_xyxy": [568.07, 79.68, 639.66, 172.77]
+      },
+      {
+        "class_id": 7,
+        "class_name": "truck",
+        "confidence": 0.2862,
+        "bbox_xyxy": [277.7, 64.68, 452.42, 144.49]
+      },
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.2655,
+        "bbox_xyxy": [381.41, 157.85, 437.99, 295.38]
+      }
+    ]
+  },
+  {
+    "image_id": "345275",
+    "file_name": "000000345275.jpg",
+    "image_path": "/content/train2017/000000345275.jpg",
+    "width": 640,
+    "height": 480,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 63314,
+    "objects": [
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.4391,
+        "bbox_xyxy": [56.0, 241.67, 143.59, 412.57]
+      }
+    ]
+  },
+  {
+    "image_id": "224970",
+    "file_name": "000000224970.jpg",
+    "image_path": "/content/train2017/000000224970.jpg",
+    "width": 640,
+    "height": 478,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33891,
+    "format": "RGB",
+    "file_size_bytes": 206212,
+    "objects": []
+  },
+  {
+    "image_id": "316396",
+    "file_name": "000000316396.jpg",
+    "image_path": "/content/train2017/000000316396.jpg",
+    "width": 607,
+    "height": 640,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 0.94844,
+    "format": "RGB",
+    "file_size_bytes": 423815,
+    "objects": [
+      {
+        "class_id": 23,
+        "class_name": "giraffe",
+        "confidence": 0.9246,
+        "bbox_xyxy": [60.73, 245.39, 171.08, 531.2]
+      },
+      {
+        "class_id": 23,
+        "class_name": "giraffe",
+        "confidence": 0.8929,
+        "bbox_xyxy": [197.48, 247.16, 370.05, 500.29]
+      },
+      {
+        "class_id": 23,
+        "class_name": "giraffe",
+        "confidence": 0.8911,
+        "bbox_xyxy": [293.75, 212.13, 447.86, 486.2]
+      },
+      {
+        "class_id": 23,
+        "class_name": "giraffe",
+        "confidence": 0.4481,
+        "bbox_xyxy": [408.62, 334.31, 453.12, 479.23]
+      }
+    ]
+  },
+  {
+    "image_id": "173080",
+    "file_name": "000000173080.jpg",
+    "image_path": "/content/train2017/000000173080.jpg",
+    "width": 640,
+    "height": 480,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 76789,
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.861,
+        "bbox_xyxy": [531.19, 377.89, 639.71, 479.85]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.8224,
+        "bbox_xyxy": [451.39, 387.6, 508.63, 431.27]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.8214,
+        "bbox_xyxy": [491.9, 386.39, 553.35, 437.76]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.7341,
+        "bbox_xyxy": [361.28, 382.51, 432.41, 464.06]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.7283,
+        "bbox_xyxy": [177.43, 379.66, 275.5, 460.53]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.6496,
+        "bbox_xyxy": [409.54, 385.13, 452.49, 451.95]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.5476,
+        "bbox_xyxy": [317.01, 33.28, 399.37, 106.66]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.2923,
+        "bbox_xyxy": [535.91, 368.44, 628.57, 408.98]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.27,
+        "bbox_xyxy": [63.8, 318.63, 77.93, 339.54]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.2687,
+        "bbox_xyxy": [374.69, 40.73, 399.57, 102.92]
+      }
+    ]
+  },
+  {
+    "image_id": "179563",
+    "file_name": "000000179563.jpg",
+    "image_path": "/content/train2017/000000179563.jpg",
+    "width": 411,
+    "height": 411,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.0,
+    "format": "RGB",
+    "file_size_bytes": 69365,
+    "objects": [
+      {
+        "class_id": 11,
+        "class_name": "stop sign",
+        "confidence": 0.898,
+        "bbox_xyxy": [260.96, 25.93, 321.62, 89.23]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.791,
+        "bbox_xyxy": [83.82, 225.42, 96.57, 264.83]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.6338,
+        "bbox_xyxy": [197.81, 163.51, 284.02, 334.73]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.4402,
+        "bbox_xyxy": [287.05, 243.62, 353.97, 287.01]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.2612,
+        "bbox_xyxy": [185.67, 236.67, 216.0, 319.68]
+      }
+    ]
+  },
+  {
+    "image_id": "87958",
+    "file_name": "000000087958.jpg",
+    "image_path": "/content/train2017/000000087958.jpg",
+    "width": 471,
+    "height": 500,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 0.942,
+    "format": "RGB",
+    "file_size_bytes": 125472,
+    "objects": [
+      {
+        "class_id": 6,
+        "class_name": "train",
+        "confidence": 0.8294,
+        "bbox_xyxy": [64.31, 171.83, 455.22, 452.14]
+      }
+    ]
+  },
+  {
+    "image_id": "503724",
+    "file_name": "000000503724.jpg",
+    "image_path": "/content/train2017/000000503724.jpg",
+    "width": 640,
+    "height": 257,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 2.49027,
+    "format": "RGB",
+    "file_size_bytes": 121838,
+    "objects": [
+      {
+        "class_id": 6,
+        "class_name": "train",
+        "confidence": 0.8253,
+        "bbox_xyxy": [9.45, 37.33, 621.95, 211.28]
+      }
+    ]
+  },
+  {
+    "image_id": "83602",
+    "file_name": "000000083602.jpg",
+    "image_path": "/content/train2017/000000083602.jpg",
+    "width": 640,
+    "height": 425,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.50588,
+    "format": "RGB",
+    "file_size_bytes": 226698,
+    "objects": [
+      {
+        "class_id": 6,
+        "class_name": "train",
+        "confidence": 0.8778,
+        "bbox_xyxy": [9.65, 64.67, 531.75, 374.26]
+      }
+    ]
+  },
+  {
+    "image_id": "507550",
+    "file_name": "000000507550.jpg",
+    "image_path": "/content/train2017/000000507550.jpg",
+    "width": 640,
+    "height": 428,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.49533,
+    "format": "RGB",
+    "file_size_bytes": 126043,
+    "objects": [
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.6836,
+        "bbox_xyxy": [249.06, 241.72, 273.75, 274.99]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.6717,
+        "bbox_xyxy": [577.6, 246.77, 610.94, 271.81]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.5207,
+        "bbox_xyxy": [494.5, 246.42, 522.29, 260.5]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.5059,
+        "bbox_xyxy": [338.03, 237.8, 370.12, 280.19]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.3671,
+        "bbox_xyxy": [380.95, 252.54, 402.25, 264.87]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.3215,
+        "bbox_xyxy": [425.56, 243.42, 451.22, 258.6]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.3032,
+        "bbox_xyxy": [314.1, 257.49, 342.08, 277.42]
+      }
+    ]
+  },
+  {
+    "image_id": "500717",
+    "file_name": "000000500717.jpg",
+    "image_path": "/content/train2017/000000500717.jpg",
+    "width": 640,
+    "height": 549,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.16576,
+    "format": "RGB",
+    "file_size_bytes": 244766,
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.881,
+        "bbox_xyxy": [55.4, 334.93, 95.74, 428.71]
+      },
+      {
+        "class_id": 6,
+        "class_name": "train",
+        "confidence": 0.7628,
+        "bbox_xyxy": [23.1, 170.55, 549.52, 421.21]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.742,
+        "bbox_xyxy": [605.94, 357.23, 618.8, 394.01]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.3427,
+        "bbox_xyxy": [489.12, 258.74, 505.17, 276.95]
+      }
+    ]
+  },
+  {
+    "image_id": "244421",
+    "file_name": "000000244421.jpg",
+    "image_path": "/content/train2017/000000244421.jpg",
+    "width": 640,
+    "height": 426,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.50235,
+    "format": "RGB",
+    "file_size_bytes": 140945,
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.9428,
+        "bbox_xyxy": [122.52, 258.46, 497.63, 408.78]
+      },
+      {
+        "class_id": 5,
+        "class_name": "bus",
+        "confidence": 0.706,
+        "bbox_xyxy": [103.62, 85.55, 562.15, 327.8]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.64,
+        "bbox_xyxy": [308.33, 183.66, 330.73, 223.82]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.5385,
+        "bbox_xyxy": [56.57, 208.37, 71.59, 227.48]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.5003,
+        "bbox_xyxy": [94.51, 196.83, 108.29, 227.21]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.4234,
+        "bbox_xyxy": [290.55, 183.37, 326.65, 224.07]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.3418,
+        "bbox_xyxy": [417.33, 155.98, 440.45, 217.43]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.2865,
+        "bbox_xyxy": [191.45, 191.65, 207.81, 225.37]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.2616,
+        "bbox_xyxy": [77.05, 200.18, 88.57, 226.86]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.2539,
+        "bbox_xyxy": [445.73, 168.46, 471.72, 215.94]
+      }
+    ]
+  },
+  {
+    "image_id": "559047",
+    "file_name": "000000559047.jpg",
+    "image_path": "/content/train2017/000000559047.jpg",
+    "width": 640,
+    "height": 430,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.48837,
+    "format": "RGB",
+    "file_size_bytes": 244906,
+    "objects": [
+      {
+        "class_id": 15,
+        "class_name": "cat",
+        "confidence": 0.9116,
+        "bbox_xyxy": [355.17, 93.49, 485.51, 338.83]
+      },
+      {
+        "class_id": 13,
+        "class_name": "bench",
+        "confidence": 0.8116,
+        "bbox_xyxy": [259.47, 163.44, 593.99, 419.65]
+      }
+    ]
+  },
+  {
+    "image_id": "95371",
+    "file_name": "000000095371.jpg",
+    "image_path": "/content/train2017/000000095371.jpg",
+    "width": 640,
+    "height": 436,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.46789,
+    "format": "RGB",
+    "file_size_bytes": 226471,
+    "objects": [
+      {
+        "class_id": 5,
+        "class_name": "bus",
+        "confidence": 0.9116,
+        "bbox_xyxy": [175.76, 41.12, 592.9, 370.92]
+      },
+      {
+        "class_id": 7,
+        "class_name": "truck",
+        "confidence": 0.7711,
+        "bbox_xyxy": [1.17, 139.01, 179.17, 345.86]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.677,
+        "bbox_xyxy": [230.16, 93.64, 266.4, 132.09]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.6696,
+        "bbox_xyxy": [197.35, 92.29, 235.08, 132.18]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.5085,
+        "bbox_xyxy": [217.05, 208.21, 258.11, 252.75]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.4185,
+        "bbox_xyxy": [451.29, 106.67, 474.28, 135.0]
+      }
+    ]
+  },
+  {
+    "image_id": "248395",
+    "file_name": "000000248395.jpg",
+    "image_path": "/content/train2017/000000248395.jpg",
+    "width": 480,
+    "height": 640,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 0.75,
+    "format": "RGB",
+    "file_size_bytes": 149390,
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.4269,
+        "bbox_xyxy": [0.0, 0.51, 173.45, 371.86]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.2687,
+        "bbox_xyxy": [0.55, 0.4, 472.96, 596.81]
+      }
+    ]
+  },
+  {
+    "image_id": "449403",
+    "file_name": "000000449403.jpg",
+    "image_path": "/content/train2017/000000449403.jpg",
+    "width": 640,
+    "height": 480,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 263000,
+    "objects": [
+      {
+        "class_id": 5,
+        "class_name": "bus",
+        "confidence": 0.9362,
+        "bbox_xyxy": [260.01, 156.67, 418.4, 384.11]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.9015,
+        "bbox_xyxy": [0.18, 303.47, 129.45, 407.78]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.8048,
+        "bbox_xyxy": [553.04, 296.91, 586.99, 376.75]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.7668,
+        "bbox_xyxy": [191.56, 307.95, 228.37, 331.61]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.6138,
+        "bbox_xyxy": [130.03, 311.89, 159.64, 343.11]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.5347,
+        "bbox_xyxy": [76.67, 302.49, 143.48, 363.35]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.529,
+        "bbox_xyxy": [283.78, 279.1, 313.49, 307.99]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.5168,
+        "bbox_xyxy": [452.08, 303.85, 469.33, 329.59]
+      },
+      {
+        "class_id": 25,
+        "class_name": "umbrella",
+        "confidence": 0.4701,
+        "bbox_xyxy": [544.18, 290.1, 586.1, 311.04]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.4056,
+        "bbox_xyxy": [461.53, 259.12, 473.88, 285.58]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.3492,
+        "bbox_xyxy": [593.4, 252.29, 604.52, 278.46]
+      },
+      {
+        "class_id": 7,
+        "class_name": "truck",
+        "confidence": 0.2581,
+        "bbox_xyxy": [242.29, 296.04, 266.24, 328.58]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.2509,
+        "bbox_xyxy": [242.32, 295.41, 266.26, 327.79]
+      }
+    ]
+  },
+  {
+    "image_id": "174987",
+    "file_name": "000000174987.jpg",
+    "image_path": "/content/train2017/000000174987.jpg",
+    "width": 640,
+    "height": 480,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 192741,
+    "objects": [
+      {
+        "class_id": 6,
+        "class_name": "train",
+        "confidence": 0.5065,
+        "bbox_xyxy": [1.0, 0.48, 634.53, 479.12]
+      },
+      {
+        "class_id": 1,
+        "class_name": "bicycle",
+        "confidence": 0.3777,
+        "bbox_xyxy": [7.57, 273.7, 94.85, 324.83]
+      },
+      {
+        "class_id": 5,
+        "class_name": "bus",
+        "confidence": 0.3151,
+        "bbox_xyxy": [191.33, 0.0, 637.96, 464.73]
+      }
+    ]
+  },
+  {
+    "image_id": "64016",
+    "file_name": "000000064016.jpg",
+    "image_path": "/content/train2017/000000064016.jpg",
+    "width": 640,
+    "height": 427,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.49883,
+    "format": "RGB",
+    "file_size_bytes": 218107,
+    "objects": [
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.8731,
+        "bbox_xyxy": [245.54, 147.42, 359.57, 325.44]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.805,
+        "bbox_xyxy": [0.71, 119.14, 308.04, 422.42]
+      },
+      {
+        "class_id": 21,
+        "class_name": "bear",
+        "confidence": 0.4608,
+        "bbox_xyxy": [601.48, 118.05, 639.87, 421.26]
+      }
+    ]
+  },
+  {
+    "image_id": "90560",
+    "file_name": "000000090560.jpg",
+    "image_path": "/content/train2017/000000090560.jpg",
+    "width": 640,
+    "height": 360,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.77778,
+    "format": "RGB",
+    "file_size_bytes": 134198,
+    "objects": [
+      {
+        "class_id": 6,
+        "class_name": "train",
+        "confidence": 0.8908,
+        "bbox_xyxy": [359.05, 100.02, 485.73, 232.08]
+      },
+      {
+        "class_id": 6,
+        "class_name": "train",
+        "confidence": 0.8709,
+        "bbox_xyxy": [253.59, 109.58, 352.53, 227.23]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.7388,
+        "bbox_xyxy": [96.73, 157.15, 116.73, 220.0]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.7228,
+        "bbox_xyxy": [4.87, 152.99, 39.87, 227.84]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.6393,
+        "bbox_xyxy": [193.27, 155.0, 210.79, 209.69]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.5895,
+        "bbox_xyxy": [63.64, 156.18, 82.61, 205.89]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.5703,
+        "bbox_xyxy": [132.07, 159.18, 154.79, 216.47]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.4225,
+        "bbox_xyxy": [126.08, 160.64, 136.8, 201.29]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.4008,
+        "bbox_xyxy": [0.2, 148.64, 19.48, 226.78]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.3622,
+        "bbox_xyxy": [158.18, 155.54, 173.98, 203.06]
+      },
+      {
+        "class_id": 28,
+        "class_name": "suitcase",
+        "confidence": 0.3613,
+        "bbox_xyxy": [156.35, 192.63, 175.31, 218.81]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.3486,
+        "bbox_xyxy": [532.7, 152.24, 548.57, 183.79]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.335,
+        "bbox_xyxy": [243.06, 159.84, 255.13, 199.12]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.3267,
+        "bbox_xyxy": [230.71, 160.95, 239.85, 190.89]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.2797,
+        "bbox_xyxy": [590.62, 169.16, 600.98, 197.13]
+      }
+    ]
+  },
+  {
+    "image_id": "109939",
+    "file_name": "000000109939.jpg",
+    "image_path": "/content/train2017/000000109939.jpg",
+    "width": 480,
+    "height": 640,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 0.75,
+    "format": "RGB",
+    "file_size_bytes": 152731,
+    "objects": [
+      {
+        "class_id": 5,
+        "class_name": "bus",
+        "confidence": 0.939,
+        "bbox_xyxy": [212.11, 100.64, 430.9, 395.1]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.8165,
+        "bbox_xyxy": [7.32, 287.15, 125.56, 346.3]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.7156,
+        "bbox_xyxy": [95.94, 284.94, 150.16, 328.47]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.4213,
+        "bbox_xyxy": [254.45, 150.8, 280.8, 172.92]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.3831,
+        "bbox_xyxy": [0.04, 292.24, 23.36, 333.26]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.3554,
+        "bbox_xyxy": [245.32, 261.9, 277.4, 299.76]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.2899,
+        "bbox_xyxy": [203.18, 295.79, 214.29, 319.24]
+      }
+    ]
+  },
+  {
+    "image_id": "415714",
+    "file_name": "000000415714.jpg",
+    "image_path": "/content/train2017/000000415714.jpg",
+    "width": 428,
+    "height": 640,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 0.66875,
+    "format": "RGB",
+    "file_size_bytes": 126724,
+    "objects": []
+  },
+  {
+    "image_id": "578713",
+    "file_name": "000000578713.jpg",
+    "image_path": "/content/train2017/000000578713.jpg",
+    "width": 640,
+    "height": 480,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 180665,
+    "objects": [
+      {
+        "class_id": 11,
+        "class_name": "stop sign",
+        "confidence": 0.7065,
+        "bbox_xyxy": [101.27, 266.38, 141.31, 317.66]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.4144,
+        "bbox_xyxy": [90.46, 219.73, 135.42, 235.07]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.2604,
+        "bbox_xyxy": [265.72, 208.36, 282.18, 233.46]
+      }
+    ]
+  },
+  {
+    "image_id": "291298",
+    "file_name": "000000291298.jpg",
+    "image_path": "/content/train2017/000000291298.jpg",
+    "width": 640,
+    "height": 359,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.78273,
+    "format": "RGB",
+    "file_size_bytes": 184464,
+    "objects": [
+      {
+        "class_id": 23,
+        "class_name": "giraffe",
+        "confidence": 0.9556,
+        "bbox_xyxy": [0.24, 58.97, 394.84, 356.14]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.912,
+        "bbox_xyxy": [279.14, 24.68, 612.96, 354.83]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.8704,
+        "bbox_xyxy": [544.43, 61.93, 639.68, 355.59]
+      },
+      {
+        "class_id": 26,
+        "class_name": "handbag",
+        "confidence": 0.757,
+        "bbox_xyxy": [459.08, 163.9, 548.74, 356.96]
+      }
+    ]
+  },
+  {
+    "image_id": "133867",
+    "file_name": "000000133867.jpg",
+    "image_path": "/content/train2017/000000133867.jpg",
+    "width": 470,
+    "height": 500,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 0.94,
+    "format": "RGB",
+    "file_size_bytes": 175522,
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.8324,
+        "bbox_xyxy": [345.57, 181.3, 393.74, 303.24]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.7625,
+        "bbox_xyxy": [292.2, 186.06, 349.79, 351.62]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.5717,
+        "bbox_xyxy": [146.2, 180.67, 183.98, 297.27]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.5072,
+        "bbox_xyxy": [413.93, 100.76, 454.37, 146.42]
+      },
+      {
+        "class_id": 20,
+        "class_name": "elephant",
+        "confidence": 0.4798,
+        "bbox_xyxy": [395.07, 136.39, 470.0, 268.07]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.4545,
+        "bbox_xyxy": [87.71, 177.28, 112.45, 253.02]
+      },
+      {
+        "class_id": 26,
+        "class_name": "handbag",
+        "confidence": 0.4221,
+        "bbox_xyxy": [345.01, 214.64, 376.66, 248.57]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.3712,
+        "bbox_xyxy": [65.7, 179.77, 91.89, 254.76]
+      },
+      {
+        "class_id": 17,
+        "class_name": "horse",
+        "confidence": 0.3375,
+        "bbox_xyxy": [112.94, 110.4, 295.45, 285.07]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.2846,
+        "bbox_xyxy": [39.96, 181.5, 66.03, 256.3]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.2702,
+        "bbox_xyxy": [167.05, 84.09, 216.03, 157.85]
+      }
+    ]
+  },
+  {
+    "image_id": "201420",
+    "file_name": "000000201420.jpg",
+    "image_path": "/content/train2017/000000201420.jpg",
+    "width": 640,
+    "height": 480,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 107447,
+    "objects": [
+      {
+        "class_id": 23,
+        "class_name": "giraffe",
+        "confidence": 0.8857,
+        "bbox_xyxy": [3.12, 37.74, 466.23, 471.72]
+      },
+      {
+        "class_id": 23,
+        "class_name": "giraffe",
+        "confidence": 0.8777,
+        "bbox_xyxy": [336.12, 2.69, 638.89, 479.76]
+      }
+    ]
+  },
+  {
+    "image_id": "200274",
+    "file_name": "000000200274.jpg",
+    "image_path": "/content/train2017/000000200274.jpg",
+    "width": 640,
+    "height": 430,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.48837,
+    "format": "RGB",
+    "file_size_bytes": 93535,
+    "objects": [
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.8357,
+        "bbox_xyxy": [379.88, 95.01, 412.3, 154.2]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.8343,
+        "bbox_xyxy": [261.19, 94.17, 295.17, 153.07]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.8304,
+        "bbox_xyxy": [128.28, 96.16, 161.19, 156.03]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.8014,
+        "bbox_xyxy": [0.99, 212.54, 35.39, 272.12]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.7435,
+        "bbox_xyxy": [468.48, 308.54, 526.0, 329.0]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.6834,
+        "bbox_xyxy": [110.35, 255.47, 120.68, 275.6]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.4936,
+        "bbox_xyxy": [0.02, 339.73, 12.92, 430.0]
+      },
+      {
+        "class_id": 6,
+        "class_name": "train",
+        "confidence": 0.4233,
+        "bbox_xyxy": [92.5, 284.21, 300.25, 336.21]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.3135,
+        "bbox_xyxy": [30.05, 145.21, 99.93, 169.93]
+      },
+      {
+        "class_id": 7,
+        "class_name": "truck",
+        "confidence": 0.2706,
+        "bbox_xyxy": [574.61, 44.71, 639.81, 428.73]
+      }
+    ]
+  },
+  {
+    "image_id": "533625",
+    "file_name": "000000533625.jpg",
+    "image_path": "/content/train2017/000000533625.jpg",
+    "width": 480,
+    "height": 640,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 0.75,
+    "format": "RGB",
+    "file_size_bytes": 193992,
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.8866,
+        "bbox_xyxy": [0.36, 531.01, 259.1, 639.55]
+      }
+    ]
+  },
+  {
+    "image_id": "127474",
+    "file_name": "000000127474.jpg",
+    "image_path": "/content/train2017/000000127474.jpg",
+    "width": 640,
+    "height": 426,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.50235,
+    "format": "RGB",
+    "file_size_bytes": 110997,
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.8204,
+        "bbox_xyxy": [74.27, 63.93, 353.01, 419.97]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.6992,
+        "bbox_xyxy": [336.7, 137.48, 601.06, 421.68]
+      }
+    ]
+  },
+  {
+    "image_id": "234785",
+    "file_name": "000000234785.jpg",
+    "image_path": "/content/train2017/000000234785.jpg",
+    "width": 500,
+    "height": 356,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.40449,
+    "format": "RGB",
+    "file_size_bytes": 138083,
+    "objects": [
+      {
+        "class_id": 16,
+        "class_name": "dog",
+        "confidence": 0.8873,
+        "bbox_xyxy": [258.93, 224.23, 297.48, 280.98]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.5105,
+        "bbox_xyxy": [6.54, 179.69, 41.62, 202.8]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.3343,
+        "bbox_xyxy": [112.84, 165.22, 131.21, 193.88]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.2597,
+        "bbox_xyxy": [113.75, 180.26, 130.87, 193.87]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.2593,
+        "bbox_xyxy": [104.31, 51.8, 127.67, 111.63]
+      }
+    ]
+  },
+  {
+    "image_id": "73119",
+    "file_name": "000000073119.jpg",
+    "image_path": "/content/train2017/000000073119.jpg",
+    "width": 640,
+    "height": 427,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.49883,
+    "format": "RGB",
+    "file_size_bytes": 238539,
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.8473,
+        "bbox_xyxy": [0.08, 107.85, 50.72, 188.33]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.8366,
+        "bbox_xyxy": [435.21, 206.49, 491.39, 362.9]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.7928,
+        "bbox_xyxy": [83.77, 209.89, 143.02, 344.89]
+      },
+      {
+        "class_id": 6,
+        "class_name": "train",
+        "confidence": 0.7799,
+        "bbox_xyxy": [101.51, 67.34, 616.34, 326.71]
+      }
+    ]
+  },
+  {
+    "image_id": "32960",
+    "file_name": "000000032960.jpg",
+    "image_path": "/content/train2017/000000032960.jpg",
+    "width": 640,
+    "height": 427,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.49883,
+    "format": "RGB",
+    "file_size_bytes": 173947,
+    "objects": [
+      {
+        "class_id": 6,
+        "class_name": "train",
+        "confidence": 0.8631,
+        "bbox_xyxy": [1.57, 85.67, 563.88, 380.61]
+      }
+    ]
+  },
+  {
+    "image_id": "27969",
+    "file_name": "000000027969.jpg",
+    "image_path": "/content/train2017/000000027969.jpg",
+    "width": 640,
+    "height": 424,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.50943,
+    "format": "RGB",
+    "file_size_bytes": 166532,
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.889,
+        "bbox_xyxy": [136.36, 98.89, 332.86, 380.92]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.6917,
+        "bbox_xyxy": [541.93, 182.2, 574.97, 201.38]
+      },
+      {
+        "class_id": 13,
+        "class_name": "bench",
+        "confidence": 0.6365,
+        "bbox_xyxy": [200.22, 179.92, 534.32, 418.58]
+      },
+      {
+        "class_id": 7,
+        "class_name": "truck",
+        "confidence": 0.5961,
+        "bbox_xyxy": [303.27, 127.34, 429.73, 195.46]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.3554,
+        "bbox_xyxy": [428.5, 171.13, 481.73, 192.31]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.3341,
+        "bbox_xyxy": [208.85, 54.79, 244.97, 156.09]
+      },
+      {
+        "class_id": 13,
+        "class_name": "bench",
+        "confidence": 0.2534,
+        "bbox_xyxy": [57.53, 184.69, 607.72, 360.24]
+      }
+    ]
+  },
+  {
+    "image_id": "108541",
+    "file_name": "000000108541.jpg",
+    "image_path": "/content/train2017/000000108541.jpg",
+    "width": 640,
+    "height": 480,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 141372,
+    "objects": [
+      {
+        "class_id": 7,
+        "class_name": "truck",
+        "confidence": 0.9233,
+        "bbox_xyxy": [384.97, 249.39, 520.42, 403.12]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.8074,
+        "bbox_xyxy": [286.39, 350.35, 303.84, 364.22]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.6904,
+        "bbox_xyxy": [329.97, 345.92, 354.45, 366.36]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.4636,
+        "bbox_xyxy": [71.09, 348.18, 110.73, 360.95]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.3338,
+        "bbox_xyxy": [189.98, 344.44, 203.09, 357.12]
+      }
+    ]
+  },
+  {
+    "image_id": "54562",
+    "file_name": "000000054562.jpg",
+    "image_path": "/content/train2017/000000054562.jpg",
+    "width": 640,
+    "height": 214,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 2.99065,
+    "format": "RGB",
+    "file_size_bytes": 86925,
+    "objects": [
+      {
+        "class_id": 6,
+        "class_name": "train",
+        "confidence": 0.7863,
+        "bbox_xyxy": [2.92, 28.41, 638.87, 188.58]
+      }
+    ]
+  },
+  {
+    "image_id": "381021",
+    "file_name": "000000381021.jpg",
+    "image_path": "/content/train2017/000000381021.jpg",
+    "width": 476,
+    "height": 640,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 0.74375,
+    "format": "RGB",
+    "file_size_bytes": 209146,
+    "objects": [
+      {
+        "class_id": 58,
+        "class_name": "potted plant",
+        "confidence": 0.8621,
+        "bbox_xyxy": [309.06, 274.68, 355.77, 409.34]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.8116,
+        "bbox_xyxy": [116.25, 148.53, 234.09, 320.42]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.6877,
+        "bbox_xyxy": [104.06, 53.98, 127.86, 97.61]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.6316,
+        "bbox_xyxy": [337.37, 284.66, 415.75, 351.99]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.6194,
+        "bbox_xyxy": [409.28, 276.99, 431.64, 327.47]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.5155,
+        "bbox_xyxy": [435.98, 276.4, 451.72, 313.89]
+      },
+      {
+        "class_id": 7,
+        "class_name": "truck",
+        "confidence": 0.5058,
+        "bbox_xyxy": [46.33, 259.14, 93.04, 327.76]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.3024,
+        "bbox_xyxy": [449.14, 278.96, 476.0, 314.2]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.2636,
+        "bbox_xyxy": [397.24, 277.2, 415.74, 293.1]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.2547,
+        "bbox_xyxy": [354.29, 282.97, 412.82, 311.7]
+      }
+    ]
+  },
+  {
+    "image_id": "92377",
+    "file_name": "000000092377.jpg",
+    "image_path": "/content/train2017/000000092377.jpg",
+    "width": 640,
+    "height": 428,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.49533,
+    "format": "RGB",
+    "file_size_bytes": 131532,
+    "objects": [
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.9343,
+        "bbox_xyxy": [241.16, 72.23, 452.84, 259.98]
+      },
+      {
+        "class_id": 13,
+        "class_name": "bench",
+        "confidence": 0.308,
+        "bbox_xyxy": [97.55, 193.55, 636.55, 425.12]
+      }
+    ]
+  },
+  {
+    "image_id": "89909",
+    "file_name": "000000089909.jpg",
+    "image_path": "/content/train2017/000000089909.jpg",
+    "width": 612,
+    "height": 612,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.0,
+    "format": "RGB",
+    "file_size_bytes": 184767,
+    "objects": [
+      {
+        "class_id": 13,
+        "class_name": "bench",
+        "confidence": 0.8601,
+        "bbox_xyxy": [138.86, 321.91, 474.83, 568.99]
+      },
+      {
+        "class_id": 74,
+        "class_name": "clock",
+        "confidence": 0.3378,
+        "bbox_xyxy": [265.42, 146.16, 324.33, 213.02]
+      }
+    ]
+  },
+  {
+    "image_id": "112928",
+    "file_name": "000000112928.jpg",
+    "image_path": "/content/train2017/000000112928.jpg",
+    "width": 640,
+    "height": 480,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 181501,
+    "objects": [
+      {
+        "class_id": 10,
+        "class_name": "fire hydrant",
+        "confidence": 0.8987,
+        "bbox_xyxy": [112.8, 16.23, 168.57, 154.98]
+      }
+    ]
+  },
+  {
+    "image_id": "157465",
+    "file_name": "000000157465.jpg",
+    "image_path": "/content/train2017/000000157465.jpg",
+    "width": 640,
+    "height": 400,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.6,
+    "format": "RGB",
+    "file_size_bytes": 173611,
+    "objects": [
+      {
+        "class_id": 5,
+        "class_name": "bus",
+        "confidence": 0.9307,
+        "bbox_xyxy": [68.51, 112.51, 386.77, 278.47]
+      },
+      {
+        "class_id": 7,
+        "class_name": "truck",
+        "confidence": 0.7088,
+        "bbox_xyxy": [0.07, 190.44, 73.44, 272.51]
+      },
+      {
+        "class_id": 5,
+        "class_name": "bus",
+        "confidence": 0.6635,
+        "bbox_xyxy": [363.79, 122.28, 576.48, 277.65]
+      }
+    ]
+  },
+  {
+    "image_id": "359238",
+    "file_name": "000000359238.jpg",
+    "image_path": "/content/train2017/000000359238.jpg",
+    "width": 430,
+    "height": 640,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 0.67188,
+    "format": "RGB",
+    "file_size_bytes": 159992,
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.8585,
+        "bbox_xyxy": [10.54, 64.57, 335.93, 625.96]
+      },
+      {
+        "class_id": 39,
+        "class_name": "bottle",
+        "confidence": 0.6681,
+        "bbox_xyxy": [330.89, 379.01, 420.19, 560.55]
+      },
+      {
+        "class_id": 60,
+        "class_name": "dining table",
+        "confidence": 0.5765,
+        "bbox_xyxy": [100.05, 449.29, 429.75, 639.8]
+      },
+      {
+        "class_id": 41,
+        "class_name": "cup",
+        "confidence": 0.3692,
+        "bbox_xyxy": [327.89, 445.79, 404.04, 562.93]
+      }
+    ]
+  },
+  {
+    "image_id": "521721",
+    "file_name": "000000521721.jpg",
+    "image_path": "/content/train2017/000000521721.jpg",
+    "width": 640,
+    "height": 480,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 169789,
+    "objects": [
+      {
+        "class_id": 64,
+        "class_name": "mouse",
+        "confidence": 0.9515,
+        "bbox_xyxy": [19.2, 313.16, 336.0, 479.59]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.3591,
+        "bbox_xyxy": [6.53, 11.74, 596.08, 479.57]
+      },
+      {
+        "class_id": 63,
+        "class_name": "laptop",
+        "confidence": 0.3347,
+        "bbox_xyxy": [290.34, 10.42, 639.45, 477.3]
+      }
+    ]
+  },
+  {
+    "image_id": "504103",
+    "file_name": "000000504103.jpg",
+    "image_path": "/content/train2017/000000504103.jpg",
+    "width": 480,
+    "height": 640,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 0.75,
+    "format": "RGB",
+    "file_size_bytes": 138088,
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.6758,
+        "bbox_xyxy": [173.11, 355.7, 209.82, 382.27]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.5509,
+        "bbox_xyxy": [122.28, 350.06, 134.3, 379.63]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.5408,
+        "bbox_xyxy": [134.36, 347.23, 145.31, 380.53]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.4893,
+        "bbox_xyxy": [156.25, 350.85, 165.53, 382.03]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.4253,
+        "bbox_xyxy": [146.35, 351.67, 157.73, 382.65]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.3554,
+        "bbox_xyxy": [168.56, 349.65, 181.12, 381.2]
+      }
+    ]
+  },
+  {
+    "image_id": "531854",
+    "file_name": "000000531854.jpg",
+    "image_path": "/content/train2017/000000531854.jpg",
+    "width": 640,
+    "height": 480,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 229298,
+    "objects": [
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.7947,
+        "bbox_xyxy": [189.98, 190.57, 238.02, 240.0]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.7334,
+        "bbox_xyxy": [452.89, 209.54, 507.24, 268.23]
+      }
+    ]
+  },
+  {
+    "image_id": "375810",
+    "file_name": "000000375810.jpg",
+    "image_path": "/content/train2017/000000375810.jpg",
+    "width": 640,
+    "height": 480,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 175683,
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.9133,
+        "bbox_xyxy": [143.72, 124.9, 281.17, 465.6]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.9044,
+        "bbox_xyxy": [436.72, 118.12, 582.65, 449.09]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.8461,
+        "bbox_xyxy": [314.11, 129.32, 463.6, 461.97]
+      },
+      {
+        "class_id": 27,
+        "class_name": "tie",
+        "confidence": 0.5018,
+        "bbox_xyxy": [194.16, 188.24, 219.9, 259.45]
+      },
+      {
+        "class_id": 73,
+        "class_name": "book",
+        "confidence": 0.2804,
+        "bbox_xyxy": [402.73, 301.13, 447.99, 320.26]
+      }
+    ]
+  },
+  {
+    "image_id": "409369",
+    "file_name": "000000409369.jpg",
+    "image_path": "/content/train2017/000000409369.jpg",
+    "width": 640,
+    "height": 608,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.05263,
+    "format": "RGB",
+    "file_size_bytes": 323859,
+    "objects": [
+      {
+        "class_id": 23,
+        "class_name": "giraffe",
+        "confidence": 0.8649,
+        "bbox_xyxy": [75.13, 12.0, 445.66, 493.89]
+      },
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.2966,
+        "bbox_xyxy": [274.15, 403.49, 498.79, 573.92]
+      }
+    ]
+  },
+  {
+    "image_id": "136841",
+    "file_name": "000000136841.jpg",
+    "image_path": "/content/train2017/000000136841.jpg",
+    "width": 500,
+    "height": 375,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 105413,
+    "objects": [
+      {
+        "class_id": 39,
+        "class_name": "bottle",
+        "confidence": 0.82,
+        "bbox_xyxy": [347.05, 306.2, 418.43, 374.86]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.7431,
+        "bbox_xyxy": [204.45, 166.15, 251.3, 224.09]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.6303,
+        "bbox_xyxy": [178.89, 57.22, 499.82, 374.33]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.4928,
+        "bbox_xyxy": [335.59, 119.54, 379.44, 161.95]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.3045,
+        "bbox_xyxy": [324.61, 105.09, 345.57, 163.65]
+      }
+    ]
+  },
+  {
+    "image_id": "290610",
+    "file_name": "000000290610.jpg",
+    "image_path": "/content/train2017/000000290610.jpg",
+    "width": 640,
+    "height": 427,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.49883,
+    "format": "RGB",
+    "file_size_bytes": 237372,
+    "objects": [
+      {
+        "class_id": 6,
+        "class_name": "train",
+        "confidence": 0.6982,
+        "bbox_xyxy": [83.76, 184.3, 571.27, 235.94]
+      }
+    ]
+  },
+  {
+    "image_id": "423093",
+    "file_name": "000000423093.jpg",
+    "image_path": "/content/train2017/000000423093.jpg",
+    "width": 640,
+    "height": 480,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 273744,
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.6358,
+        "bbox_xyxy": [269.49, 62.23, 482.51, 237.07]
+      },
+      {
+        "class_id": 53,
+        "class_name": "pizza",
+        "confidence": 0.3028,
+        "bbox_xyxy": [276.55, 252.81, 607.23, 459.26]
+      },
+      {
+        "class_id": 8,
+        "class_name": "boat",
+        "confidence": 0.2611,
+        "bbox_xyxy": [104.5, 159.33, 292.54, 274.42]
+      }
+    ]
+  },
+  {
+    "image_id": "70334",
+    "file_name": "000000070334.jpg",
+    "image_path": "/content/train2017/000000070334.jpg",
+    "width": 640,
+    "height": 480,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 370670,
+    "objects": [
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.9227,
+        "bbox_xyxy": [352.97, 116.64, 447.84, 275.1]
+      },
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.909,
+        "bbox_xyxy": [188.6, 158.27, 362.91, 273.35]
+      },
+      {
+        "class_id": 18,
+        "class_name": "sheep",
+        "confidence": 0.5915,
+        "bbox_xyxy": [202.84, 110.66, 410.91, 198.31]
+      }
+    ]
+  },
+  {
+    "image_id": "468115",
+    "file_name": "000000468115.jpg",
+    "image_path": "/content/train2017/000000468115.jpg",
+    "width": 500,
+    "height": 333,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.5015,
+    "format": "RGB",
+    "file_size_bytes": 147945,
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.8839,
+        "bbox_xyxy": [423.71, 256.64, 499.81, 323.28]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.7701,
+        "bbox_xyxy": [86.06, 258.2, 154.08, 332.1]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.729,
+        "bbox_xyxy": [27.54, 250.73, 49.52, 324.37]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.7017,
+        "bbox_xyxy": [123.28, 252.28, 180.61, 332.21]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.6292,
+        "bbox_xyxy": [47.67, 246.26, 86.12, 330.27]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.5432,
+        "bbox_xyxy": [300.81, 241.0, 316.83, 291.29]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.5137,
+        "bbox_xyxy": [174.97, 244.88, 199.48, 273.54]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.5049,
+        "bbox_xyxy": [239.38, 242.38, 257.55, 255.94]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.503,
+        "bbox_xyxy": [196.55, 245.16, 218.53, 263.01]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.4885,
+        "bbox_xyxy": [255.01, 243.88, 274.69, 281.63]
+      },
+      {
+        "class_id": 3,
+        "class_name": "motorcycle",
+        "confidence": 0.4454,
+        "bbox_xyxy": [254.58, 255.84, 275.62, 282.76]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.4073,
+        "bbox_xyxy": [312.57, 244.54, 329.64, 292.55]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.3749,
+        "bbox_xyxy": [338.22, 241.18, 369.23, 278.36]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.3527,
+        "bbox_xyxy": [0.02, 300.68, 7.56, 332.43]
+      },
+      {
+        "class_id": 3,
+        "class_name": "motorcycle",
+        "confidence": 0.3511,
+        "bbox_xyxy": [97.36, 288.09, 213.27, 332.83]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.3478,
+        "bbox_xyxy": [90.47, 247.41, 139.51, 283.59]
+      },
+      {
+        "class_id": 3,
+        "class_name": "motorcycle",
+        "confidence": 0.347,
+        "bbox_xyxy": [324.05, 268.07, 347.92, 294.49]
+      },
+      {
+        "class_id": 3,
+        "class_name": "motorcycle",
+        "confidence": 0.2905,
+        "bbox_xyxy": [273.88, 246.73, 291.3, 274.67]
+      },
+      {
+        "class_id": 3,
+        "class_name": "motorcycle",
+        "confidence": 0.2836,
+        "bbox_xyxy": [367.24, 264.76, 395.61, 295.64]
+      },
+      {
+        "class_id": 3,
+        "class_name": "motorcycle",
+        "confidence": 0.2513,
+        "bbox_xyxy": [354.34, 258.54, 389.37, 287.85]
+      }
+    ]
+  },
+  {
+    "image_id": "292394",
+    "file_name": "000000292394.jpg",
+    "image_path": "/content/train2017/000000292394.jpg",
+    "width": 640,
+    "height": 480,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 118572,
+    "objects": [
+      {
+        "class_id": 58,
+        "class_name": "potted plant",
+        "confidence": 0.8963,
+        "bbox_xyxy": [451.41, 366.66, 488.29, 396.78]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.7304,
+        "bbox_xyxy": [478.59, 64.04, 516.26, 160.29]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.6394,
+        "bbox_xyxy": [621.35, 327.27, 636.22, 371.48]
+      }
+    ]
+  },
+  {
+    "image_id": "371395",
+    "file_name": "000000371395.jpg",
+    "image_path": "/content/train2017/000000371395.jpg",
+    "width": 640,
+    "height": 424,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.50943,
+    "format": "RGB",
+    "file_size_bytes": 313538,
+    "objects": [
+      {
+        "class_id": 13,
+        "class_name": "bench",
+        "confidence": 0.8784,
+        "bbox_xyxy": [308.33, 258.09, 544.98, 383.14]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.8222,
+        "bbox_xyxy": [397.1, 237.52, 471.05, 397.4]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.783,
+        "bbox_xyxy": [361.11, 258.19, 399.19, 338.82]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.7122,
+        "bbox_xyxy": [463.44, 241.88, 524.34, 329.28]
+      }
+    ]
+  },
+  {
+    "image_id": "462954",
+    "file_name": "000000462954.jpg",
+    "image_path": "/content/train2017/000000462954.jpg",
+    "width": 500,
+    "height": 400,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.25,
+    "format": "RGB",
+    "file_size_bytes": 86146,
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.7812,
+        "bbox_xyxy": [23.18, 341.27, 236.61, 399.82]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.7757,
+        "bbox_xyxy": [281.35, 372.11, 336.07, 399.87]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.5876,
+        "bbox_xyxy": [401.11, 360.3, 462.78, 399.71]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.4999,
+        "bbox_xyxy": [413.73, 337.62, 419.92, 349.54]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.4698,
+        "bbox_xyxy": [46.52, 303.39, 55.07, 325.66]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.4194,
+        "bbox_xyxy": [211.88, 362.5, 239.96, 398.27]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.3999,
+        "bbox_xyxy": [467.25, 339.79, 474.72, 354.45]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.3426,
+        "bbox_xyxy": [349.22, 372.48, 386.73, 399.62]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.3192,
+        "bbox_xyxy": [386.42, 336.32, 392.26, 350.31]
+      }
+    ]
+  },
+  {
+    "image_id": "285005",
+    "file_name": "000000285005.jpg",
+    "image_path": "/content/train2017/000000285005.jpg",
+    "width": 640,
+    "height": 480,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 160625,
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.8647,
+        "bbox_xyxy": [565.32, 374.54, 601.82, 462.14]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.8136,
+        "bbox_xyxy": [106.58, 365.64, 204.77, 398.7]
+      },
+      {
+        "class_id": 58,
+        "class_name": "potted plant",
+        "confidence": 0.7469,
+        "bbox_xyxy": [356.79, 410.4, 436.21, 479.74]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.7048,
+        "bbox_xyxy": [272.59, 249.62, 328.1, 303.73]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.7021,
+        "bbox_xyxy": [353.67, 367.22, 392.87, 401.93]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.6832,
+        "bbox_xyxy": [455.41, 374.46, 491.85, 397.77]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.6475,
+        "bbox_xyxy": [623.08, 385.11, 639.82, 474.59]
+      },
+      {
+        "class_id": 58,
+        "class_name": "potted plant",
+        "confidence": 0.6056,
+        "bbox_xyxy": [470.52, 405.21, 525.32, 464.24]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.5808,
+        "bbox_xyxy": [597.33, 373.54, 639.61, 408.17]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.5076,
+        "bbox_xyxy": [52.83, 392.86, 221.8, 479.94]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.4162,
+        "bbox_xyxy": [405.96, 392.7, 477.54, 456.35]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.369,
+        "bbox_xyxy": [410.53, 372.67, 437.02, 394.46]
+      },
+      {
+        "class_id": 58,
+        "class_name": "potted plant",
+        "confidence": 0.3586,
+        "bbox_xyxy": [524.3, 386.35, 564.24, 444.29]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.2994,
+        "bbox_xyxy": [409.43, 372.07, 470.37, 395.43]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.2872,
+        "bbox_xyxy": [501.99, 372.22, 535.17, 388.28]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.2834,
+        "bbox_xyxy": [476.74, 366.28, 503.85, 389.64]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.2647,
+        "bbox_xyxy": [81.34, 361.32, 95.01, 391.19]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.2604,
+        "bbox_xyxy": [361.86, 363.63, 416.91, 384.56]
+      }
+    ]
+  },
+  {
+    "image_id": "549687",
+    "file_name": "000000549687.jpg",
+    "image_path": "/content/train2017/000000549687.jpg",
+    "width": 640,
+    "height": 480,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 279323,
+    "objects": [
+      {
+        "class_id": 23,
+        "class_name": "giraffe",
+        "confidence": 0.8674,
+        "bbox_xyxy": [103.91, 93.29, 501.84, 478.4]
+      },
+      {
+        "class_id": 23,
+        "class_name": "giraffe",
+        "confidence": 0.8519,
+        "bbox_xyxy": [236.43, 30.17, 406.38, 269.74]
+      }
+    ]
+  },
+  {
+    "image_id": "12464",
+    "file_name": "000000012464.jpg",
+    "image_path": "/content/train2017/000000012464.jpg",
+    "width": 640,
+    "height": 428,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.49533,
+    "format": "RGB",
+    "file_size_bytes": 79442,
+    "objects": [
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.7609,
+        "bbox_xyxy": [118.87, 44.83, 291.07, 354.0]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.5556,
+        "bbox_xyxy": [254.61, 63.48, 366.37, 289.14]
+      },
+      {
+        "class_id": 55,
+        "class_name": "cake",
+        "confidence": 0.5021,
+        "bbox_xyxy": [51.57, 66.76, 501.32, 423.04]
+      }
+    ]
+  },
+  {
+    "image_id": "360449",
+    "file_name": "000000360449.jpg",
+    "image_path": "/content/train2017/000000360449.jpg",
+    "width": 640,
+    "height": 480,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 72626,
+    "objects": [
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.8454,
+        "bbox_xyxy": [290.25, 111.85, 340.2, 214.41]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.8102,
+        "bbox_xyxy": [41.27, 347.85, 128.36, 432.56]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.6022,
+        "bbox_xyxy": [455.36, 362.22, 537.16, 415.39]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.542,
+        "bbox_xyxy": [242.51, 238.84, 260.49, 280.73]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.5241,
+        "bbox_xyxy": [135.51, 357.79, 205.0, 420.79]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.477,
+        "bbox_xyxy": [0.0, 363.62, 53.93, 440.38]
+      },
+      {
+        "class_id": 5,
+        "class_name": "bus",
+        "confidence": 0.446,
+        "bbox_xyxy": [579.91, 285.48, 639.7, 434.49]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.333,
+        "bbox_xyxy": [319.3, 383.06, 510.58, 479.22]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.2617,
+        "bbox_xyxy": [327.54, 350.82, 377.2, 389.66]
+      }
+    ]
+  },
+  {
+    "image_id": "215456",
+    "file_name": "000000215456.jpg",
+    "image_path": "/content/train2017/000000215456.jpg",
+    "width": 375,
+    "height": 500,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 0.75,
+    "format": "RGB",
+    "file_size_bytes": 168580,
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.9118,
+        "bbox_xyxy": [161.07, 201.93, 215.49, 335.54]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.6429,
+        "bbox_xyxy": [316.93, 194.6, 374.73, 291.82]
+      },
+      {
+        "class_id": 1,
+        "class_name": "bicycle",
+        "confidence": 0.465,
+        "bbox_xyxy": [167.29, 274.51, 191.64, 346.4]
+      },
+      {
+        "class_id": 11,
+        "class_name": "stop sign",
+        "confidence": 0.2528,
+        "bbox_xyxy": [197.33, 242.01, 239.04, 292.49]
+      }
+    ]
+  },
+  {
+    "image_id": "378831",
+    "file_name": "000000378831.jpg",
+    "image_path": "/content/train2017/000000378831.jpg",
+    "width": 500,
+    "height": 315,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.5873,
+    "format": "RGB",
+    "file_size_bytes": 120096,
+    "objects": [
+      {
+        "class_id": 10,
+        "class_name": "fire hydrant",
+        "confidence": 0.9115,
+        "bbox_xyxy": [311.81, 73.46, 364.25, 219.68]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.5515,
+        "bbox_xyxy": [96.49, 72.13, 156.75, 227.78]
+      },
+      {
+        "class_id": 26,
+        "class_name": "handbag",
+        "confidence": 0.4078,
+        "bbox_xyxy": [124.33, 126.86, 164.75, 177.68]
+      },
+      {
+        "class_id": 28,
+        "class_name": "suitcase",
+        "confidence": 0.2766,
+        "bbox_xyxy": [96.01, 166.13, 165.35, 294.17]
+      }
+    ]
+  },
+  {
+    "image_id": "357041",
+    "file_name": "000000357041.jpg",
+    "image_path": "/content/train2017/000000357041.jpg",
+    "width": 640,
+    "height": 425,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.50588,
+    "format": "RGB",
+    "file_size_bytes": 54457,
+    "objects": [
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.6821,
+        "bbox_xyxy": [286.73, 158.08, 335.62, 226.24]
+      }
+    ]
+  },
+  {
+    "image_id": "30478",
+    "file_name": "000000030478.jpg",
+    "image_path": "/content/train2017/000000030478.jpg",
+    "width": 640,
+    "height": 424,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.50943,
+    "format": "RGB",
+    "file_size_bytes": 149015,
+    "objects": [
+      {
+        "class_id": 6,
+        "class_name": "train",
+        "confidence": 0.8189,
+        "bbox_xyxy": [92.12, 89.37, 497.48, 410.0]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.7795,
+        "bbox_xyxy": [599.25, 264.22, 618.76, 318.65]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.6519,
+        "bbox_xyxy": [557.79, 264.62, 585.35, 332.29]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.6478,
+        "bbox_xyxy": [622.86, 263.77, 639.8, 326.44]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.483,
+        "bbox_xyxy": [531.57, 268.3, 547.54, 307.92]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.4688,
+        "bbox_xyxy": [579.39, 264.94, 595.31, 322.16]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.3411,
+        "bbox_xyxy": [548.91, 265.78, 565.08, 303.46]
+      }
+    ]
+  },
+  {
+    "image_id": "564865",
+    "file_name": "000000564865.jpg",
+    "image_path": "/content/train2017/000000564865.jpg",
+    "width": 640,
+    "height": 427,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.49883,
+    "format": "RGB",
+    "file_size_bytes": 44247,
+    "objects": [
+      {
+        "class_id": 10,
+        "class_name": "fire hydrant",
+        "confidence": 0.8731,
+        "bbox_xyxy": [178.91, 353.68, 276.99, 427.0]
+      }
+    ]
+  },
+  {
+    "image_id": "516476",
+    "file_name": "000000516476.jpg",
+    "image_path": "/content/train2017/000000516476.jpg",
+    "width": 640,
+    "height": 425,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.50588,
+    "format": "RGB",
+    "file_size_bytes": 246247,
+    "objects": [
+      {
+        "class_id": 5,
+        "class_name": "bus",
+        "confidence": 0.9143,
+        "bbox_xyxy": [68.06, 103.17, 317.98, 393.37]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.8012,
+        "bbox_xyxy": [251.61, 57.42, 272.6, 101.16]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.7002,
+        "bbox_xyxy": [0.03, 237.43, 18.64, 292.0]
+      },
+      {
+        "class_id": 5,
+        "class_name": "bus",
+        "confidence": 0.7001,
+        "bbox_xyxy": [0.09, 192.11, 71.26, 278.58]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.699,
+        "bbox_xyxy": [429.37, 170.12, 440.43, 200.59]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.6579,
+        "bbox_xyxy": [344.61, 227.12, 532.7, 382.06]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.5553,
+        "bbox_xyxy": [315.75, 239.38, 359.32, 359.95]
+      },
+      {
+        "class_id": 7,
+        "class_name": "truck",
+        "confidence": 0.4088,
+        "bbox_xyxy": [429.27, 188.98, 639.32, 325.37]
+      },
+      {
+        "class_id": 7,
+        "class_name": "truck",
+        "confidence": 0.408,
+        "bbox_xyxy": [346.02, 226.71, 532.67, 381.81]
+      }
+    ]
+  },
+  {
+    "image_id": "558736",
+    "file_name": "000000558736.jpg",
+    "image_path": "/content/train2017/000000558736.jpg",
+    "width": 640,
+    "height": 429,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.49184,
+    "format": "RGB",
+    "file_size_bytes": 187919,
+    "objects": [
+      {
+        "class_id": 22,
+        "class_name": "zebra",
+        "confidence": 0.9488,
+        "bbox_xyxy": [256.89, 227.68, 374.2, 310.6]
+      },
+      {
+        "class_id": 23,
+        "class_name": "giraffe",
+        "confidence": 0.8935,
+        "bbox_xyxy": [491.0, 17.65, 639.76, 268.85]
+      },
+      {
+        "class_id": 23,
+        "class_name": "giraffe",
+        "confidence": 0.8787,
+        "bbox_xyxy": [406.87, 12.26, 574.59, 234.39]
+      },
+      {
+        "class_id": 22,
+        "class_name": "zebra",
+        "confidence": 0.8601,
+        "bbox_xyxy": [390.69, 219.18, 435.28, 311.24]
+      },
+      {
+        "class_id": 22,
+        "class_name": "zebra",
+        "confidence": 0.6917,
+        "bbox_xyxy": [461.16, 210.66, 516.28, 301.77]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.3556,
+        "bbox_xyxy": [320.76, 369.49, 413.9, 427.73]
+      }
+    ]
+  },
+  {
+    "image_id": "405175",
+    "file_name": "000000405175.jpg",
+    "image_path": "/content/train2017/000000405175.jpg",
+    "width": 640,
+    "height": 399,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.60401,
+    "format": "RGB",
+    "file_size_bytes": 227895,
+    "objects": [
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.8589,
+        "bbox_xyxy": [390.02, 215.1, 461.75, 285.32]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.6931,
+        "bbox_xyxy": [226.08, 194.64, 306.34, 266.99]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.6369,
+        "bbox_xyxy": [155.29, 153.51, 210.47, 228.63]
+      }
+    ]
+  },
+  {
+    "image_id": "418144",
+    "file_name": "000000418144.jpg",
+    "image_path": "/content/train2017/000000418144.jpg",
+    "width": 500,
+    "height": 328,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.52439,
+    "format": "RGB",
+    "file_size_bytes": 119119,
+    "objects": [
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.5128,
+        "bbox_xyxy": [372.57, 151.8, 397.41, 205.1]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.4725,
+        "bbox_xyxy": [408.5, 149.3, 433.98, 207.37]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.3668,
+        "bbox_xyxy": [204.04, 154.62, 214.83, 172.57]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.346,
+        "bbox_xyxy": [223.59, 150.7, 234.41, 168.8]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.3178,
+        "bbox_xyxy": [137.79, 155.17, 162.41, 195.26]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.2692,
+        "bbox_xyxy": [371.86, 142.29, 431.6, 210.23]
+      }
+    ]
+  },
+  {
+    "image_id": "507921",
+    "file_name": "000000507921.jpg",
+    "image_path": "/content/train2017/000000507921.jpg",
+    "width": 426,
+    "height": 640,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 0.66563,
+    "format": "RGB",
+    "file_size_bytes": 133156,
+    "objects": [
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.6103,
+        "bbox_xyxy": [150.86, 430.51, 187.4, 448.27]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.4516,
+        "bbox_xyxy": [271.26, 431.46, 301.36, 442.7]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.3262,
+        "bbox_xyxy": [0.23, 433.37, 18.17, 453.45]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.3057,
+        "bbox_xyxy": [138.77, 431.09, 153.64, 442.93]
+      }
+    ]
+  },
+  {
+    "image_id": "210988",
+    "file_name": "000000210988.jpg",
+    "image_path": "/content/train2017/000000210988.jpg",
+    "width": 640,
+    "height": 460,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.3913,
+    "format": "RGB",
+    "file_size_bytes": 208675,
+    "objects": [
+      {
+        "class_id": 13,
+        "class_name": "bench",
+        "confidence": 0.9444,
+        "bbox_xyxy": [50.88, 224.32, 357.34, 449.33]
+      }
+    ]
+  },
+  {
+    "image_id": "247394",
+    "file_name": "000000247394.jpg",
+    "image_path": "/content/train2017/000000247394.jpg",
+    "width": 640,
+    "height": 424,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.50943,
+    "format": "RGB",
+    "file_size_bytes": 112572,
+    "objects": [
+      {
+        "class_id": 4,
+        "class_name": "airplane",
+        "confidence": 0.7945,
+        "bbox_xyxy": [147.65, 273.73, 491.45, 367.81]
+      },
+      {
+        "class_id": 4,
+        "class_name": "airplane",
+        "confidence": 0.3043,
+        "bbox_xyxy": [1.76, 230.89, 520.38, 369.65]
+      }
+    ]
+  },
+  {
+    "image_id": "444493",
+    "file_name": "000000444493.jpg",
+    "image_path": "/content/train2017/000000444493.jpg",
+    "width": 640,
+    "height": 360,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.77778,
+    "format": "RGB",
+    "file_size_bytes": 141588,
+    "objects": [
+      {
+        "class_id": 5,
+        "class_name": "bus",
+        "confidence": 0.9421,
+        "bbox_xyxy": [0.36, 142.98, 167.01, 300.79]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.8478,
+        "bbox_xyxy": [539.91, 207.91, 569.33, 297.56]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.8469,
+        "bbox_xyxy": [270.48, 211.38, 300.42, 283.39]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.8369,
+        "bbox_xyxy": [581.03, 208.68, 616.56, 302.77]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.8052,
+        "bbox_xyxy": [174.03, 214.27, 198.31, 270.27]
+      },
+      {
+        "class_id": 24,
+        "class_name": "backpack",
+        "confidence": 0.4155,
+        "bbox_xyxy": [496.48, 278.93, 519.98, 296.21]
+      },
+      {
+        "class_id": 28,
+        "class_name": "suitcase",
+        "confidence": 0.3038,
+        "bbox_xyxy": [207.06, 254.22, 223.81, 265.53]
+      },
+      {
+        "class_id": 28,
+        "class_name": "suitcase",
+        "confidence": 0.2561,
+        "bbox_xyxy": [435.18, 260.06, 476.47, 294.19]
+      }
+    ]
+  },
+  {
+    "image_id": "579982",
+    "file_name": "000000579982.jpg",
+    "image_path": "/content/train2017/000000579982.jpg",
+    "width": 512,
+    "height": 640,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 0.8,
+    "format": "RGB",
+    "file_size_bytes": 128883,
+    "objects": [
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.6651,
+        "bbox_xyxy": [232.21, 327.64, 258.35, 367.43]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.5946,
+        "bbox_xyxy": [76.1, 71.96, 121.03, 116.43]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.5211,
+        "bbox_xyxy": [383.04, 318.08, 405.85, 365.25]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.4327,
+        "bbox_xyxy": [185.78, 296.91, 214.71, 360.76]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.3757,
+        "bbox_xyxy": [75.27, 120.83, 111.2, 167.29]
+      },
+      {
+        "class_id": 14,
+        "class_name": "bird",
+        "confidence": 0.3215,
+        "bbox_xyxy": [74.41, 140.25, 110.89, 206.13]
+      }
+    ]
+  },
+  {
+    "image_id": "130645",
+    "file_name": "000000130645.jpg",
+    "image_path": "/content/train2017/000000130645.jpg",
+    "width": 640,
+    "height": 441,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.45125,
+    "format": "RGB",
+    "file_size_bytes": 127331,
+    "objects": [
+      {
+        "class_id": 5,
+        "class_name": "bus",
+        "confidence": 0.9128,
+        "bbox_xyxy": [83.18, 113.55, 471.11, 396.1]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.6456,
+        "bbox_xyxy": [214.15, 192.15, 255.55, 235.67]
+      },
+      {
+        "class_id": 7,
+        "class_name": "truck",
+        "confidence": 0.5015,
+        "bbox_xyxy": [551.02, 256.7, 632.42, 357.74]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.4116,
+        "bbox_xyxy": [550.58, 256.23, 632.58, 358.09]
+      },
+      {
+        "class_id": 7,
+        "class_name": "truck",
+        "confidence": 0.4066,
+        "bbox_xyxy": [461.65, 241.38, 556.43, 345.59]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.3583,
+        "bbox_xyxy": [462.72, 241.19, 556.6, 345.31]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.3207,
+        "bbox_xyxy": [140.62, 171.11, 199.22, 226.84]
+      }
+    ]
+  },
+  {
+    "image_id": "482626",
+    "file_name": "000000482626.jpg",
+    "image_path": "/content/train2017/000000482626.jpg",
+    "width": 640,
+    "height": 428,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.49533,
+    "format": "RGB",
+    "file_size_bytes": 181716,
+    "objects": [
+      {
+        "class_id": 23,
+        "class_name": "giraffe",
+        "confidence": 0.9116,
+        "bbox_xyxy": [126.74, 111.55, 285.0, 274.8]
+      },
+      {
+        "class_id": 23,
+        "class_name": "giraffe",
+        "confidence": 0.8964,
+        "bbox_xyxy": [311.19, 103.43, 511.11, 287.47]
+      },
+      {
+        "class_id": 23,
+        "class_name": "giraffe",
+        "confidence": 0.5986,
+        "bbox_xyxy": [235.9, 141.22, 361.99, 256.09]
+      },
+      {
+        "class_id": 23,
+        "class_name": "giraffe",
+        "confidence": 0.2746,
+        "bbox_xyxy": [236.25, 164.74, 312.32, 256.3]
+      }
+    ]
+  },
+  {
+    "image_id": "566941",
+    "file_name": "000000566941.jpg",
+    "image_path": "/content/train2017/000000566941.jpg",
+    "width": 640,
+    "height": 480,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.33333,
+    "format": "RGB",
+    "file_size_bytes": 265338,
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.8925,
+        "bbox_xyxy": [247.62, 175.17, 381.23, 479.72]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.8897,
+        "bbox_xyxy": [420.64, 212.39, 515.25, 449.81]
+      },
+      {
+        "class_id": 20,
+        "class_name": "elephant",
+        "confidence": 0.8849,
+        "bbox_xyxy": [126.76, 109.85, 487.19, 451.91]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.7976,
+        "bbox_xyxy": [609.16, 213.79, 639.85, 403.19]
+      }
+    ]
+  },
+  {
+    "image_id": "483475",
+    "file_name": "000000483475.jpg",
+    "image_path": "/content/train2017/000000483475.jpg",
+    "width": 612,
+    "height": 612,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.0,
+    "format": "RGB",
+    "file_size_bytes": 153277,
+    "objects": [
+      {
+        "class_id": 4,
+        "class_name": "airplane",
+        "confidence": 0.8667,
+        "bbox_xyxy": [104.64, 24.76, 594.85, 241.36]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.8305,
+        "bbox_xyxy": [413.26, 378.68, 436.91, 441.54]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.7681,
+        "bbox_xyxy": [164.18, 276.99, 185.19, 344.25]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.677,
+        "bbox_xyxy": [187.07, 274.47, 205.62, 341.53]
+      }
+    ]
+  },
+  {
+    "image_id": "483165",
+    "file_name": "000000483165.jpg",
+    "image_path": "/content/train2017/000000483165.jpg",
+    "width": 640,
+    "height": 427,
+    "channels": 3,
+    "color_mode": "RGB",
+    "aspect_ratio": 1.49883,
+    "format": "RGB",
+    "file_size_bytes": 249825,
+    "objects": [
+      {
+        "class_id": 1,
+        "class_name": "bicycle",
+        "confidence": 0.932,
+        "bbox_xyxy": [31.66, 200.13, 268.37, 343.1]
+      },
+      {
+        "class_id": 1,
+        "class_name": "bicycle",
+        "confidence": 0.9151,
+        "bbox_xyxy": [352.04, 199.82, 631.08, 371.8]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.8569,
+        "bbox_xyxy": [92.74, 111.07, 191.7, 309.02]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.8391,
+        "bbox_xyxy": [424.01, 70.54, 561.4, 324.54]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.7602,
+        "bbox_xyxy": [299.77, 152.45, 354.65, 273.45]
+      },
+      {
+        "class_id": 9,
+        "class_name": "traffic light",
+        "confidence": 0.6563,
+        "bbox_xyxy": [427.94, 1.63, 468.03, 75.48]
+      },
+      {
+        "class_id": 1,
+        "class_name": "bicycle",
+        "confidence": 0.6034,
+        "bbox_xyxy": [344.08, 190.91, 416.38, 267.84]
+      },
+      {
+        "class_id": 24,
+        "class_name": "backpack",
+        "confidence": 0.556,
+        "bbox_xyxy": [491.25, 97.75, 563.38, 173.18]
+      },
+      {
+        "class_id": 1,
+        "class_name": "bicycle",
+        "confidence": 0.4304,
+        "bbox_xyxy": [219.03, 194.97, 259.34, 239.98]
+      },
+      {
+        "class_id": 1,
+        "class_name": "bicycle",
+        "confidence": 0.4202,
+        "bbox_xyxy": [312.36, 214.62, 348.47, 290.58]
+      },
+      {
+        "class_id": 24,
+        "class_name": "backpack",
+        "confidence": 0.4086,
+        "bbox_xyxy": [69.8, 152.88, 108.13, 215.61]
+      },
+      {
+        "class_id": 1,
+        "class_name": "bicycle",
+        "confidence": 0.387,
+        "bbox_xyxy": [277.88, 199.05, 303.35, 244.82]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.3508,
+        "bbox_xyxy": [226.94, 172.98, 251.11, 209.73]
+      },
+      {
+        "class_id": 1,
+        "class_name": "bicycle",
+        "confidence": 0.2882,
+        "bbox_xyxy": [303.41, 202.55, 367.27, 285.87]
+      },
+      {
+        "class_id": 2,
+        "class_name": "car",
+        "confidence": 0.2695,
+        "bbox_xyxy": [39.9, 192.53, 53.42, 203.98]
+      },
+      {
+        "class_id": 1,
+        "class_name": "bicycle",
+        "confidence": 0.263,
+        "bbox_xyxy": [286.81, 207.6, 313.14, 251.98]
+      },
+      {
+        "class_id": 1,
+        "class_name": "bicycle",
+        "confidence": 0.2627,
+        "bbox_xyxy": [250.51, 193.87, 276.85, 243.1]
+      }
+    ]
+  }
+]

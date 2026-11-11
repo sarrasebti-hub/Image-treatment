@@ -1,0 +1,9 @@
+{
+  "detector": null,
+  "source": "COCO 2017 ground-truth instance annotations (instances_train2017.json / instances_val2017.json)",
+  "confidence_threshold": "N/A (ground truth)",
+  "iou_cutoff": "N/A",
+  "attributes": "not available in COCO instances (empty list)",
+  "relations": "bbox-derived (overlapping/left_of/right_of/above/below) between the 5 largest objects per image",
+  "note": "For val/test images this metadata is evaluation-only (oracle); never used as a retrieval query."
+}

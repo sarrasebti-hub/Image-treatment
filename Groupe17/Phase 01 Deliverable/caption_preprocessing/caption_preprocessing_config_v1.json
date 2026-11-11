@@ -1,0 +1,42 @@
+{
+  "version": "v1",
+  "created_at_utc": "2026-11-10T21:52:13.649388+00:00",
+  "description": "Caption preprocessing for image retrieval and indexing. Original reference captions are preserved unchanged.",
+  "operations": {
+    "lowercase": true,
+    "whitespace_normalization": true,
+    "punctuation_removal": false,
+    "tokenization": true,
+    "tokenization_pattern": "\\b[\\w]+(?:['’][\\w]+)*\\b"
+  },
+  "caption_field_definitions": {
+    "raw_reference_captions": "Original captions preserved exactly for evaluation.",
+    "cleaned_retrieval_captions": "Cleaned captions intended for retrieval and indexing.",
+    "retrieval_tokens": "Tokenized cleaned captions intended for retrieval and indexing."
+  },
+  "evaluation_policy": "Evaluation must use raw_reference_captions, never cleaned_retrieval_captions or retrieval_tokens.",
+  "raw_caption_preservation": {
+    "kb_10k": true,
+    "val_100": true,
+    "test_100": true,
+    "test_1000": true
+  },
+  "datasets": {
+    "kb_10k": {
+      "image_count": 10000,
+      "caption_count": 50000
+    },
+    "val_100": {
+      "image_count": 100,
+      "caption_count": 500
+    },
+    "test_100": {
+      "image_count": 100,
+      "caption_count": 500
+    },
+    "test_1000": {
+      "image_count": 1000,
+      "caption_count": 5000
+    }
+  }
+}
