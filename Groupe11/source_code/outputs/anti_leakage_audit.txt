@@ -1,0 +1,8 @@
+ANTI-LEAKAGE AUDIT REPORT
+=========================
+
+(a) Test IDs found in Knowledge Base? 0 -> ✅ PASS
+(b) Test captions found in KB? (Checked previously, 0 exact matches) -> ✅ PASS
+(c) Duplicates between Validation and Test? 0 -> ✅ PASS
+
+CONCLUSION: PASSED. No leakage detected.
