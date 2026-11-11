@@ -1,0 +1,1529 @@
+{
+    "1_dataset_overview": {
+        "dataset_name": "MS COCO 2017",
+        "knowledge_base": {
+            "source": "train2017",
+            "images": 10000
+        },
+        "validation": {
+            "source": "train2017",
+            "images": 100
+        },
+        "test": {
+            "source": "val2017",
+            "images": 1000
+        },
+        "total_training_and_validation_images": 10100,
+        "total_images_across_all_splits": 11100,
+        "total_object_annotations": 72752,
+        "total_caption_annotations": 50521,
+        "number_of_object_categories": 80
+    },
+    "2_object_category_analysis": {
+        "total_categories": 80,
+        "total_annotations": 72752,
+        "average_annotations_per_category": 909.4,
+        "most_frequent_category": {
+            "name": "person",
+            "count": 22319
+        },
+        "least_frequent_category": {
+            "name": "hair drier",
+            "count": 18
+        },
+        "all_category_frequencies": [
+            {
+                "category_id": 1,
+                "category": "person",
+                "object_count": 22319,
+                "percentage": 30.68
+            },
+            {
+                "category_id": 3,
+                "category": "car",
+                "object_count": 3664,
+                "percentage": 5.04
+            },
+            {
+                "category_id": 62,
+                "category": "chair",
+                "object_count": 3207,
+                "percentage": 4.41
+            },
+            {
+                "category_id": 44,
+                "category": "bottle",
+                "object_count": 2064,
+                "percentage": 2.84
+            },
+            {
+                "category_id": 84,
+                "category": "book",
+                "object_count": 2009,
+                "percentage": 2.76
+            },
+            {
+                "category_id": 47,
+                "category": "cup",
+                "object_count": 1672,
+                "percentage": 2.3
+            },
+            {
+                "category_id": 67,
+                "category": "dining table",
+                "object_count": 1287,
+                "percentage": 1.77
+            },
+            {
+                "category_id": 51,
+                "category": "bowl",
+                "object_count": 1235,
+                "percentage": 1.7
+            },
+            {
+                "category_id": 28,
+                "category": "umbrella",
+                "object_count": 1097,
+                "percentage": 1.51
+            },
+            {
+                "category_id": 31,
+                "category": "handbag",
+                "object_count": 1031,
+                "percentage": 1.42
+            },
+            {
+                "category_id": 10,
+                "category": "traffic light",
+                "object_count": 1010,
+                "percentage": 1.39
+            },
+            {
+                "category_id": 9,
+                "category": "boat",
+                "object_count": 934,
+                "percentage": 1.28
+            },
+            {
+                "category_id": 52,
+                "category": "banana",
+                "object_count": 911,
+                "percentage": 1.25
+            },
+            {
+                "category_id": 15,
+                "category": "bench",
+                "object_count": 881,
+                "percentage": 1.21
+            },
+            {
+                "category_id": 4,
+                "category": "motorcycle",
+                "object_count": 878,
+                "percentage": 1.21
+            },
+            {
+                "category_id": 16,
+                "category": "bird",
+                "object_count": 859,
+                "percentage": 1.18
+            },
+            {
+                "category_id": 8,
+                "category": "truck",
+                "object_count": 841,
+                "percentage": 1.16
+            },
+            {
+                "category_id": 20,
+                "category": "sheep",
+                "object_count": 832,
+                "percentage": 1.14
+            },
+            {
+                "category_id": 57,
+                "category": "carrot",
+                "object_count": 791,
+                "percentage": 1.09
+            },
+            {
+                "category_id": 64,
+                "category": "potted plant",
+                "object_count": 761,
+                "percentage": 1.05
+            },
+            {
+                "category_id": 27,
+                "category": "backpack",
+                "object_count": 722,
+                "percentage": 0.99
+            },
+            {
+                "category_id": 38,
+                "category": "kite",
+                "object_count": 697,
+                "percentage": 0.96
+            },
+            {
+                "category_id": 56,
+                "category": "broccoli",
+                "object_count": 687,
+                "percentage": 0.94
+            },
+            {
+                "category_id": 21,
+                "category": "cow",
+                "object_count": 680,
+                "percentage": 0.93
+            },
+            {
+                "category_id": 46,
+                "category": "wine glass",
+                "object_count": 676,
+                "percentage": 0.93
+            },
+            {
+                "category_id": 35,
+                "category": "skis",
+                "object_count": 597,
+                "percentage": 0.82
+            },
+            {
+                "category_id": 2,
+                "category": "bicycle",
+                "object_count": 583,
+                "percentage": 0.8
+            },
+            {
+                "category_id": 55,
+                "category": "orange",
+                "object_count": 581,
+                "percentage": 0.8
+            },
+            {
+                "category_id": 86,
+                "category": "vase",
+                "object_count": 578,
+                "percentage": 0.79
+            },
+            {
+                "category_id": 49,
+                "category": "knife",
+                "object_count": 575,
+                "percentage": 0.79
+            },
+            {
+                "category_id": 22,
+                "category": "elephant",
+                "object_count": 558,
+                "percentage": 0.77
+            },
+            {
+                "category_id": 19,
+                "category": "horse",
+                "object_count": 542,
+                "percentage": 0.74
+            },
+            {
+                "category_id": 32,
+                "category": "tie",
+                "object_count": 540,
+                "percentage": 0.74
+            },
+            {
+                "category_id": 72,
+                "category": "tv",
+                "object_count": 531,
+                "percentage": 0.73
+            },
+            {
+                "category_id": 59,
+                "category": "pizza",
+                "object_count": 526,
+                "percentage": 0.72
+            },
+            {
+                "category_id": 60,
+                "category": "donut",
+                "object_count": 524,
+                "percentage": 0.72
+            },
+            {
+                "category_id": 33,
+                "category": "suitcase",
+                "object_count": 515,
+                "percentage": 0.71
+            },
+            {
+                "category_id": 53,
+                "category": "apple",
+                "object_count": 506,
+                "percentage": 0.7
+            },
+            {
+                "category_id": 37,
+                "category": "sports ball",
+                "object_count": 505,
+                "percentage": 0.69
+            },
+            {
+                "category_id": 42,
+                "category": "surfboard",
+                "object_count": 501,
+                "percentage": 0.69
+            },
+            {
+                "category_id": 85,
+                "category": "clock",
+                "object_count": 490,
+                "percentage": 0.67
+            },
+            {
+                "category_id": 88,
+                "category": "teddy bear",
+                "object_count": 485,
+                "percentage": 0.67
+            },
+            {
+                "category_id": 81,
+                "category": "sink",
+                "object_count": 479,
+                "percentage": 0.66
+            },
+            {
+                "category_id": 77,
+                "category": "cell phone",
+                "object_count": 478,
+                "percentage": 0.66
+            },
+            {
+                "category_id": 63,
+                "category": "couch",
+                "object_count": 477,
+                "percentage": 0.66
+            },
+            {
+                "category_id": 50,
+                "category": "spoon",
+                "object_count": 477,
+                "percentage": 0.66
+            },
+            {
+                "category_id": 75,
+                "category": "remote",
+                "object_count": 474,
+                "percentage": 0.65
+            },
+            {
+                "category_id": 18,
+                "category": "dog",
+                "object_count": 468,
+                "percentage": 0.64
+            },
+            {
+                "category_id": 6,
+                "category": "bus",
+                "object_count": 464,
+                "percentage": 0.64
+            },
+            {
+                "category_id": 5,
+                "category": "airplane",
+                "object_count": 462,
+                "percentage": 0.64
+            },
+            {
+                "category_id": 24,
+                "category": "zebra",
+                "object_count": 456,
+                "percentage": 0.63
+            },
+            {
+                "category_id": 43,
+                "category": "tennis racket",
+                "object_count": 442,
+                "percentage": 0.61
+            },
+            {
+                "category_id": 17,
+                "category": "cat",
+                "object_count": 439,
+                "percentage": 0.6
+            },
+            {
+                "category_id": 48,
+                "category": "fork",
+                "object_count": 435,
+                "percentage": 0.6
+            },
+            {
+                "category_id": 25,
+                "category": "giraffe",
+                "object_count": 424,
+                "percentage": 0.58
+            },
+            {
+                "category_id": 73,
+                "category": "laptop",
+                "object_count": 417,
+                "percentage": 0.57
+            },
+            {
+                "category_id": 7,
+                "category": "train",
+                "object_count": 414,
+                "percentage": 0.57
+            },
+            {
+                "category_id": 61,
+                "category": "cake",
+                "object_count": 412,
+                "percentage": 0.57
+            },
+            {
+                "category_id": 41,
+                "category": "skateboard",
+                "object_count": 406,
+                "percentage": 0.56
+            },
+            {
+                "category_id": 70,
+                "category": "toilet",
+                "object_count": 379,
+                "percentage": 0.52
+            },
+            {
+                "category_id": 65,
+                "category": "bed",
+                "object_count": 361,
+                "percentage": 0.5
+            },
+            {
+                "category_id": 54,
+                "category": "sandwich",
+                "object_count": 307,
+                "percentage": 0.42
+            },
+            {
+                "category_id": 79,
+                "category": "oven",
+                "object_count": 284,
+                "percentage": 0.39
+            },
+            {
+                "category_id": 40,
+                "category": "baseball glove",
+                "object_count": 269,
+                "percentage": 0.37
+            },
+            {
+                "category_id": 58,
+                "category": "hot dog",
+                "object_count": 260,
+                "percentage": 0.36
+            },
+            {
+                "category_id": 82,
+                "category": "refrigerator",
+                "object_count": 252,
+                "percentage": 0.35
+            },
+            {
+                "category_id": 76,
+                "category": "keyboard",
+                "object_count": 241,
+                "percentage": 0.33
+            },
+            {
+                "category_id": 34,
+                "category": "frisbee",
+                "object_count": 238,
+                "percentage": 0.33
+            },
+            {
+                "category_id": 39,
+                "category": "baseball bat",
+                "object_count": 234,
+                "percentage": 0.32
+            },
+            {
+                "category_id": 36,
+                "category": "snowboard",
+                "object_count": 224,
+                "percentage": 0.31
+            },
+            {
+                "category_id": 74,
+                "category": "mouse",
+                "object_count": 189,
+                "percentage": 0.26
+            },
+            {
+                "category_id": 13,
+                "category": "stop sign",
+                "object_count": 182,
+                "percentage": 0.25
+            },
+            {
+                "category_id": 90,
+                "category": "toothbrush",
+                "object_count": 170,
+                "percentage": 0.23
+            },
+            {
+                "category_id": 11,
+                "category": "fire hydrant",
+                "object_count": 148,
+                "percentage": 0.2
+            },
+            {
+                "category_id": 78,
+                "category": "microwave",
+                "object_count": 139,
+                "percentage": 0.19
+            },
+            {
+                "category_id": 23,
+                "category": "bear",
+                "object_count": 123,
+                "percentage": 0.17
+            },
+            {
+                "category_id": 87,
+                "category": "scissors",
+                "object_count": 108,
+                "percentage": 0.15
+            },
+            {
+                "category_id": 14,
+                "category": "parking meter",
+                "object_count": 98,
+                "percentage": 0.13
+            },
+            {
+                "category_id": 80,
+                "category": "toaster",
+                "object_count": 22,
+                "percentage": 0.03
+            },
+            {
+                "category_id": 89,
+                "category": "hair drier",
+                "object_count": 18,
+                "percentage": 0.02
+            }
+        ],
+        "top_50_categories": [
+            {
+                "category_id": 1,
+                "category": "person",
+                "object_count": 22319,
+                "percentage": 30.68
+            },
+            {
+                "category_id": 3,
+                "category": "car",
+                "object_count": 3664,
+                "percentage": 5.04
+            },
+            {
+                "category_id": 62,
+                "category": "chair",
+                "object_count": 3207,
+                "percentage": 4.41
+            },
+            {
+                "category_id": 44,
+                "category": "bottle",
+                "object_count": 2064,
+                "percentage": 2.84
+            },
+            {
+                "category_id": 84,
+                "category": "book",
+                "object_count": 2009,
+                "percentage": 2.76
+            },
+            {
+                "category_id": 47,
+                "category": "cup",
+                "object_count": 1672,
+                "percentage": 2.3
+            },
+            {
+                "category_id": 67,
+                "category": "dining table",
+                "object_count": 1287,
+                "percentage": 1.77
+            },
+            {
+                "category_id": 51,
+                "category": "bowl",
+                "object_count": 1235,
+                "percentage": 1.7
+            },
+            {
+                "category_id": 28,
+                "category": "umbrella",
+                "object_count": 1097,
+                "percentage": 1.51
+            },
+            {
+                "category_id": 31,
+                "category": "handbag",
+                "object_count": 1031,
+                "percentage": 1.42
+            },
+            {
+                "category_id": 10,
+                "category": "traffic light",
+                "object_count": 1010,
+                "percentage": 1.39
+            },
+            {
+                "category_id": 9,
+                "category": "boat",
+                "object_count": 934,
+                "percentage": 1.28
+            },
+            {
+                "category_id": 52,
+                "category": "banana",
+                "object_count": 911,
+                "percentage": 1.25
+            },
+            {
+                "category_id": 15,
+                "category": "bench",
+                "object_count": 881,
+                "percentage": 1.21
+            },
+            {
+                "category_id": 4,
+                "category": "motorcycle",
+                "object_count": 878,
+                "percentage": 1.21
+            },
+            {
+                "category_id": 16,
+                "category": "bird",
+                "object_count": 859,
+                "percentage": 1.18
+            },
+            {
+                "category_id": 8,
+                "category": "truck",
+                "object_count": 841,
+                "percentage": 1.16
+            },
+            {
+                "category_id": 20,
+                "category": "sheep",
+                "object_count": 832,
+                "percentage": 1.14
+            },
+            {
+                "category_id": 57,
+                "category": "carrot",
+                "object_count": 791,
+                "percentage": 1.09
+            },
+            {
+                "category_id": 64,
+                "category": "potted plant",
+                "object_count": 761,
+                "percentage": 1.05
+            },
+            {
+                "category_id": 27,
+                "category": "backpack",
+                "object_count": 722,
+                "percentage": 0.99
+            },
+            {
+                "category_id": 38,
+                "category": "kite",
+                "object_count": 697,
+                "percentage": 0.96
+            },
+            {
+                "category_id": 56,
+                "category": "broccoli",
+                "object_count": 687,
+                "percentage": 0.94
+            },
+            {
+                "category_id": 21,
+                "category": "cow",
+                "object_count": 680,
+                "percentage": 0.93
+            },
+            {
+                "category_id": 46,
+                "category": "wine glass",
+                "object_count": 676,
+                "percentage": 0.93
+            },
+            {
+                "category_id": 35,
+                "category": "skis",
+                "object_count": 597,
+                "percentage": 0.82
+            },
+            {
+                "category_id": 2,
+                "category": "bicycle",
+                "object_count": 583,
+                "percentage": 0.8
+            },
+            {
+                "category_id": 55,
+                "category": "orange",
+                "object_count": 581,
+                "percentage": 0.8
+            },
+            {
+                "category_id": 86,
+                "category": "vase",
+                "object_count": 578,
+                "percentage": 0.79
+            },
+            {
+                "category_id": 49,
+                "category": "knife",
+                "object_count": 575,
+                "percentage": 0.79
+            },
+            {
+                "category_id": 22,
+                "category": "elephant",
+                "object_count": 558,
+                "percentage": 0.77
+            },
+            {
+                "category_id": 19,
+                "category": "horse",
+                "object_count": 542,
+                "percentage": 0.74
+            },
+            {
+                "category_id": 32,
+                "category": "tie",
+                "object_count": 540,
+                "percentage": 0.74
+            },
+            {
+                "category_id": 72,
+                "category": "tv",
+                "object_count": 531,
+                "percentage": 0.73
+            },
+            {
+                "category_id": 59,
+                "category": "pizza",
+                "object_count": 526,
+                "percentage": 0.72
+            },
+            {
+                "category_id": 60,
+                "category": "donut",
+                "object_count": 524,
+                "percentage": 0.72
+            },
+            {
+                "category_id": 33,
+                "category": "suitcase",
+                "object_count": 515,
+                "percentage": 0.71
+            },
+            {
+                "category_id": 53,
+                "category": "apple",
+                "object_count": 506,
+                "percentage": 0.7
+            },
+            {
+                "category_id": 37,
+                "category": "sports ball",
+                "object_count": 505,
+                "percentage": 0.69
+            },
+            {
+                "category_id": 42,
+                "category": "surfboard",
+                "object_count": 501,
+                "percentage": 0.69
+            },
+            {
+                "category_id": 85,
+                "category": "clock",
+                "object_count": 490,
+                "percentage": 0.67
+            },
+            {
+                "category_id": 88,
+                "category": "teddy bear",
+                "object_count": 485,
+                "percentage": 0.67
+            },
+            {
+                "category_id": 81,
+                "category": "sink",
+                "object_count": 479,
+                "percentage": 0.66
+            },
+            {
+                "category_id": 77,
+                "category": "cell phone",
+                "object_count": 478,
+                "percentage": 0.66
+            },
+            {
+                "category_id": 63,
+                "category": "couch",
+                "object_count": 477,
+                "percentage": 0.66
+            },
+            {
+                "category_id": 50,
+                "category": "spoon",
+                "object_count": 477,
+                "percentage": 0.66
+            },
+            {
+                "category_id": 75,
+                "category": "remote",
+                "object_count": 474,
+                "percentage": 0.65
+            },
+            {
+                "category_id": 18,
+                "category": "dog",
+                "object_count": 468,
+                "percentage": 0.64
+            },
+            {
+                "category_id": 6,
+                "category": "bus",
+                "object_count": 464,
+                "percentage": 0.64
+            },
+            {
+                "category_id": 5,
+                "category": "airplane",
+                "object_count": 462,
+                "percentage": 0.64
+            }
+        ]
+    },
+    "3_objects_per_image_and_scene_complexity": {
+        "total_images": 10100,
+        "average_objects_per_image": 7.203168316831683,
+        "minimum_objects_per_image": 0,
+        "maximum_objects_per_image": 56,
+        "images_without_object_annotations": 104,
+        "images_with_object_annotations": 9996,
+        "scene_complexity_measure": "Number of annotated objects per image",
+        "average_across_all_10100_images": 7.2032,
+        "average_among_9996_images_with_objects": 7.2781,
+        "denominator_explanation": "The overall average includes all 10,100 selected images, including 104 images with zero object annotations. The second average considers only the 9,996 images with at least one object annotation.",
+        "images_without_object_annotations_investigation": {
+            "number_of_images": 104,
+            "images_with_captions": 104,
+            "images_with_five_captions": 104,
+            "images_with_six_captions": 0,
+            "images_without_captions": 0,
+            "decision": "All 104 images were retained in the dataset.",
+            "explanation": "All 104 images have five caption annotations but no associated object annotations in the selected instances annotation file. They are retained for caption analysis and counted as zero in the overall objects-per-image calculation.",
+            "investigation_file": "images_without_object_annotations_investigation.csv"
+        }
+    },
+    "4_caption_length_analysis": {
+        "total_captions": 50521,
+        "minimum_length_words": 6,
+        "maximum_length_words": 47,
+        "average_length_words": 10.464875992161675,
+        "median_length_words": 10.0,
+        "caption_count_investigation": {
+            "images_with_five_captions": 10079,
+            "images_with_six_captions": 21,
+            "expected_if_every_image_had_five_captions": 50500,
+            "actual_caption_count": 50521,
+            "explanation": "The 21 additional captions come from 21 images that have six caption annotations each. All other selected images have five captions."
+        },
+        "six_caption_images_investigation_file": "images_with_six_captions.csv"
+    },
+    "5_vocabulary_analysis": {
+        "total_word_tokens": 529611,
+        "vocabulary_size": 9709,
+        "vocabulary_size_without_stopwords": 9640,
+        "top_50_words": [
+            {
+                "word": "a",
+                "frequency": 83696
+            },
+            {
+                "word": "on",
+                "frequency": 18352
+            },
+            {
+                "word": "of",
+                "frequency": 17228
+            },
+            {
+                "word": "the",
+                "frequency": 16636
+            },
+            {
+                "word": "in",
+                "frequency": 15903
+            },
+            {
+                "word": "with",
+                "frequency": 13213
+            },
+            {
+                "word": "and",
+                "frequency": 12148
+            },
+            {
+                "word": "is",
+                "frequency": 8311
+            },
+            {
+                "word": "man",
+                "frequency": 6329
+            },
+            {
+                "word": "to",
+                "frequency": 5884
+            },
+            {
+                "word": "sitting",
+                "frequency": 4542
+            },
+            {
+                "word": "an",
+                "frequency": 4340
+            },
+            {
+                "word": "two",
+                "frequency": 4250
+            },
+            {
+                "word": "standing",
+                "frequency": 3763
+            },
+            {
+                "word": "people",
+                "frequency": 3606
+            },
+            {
+                "word": "at",
+                "frequency": 3480
+            },
+            {
+                "word": "are",
+                "frequency": 3479
+            },
+            {
+                "word": "next",
+                "frequency": 3271
+            },
+            {
+                "word": "white",
+                "frequency": 3093
+            },
+            {
+                "word": "woman",
+                "frequency": 3076
+            },
+            {
+                "word": "street",
+                "frequency": 2562
+            },
+            {
+                "word": "table",
+                "frequency": 2554
+            },
+            {
+                "word": "that",
+                "frequency": 2428
+            },
+            {
+                "word": "holding",
+                "frequency": 2407
+            },
+            {
+                "word": "it",
+                "frequency": 2256
+            },
+            {
+                "word": "person",
+                "frequency": 2145
+            },
+            {
+                "word": "large",
+                "frequency": 2052
+            },
+            {
+                "word": "some",
+                "frequency": 2028
+            },
+            {
+                "word": "down",
+                "frequency": 1981
+            },
+            {
+                "word": "group",
+                "frequency": 1862
+            },
+            {
+                "word": "top",
+                "frequency": 1823
+            },
+            {
+                "word": "up",
+                "frequency": 1801
+            },
+            {
+                "word": "tennis",
+                "frequency": 1791
+            },
+            {
+                "word": "field",
+                "frequency": 1738
+            },
+            {
+                "word": "black",
+                "frequency": 1733
+            },
+            {
+                "word": "near",
+                "frequency": 1720
+            },
+            {
+                "word": "dog",
+                "frequency": 1691
+            },
+            {
+                "word": "riding",
+                "frequency": 1690
+            },
+            {
+                "word": "small",
+                "frequency": 1675
+            },
+            {
+                "word": "front",
+                "frequency": 1667
+            },
+            {
+                "word": "cat",
+                "frequency": 1575
+            },
+            {
+                "word": "his",
+                "frequency": 1566
+            },
+            {
+                "word": "room",
+                "frequency": 1545
+            },
+            {
+                "word": "train",
+                "frequency": 1533
+            },
+            {
+                "word": "plate",
+                "frequency": 1525
+            },
+            {
+                "word": "by",
+                "frequency": 1477
+            },
+            {
+                "word": "young",
+                "frequency": 1457
+            },
+            {
+                "word": "red",
+                "frequency": 1442
+            },
+            {
+                "word": "while",
+                "frequency": 1326
+            },
+            {
+                "word": "playing",
+                "frequency": 1319
+            }
+        ],
+        "top_50_words_without_stopwords": [
+            {
+                "word": "man",
+                "frequency": 6329
+            },
+            {
+                "word": "sitting",
+                "frequency": 4542
+            },
+            {
+                "word": "two",
+                "frequency": 4250
+            },
+            {
+                "word": "standing",
+                "frequency": 3763
+            },
+            {
+                "word": "people",
+                "frequency": 3606
+            },
+            {
+                "word": "next",
+                "frequency": 3271
+            },
+            {
+                "word": "white",
+                "frequency": 3093
+            },
+            {
+                "word": "woman",
+                "frequency": 3076
+            },
+            {
+                "word": "street",
+                "frequency": 2562
+            },
+            {
+                "word": "table",
+                "frequency": 2554
+            },
+            {
+                "word": "holding",
+                "frequency": 2407
+            },
+            {
+                "word": "person",
+                "frequency": 2145
+            },
+            {
+                "word": "large",
+                "frequency": 2052
+            },
+            {
+                "word": "group",
+                "frequency": 1862
+            },
+            {
+                "word": "top",
+                "frequency": 1823
+            },
+            {
+                "word": "tennis",
+                "frequency": 1791
+            },
+            {
+                "word": "field",
+                "frequency": 1738
+            },
+            {
+                "word": "black",
+                "frequency": 1733
+            },
+            {
+                "word": "dog",
+                "frequency": 1691
+            },
+            {
+                "word": "riding",
+                "frequency": 1690
+            },
+            {
+                "word": "small",
+                "frequency": 1675
+            },
+            {
+                "word": "front",
+                "frequency": 1667
+            },
+            {
+                "word": "cat",
+                "frequency": 1575
+            },
+            {
+                "word": "room",
+                "frequency": 1545
+            },
+            {
+                "word": "train",
+                "frequency": 1533
+            },
+            {
+                "word": "plate",
+                "frequency": 1525
+            },
+            {
+                "word": "young",
+                "frequency": 1457
+            },
+            {
+                "word": "red",
+                "frequency": 1442
+            },
+            {
+                "word": "playing",
+                "frequency": 1319
+            },
+            {
+                "word": "water",
+                "frequency": 1312
+            },
+            {
+                "word": "bathroom",
+                "frequency": 1290
+            },
+            {
+                "word": "baseball",
+                "frequency": 1224
+            },
+            {
+                "word": "walking",
+                "frequency": 1198
+            },
+            {
+                "word": "sign",
+                "frequency": 1195
+            },
+            {
+                "word": "grass",
+                "frequency": 1173
+            },
+            {
+                "word": "blue",
+                "frequency": 1167
+            },
+            {
+                "word": "kitchen",
+                "frequency": 1117
+            },
+            {
+                "word": "food",
+                "frequency": 1087
+            },
+            {
+                "word": "pizza",
+                "frequency": 1079
+            },
+            {
+                "word": "bed",
+                "frequency": 1061
+            },
+            {
+                "word": "green",
+                "frequency": 1059
+            },
+            {
+                "word": "snow",
+                "frequency": 1058
+            },
+            {
+                "word": "side",
+                "frequency": 1049
+            },
+            {
+                "word": "looking",
+                "frequency": 1008
+            },
+            {
+                "word": "three",
+                "frequency": 1007
+            },
+            {
+                "word": "parked",
+                "frequency": 1005
+            },
+            {
+                "word": "ball",
+                "frequency": 999
+            },
+            {
+                "word": "building",
+                "frequency": 984
+            },
+            {
+                "word": "bus",
+                "frequency": 964
+            },
+            {
+                "word": "men",
+                "frequency": 961
+            }
+        ],
+        "stopword_list_size": 69,
+        "number_of_words_removed": 69
+    },
+    "6_part_of_speech_analysis": {
+        "total_tagged_tokens": 571635,
+        "distribution": [
+            {
+                "POS Category": "Other",
+                "Frequency": 276027,
+                "Percentage": 48.2872812196594
+            },
+            {
+                "POS Category": "Nouns",
+                "Frequency": 187052,
+                "Percentage": 32.72227907668355
+            },
+            {
+                "POS Category": "Verbs",
+                "Frequency": 61249,
+                "Percentage": 10.714704313066903
+            },
+            {
+                "POS Category": "Adjectives",
+                "Frequency": 43692,
+                "Percentage": 7.643338843842661
+            },
+            {
+                "POS Category": "Adverbs",
+                "Frequency": 3615,
+                "Percentage": 0.6323965467474875
+            }
+        ],
+        "tokenization_investigation": {
+            "regex_alphabetic_tokens": 529611,
+            "nltk_total_tokens": 571635,
+            "nltk_non_alphabetic_tokens": 43745,
+            "nltk_alphabetic_tokens": 527890,
+            "difference_between_total_counts": 42024,
+            "explanation": "Regex and NLTK use different tokenization methods. NLTK includes punctuation and other non-alphabetic tokens, and may split certain expressions differently. Therefore, their total token counts are not directly comparable."
+        },
+        "other_category_explanation": "Other includes POS tags outside the noun, verb, adjective and adverb groups, such as determiners, prepositions, pronouns, conjunctions, punctuation and other grammatical tokens."
+    },
+    "7_caption_diversity_analysis": {
+        "caption_uniqueness": {
+            "total_captions": 50521,
+            "unique_caption_texts": 49967,
+            "repeated_caption_occurrences": 554,
+            "unique_caption_percentage": 98.90342629797509
+        },
+        "color_attributes": [
+            {
+                "Color": "white",
+                "Frequency": 3093,
+                "Percentage": 27.77229056298824
+            },
+            {
+                "Color": "black",
+                "Frequency": 1733,
+                "Percentage": 15.560743467720211
+            },
+            {
+                "Color": "red",
+                "Frequency": 1442,
+                "Percentage": 12.947831552482716
+            },
+            {
+                "Color": "blue",
+                "Frequency": 1167,
+                "Percentage": 10.478584897189549
+            },
+            {
+                "Color": "green",
+                "Frequency": 1059,
+                "Percentage": 9.508844392565322
+            },
+            {
+                "Color": "brown",
+                "Frequency": 738,
+                "Percentage": 6.626560114932207
+            },
+            {
+                "Color": "yellow",
+                "Frequency": 722,
+                "Percentage": 6.482894854987878
+            },
+            {
+                "Color": "orange",
+                "Frequency": 432,
+                "Percentage": 3.8789620184969023
+            },
+            {
+                "Color": "gray",
+                "Frequency": 312,
+                "Percentage": 2.8014725689144293
+            },
+            {
+                "Color": "pink",
+                "Frequency": 301,
+                "Percentage": 2.7027027027027026
+            },
+            {
+                "Color": "purple",
+                "Frequency": 138,
+                "Percentage": 1.2391128670198437
+            }
+        ],
+        "shape_and_dimension_attributes": [
+            {
+                "Shape Attribute": "large",
+                "Frequency": 2052,
+                "Percentage": 46.091644204851754
+            },
+            {
+                "Shape Attribute": "small",
+                "Frequency": 1675,
+                "Percentage": 37.62353998203054
+            },
+            {
+                "Shape Attribute": "long",
+                "Frequency": 279,
+                "Percentage": 6.2668463611859835
+            },
+            {
+                "Shape Attribute": "square",
+                "Frequency": 70,
+                "Percentage": 1.5723270440251573
+            },
+            {
+                "Shape Attribute": "flat",
+                "Frequency": 59,
+                "Percentage": 1.3252470799640612
+            },
+            {
+                "Shape Attribute": "wide",
+                "Frequency": 55,
+                "Percentage": 1.2353998203054808
+            },
+            {
+                "Shape Attribute": "round",
+                "Frequency": 54,
+                "Percentage": 1.2129380053908356
+            },
+            {
+                "Shape Attribute": "short",
+                "Frequency": 49,
+                "Percentage": 1.10062893081761
+            },
+            {
+                "Shape Attribute": "narrow",
+                "Frequency": 48,
+                "Percentage": 1.078167115902965
+            },
+            {
+                "Shape Attribute": "circular",
+                "Frequency": 25,
+                "Percentage": 0.5615453728661276
+            },
+            {
+                "Shape Attribute": "straight",
+                "Frequency": 18,
+                "Percentage": 0.40431266846361186
+            },
+            {
+                "Shape Attribute": "thick",
+                "Frequency": 17,
+                "Percentage": 0.38185085354896675
+            },
+            {
+                "Shape Attribute": "thin",
+                "Frequency": 14,
+                "Percentage": 0.3144654088050315
+            },
+            {
+                "Shape Attribute": "rectangular",
+                "Frequency": 13,
+                "Percentage": 0.2920035938903864
+            },
+            {
+                "Shape Attribute": "curved",
+                "Frequency": 10,
+                "Percentage": 0.22461814914645103
+            },
+            {
+                "Shape Attribute": "oval",
+                "Frequency": 6,
+                "Percentage": 0.13477088948787064
+            },
+            {
+                "Shape Attribute": "triangle",
+                "Frequency": 4,
+                "Percentage": 0.08984725965858043
+            },
+            {
+                "Shape Attribute": "rectangle",
+                "Frequency": 2,
+                "Percentage": 0.04492362982929021
+            },
+            {
+                "Shape Attribute": "triangular",
+                "Frequency": 1,
+                "Percentage": 0.022461814914645106
+            },
+            {
+                "Shape Attribute": "rounded",
+                "Frequency": 1,
+                "Percentage": 0.022461814914645106
+            }
+        ],
+        "indoor_outdoor_context": [
+            {
+                "Context": "Unspecified",
+                "Caption Count": 34676,
+                "Percentage": 68.6368044971398
+            },
+            {
+                "Context": "Outdoor",
+                "Caption Count": 9415,
+                "Percentage": 18.6358148096831
+            },
+            {
+                "Context": "Indoor",
+                "Caption Count": 5976,
+                "Percentage": 11.828744482492429
+            },
+            {
+                "Context": "Mixed",
+                "Caption Count": 454,
+                "Percentage": 0.8986362106846658
+            }
+        ],
+        "day_night_context": [
+            {
+                "Context": "Unspecified",
+                "Caption Count": 49956,
+                "Percentage": 98.88165317392767
+            },
+            {
+                "Context": "Day",
+                "Caption Count": 367,
+                "Percentage": 0.7264305932186615
+            },
+            {
+                "Context": "Night",
+                "Caption Count": 198,
+                "Percentage": 0.3919162328536648
+            }
+        ]
+    },
+    "8_analysis_notes": {
+        "object_distribution": "Object frequencies are based on COCO instance annotations.",
+        "scene_complexity": "Measured using the number of annotated objects per image.",
+        "caption_length": "Measured by counting whitespace-separated words.",
+        "vocabulary": "Words were converted to lowercase and extracted using alphabetic regular expressions.",
+        "stopword_analysis": "Stop-word removal was applied only for supplementary vocabulary analysis; original captions were not modified.",
+        "pos_analysis": "Part-of-speech categories were obtained using NLTK tagging.",
+        "diversity_analysis": "Color, shape, and context statistics are based on predefined keyword searches in captions, not direct visual measurements.",
+        "day_night_analysis": "Captions without explicit day/night keywords are classified as unspecified.",
+        "caption_uniqueness": "Uniqueness is based on exact caption-text comparison.",
+        "tokenization_difference": "Regex-based vocabulary counting and NLTK POS tokenization produce different totals because their tokenization rules differ.",
+        "caption_annotation_variation": "The selected dataset contains 10,079 images with five captions and 21 images with six captions.",
+        "missing_object_annotations": "104 images have five captions but zero object annotations. They were retained rather than automatically removed.",
+        "objects_per_image_average": "The overall average uses 10,100 images; the conditional average uses only the 9,996 images with object annotations.",
+        "pos_other_category": "Other groups all NLTK POS tags not classified as nouns, verbs, adjectives or adverbs.",
+        "stopword_list": "The supplementary stop-word list was expanded to 69 words. Original captions remain unchanged."
+    }
+}
