@@ -1,0 +1,18 @@
+# Python 3.11. Exact versions used for the embedding release are recorded in embeddings/metadata.json.
+
+# Dataset cleaning, verification and charts (clean_and_split.py, verify_and_visualize.py)
+numpy>=1.26
+Pillow>=10.0
+matplotlib>=3.8
+
+# Caption analysis notebook (notebooks/01_caption_analysis.ipynb)
+pandas>=2.0
+spacy>=3.7            # then run: python -m spacy download en_core_web_sm
+
+# Embeddings and retrieval (build_embeddings.py, check_embeddings.py, retrieval.py)
+# torch >= 2.6 is required to load CLIP's pytorch_model.bin safely. For a GPU, install the
+# CUDA build from https://pytorch.org first (the release was built with torch 2.6.0+cu124).
+torch>=2.6
+transformers>=4.45,<5
+huggingface_hub>=0.25
+faiss-cpu>=1.8

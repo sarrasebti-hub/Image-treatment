@@ -1,0 +1,39 @@
+{
+  "seed": 42,
+  "audit_scope": "All annotated train2017 and val2017 images; test2017 and unlabeled2017 are unused.",
+  "audited_images": 123287,
+  "audit_status_counts": {
+    "valid": 123272,
+    "duplicate": 15
+  },
+  "source_status_counts": {
+    "train2017": {
+      "valid": 118272,
+      "duplicate": 15
+    },
+    "val2017": {
+      "valid": 5000
+    }
+  },
+  "splits": {
+    "knowledge_base": {
+      "images": 10000,
+      "captions": 50036
+    },
+    "validation": {
+      "images": 100,
+      "captions": 501
+    },
+    "test": {
+      "images": 100,
+      "captions": 500
+    }
+  },
+  "unique_selected_images": 10100,
+  "validation_is_subset_of_knowledge_base": true,
+  "test_disjoint_by_id_file_hash_and_pixel_hash": true,
+  "copied_files_sha256_verified": true,
+  "duplicate_policy": "Keep first valid image in source order train2017 then val2017, ascending image ID; compare SHA256 of file bytes and decoded RGB pixels including dimensions.",
+  "near_duplicates": "Similarity-based near-duplicate detection is not performed; crops, resizes and recompressions with different decoded pixels are not treated as exact duplicates.",
+  "raw_sources_modified": false
+}

@@ -1,0 +1,395 @@
+{
+  "release": "phase1-embeddings-v1",
+  "metadata_sha256": "c122ed845837ba58f8cf2e4a0c82f0e8df4929b64853baf4deed52610dcbc371",
+  "checked_utc": "2026-11-08T03:22:16+00:00",
+  "passed": true,
+  "hard_checks": [
+    {
+      "check": "kb_images: shape (10000, 512), float32, no NaN/Inf, unit norm",
+      "passed": true,
+      "shape": [
+        10000,
+        512
+      ],
+      "max_norm_error": 1.7881393432617188e-07
+    },
+    {
+      "check": "test_images: shape (100, 512), float32, no NaN/Inf, unit norm",
+      "passed": true,
+      "shape": [
+        100,
+        512
+      ],
+      "max_norm_error": 1.1920928955078125e-07
+    },
+    {
+      "check": "kb_captions_clip: shape (50036, 512), float32, no NaN/Inf, unit norm",
+      "passed": true,
+      "shape": [
+        50036,
+        512
+      ],
+      "max_norm_error": 1.7881393432617188e-07
+    },
+    {
+      "check": "kb_captions_sbert: shape (50036, 384), float32, no NaN/Inf, unit norm",
+      "passed": true,
+      "shape": [
+        50036,
+        384
+      ],
+      "max_norm_error": 1.1920928955078125e-07
+    },
+    {
+      "check": "kb_image_ids.json equals the KB split IDs (same order, no duplicates)",
+      "passed": true
+    },
+    {
+      "check": "test_image_ids.json equals the test split IDs",
+      "passed": true
+    },
+    {
+      "check": "validation_kb_rows.json points at the validation images inside the KB",
+      "passed": true
+    },
+    {
+      "check": "kb_captions.csv: one row per KB caption; IDs and raw text match captions.json",
+      "passed": true,
+      "rows": 50036,
+      "kb_images_with_captions": 10000
+    },
+    {
+      "check": "binary files match the SHA256 recorded in metadata.json",
+      "passed": true,
+      "files_checked": 7,
+      "mismatched": []
+    },
+    {
+      "check": "cleaned_dataset split files are unchanged since the build (SHA256)",
+      "passed": true,
+      "files_checked": 6,
+      "changed": []
+    },
+    {
+      "check": "FAISS indexes hold exactly the .npy vectors with the inner-product metric",
+      "passed": true
+    },
+    {
+      "check": "test images are not in the knowledge base",
+      "passed": true
+    },
+    {
+      "check": "validation images are all inside the knowledge base",
+      "passed": true
+    },
+    {
+      "check": "no test caption ID and no test image ID appears in the KB caption table",
+      "passed": true
+    },
+    {
+      "check": "self-exclusion: validation queries never get their own image or captions back (k=10)",
+      "passed": true
+    },
+    {
+      "check": "re-encoding the 100 validation image copies reproduces their KB rows",
+      "passed": true
+    },
+    {
+      "check": "re-encoding the 100 test images reproduces their rows (test row-to-ID alignment)",
+      "passed": true
+    },
+    {
+      "check": "re-encoding 200 random KB captions reproduces the stored CLIP and SBERT rows",
+      "passed": true
+    },
+    {
+      "check": "without exclusion, image->image returns the query itself at rank 1",
+      "passed": true,
+      "rate": 1.0
+    },
+    {
+      "check": "FAISS top-10 scores equal brute-force NumPy scores",
+      "passed": true,
+      "max_abs_difference": 1.7881393432617188e-07
+    }
+  ],
+  "leakage_audit": {
+    "test_captions_with_identical_text_in_kb": {
+      "count": 9,
+      "of": 500,
+      "matches": [
+        {
+          "test_image_id": 546976,
+          "caption": "A man riding on the back of a motorcycle.",
+          "kb_image_ids": [
+            210052,
+            238231,
+            534926,
+            579623
+          ]
+        },
+        {
+          "test_image_id": 423519,
+          "caption": "a public transit bus on a city street ",
+          "kb_image_ids": [
+            5684,
+            58174,
+            96512,
+            127520,
+            241517,
+            496207,
+            497664,
+            522160,
+            540783
+          ]
+        },
+        {
+          "test_image_id": 574823,
+          "caption": "The men are playing baseball in the field.",
+          "kb_image_ids": [
+            194677
+          ]
+        },
+        {
+          "test_image_id": 378673,
+          "caption": "A man riding a skateboard down the side of a ramp.",
+          "kb_image_ids": [
+            21764,
+            519625,
+            543220
+          ]
+        },
+        {
+          "test_image_id": 464358,
+          "caption": "a bed room with a neatly made bed ",
+          "kb_image_ids": [
+            313428,
+            413600
+          ]
+        },
+        {
+          "test_image_id": 50943,
+          "caption": "A person riding a wave on top of a surfboard.",
+          "kb_image_ids": [
+            58325,
+            166354,
+            379488
+          ]
+        },
+        {
+          "test_image_id": 183127,
+          "caption": "a man is riding a surfboard at the beach",
+          "kb_image_ids": [
+            146849,
+            174842
+          ]
+        },
+        {
+          "test_image_id": 506707,
+          "caption": "A group of players playing a baseball game.",
+          "kb_image_ids": [
+            104607
+          ]
+        },
+        {
+          "test_image_id": 36678,
+          "caption": "The Big Ben clock tower towering over the city of London.",
+          "kb_image_ids": [
+            101703,
+            415413,
+            566832
+          ]
+        }
+      ],
+      "note": "Same wording written for different images (generic phrasings); not the test annotations. KB captions are left unchanged: filtering the KB by test references would itself use them."
+    },
+    "near_duplicate_scan": {
+      "method": "CLIP image cosine, every query against all 10,000 KB images",
+      "review_threshold": 0.95,
+      "test_vs_kb": {
+        "max_cosine": 0.9804,
+        "median_nearest_cosine": 0.8458,
+        "flagged": [
+          {
+            "query_image_id": 183127,
+            "kb_image_id": 379488,
+            "cosine": 0.9804
+          },
+          {
+            "query_image_id": 50943,
+            "kb_image_id": 103260,
+            "cosine": 0.9534
+          }
+        ],
+        "top_pairs": [
+          {
+            "query_image_id": 183127,
+            "kb_image_id": 379488,
+            "cosine": 0.9804
+          },
+          {
+            "query_image_id": 50943,
+            "kb_image_id": 103260,
+            "cosine": 0.9534
+          },
+          {
+            "query_image_id": 350405,
+            "kb_image_id": 447689,
+            "cosine": 0.9489
+          },
+          {
+            "query_image_id": 36678,
+            "kb_image_id": 49957,
+            "cosine": 0.9443
+          },
+          {
+            "query_image_id": 577149,
+            "kb_image_id": 404066,
+            "cosine": 0.9437
+          },
+          {
+            "query_image_id": 159977,
+            "kb_image_id": 451738,
+            "cosine": 0.9337
+          },
+          {
+            "query_image_id": 302990,
+            "kb_image_id": 484701,
+            "cosine": 0.9309
+          },
+          {
+            "query_image_id": 108864,
+            "kb_image_id": 530407,
+            "cosine": 0.9298
+          },
+          {
+            "query_image_id": 523033,
+            "kb_image_id": 532877,
+            "cosine": 0.926
+          },
+          {
+            "query_image_id": 423971,
+            "kb_image_id": 390583,
+            "cosine": 0.9228
+          }
+        ]
+      },
+      "validation_vs_other_kb": {
+        "max_cosine": 0.9462,
+        "median_nearest_cosine": 0.8384,
+        "flagged": [],
+        "top_pairs": [
+          {
+            "query_image_id": 405628,
+            "kb_image_id": 535135,
+            "cosine": 0.9462
+          },
+          {
+            "query_image_id": 352118,
+            "kb_image_id": 421822,
+            "cosine": 0.9457
+          },
+          {
+            "query_image_id": 353543,
+            "kb_image_id": 79589,
+            "cosine": 0.9447
+          },
+          {
+            "query_image_id": 285433,
+            "kb_image_id": 524637,
+            "cosine": 0.9433
+          },
+          {
+            "query_image_id": 476504,
+            "kb_image_id": 151483,
+            "cosine": 0.9354
+          },
+          {
+            "query_image_id": 109319,
+            "kb_image_id": 306664,
+            "cosine": 0.9309
+          },
+          {
+            "query_image_id": 199946,
+            "kb_image_id": 263677,
+            "cosine": 0.9284
+          },
+          {
+            "query_image_id": 267950,
+            "kb_image_id": 281221,
+            "cosine": 0.9231
+          },
+          {
+            "query_image_id": 146659,
+            "kb_image_id": 507494,
+            "cosine": 0.9182
+          },
+          {
+            "query_image_id": 41846,
+            "kb_image_id": 128059,
+            "cosine": 0.9165
+          }
+        ]
+      }
+    }
+  },
+  "reencoding_consistency": {
+    "validation_image_copies_min_cosine": 0.9999998807907104,
+    "test_images_min_cosine": 0.9999997615814209,
+    "clip_caption_min_cosine": 0.9999997615814209,
+    "sbert_caption_min_cosine": 0.9999998211860657
+  },
+  "validation_retrieval": {
+    "queries": "100 validation images (KB members); vectors are their KB rows",
+    "image_to_own_captions_clip": {
+      "relevant": "the query image's own KB captions (linkage sanity check; own captions NOT excluded)",
+      "queries": 100,
+      "recall@1": 0.37,
+      "recall@5": 0.63,
+      "recall@10": 0.75,
+      "mrr": 0.5055,
+      "median_rank": 2.0
+    },
+    "caption_to_own_image_clip": {
+      "relevant": "the image of the query caption (first caption of each validation image)",
+      "queries": 100,
+      "recall@1": 0.32,
+      "recall@5": 0.44,
+      "recall@10": 0.5,
+      "mrr": 0.385,
+      "median_rank": 10.5
+    },
+    "caption_to_sibling_captions_sbert": {
+      "relevant": "other captions of the same image; the query caption itself is removed",
+      "queries": 100,
+      "recall@1": 0.19,
+      "recall@5": 0.43,
+      "recall@10": 0.55,
+      "mrr": 0.3022,
+      "median_rank": 7.5
+    },
+    "image_to_image_self_excluded_category_jaccard": {
+      "relevant": "mean Jaccard overlap of COCO object-category sets with the top-k neighbours",
+      "queries_with_objects": 99,
+      "mean_jaccard@1": 0.5002,
+      "mean_jaccard@5": 0.4731,
+      "mean_jaccard@10": 0.4576,
+      "random_kb_image_baseline": 0.0661
+    }
+  },
+  "latency_ms": {
+    "search_image_index_k10": 0.921,
+    "search_clip_caption_index_k10": 5.012,
+    "search_sbert_caption_index_k10": 3.543,
+    "encode_one_image_clip": 13.215,
+    "encode_one_text_clip": 6.616,
+    "encode_one_text_sbert": 3.387,
+    "encoder_device": "cuda",
+    "faiss_threads": 16
+  },
+  "figures": [
+    "figures/retrieval_examples.png",
+    "figures/leakage_top_pairs.png"
+  ],
+  "protocol": "Retrieval metrics use validation queries only; the test split is used only for the leakage audit."
+}

@@ -1,0 +1,65 @@
+# Dataset images (~1.67 GB). They are shared on Google Drive (see README.md).
+# Keep split IDs, captions, manifests, object annotations, audit CSVs and charts.
+/cleaned_dataset/knowledge_base/images/
+/cleaned_dataset/validation/images/
+/cleaned_dataset/test/images/
+
+# Original COCO downloads if downloaded again
+/data/
+/train2017/
+/val2017/
+/test2017/
+/unlabeled2017/
+/annotations_trainval2017/
+/image_info_test2017/
+/image_info_unlabeled2017/
+
+# Dataset archives and temporary copies
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+/TEAM_DATASET/
+
+# Local working copy of the LaTeX report (the compiled PDF is in report/)
+/overleaf_report/
+
+# Python environments, bytecode and local caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+.ipynb_checkpoints/
+
+# Large generated model, embedding and retrieval-index files
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.faiss
+*.index
+
+# Local secrets (allow a shareable example configuration)
+.env
+.env.*
+!.env.example
+
+# Temporary files and operating-system clutter
+/tmp/
+/temp/
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+Desktop.ini

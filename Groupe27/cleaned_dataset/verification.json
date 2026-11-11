@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "checked_delivered_files": 10200,
+  "unique_images": 10100,
+  "source_pool_images_audited": 123287,
+  "exact_duplicates_excluded": 15,
+  "missing_images": 0,
+  "corrupt_images": 0,
+  "all_copies_fully_decoded": true,
+  "all_file_and_pixel_hashes_match": true,
+  "split_counts_correct": true,
+  "validation_inside_knowledge_base": true,
+  "test_disjoint_by_id_file_hash_and_pixel_hash": true,
+  "captions_and_manifests_consistent": true,
+  "near_duplicate_detection_performed": false,
+  "scope": "Delivered dataset verified; original train2017/val2017 audit log checked. Unused test2017/unlabeled2017 not audited."
+}

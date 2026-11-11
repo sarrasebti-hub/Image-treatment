@@ -1,0 +1,241 @@
+split,category_id,category,annotated_instances
+knowledge_base,1,person,22216
+knowledge_base,2,bicycle,595
+knowledge_base,3,car,3667
+knowledge_base,4,motorcycle,802
+knowledge_base,5,airplane,421
+knowledge_base,6,bus,484
+knowledge_base,7,train,375
+knowledge_base,8,truck,913
+knowledge_base,9,boat,867
+knowledge_base,10,traffic light,1051
+knowledge_base,11,fire hydrant,147
+knowledge_base,13,stop sign,154
+knowledge_base,14,parking meter,83
+knowledge_base,15,bench,834
+knowledge_base,16,bird,973
+knowledge_base,17,cat,403
+knowledge_base,18,dog,469
+knowledge_base,19,horse,506
+knowledge_base,20,sheep,810
+knowledge_base,21,cow,795
+knowledge_base,22,elephant,481
+knowledge_base,23,bear,121
+knowledge_base,24,zebra,421
+knowledge_base,25,giraffe,456
+knowledge_base,27,backpack,678
+knowledge_base,28,umbrella,949
+knowledge_base,31,handbag,1049
+knowledge_base,32,tie,564
+knowledge_base,33,suitcase,505
+knowledge_base,34,frisbee,222
+knowledge_base,35,skis,499
+knowledge_base,36,snowboard,192
+knowledge_base,37,sports ball,525
+knowledge_base,38,kite,856
+knowledge_base,39,baseball bat,282
+knowledge_base,40,baseball glove,326
+knowledge_base,41,skateboard,598
+knowledge_base,42,surfboard,587
+knowledge_base,43,tennis racket,382
+knowledge_base,44,bottle,1939
+knowledge_base,46,wine glass,722
+knowledge_base,47,cup,1719
+knowledge_base,48,fork,499
+knowledge_base,49,knife,621
+knowledge_base,50,spoon,503
+knowledge_base,51,bowl,1262
+knowledge_base,52,banana,858
+knowledge_base,53,apple,503
+knowledge_base,54,sandwich,368
+knowledge_base,55,orange,519
+knowledge_base,56,broccoli,716
+knowledge_base,57,carrot,740
+knowledge_base,58,hot dog,274
+knowledge_base,59,pizza,514
+knowledge_base,60,donut,496
+knowledge_base,61,cake,574
+knowledge_base,62,chair,3162
+knowledge_base,63,couch,502
+knowledge_base,64,potted plant,750
+knowledge_base,65,bed,339
+knowledge_base,67,dining table,1416
+knowledge_base,70,toilet,322
+knowledge_base,72,tv,485
+knowledge_base,73,laptop,379
+knowledge_base,74,mouse,187
+knowledge_base,75,remote,534
+knowledge_base,76,keyboard,228
+knowledge_base,77,cell phone,535
+knowledge_base,78,microwave,154
+knowledge_base,79,oven,257
+knowledge_base,80,toaster,16
+knowledge_base,81,sink,450
+knowledge_base,82,refrigerator,220
+knowledge_base,84,book,1920
+knowledge_base,85,clock,556
+knowledge_base,86,vase,559
+knowledge_base,87,scissors,97
+knowledge_base,88,teddy bear,386
+knowledge_base,89,hair drier,15
+knowledge_base,90,toothbrush,149
+validation,1,person,167
+validation,2,bicycle,0
+validation,3,car,11
+validation,4,motorcycle,2
+validation,5,airplane,3
+validation,6,bus,6
+validation,7,train,6
+validation,8,truck,8
+validation,9,boat,9
+validation,10,traffic light,6
+validation,11,fire hydrant,0
+validation,13,stop sign,0
+validation,14,parking meter,3
+validation,15,bench,4
+validation,16,bird,13
+validation,17,cat,8
+validation,18,dog,2
+validation,19,horse,10
+validation,20,sheep,0
+validation,21,cow,16
+validation,22,elephant,10
+validation,23,bear,1
+validation,24,zebra,3
+validation,25,giraffe,20
+validation,27,backpack,2
+validation,28,umbrella,4
+validation,31,handbag,5
+validation,32,tie,5
+validation,33,suitcase,1
+validation,34,frisbee,1
+validation,35,skis,1
+validation,36,snowboard,0
+validation,37,sports ball,7
+validation,38,kite,15
+validation,39,baseball bat,4
+validation,40,baseball glove,3
+validation,41,skateboard,7
+validation,42,surfboard,2
+validation,43,tennis racket,4
+validation,44,bottle,26
+validation,46,wine glass,2
+validation,47,cup,22
+validation,48,fork,3
+validation,49,knife,5
+validation,50,spoon,4
+validation,51,bowl,17
+validation,52,banana,6
+validation,53,apple,2
+validation,54,sandwich,1
+validation,55,orange,8
+validation,56,broccoli,12
+validation,57,carrot,7
+validation,58,hot dog,0
+validation,59,pizza,4
+validation,60,donut,11
+validation,61,cake,2
+validation,62,chair,24
+validation,63,couch,4
+validation,64,potted plant,1
+validation,65,bed,6
+validation,67,dining table,11
+validation,70,toilet,3
+validation,72,tv,2
+validation,73,laptop,4
+validation,74,mouse,1
+validation,75,remote,3
+validation,76,keyboard,0
+validation,77,cell phone,7
+validation,78,microwave,2
+validation,79,oven,4
+validation,80,toaster,1
+validation,81,sink,7
+validation,82,refrigerator,5
+validation,84,book,26
+validation,85,clock,6
+validation,86,vase,1
+validation,87,scissors,1
+validation,88,teddy bear,0
+validation,89,hair drier,0
+validation,90,toothbrush,5
+test,1,person,247
+test,2,bicycle,3
+test,3,car,79
+test,4,motorcycle,4
+test,5,airplane,2
+test,6,bus,8
+test,7,train,1
+test,8,truck,12
+test,9,boat,9
+test,10,traffic light,21
+test,11,fire hydrant,2
+test,13,stop sign,6
+test,14,parking meter,0
+test,15,bench,4
+test,16,bird,7
+test,17,cat,4
+test,18,dog,5
+test,19,horse,6
+test,20,sheep,0
+test,21,cow,2
+test,22,elephant,8
+test,23,bear,0
+test,24,zebra,8
+test,25,giraffe,1
+test,27,backpack,10
+test,28,umbrella,6
+test,31,handbag,12
+test,32,tie,6
+test,33,suitcase,6
+test,34,frisbee,1
+test,35,skis,5
+test,36,snowboard,3
+test,37,sports ball,1
+test,38,kite,4
+test,39,baseball bat,2
+test,40,baseball glove,7
+test,41,skateboard,5
+test,42,surfboard,7
+test,43,tennis racket,1
+test,44,bottle,6
+test,46,wine glass,5
+test,47,cup,12
+test,48,fork,1
+test,49,knife,2
+test,50,spoon,0
+test,51,bowl,7
+test,52,banana,1
+test,53,apple,2
+test,54,sandwich,3
+test,55,orange,0
+test,56,broccoli,2
+test,57,carrot,0
+test,58,hot dog,1
+test,59,pizza,3
+test,60,donut,2
+test,61,cake,15
+test,62,chair,32
+test,63,couch,2
+test,64,potted plant,7
+test,65,bed,3
+test,67,dining table,9
+test,70,toilet,4
+test,72,tv,5
+test,73,laptop,2
+test,74,mouse,1
+test,75,remote,9
+test,76,keyboard,2
+test,77,cell phone,4
+test,78,microwave,1
+test,79,oven,1
+test,80,toaster,0
+test,81,sink,2
+test,82,refrigerator,0
+test,84,book,2
+test,85,clock,11
+test,86,vase,3
+test,87,scissors,0
+test,88,teddy bear,5
+test,89,hair drier,0
+test,90,toothbrush,2

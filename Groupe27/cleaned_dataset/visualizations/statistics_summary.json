@@ -1,0 +1,41 @@
+{
+  "knowledge_base": {
+    "images": 10000,
+    "captions": 50036,
+    "mean_caption_words": 10.475,
+    "median_caption_words": 10.0,
+    "min_caption_words": 6,
+    "max_caption_words": 47,
+    "annotated_objects": 72703,
+    "mean_annotated_objects_per_image": 7.27,
+    "min_annotated_objects": 0,
+    "max_annotated_objects": 70,
+    "categories_present": 80
+  },
+  "validation": {
+    "images": 100,
+    "captions": 501,
+    "mean_caption_words": 10.655,
+    "median_caption_words": 10.0,
+    "min_caption_words": 7,
+    "max_caption_words": 40,
+    "annotated_objects": 625,
+    "mean_annotated_objects_per_image": 6.25,
+    "min_annotated_objects": 0,
+    "max_annotated_objects": 31,
+    "categories_present": 71
+  },
+  "test": {
+    "images": 100,
+    "captions": 500,
+    "mean_caption_words": 10.404,
+    "median_caption_words": 10.0,
+    "min_caption_words": 7,
+    "max_caption_words": 28,
+    "annotated_objects": 684,
+    "mean_annotated_objects_per_image": 6.84,
+    "min_annotated_objects": 0,
+    "max_annotated_objects": 32,
+    "categories_present": 70
+  }
+}

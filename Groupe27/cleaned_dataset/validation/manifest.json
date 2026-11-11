@@ -1,0 +1,1503 @@
+[
+  {
+    "image_id": 23686,
+    "file_name": "000000023686.jpg",
+    "image_path": "images/000000023686.jpg",
+    "source": "train2017/train2017/000000023686.jpg",
+    "sha256": "dfb5823adb349b5d8aa2343583c7cdf73c9a9ecbe46da716d180a8140d763c44",
+    "pixel_sha256": "cf23bd05524913ccca52378387bfda77a9e5bc72580a7c2b7e7bcb7c684b5963",
+    "captions": [
+      "two trains on a track near a platform",
+      "Two trains that are sitting on a track in the gravel.",
+      "a couple of trains sit parked as it overlooks a city ",
+      "A couple of yellow and blue trains traveling past a red train.",
+      "two trains passing each other on the tracks "
+    ]
+  },
+  {
+    "image_id": 24133,
+    "file_name": "000000024133.jpg",
+    "image_path": "images/000000024133.jpg",
+    "source": "train2017/train2017/000000024133.jpg",
+    "sha256": "d49490d9c05e26faa212ec49fb3500a5121b34ba8661ed92bc978a114876fcd3",
+    "pixel_sha256": "9ec816fa89f2aae0b26d9bc2ea63dfa5f96815afdc63ee24448d3f5ae1e4fdcc",
+    "captions": [
+      "A guy is windsurfing on a cloudy day.",
+      "A man in a wet suit riding a wind surfboard in the water.",
+      "A man riding a windsail on top of the ocean.",
+      "a man is wind suffering on clam water.",
+      "A person sailing on the water on a dreary day. "
+    ]
+  },
+  {
+    "image_id": 24416,
+    "file_name": "000000024416.jpg",
+    "image_path": "images/000000024416.jpg",
+    "source": "train2017/train2017/000000024416.jpg",
+    "sha256": "a33c0c9e193d598616794556e07db1d30132113749c811606c7c3074e1d8f702",
+    "pixel_sha256": "5900f5ff92d5b4bfabae3d59e21f799507257231aa09c0e3f4a735c50764579a",
+    "captions": [
+      "A large yellow traffic light on a pole over a street.",
+      "A tall obelisk sitting in the middle of a large city.",
+      "An urban landscape photo with the Washington monument in the background and a street signal in the foreground.",
+      "Look down the street at the tall monument.",
+      "The Washington Monument rises above the city street."
+    ]
+  },
+  {
+    "image_id": 41846,
+    "file_name": "000000041846.jpg",
+    "image_path": "images/000000041846.jpg",
+    "source": "train2017/train2017/000000041846.jpg",
+    "sha256": "80472c9e26bdcd8802e6a5a30622022c0d8285120ac89bdd1cba602ec5680e56",
+    "pixel_sha256": "428ebc34fe67387f734b3be4358939edcc46833eab0130ff2ad6587ad2a4b9cc",
+    "captions": [
+      "pizza on a plate with one slice separated from the rest",
+      "a plate of pizza on a table ",
+      "A pizza is cut into fours on a white plate.",
+      "A pizza is sliced into four pieces on a plate.",
+      "A pizza on a plate with toppings cut into four slices."
+    ]
+  },
+  {
+    "image_id": 47511,
+    "file_name": "000000047511.jpg",
+    "image_path": "images/000000047511.jpg",
+    "source": "train2017/train2017/000000047511.jpg",
+    "sha256": "80ba547f4d90ce46b083d3b10c30631f3be9c9ae5003a592eabefada3974807e",
+    "pixel_sha256": "0f06caddf1a67aa8b2fc3fea3c8b71c85faf80a3e6b3b0d01e96779ea080ecb9",
+    "captions": [
+      "A woman sitting at a desk with an older woman.",
+      "Two women are woking on an assignment together.",
+      "Two women are sitting at a wood desk.",
+      "A woman and an elderly woman sitting at a desk together in a classroom setting with notebooks and pencils on the desk.",
+      "Two women with glasses on sitting at a table with notebooks, pencils and a cell phone. "
+    ]
+  },
+  {
+    "image_id": 51291,
+    "file_name": "000000051291.jpg",
+    "image_path": "images/000000051291.jpg",
+    "source": "train2017/train2017/000000051291.jpg",
+    "sha256": "c5fc173484575e97e3cd179bba52d3428cb157f7f98043201af6d4d0534da588",
+    "pixel_sha256": "df19e9940d1b658263e8a5ac43dc4638e5dc0ba3fb7c05ba0a169eb80e51d2c0",
+    "captions": [
+      "A parking meter with blue, red and green buttons.",
+      "a close up of a digital parking meter ",
+      "A parking meter reads the time \"23\" next to a parked car.",
+      "A silver car sitting next to a parking meter showing 23 minutes left. ",
+      "a parking meter next to a parked car"
+    ]
+  },
+  {
+    "image_id": 54401,
+    "file_name": "000000054401.jpg",
+    "image_path": "images/000000054401.jpg",
+    "source": "train2017/train2017/000000054401.jpg",
+    "sha256": "ddf0acc5263d3753450b04b94bf8c565140b072185ff56f6264810f66c46518c",
+    "pixel_sha256": "e1fdb64919599a6923ea7a24f1b07cf72b667b01f34f24e1685367f03a08a785",
+    "captions": [
+      "A bedroom with a bed, window and radiator.",
+      "A bed sitting in a bedroom next to a window.",
+      "A bedroom with a bed next to a window.",
+      "A photo of a bedroom inside a home.",
+      "A bed has no comforter in a room with  plaid curtains and plaid bedskirt."
+    ]
+  },
+  {
+    "image_id": 62151,
+    "file_name": "000000062151.jpg",
+    "image_path": "images/000000062151.jpg",
+    "source": "train2017/train2017/000000062151.jpg",
+    "sha256": "0a5b4bc347bb065271b85c8a27a08351fe78990dbb33f1aeec6a785044ddf25b",
+    "pixel_sha256": "ef0f8b177f9faa7def3a504018e68c701113f67cd18cebc34ea2a1b290446281",
+    "captions": [
+      "Horses stand and drink from pond water near the road.",
+      "horses near a body of water with a sky background",
+      "Horses behind a fence near a body of water.",
+      "Horses grazing in a muddy portion of a flooded field",
+      "Five horses next to a body of water behind a fence."
+    ]
+  },
+  {
+    "image_id": 62440,
+    "file_name": "000000062440.jpg",
+    "image_path": "images/000000062440.jpg",
+    "source": "train2017/train2017/000000062440.jpg",
+    "sha256": "5558509cff39e0400d4716533789b2bcaa8107df63ebbc6d23d30348454712fb",
+    "pixel_sha256": "e54a0f5327307c1e8c4dbce479dac03f9f37e6df252787de6ecea55a97d8e77b",
+    "captions": [
+      "A person windsurfing in ocean in a hazy sky.",
+      "Green and black fabric attached to a man on the water",
+      "a person in the ocean using a kite sail",
+      "a para sailor sailing at sunset on the ocean.",
+      "Adult surfing on waves using green and blue parachute."
+    ]
+  },
+  {
+    "image_id": 64411,
+    "file_name": "000000064411.jpg",
+    "image_path": "images/000000064411.jpg",
+    "source": "train2017/train2017/000000064411.jpg",
+    "sha256": "d5fe44d1d302db21b2146e40a7e952d65450381c2c299999785b61249c2b0089",
+    "pixel_sha256": "5bf360f9c66fe27b1c36aa1249fdf03a64e3bd4d696ec8a2876fde49aece87ae",
+    "captions": [
+      "A street free sign sitting under street lights on a bridge.",
+      "High rise buildings next to a highway in Japan.",
+      "City building view with a major highway and the tunnels underneath.",
+      "A sign on a pole telling where certain places are found.",
+      "a view of a bridge, cars, street lamps and buildings"
+    ]
+  },
+  {
+    "image_id": 65632,
+    "file_name": "000000065632.jpg",
+    "image_path": "images/000000065632.jpg",
+    "source": "train2017/train2017/000000065632.jpg",
+    "sha256": "c2d5836cb83d3ac6afd34c9bb2de360eb36f009e0eb86bfd2b0e9fb6e860aeb9",
+    "pixel_sha256": "ddf159f8632b47f697e1474b2961cc3bbc6c2746ee80ce4ccfdb68cf65d858de",
+    "captions": [
+      "All sorts of action here between two guys playing soccer. ",
+      "Two men falling and playing soccer against each other.",
+      "People are on the ground at a soccer game.",
+      "One soccer player falling to the ground as another falls over him.",
+      "Two soccer players in the middle of a soccer field."
+    ]
+  },
+  {
+    "image_id": 74421,
+    "file_name": "000000074421.jpg",
+    "image_path": "images/000000074421.jpg",
+    "source": "train2017/train2017/000000074421.jpg",
+    "sha256": "db8fe9aed0a576a7a4a55bbcf3c6160153677b139b0a00d93c8f4bafb51773c7",
+    "pixel_sha256": "bea3c3099b78ebb0a2254cca701d86f7f4add4dc271ae01b53b86d0fac1e2b60",
+    "captions": [
+      "A boy on a red motorcycle with tiger statue in the background.",
+      "a young person on a parked motorcycle next to a person in costume",
+      "A young boy sittingon a motor cycle by a holiday display",
+      "a child sitting on a stationary motorcycle next to person in a costume.",
+      "A boy on a motorcycle is surrounded by decorations."
+    ]
+  },
+  {
+    "image_id": 77660,
+    "file_name": "000000077660.jpg",
+    "image_path": "images/000000077660.jpg",
+    "source": "train2017/train2017/000000077660.jpg",
+    "sha256": "42a990864cceff27d756a0c5237623298ca5e58fd13cd26c109f5765dc2737ee",
+    "pixel_sha256": "0bb02bda346c6670084bc5a62684906417e086e2885fa728ffedf3639e956f57",
+    "captions": [
+      "A young boy holding a tennis racquet on a tennis court.",
+      "A kid without shoes is holding a tennis racket.",
+      "A young boy practices his tennis skills against a wall.",
+      "a little kid trying to hit a tennis ball",
+      "there is a young boy that is playing tennis"
+    ]
+  },
+  {
+    "image_id": 85236,
+    "file_name": "000000085236.jpg",
+    "image_path": "images/000000085236.jpg",
+    "source": "train2017/train2017/000000085236.jpg",
+    "sha256": "cedd666af7a7b5c4be585043fcc2ead3b78f3ba205937667475729c38d594e43",
+    "pixel_sha256": "0d0c4db565596a251fe5ea0ef2c4cee8f5950cb937d0601adefc3ac444c2edde",
+    "captions": [
+      "A giraffe standing on top of dirt in a field.",
+      "A giraffe sticking its head over a fence ",
+      "The baby giraffe is looking over the fence.",
+      "A giraffe looking over a fence of an enclosure.",
+      "A giraffe has its face looking over a tall fence."
+    ]
+  },
+  {
+    "image_id": 105156,
+    "file_name": "000000105156.jpg",
+    "image_path": "images/000000105156.jpg",
+    "source": "train2017/train2017/000000105156.jpg",
+    "sha256": "b7f9cef98949efdcc3325fece522fe2405dc3658935494d1b6dda52705e96298",
+    "pixel_sha256": "23d08423d8d92fa138df486676b920cf1ad0c25d65731258617308dfd8046c2c",
+    "captions": [
+      "A horse stands still attached to a passenger coach. ",
+      "A white horse is saddled to a cart that contains a sitting bench that is covered with a curtained tarp.",
+      "A horse is attached to a carriage that is decorated in pretty fabrics and colorful paint. ",
+      "a horse drawn carriage on a city street",
+      "A white horse hocked up to a covered cart."
+    ]
+  },
+  {
+    "image_id": 106851,
+    "file_name": "000000106851.jpg",
+    "image_path": "images/000000106851.jpg",
+    "source": "train2017/train2017/000000106851.jpg",
+    "sha256": "a680da7b17a9a7ec3643f2971f2cc6ae979b7566b89d6eda6857ebc0c6097a6d",
+    "pixel_sha256": "57a802541edf882f07c9dcb1289caff0beef815d4fdcfd8026e447614263e8cd",
+    "captions": [
+      "A batter swings and misses during a baseball game",
+      "Scene of an outdoors walled in area that looks great. \n",
+      "A man that has a baseball bat standing in the dirt.",
+      "baseball player striking out, as fast ball flies by",
+      "some baseball players are playing baseball a batter and a catcher"
+    ]
+  },
+  {
+    "image_id": 107585,
+    "file_name": "000000107585.jpg",
+    "image_path": "images/000000107585.jpg",
+    "source": "train2017/train2017/000000107585.jpg",
+    "sha256": "dc8db07fe5f8256f0713079f82f4a7fe57137ac83201e1f4eded072bbe9fc529",
+    "pixel_sha256": "241f09e8b311c8b105bcab5d444e287ae106581117537ef55b5e185ffce2067a",
+    "captions": [
+      "Traffic signage near intersection in large city near beach.",
+      "The warning sign is below two street name signs.",
+      "Various street signs at the middle of an intersection",
+      "A sign proclaims the entrance to a private residence in the city.",
+      "Below a couple of street signs there is an additional yellow sign."
+    ]
+  },
+  {
+    "image_id": 109319,
+    "file_name": "000000109319.jpg",
+    "image_path": "images/000000109319.jpg",
+    "source": "train2017/train2017/000000109319.jpg",
+    "sha256": "619242d86ab3e493dcf6e3d229b00c47b8120806ac241661075ee21b8993e508",
+    "pixel_sha256": "3042efa8160d42681a92142d98010d2e3fa63775f6a123d139914e8b1498a432",
+    "captions": [
+      "An animal that is in the snow by themselves.",
+      "A polar bear standing on a rock looking out.",
+      "A large white polar bear standing on a stone wall.",
+      "a white polar bear is walking in his pen",
+      "A polar bear standing on the rocks in its enclosure."
+    ]
+  },
+  {
+    "image_id": 118401,
+    "file_name": "000000118401.jpg",
+    "image_path": "images/000000118401.jpg",
+    "source": "train2017/train2017/000000118401.jpg",
+    "sha256": "c24e9c63be6e35cd7e3da3679ff0c3f6aa794ec91ce0f03f8fcde0f86546d231",
+    "pixel_sha256": "a24c3c1db80f90424c2968766d8ba9d1fcd42dded2cd735eb5234c0effcfe8df",
+    "captions": [
+      "A giraffe and several elephants at the water's edge.",
+      "Elephants and giraffes at a savanna watering place.",
+      "A giraffe drinks from the river near approaching elephants.",
+      "A group of animals walking into some water.",
+      "Giraffes and elephants gather next to the water to drink."
+    ]
+  },
+  {
+    "image_id": 128328,
+    "file_name": "000000128328.jpg",
+    "image_path": "images/000000128328.jpg",
+    "source": "train2017/train2017/000000128328.jpg",
+    "sha256": "49f57df1876b83f461dc8899de6cac1169086dafd97f2419d34c290a32718efa",
+    "pixel_sha256": "edd0513e58976c69516b6402551978a2917413a890aba2f49c83419581478634",
+    "captions": [
+      "Signs directing traffic in front of two several story buildings.",
+      "billboards over a highway near two large white buildings",
+      "Government buildings in New York City with street signs",
+      "Large direction signs above a highway in front of office buildings.",
+      "This black and white photo was taken in ny an shows direction signs"
+    ]
+  },
+  {
+    "image_id": 128402,
+    "file_name": "000000128402.jpg",
+    "image_path": "images/000000128402.jpg",
+    "source": "train2017/train2017/000000128402.jpg",
+    "sha256": "9bb4a196ecf8c0b1fcb8012a150d8d4ee82953fe632427c0c6e7130b8a558843",
+    "pixel_sha256": "014012cc7faa627622124c5dbd8ff552a620c3677e5aea65a0547001b837da20",
+    "captions": [
+      "A man laying in bed with a fat orange cat on top of it.",
+      "An orange cat laying on a man in a bed.",
+      "Man sleeping in a bed with an orange tabby cat laying down on him.",
+      "A cat lays on top of his owner.",
+      "A large orange cat is laying on a sleeping man."
+    ]
+  },
+  {
+    "image_id": 135210,
+    "file_name": "000000135210.jpg",
+    "image_path": "images/000000135210.jpg",
+    "source": "train2017/train2017/000000135210.jpg",
+    "sha256": "6df00592760c14e74f5893a6e3f0cb8f67ee98492ca8e4d39b22f82a0dc5f862",
+    "pixel_sha256": "da7ad1d2aa9baa44a618651f86e7a521cb8b399a734adc88f0fbd86a08192f24",
+    "captions": [
+      "A child holding a Motorola cell phone in its hand ",
+      "The baby is playing with the phone in the park.",
+      "The baby on the blanket at the park is hoding  a Motorola phone.",
+      "A little girl in a playground holds a cell phone to her face.",
+      "a small child at a park putting a cellular phone to her mouth"
+    ]
+  },
+  {
+    "image_id": 144084,
+    "file_name": "000000144084.jpg",
+    "image_path": "images/000000144084.jpg",
+    "source": "train2017/train2017/000000144084.jpg",
+    "sha256": "ac19fa3952d05bf589bfd445bcc5874739859fde2852f0e784538a513172f5a7",
+    "pixel_sha256": "e92eeaa576811c3ea6782523e2ea8b727905fd862bafd1961891e6086c2842ca",
+    "captions": [
+      "A small airplane sitting on top of a tarmac.",
+      "there are two planes that are on the ground ",
+      "A plane sitting across from another plane with its propellers spinning.",
+      "a close up shot of a propeller in motion and another small plane",
+      "a large plane is parked out on a runway with another plane"
+    ]
+  },
+  {
+    "image_id": 146659,
+    "file_name": "000000146659.jpg",
+    "image_path": "images/000000146659.jpg",
+    "source": "train2017/train2017/000000146659.jpg",
+    "sha256": "ac7161b54be5cd3b3e8851a6b79f91dfdf9da005001f6d25735978767cae5011",
+    "pixel_sha256": "0e2524f9349e19f88c3555cdb8bfc0b305d8d93033c99e0af4662aa7e87c62c8",
+    "captions": [
+      "A airplane flying high in the sky next to a set of white smoke lines. ",
+      "A plane that is flying in the sky.",
+      "a big jumbo plane flies through the blue sky ",
+      "a jet airplane in the air in between two jet streams",
+      "A commercial jet with its wheels down in a blue sky"
+    ]
+  },
+  {
+    "image_id": 160192,
+    "file_name": "000000160192.jpg",
+    "image_path": "images/000000160192.jpg",
+    "source": "train2017/train2017/000000160192.jpg",
+    "sha256": "8e1d994d76c7c99bfb2bbea8644b08387f55ce6a7ff3da34e7648cdeb17e2b0b",
+    "pixel_sha256": "c0f19f56090fbbdaec9ee3af367e74d0dd5941a0323c379768c1328a748749e0",
+    "captions": [
+      "Three plates topped with different desserts on a table.",
+      "The plates have sweet treats and knifes to serve them. ",
+      "There is a taste contest featuring different cakes and cookies. ",
+      "a table with a few plates of food on it",
+      "A table with different plates of desserts "
+    ]
+  },
+  {
+    "image_id": 168083,
+    "file_name": "000000168083.jpg",
+    "image_path": "images/000000168083.jpg",
+    "source": "train2017/train2017/000000168083.jpg",
+    "sha256": "bbccd20a7452f9edf15e3cc77672a1b8c96457a08a5a6033c6a0e5bf8d6c613c",
+    "pixel_sha256": "491645469249139121161dc86bd897f419b53d054ace7a09c5dbbc1eb8ea6b97",
+    "captions": [
+      "A male taking a picture with an old Polaroid while a female brushes her teeth.",
+      "Two people are taking a picture with toothbrushes in their mouth.",
+      "A man holding a camera standing next to a woman brushing her teeth.",
+      "two individuals standing in front of a mirror, one brushing her teeth",
+      "A woman eating and a man take a picture"
+    ]
+  },
+  {
+    "image_id": 171011,
+    "file_name": "000000171011.jpg",
+    "image_path": "images/000000171011.jpg",
+    "source": "train2017/train2017/000000171011.jpg",
+    "sha256": "c69ed815766fbf5ac7643932ae11a0cbcfcb852d70fa315f0978dcfb8696aff8",
+    "pixel_sha256": "83c727cbb70f3bb3c78d82f88c4ea06f9a9efd433f25eb4697fa3f542f47e06a",
+    "captions": [
+      "A person crossing the street in front of a transit bus.",
+      "A white and red bus on street with people passing by.",
+      "A bus in Hong Kong near a 7-Eleven store.",
+      "there is a bus with lots of writing on it on this street",
+      "A person walking in front of a large bus."
+    ]
+  },
+  {
+    "image_id": 174989,
+    "file_name": "000000174989.jpg",
+    "image_path": "images/000000174989.jpg",
+    "source": "train2017/train2017/000000174989.jpg",
+    "sha256": "fba1fb736cf330ffb51f8c1c157a903b89014b9e4ac58609613cf2b151c67c6f",
+    "pixel_sha256": "3f3efd1ec12a8319bdd0f44939af636876eec0f419ad69da64cc06b9ce52d45a",
+    "captions": [
+      "A man sitting next to a woman while they both talk on cell phones.",
+      "Two people stand next to each other holding cell phones.",
+      "A couple dressed to be married are pretending to talk on cell phones. ",
+      "A bride and groom on their cell phones. ",
+      "A well dressed couple who are utilizing cell phones."
+    ]
+  },
+  {
+    "image_id": 183972,
+    "file_name": "000000183972.jpg",
+    "image_path": "images/000000183972.jpg",
+    "source": "train2017/train2017/000000183972.jpg",
+    "sha256": "4c8ac27040a55102c6b022cdb843ee63d900dafd0012f589c9db6592de60af97",
+    "pixel_sha256": "4c5ee52cb63aee9567538f2290a4f48e4d06e98a3726f2674da254089f0491ef",
+    "captions": [
+      "a kitchen with a sliding ironing board and iron.",
+      "A kitchen with a pull out ironing board and refrigerator.",
+      "A kitchen with an ironing board exetended out from a counter.",
+      "an image of a kitchen setting with an ironing board",
+      "An ironing board is pulled out in a kitchen that has some antiques."
+    ]
+  },
+  {
+    "image_id": 184868,
+    "file_name": "000000184868.jpg",
+    "image_path": "images/000000184868.jpg",
+    "source": "train2017/train2017/000000184868.jpg",
+    "sha256": "13c20bd92dd0c6e141793d43b27487412c41ff9f2640c052a8eb67e5e81b2e37",
+    "pixel_sha256": "00ef84213aca5289200d6f06ac855c603c345ee7499b38bcc246773ad558c364",
+    "captions": [
+      "A male  skiing in the snow looking happy.",
+      "A picture of a women snow skiing. ",
+      "A picture of a woman skiing out in the snow.",
+      "Woman having a lot of fun cross country skiing.",
+      "A person leans forward on skis in snow",
+      "The woman wearing skis is smiling as she walks through the snow."
+    ]
+  },
+  {
+    "image_id": 199499,
+    "file_name": "000000199499.jpg",
+    "image_path": "images/000000199499.jpg",
+    "source": "train2017/train2017/000000199499.jpg",
+    "sha256": "ac8cee29e95550d9c5f4cfa276344157dd51d41f88db144820f0bed68fc0f4a0",
+    "pixel_sha256": "80b46764f0df88a002f02087819f48089b446f47bb6a1bf34519e893185229d5",
+    "captions": [
+      "An interesting bird is perched on the branch of a tree.",
+      "An bird with an unusual beak is perched on a branch.",
+      "A white bird is sitting on a tree branch.",
+      "A white bird with a spoon bill on a branch.",
+      "A very close up look at a strange white object by some trees."
+    ]
+  },
+  {
+    "image_id": 199946,
+    "file_name": "000000199946.jpg",
+    "image_path": "images/000000199946.jpg",
+    "source": "train2017/train2017/000000199946.jpg",
+    "sha256": "f49f005941901962e93612bd8a325bb97988d2769c671f45f7f41cb52a02708f",
+    "pixel_sha256": "15e8a4c48b23d6111984fe929df8b35b9911efc8cf5cfb6b5b7120392d60e57e",
+    "captions": [
+      "A kitchen with counter tops, cabinets, a sink, and an oven is next to a living room.",
+      "A kitchen area with the living room in view.",
+      "A kitchen with a clean breakfast nook. ",
+      "A kitchen is shown in front of an empty living room.",
+      "A view of a kitchen with wooden cabinets, and white counters looks in to the couch in the next room."
+    ]
+  },
+  {
+    "image_id": 204502,
+    "file_name": "000000204502.jpg",
+    "image_path": "images/000000204502.jpg",
+    "source": "train2017/train2017/000000204502.jpg",
+    "sha256": "02fe08b679de87b67962257c1a249545e92033c2442f9d7be463db803d1c3589",
+    "pixel_sha256": "2b11706ef7c645d7f3dafc49b62fa3cf4204ee668fdcee5fa56b1d5e510c5839",
+    "captions": [
+      "A wooden table topped with a bottle of alcohol and a glass.",
+      "A bottle of liquor called Granite next to a half-filled glass.",
+      "A bottle of a wine style beer next to a half full glass.",
+      "A bottle of wine poured into a glass. ",
+      "A bottle of wine and a wine glass."
+    ]
+  },
+  {
+    "image_id": 219075,
+    "file_name": "000000219075.jpg",
+    "image_path": "images/000000219075.jpg",
+    "source": "train2017/train2017/000000219075.jpg",
+    "sha256": "a0d8f29dc471012936cf4ea7534448ffc433acfd87b9f7fe8ff165770d4cc7df",
+    "pixel_sha256": "6696a1ac0d2a5d6ec44b000ab76ae8cb1694594bd9e5678f3a197b78f052bcf9",
+    "captions": [
+      "A man stands beside a refrigerator in a kitchen.",
+      "A man in a Mets shirt standing next to a white refrigerator.",
+      "A man is standing in a transformed garage which includes all of the kitchen amenities.",
+      "A man stands next to a refrigerator in a garage area.",
+      "A man standing by a refrigerator holding out his shorts while smiling."
+    ]
+  },
+  {
+    "image_id": 220446,
+    "file_name": "000000220446.jpg",
+    "image_path": "images/000000220446.jpg",
+    "source": "train2017/train2017/000000220446.jpg",
+    "sha256": "253f6deceead57c2dea052317c58555b262e7d2b5431fe5a92761350b055a151",
+    "pixel_sha256": "bb95bdeecacb15fe7a919219560f707f559b92a8cbc1bd3948eb10e787c69f2d",
+    "captions": [
+      "A standing toilet hole filled with nasty filthy.",
+      "there is a very dirty rusted outline of a toilet",
+      "A empty pipe hole where a toilet used to be.",
+      "a old bathroom with a toilet missing in it",
+      "A rusted area in the floor where a toilet used to sit."
+    ]
+  },
+  {
+    "image_id": 225923,
+    "file_name": "000000225923.jpg",
+    "image_path": "images/000000225923.jpg",
+    "source": "train2017/train2017/000000225923.jpg",
+    "sha256": "35ca4dfb1dba4599737ff9a8ae5333110f9000e0b6c59d598dd11fcfcf4add9a",
+    "pixel_sha256": "1d0cad3759f52cb2751468b77c5a7ce9f217b3130c8366501e026aa8e7275313",
+    "captions": [
+      "Bagels and doughnuts are displayed on a table.",
+      "A breakfast spread of bagles, donuts, and coffee supplies",
+      "A serving platter full of bagels next to a box of donuts on a table.",
+      "A decorative plate of cut up bagels on a table.",
+      "A plate filled with bagel slices on a table next to a box of donuts."
+    ]
+  },
+  {
+    "image_id": 232516,
+    "file_name": "000000232516.jpg",
+    "image_path": "images/000000232516.jpg",
+    "source": "train2017/train2017/000000232516.jpg",
+    "sha256": "80345bc9f23c47c3393f77464ee58e8efe73ef0e2e7bf204a2ac25ede0bf8dcd",
+    "pixel_sha256": "8c8f4c6cbec9f979cfd0cd30e706589f65b9cc587a4750dca379aeb2cf721b42",
+    "captions": [
+      "A small boat floating on a large body of water.",
+      "A small blue boat stands empty on the water.",
+      "A small empty rowboat in the middle of the ocean",
+      "A solitary row boat on placid blue water.",
+      "A single, small boat on a placid lake"
+    ]
+  },
+  {
+    "image_id": 252407,
+    "file_name": "000000252407.jpg",
+    "image_path": "images/000000252407.jpg",
+    "source": "train2017/train2017/000000252407.jpg",
+    "sha256": "8cfedf5c93fe1c03dc3a218ae9f2d84aba2b7bda441371c634eacd8b4cf20667",
+    "pixel_sha256": "3f07ca69ec027bfd8e32e26819efbb57dfe73ff090e2b97162781e3fcd5f96cf",
+    "captions": [
+      "there is a boat with a lot of people on the boat on the water ",
+      "A boat filled with people riding on it.",
+      "A dragon boat race with a bunch of people in the boat ",
+      "A long wooden boat filled with tourists on the water.",
+      "A long boat with many people in it "
+    ]
+  },
+  {
+    "image_id": 259338,
+    "file_name": "000000259338.jpg",
+    "image_path": "images/000000259338.jpg",
+    "source": "train2017/train2017/000000259338.jpg",
+    "sha256": "53eaca8d3c6241e3da4c38f44f8dd1de34221340899de38a99f5221fe90e80d8",
+    "pixel_sha256": "ef92f563365476e22644edb573dfaa29f18584bf7eecb3a95ca6aca71e67cfbf",
+    "captions": [
+      "A woman with a green top and black shorts preparing to server a tennis ball.",
+      "Someone swinging their tennis racket at the tennis ball on the court.",
+      "A tennis player leans back to serve the ball.",
+      "a woman reaching up to slap a tennis ball with her rackett",
+      "A female tennis player raises her racket to hit the ball on a tennis court."
+    ]
+  },
+  {
+    "image_id": 267950,
+    "file_name": "000000267950.jpg",
+    "image_path": "images/000000267950.jpg",
+    "source": "train2017/train2017/000000267950.jpg",
+    "sha256": "e95547fe6416e91b88acb8423906e1b7db882adddd1b60f6e7b073745b3e5cc6",
+    "pixel_sha256": "5624095fabf8cea5a7c974009482a67878d6c64626132d151f98616ec024ed5c",
+    "captions": [
+      "A bunch of giraffes standing in the middle of a field.",
+      "A lush green field filled with tall giraffe.",
+      "A large group of giraffes are standing in the grass.",
+      "A group of giraffes standing together on a grassy plain.",
+      "Group of giraffes in an open field with trees in the far backdrop"
+    ]
+  },
+  {
+    "image_id": 268785,
+    "file_name": "000000268785.jpg",
+    "image_path": "images/000000268785.jpg",
+    "source": "train2017/train2017/000000268785.jpg",
+    "sha256": "8c57c036c07ed457282d073eb699d90f6755b161b47a21f0047b8c67c3534ab2",
+    "pixel_sha256": "2711aecf50e5b13f1c42e0f50fed903efc45c6ec5ed9335876ed27265b5b8dab",
+    "captions": [
+      "A man holding a baseball bat standing next to home plate.",
+      "A baseball player at home plate with a baseball bat. ",
+      "A professional baseball player steps into the batter's box in front of a catcher and umpire.",
+      "A baseball player holds the bat while the catcher and the umpire stand behind him on a baseball diamond.",
+      "the batter grips his bat and gazes out toward the pitcher's mound, near the bottom of the batter's box, not quite at the plate."
+    ]
+  },
+  {
+    "image_id": 280678,
+    "file_name": "000000280678.jpg",
+    "image_path": "images/000000280678.jpg",
+    "source": "train2017/train2017/000000280678.jpg",
+    "sha256": "f69e78c67be6819b969b2e8d7506a626131b89f5143796e88c4b7e12c335bd5b",
+    "pixel_sha256": "ebff6c5d05ee3562931dde35293b880f1c5e1b5f5b5f32c6c7274cd6bb52092a",
+    "captions": [
+      "A plate topped with a slice of pizza, a chicken breast and vegetables.",
+      "A good entree is displayed on a plate.",
+      "A plate of seasoned chicken, pizza, green beans, and potatoes.",
+      "A white plate and metal fork on a plate of food",
+      "A plate of food that includes pizza, chicken, potatoes and green beans."
+    ]
+  },
+  {
+    "image_id": 280866,
+    "file_name": "000000280866.jpg",
+    "image_path": "images/000000280866.jpg",
+    "source": "train2017/train2017/000000280866.jpg",
+    "sha256": "1b38190b8428953daaa22fbd8bd0dd0b99374fde2000e262e83f795ad3189ca4",
+    "pixel_sha256": "56953356fb825972e31929909e26ad8af22ee6a12639662226a9c5d233b6112e",
+    "captions": [
+      "A person crossing their legs while a cat walks against a wall.",
+      "a person wearing red tennis shoes and a black cat",
+      "Person with red tennis shoes with feet up near black cat.",
+      "A person's feet in red shoes next to a black cat.",
+      "A black cat walking a ledge in a dark room."
+    ]
+  },
+  {
+    "image_id": 283715,
+    "file_name": "000000283715.jpg",
+    "image_path": "images/000000283715.jpg",
+    "source": "train2017/train2017/000000283715.jpg",
+    "sha256": "22565bf871c0aa057ba9c9e30ef0e327ea268ab55b617747f8c1a53be3a745ca",
+    "pixel_sha256": "be480a60c3dff0160513b851191bf4e294261aa81dbdcfa3421469dc18d45140",
+    "captions": [
+      "A pan filled with a mixture of vegetables and meat.",
+      "The gourmet platter includes several different exotic ingredients..",
+      "A skillet with cheese, carrots, meat, broccoli and onions.",
+      "A bowl of food that is sitting on a table.",
+      "A pan filled with various types of foods."
+    ]
+  },
+  {
+    "image_id": 284375,
+    "file_name": "000000284375.jpg",
+    "image_path": "images/000000284375.jpg",
+    "source": "train2017/train2017/000000284375.jpg",
+    "sha256": "298f025ea517ef67c103551154702a1953dda7933c2879ddfaa816620694c3c3",
+    "pixel_sha256": "4decaecb3b1783c3bdca4c2675c9212fa91fdbd81017bcb97a79226f38f9a577",
+    "captions": [
+      "An open laptop computer sitting on a wooden desk.",
+      "A laptop is sitting on a table with a cup, notebook, and cell phone.",
+      "A laptop is kept open on the table along with mobile,notebook and pen.",
+      "A laptop, mouse, cell phone and a notepad sitting on a table.",
+      "a laptop and notebook on top of a brown wooden desk"
+    ]
+  },
+  {
+    "image_id": 285433,
+    "file_name": "000000285433.jpg",
+    "image_path": "images/000000285433.jpg",
+    "source": "train2017/train2017/000000285433.jpg",
+    "sha256": "65f3555cc0ec4430bd4eda45234956c915f851371d33d6b6919582df869270e9",
+    "pixel_sha256": "b96543cf1be2646d34a087c6b9d03dfe1831ffee11b979eedd7e3d62ecbcb7a8",
+    "captions": [
+      "A toilet with a black seat cover next to a sink.",
+      "There is a toilet and sink in a bathroom.",
+      "A white bathroom has a black toilet cover.",
+      "A toilet with its lid up next to the sink. ",
+      "a white sink and a white toilet with a black lid"
+    ]
+  },
+  {
+    "image_id": 294761,
+    "file_name": "000000294761.jpg",
+    "image_path": "images/000000294761.jpg",
+    "source": "train2017/train2017/000000294761.jpg",
+    "sha256": "365b7388f38762e3fe19ce86187565e094598cc8deb2cbf386bb55772fd32a7b",
+    "pixel_sha256": "9eb93433dc05411673ecd0ee1cc07465738f139fcffd10614285c7a4f3d149a2",
+    "captions": [
+      "A photo with a filter shows a clock sitting in front of a stack of papers.",
+      "A clock sitting in front of a stack of magazines and next to a basket.",
+      "A clock sitting in front of a pile of books.",
+      "A picture of a clock sits with colorful books.",
+      "This appears to be a graphic image of a clock and books behind it. "
+    ]
+  },
+  {
+    "image_id": 296471,
+    "file_name": "000000296471.jpg",
+    "image_path": "images/000000296471.jpg",
+    "source": "train2017/train2017/000000296471.jpg",
+    "sha256": "cc836ff222fe4465fd48c30d45646eec794907550743a4ea51c63f5ca9131487",
+    "pixel_sha256": "bc84d7ebd0899846010bb6608a0a50aeff3f8a31b17e923cdd3686f63aba0974",
+    "captions": [
+      "Cat sitting on the ground in between an open refrigerator. ",
+      "A gray cat is looking in the refrigerator ",
+      "an image of a cat inside a refridgerator",
+      "A cat is in front of an open refrigerator door.",
+      "A gray cat looking at the inside of a refrigerator door."
+    ]
+  },
+  {
+    "image_id": 309873,
+    "file_name": "000000309873.jpg",
+    "image_path": "images/000000309873.jpg",
+    "source": "train2017/train2017/000000309873.jpg",
+    "sha256": "2c51b9bdc6e40f5eff0641b5ce6199dd4005779e671323224eb7ab5447b43ed5",
+    "pixel_sha256": "f67f42a8d7eef9e1ae37a8b75605b497dc28d4fc06e12cc3395e5e73b2063d62",
+    "captions": [
+      "A male and female sharing earbuds on a train.",
+      "A couple people sitting next to each other.",
+      "A young man and woman watch something on a laptop during a train ride.",
+      "A man riding on a train next to a woman near a window.",
+      "Two young people are sitting on the train close together."
+    ]
+  },
+  {
+    "image_id": 315378,
+    "file_name": "000000315378.jpg",
+    "image_path": "images/000000315378.jpg",
+    "source": "train2017/train2017/000000315378.jpg",
+    "sha256": "ff6dfb5b8fa173f704495f459bd1e092a9de0dd99ba0d8ec600e5f7bd3a9c1d2",
+    "pixel_sha256": "83c901a001cc3fc9c123689a7c2836b5351a969e22d6745a1bb8c1587cf03ada",
+    "captions": [
+      "a black hat is sitting on a white bed",
+      "A hat sitting on a bed with a textured spread.",
+      "a black jockey hat resting on a made bed",
+      "A hat lying on a bedspread in a room.",
+      "A hat sitting on the corner of a bed."
+    ]
+  },
+  {
+    "image_id": 324008,
+    "file_name": "000000324008.jpg",
+    "image_path": "images/000000324008.jpg",
+    "source": "train2017/train2017/000000324008.jpg",
+    "sha256": "e34e5b5ddfb5e5b9628331315abd7a2956add25a0247ea791d3bf52b5a28ccf9",
+    "pixel_sha256": "5b217d62f325df61c41517567468dc3789baace5525e6ccc2df07bbf2b5bc044",
+    "captions": [
+      "A meal on an airplane of cereal, milk, and fruit.",
+      "A tray covered in food on top of a table.",
+      "An airline lunch tray filled with healthy food.",
+      "a tray with breakfast of orange juice, cereal with milk, a banana and a piece of bread",
+      "Breakfast on the train prepares the worker for the day ahead."
+    ]
+  },
+  {
+    "image_id": 324670,
+    "file_name": "000000324670.jpg",
+    "image_path": "images/000000324670.jpg",
+    "source": "train2017/train2017/000000324670.jpg",
+    "sha256": "e303d2aa1768eb4d0614bd90e4a86e90f29aafa1301582bba97c3cb9842c271b",
+    "pixel_sha256": "863276f04bf169b1995c4bbaa5bc8153aef72c4cce3759a1132a6383306dfa86",
+    "captions": [
+      "A seagull sitting on the pier with the light house behind him.",
+      "A bird is sitting on the rail next to the lake and a light house. ",
+      "White bird sitting in front of a lighthouse with a red roof. ",
+      "A seagull rests on a concrete wall, with the ocean and a lighthouse in the background.",
+      "A seagull sitting on a cement ledge across from a lighthouse port."
+    ]
+  },
+  {
+    "image_id": 332448,
+    "file_name": "000000332448.jpg",
+    "image_path": "images/000000332448.jpg",
+    "source": "train2017/train2017/000000332448.jpg",
+    "sha256": "62b5aed84e13c47be855c683f89283b7924cc97b722a1c575a099f48f35ad8f9",
+    "pixel_sha256": "cb8e4b0766e0fa1413e257ed12962314d142644ea4189435ec769bf015ae4ebc",
+    "captions": [
+      "Some flowers are in water in a glass vase.",
+      "The flowers are growing in a glass vane.",
+      "Flowers in a glass vase filled with water on a wooden table.",
+      "Pale pink flowers in a glass vase on a table.",
+      "A clear vase with a dozen of tulips in it."
+    ]
+  },
+  {
+    "image_id": 334549,
+    "file_name": "000000334549.jpg",
+    "image_path": "images/000000334549.jpg",
+    "source": "train2017/train2017/000000334549.jpg",
+    "sha256": "c95e53c56069b26cbd7a84df969bbc0091eb67d8ab4d23fd8d6d28fb33e0abf3",
+    "pixel_sha256": "340d786aed3f3b5c8a0e9d568709db3ec931eb8913b3b6d1cc0877afd71e39d9",
+    "captions": [
+      "Someone doing a trick on their skate board",
+      "A man performs a trick on a skateboard in a skate park.",
+      "A skateboarder doing a trick at a skate park.",
+      "Person on a skateboard doing a trick and other people watching.",
+      "The boy is skating his skateboard down the ramp."
+    ]
+  },
+  {
+    "image_id": 335804,
+    "file_name": "000000335804.jpg",
+    "image_path": "images/000000335804.jpg",
+    "source": "train2017/train2017/000000335804.jpg",
+    "sha256": "4ecbebb4eebdbc06d9b99d6bace8a51c5bfc687295db6a92dd2523681b83c07b",
+    "pixel_sha256": "41a45c7d33dc4391212d85e3b8804c15acc8bbd51979b99bb58763de0785763b",
+    "captions": [
+      "Passenger train station waiting for people to board",
+      "A blue and yellow train stopped an an empty station.",
+      "A passenger train pulled up to a train stop.",
+      "A train engine with many carts pulled into a station.",
+      "A passenger train waiting at a train station."
+    ]
+  },
+  {
+    "image_id": 341844,
+    "file_name": "000000341844.jpg",
+    "image_path": "images/000000341844.jpg",
+    "source": "train2017/train2017/000000341844.jpg",
+    "sha256": "e4ed73170f2e3004c53d4ab28e5545f3899e3d1f7de2e0d8a274ca1b26c90690",
+    "pixel_sha256": "c8333496d36ba4b226eb40da2c357d64eedf85cf6d44c1a29a05157763859b7a",
+    "captions": [
+      "A man standing with his hands clasped together.",
+      "A man wearing a suit and tie is standing outside.",
+      "a man wearing a black suit and striped tie",
+      "A man in suit and tie has his hands posed.",
+      "A man in a suit and tie about to speak"
+    ]
+  },
+  {
+    "image_id": 352118,
+    "file_name": "000000352118.jpg",
+    "image_path": "images/000000352118.jpg",
+    "source": "train2017/train2017/000000352118.jpg",
+    "sha256": "1ae3ed899e0707347816c9a55e2143dd4ec5b41da74d877243c6d57182be6e81",
+    "pixel_sha256": "cd4163f4a1eae68474647864c87efd18ac2773c42db380174fb918b57d49bfc3",
+    "captions": [
+      "Three giraffes are walking on the dirt road.",
+      "A group of pretty giraffes walking a rocky road.",
+      "There are three adult giraffees that are walking in the park.",
+      "Three giraffes are walking around their enclosed area at the zoo.",
+      "Three giraffes in a dirt and grass outdoor enclosure."
+    ]
+  },
+  {
+    "image_id": 353543,
+    "file_name": "000000353543.jpg",
+    "image_path": "images/000000353543.jpg",
+    "source": "train2017/train2017/000000353543.jpg",
+    "sha256": "9b8a2a51800598d844a925919f9c212c2fff69709ab813d940ec1c9e54232cc8",
+    "pixel_sha256": "dcd0f422cf5d833031c8a788e3358deeed95d4ef135195e798b5a079645501c7",
+    "captions": [
+      "A giraffe walking across a grass covered field.",
+      "One giraffe is walking around an open, dry field.",
+      "A small giraffe stands alone in some thick grass. ",
+      "A giraffe walks alone through the plains with other animals in the background.",
+      "A giraffe raising its leg in the brush land."
+    ]
+  },
+  {
+    "image_id": 354381,
+    "file_name": "000000354381.jpg",
+    "image_path": "images/000000354381.jpg",
+    "source": "train2017/train2017/000000354381.jpg",
+    "sha256": "49caf73c62fb208c33593a218b69cb24900ae137ba459b12445537158eb1d05b",
+    "pixel_sha256": "f034eaba6539e012a566ee2531ad7b0ae18d0e00a8f7932d038957b746c75bba",
+    "captions": [
+      "A cat sleeping on top of a bed curled up in a ball.",
+      "A calico cat curled up in a ball sleeping.",
+      "A calico cat rolled tightly sleeping on a white surface. ",
+      "A cat curled up on a bed in a room.",
+      "A brown ans black cat curled up in a ball."
+    ]
+  },
+  {
+    "image_id": 355603,
+    "file_name": "000000355603.jpg",
+    "image_path": "images/000000355603.jpg",
+    "source": "train2017/train2017/000000355603.jpg",
+    "sha256": "63fe42622bb33f7b0510befa1474d24e041c099f87ecbcb1197c4166017703fa",
+    "pixel_sha256": "cb159bac09acf3309a038baf55de0e5cdc0736596e66aafa4886490e96c0441b",
+    "captions": [
+      "A dog is standing at the entrance of the kitchen.",
+      "Kitchen scene light brown wood wood counter tops and floor with mostly brown dog with white accents.",
+      "A dog standing in a kitchen area with a sink",
+      "The brown and white dog stands on a wooden kitchen floor.",
+      "A shaggy dog standing in the doorway of a kitchen"
+    ]
+  },
+  {
+    "image_id": 359126,
+    "file_name": "000000359126.jpg",
+    "image_path": "images/000000359126.jpg",
+    "source": "train2017/train2017/000000359126.jpg",
+    "sha256": "a6b1d7e3e24e225085a499f36c6549294272a5f1ae95eef38e26bd06f3e194b1",
+    "pixel_sha256": "3c41cbc759a794209d962c25a39c08fae60bfae395b98e886a5acda19df895aa",
+    "captions": [
+      "Obama speaking from at podium at the London Summit in 2009.",
+      "President Obama at the podium at the London Summit 2009.",
+      "African American male speaking at a press conference.",
+      "A man in a suit speaking at a podium at a London Summit.",
+      "The president of the United States giving a speech at a podium."
+    ]
+  },
+  {
+    "image_id": 359659,
+    "file_name": "000000359659.jpg",
+    "image_path": "images/000000359659.jpg",
+    "source": "train2017/train2017/000000359659.jpg",
+    "sha256": "c868ae3179086eab69d2bc5e575d3cc11ac3e1598c610d3cbd39dccfbfe30520",
+    "pixel_sha256": "bbddfc11c36f98ce202ac66020889851249cf33cf07aec0d0a275cfa9dc04926",
+    "captions": [
+      "A white toilet sitting in a bathroom on a wooden floor.",
+      "A bathroom scene with an impressionist painting hung on the wall.",
+      "an image of a clean half bathroom with wood floors",
+      "Small toilet with a green and white painting hanging on the wall. ",
+      "A view into a simple bathroom from the door."
+    ]
+  },
+  {
+    "image_id": 368629,
+    "file_name": "000000368629.jpg",
+    "image_path": "images/000000368629.jpg",
+    "source": "train2017/train2017/000000368629.jpg",
+    "sha256": "d7987f338ebd99b792c5dc928444930bed289001e3bc085478b5c59a7bc0845d",
+    "pixel_sha256": "3421cff872cc92d5935e4a2ab9901c4be0c2f76e61ad3a74d0d5c32f399c4070",
+    "captions": [
+      "A white bathroom sink with a toothbrush and orange on it.",
+      "An old style bathroom sink with a toothbrush and orange on it.",
+      "A clean bathroom sink displays a powered toothbrush and fruit.",
+      "A toothbrush and an orange on top of the sink. ",
+      "A white cast iron sink in a bathroom."
+    ]
+  },
+  {
+    "image_id": 375568,
+    "file_name": "000000375568.jpg",
+    "image_path": "images/000000375568.jpg",
+    "source": "train2017/train2017/000000375568.jpg",
+    "sha256": "03929ad68b4e951854e2e2436ed967391bacfa442c7fd6986f091365ab773010",
+    "pixel_sha256": "338f520274837a5e4790dcbbaf6a4d67dd4da23c0c8a24f4368fd51a328405ee",
+    "captions": [
+      "An adorable dog lays behind plastic red chairs in a grass covered park next to a tree.",
+      "A dog sitting in some grass looking at something.",
+      "A dog crouches in the tall grass beneath a tree.",
+      "A dog lying in the grass behind a row of chairs.",
+      "A husky type of dog laying in the grass behind some plastic chairs."
+    ]
+  },
+  {
+    "image_id": 395497,
+    "file_name": "000000395497.jpg",
+    "image_path": "images/000000395497.jpg",
+    "source": "train2017/train2017/000000395497.jpg",
+    "sha256": "450908430dba63b7ab919cc293a0f9853806f1e1fc22b50ee7f304ad86eb8b55",
+    "pixel_sha256": "ff53f70087d265454e32a049e60019a60dee29eae44a9aa3cb48c97f684d627b",
+    "captions": [
+      "A flock of birds flying over a beach next to the ocean.",
+      "A flock of birds are flying near a body of water.",
+      "A group of nine birds flying over water.",
+      "Flock of ducks flying over a sandy beach.",
+      "nine geese flying south for the winter months"
+    ]
+  },
+  {
+    "image_id": 399369,
+    "file_name": "000000399369.jpg",
+    "image_path": "images/000000399369.jpg",
+    "source": "train2017/train2017/000000399369.jpg",
+    "sha256": "37c675866a2966be1bb56f88a7623fa792d0a9e454aca078b444745667a56b65",
+    "pixel_sha256": "dfd5a50ff2d6c8b8f6eabb7bf54c739edf8a085e9ca42d1c40ee5716e7d41491",
+    "captions": [
+      "A person in shorts and no shirt running in the sand",
+      "A the lower half of a man catching a Frisbee.",
+      "A man is catching a white Frisbee on the beach.",
+      "A man running to catch a Frisbee at the beach.",
+      "MAN IN SWIMMING TRUNKS RUNNING IN THE SAND."
+    ]
+  },
+  {
+    "image_id": 402833,
+    "file_name": "000000402833.jpg",
+    "image_path": "images/000000402833.jpg",
+    "source": "train2017/train2017/000000402833.jpg",
+    "sha256": "83ab743a1f27cf1e4a14a8f850c970bbbc6d92bf6284f7feacf6dbcb2abd6d0f",
+    "pixel_sha256": "700e531bb8517b222edb5b63ba387499e26381747fa671ae2f1940f0128f5adc",
+    "captions": [
+      "The men are leading the elephants down the street.",
+      "A bunch of elephants are in a market place with people.",
+      "Elephants and their handlers walking down a town street.",
+      "a large elephant is standing near some people",
+      "A group of elephants walking on a dirt road with a group of people."
+    ]
+  },
+  {
+    "image_id": 405628,
+    "file_name": "000000405628.jpg",
+    "image_path": "images/000000405628.jpg",
+    "source": "train2017/train2017/000000405628.jpg",
+    "sha256": "9a1a2710b4232c17625b39fbab795815cd8e95cfb2167fc2f28838f0b1ee2037",
+    "pixel_sha256": "041afa86d63920ff95dea3525078840dc7b2e00a1ced64bd1dd9ade229940b3a",
+    "captions": [
+      "A man trying to manoeuvre through violent waves as he surfs. ",
+      "Man on the back of a surfboard riding on a wave. ",
+      "A shirtless man on a surfboard in the ocean",
+      "A man riding on a surfboard on a wave in the ocean.",
+      "A man riding waves with his surf board. "
+    ]
+  },
+  {
+    "image_id": 423977,
+    "file_name": "000000423977.jpg",
+    "image_path": "images/000000423977.jpg",
+    "source": "train2017/train2017/000000423977.jpg",
+    "sha256": "b9b306c85af606da9bf9756653375698ab75ad590409c9021be6853d76353bfe",
+    "pixel_sha256": "b3eb90e363c388bdd0d24bbc5c31b1a6b787b6aedad6012c313fa1444f39a135",
+    "captions": [
+      "Some very cute small kids in a piece of luggage.",
+      "Two young boys sitting in blue suitcase in home.",
+      "a couple of kids are sitting in a suitcase",
+      "A baby and a young boy are inside of a rolling suitcase.",
+      "Two children in a suitcase laying on the floor."
+    ]
+  },
+  {
+    "image_id": 425077,
+    "file_name": "000000425077.jpg",
+    "image_path": "images/000000425077.jpg",
+    "source": "train2017/train2017/000000425077.jpg",
+    "sha256": "b56bc276682358d91bdfd6599d3f00caf8d276e5773203e2b89eb4c78ec47f14",
+    "pixel_sha256": "141141c9d876b17e21c540e5b1932f8de1f84cff04b13ee7707cad1b6f53cf38",
+    "captions": [
+      "Various types of animals standing in a fenced in area.",
+      "Herd of zebra with antelope in artificial enclosure",
+      "a couple of zebras are off in a field",
+      "Zebras and other animals graze in a field.",
+      "The zebras are in the fence with other animals."
+    ]
+  },
+  {
+    "image_id": 431854,
+    "file_name": "000000431854.jpg",
+    "image_path": "images/000000431854.jpg",
+    "source": "train2017/train2017/000000431854.jpg",
+    "sha256": "37b1ef7b38d57036163b15c09fc7f812a1b445fff546d59bfba03f294cbf766a",
+    "pixel_sha256": "140344b48207e5df553802a233bb8a78fd33e7526f086796289f2d2e2139a088",
+    "captions": [
+      "a man is in the air with a tennis racket",
+      "A crowd observes a man swing his racket during a tennis match.",
+      "a man with a tennis racket up in front of a crowd of people",
+      "A person playing a game of tennis and other people watching.",
+      "The tennis player is returning a very strong serve."
+    ]
+  },
+  {
+    "image_id": 432053,
+    "file_name": "000000432053.jpg",
+    "image_path": "images/000000432053.jpg",
+    "source": "train2017/train2017/000000432053.jpg",
+    "sha256": "617f41520c9ef845995e82d2b3c85fe405229f056b32fe90ef1b7241ee404450",
+    "pixel_sha256": "ae5e72fabc167bdc5a21dde0a650c3fb345403709cf751d8c2a75968649db100",
+    "captions": [
+      "a green bowl full of yellow bananas ",
+      "Two bunches of bananas are in a fruit bowl.",
+      "Two batches of bananas sitting in a bowl.",
+      "Bunches of bananas are being displayed in a decorative bowl.",
+      "Nine bananas are in a large bowl on a table."
+    ]
+  },
+  {
+    "image_id": 436882,
+    "file_name": "000000436882.jpg",
+    "image_path": "images/000000436882.jpg",
+    "source": "train2017/train2017/000000436882.jpg",
+    "sha256": "fb793c86aff10a444bdc71fc4f1e542ffbd0f2df170702509a70184e1d17ddf7",
+    "pixel_sha256": "eaf111a04b44a1b575214e66e138c50a9bc205ae9c3b872536af3a6eb0c7b979",
+    "captions": [
+      "A train on one of several tracks at a train station.",
+      "A teal train at the docking station for passengers. ",
+      "Blue, white and orange train is parked at the train station on the tracks.",
+      "Passenger train at stop waiting for consumers to load",
+      "A blue train is sitting still at a station."
+    ]
+  },
+  {
+    "image_id": 436968,
+    "file_name": "000000436968.jpg",
+    "image_path": "images/000000436968.jpg",
+    "source": "train2017/train2017/000000436968.jpg",
+    "sha256": "47f13f364e7c2b949ff76a85f8db1de56c5e7e0cbf3bd1366acd9471114f39b3",
+    "pixel_sha256": "850bdfc5afa7673e0622929a5c968fe26a1032b17fe60c5f50869c7f29ff8bcf",
+    "captions": [
+      "A blue new motorcycle being shown off in a lot",
+      "Motorcycle parked on pavement near outdoor covered area.",
+      "Blue and silver motorcycle parked on pavement under plastic awning.",
+      "A black and silver motorcycle parked on the pavement",
+      "A motorcycle stands in an exhibits beneath some roofing."
+    ]
+  },
+  {
+    "image_id": 443272,
+    "file_name": "000000443272.jpg",
+    "image_path": "images/000000443272.jpg",
+    "source": "train2017/train2017/000000443272.jpg",
+    "sha256": "c35f120623bdf8498bfb97c03b19dce7cbce05ac5b7d70ba79ae77b2d83273cf",
+    "pixel_sha256": "75027f2c9cccc74fa4584e2cedca24b791ffad727d01f94c81f9ee716ff52c4f",
+    "captions": [
+      "A bunch of octopus kites flying in the air and a crowd of people standing around watching from a white tent and a yellow one.",
+      "A kite flying event in an open area on a sunny day.",
+      "a number of large kites flying in the sky",
+      "A bunch of kites that are in the air.",
+      "Many colorful kites with long tails take flight in the sky."
+    ]
+  },
+  {
+    "image_id": 447233,
+    "file_name": "000000447233.jpg",
+    "image_path": "images/000000447233.jpg",
+    "source": "train2017/train2017/000000447233.jpg",
+    "sha256": "98bb0bd05f397b0c1ccc552dc1017f1c2db83c0c9e58748ef47d618e9a20e101",
+    "pixel_sha256": "7ee8b5da78ef9a7f4e2eb20a5dad1a13e0fdef834506d171cc32b7a30e6f213b",
+    "captions": [
+      "A fried egg with broccoli and black mushrooms.",
+      "A plate with an egg on top of a pile of broccoli.",
+      "A fried egg laid over broccoli and vegetables.",
+      "An egg and vegetables sits on top of a plate.",
+      "A fried egg is shown with broccoli on a plate. "
+    ]
+  },
+  {
+    "image_id": 450270,
+    "file_name": "000000450270.jpg",
+    "image_path": "images/000000450270.jpg",
+    "source": "train2017/train2017/000000450270.jpg",
+    "sha256": "b5e07cdaa506be9eb918aafeb7cc839532d5b6510c013314b3c67c68f6e9fade",
+    "pixel_sha256": "093bfd377057b2064e38d494df343bf6598a158172526d2b111817a37aca521b",
+    "captions": [
+      "Two calico cats outside on tile near a table. ",
+      "Two cats look at each other while on the floor.",
+      "Large cat glares menacingly at his wary companion.",
+      "Two cats watch one another beside a dinner table.",
+      "Cats sitting on tile along side a table."
+    ]
+  },
+  {
+    "image_id": 454282,
+    "file_name": "000000454282.jpg",
+    "image_path": "images/000000454282.jpg",
+    "source": "train2017/train2017/000000454282.jpg",
+    "sha256": "36841243b0ebb27bd6baeba08cfde758d83e6e34afc7225ab5db1bf14d0c6296",
+    "pixel_sha256": "08f8e70250531e0c44318bed4b280b032bb2e3c86963f9b6c025fa99a2d33b30",
+    "captions": [
+      "A woman playing tennis up on the net.",
+      "A woman playing tennis is swinging at a tennis ball. ",
+      "A woman playing tennis on a clay court makes a shot.",
+      "a tennis player stretching to hit a ball",
+      "A tennis player stoops to connect with her ball"
+    ]
+  },
+  {
+    "image_id": 459821,
+    "file_name": "000000459821.jpg",
+    "image_path": "images/000000459821.jpg",
+    "source": "train2017/train2017/000000459821.jpg",
+    "sha256": "169a17a3d9818c55869d95e883351ab5de49f177edbdb1cf34b0c531ce726176",
+    "pixel_sha256": "6d6a3a5af8e3317dc1c60de596c13ba14245290f0c34003fb901ca4d0d66836a",
+    "captions": [
+      "two pictures of the same scene three guys standing  and a guy on a skate board",
+      "Several young men watch a man do tricks on a skateboard.",
+      "A guy in the air along with a skateboard. ",
+      "A duplicate image of a skateboarder performing a jump in front of three young men.",
+      "A man performs a trick on a skateboard in front of three other men. "
+    ]
+  },
+  {
+    "image_id": 462449,
+    "file_name": "000000462449.jpg",
+    "image_path": "images/000000462449.jpg",
+    "source": "train2017/train2017/000000462449.jpg",
+    "sha256": "073f59a83e4b7b957c5963981e99a3e1d3f2a6a8f628d15776581ec93307ed87",
+    "pixel_sha256": "d6813290485b6c8c83aef84b23664b5aa0dee74ff6e4fa83b1a2697f265b2562",
+    "captions": [
+      "A long red train traveling past tall buildings.",
+      "A red train is on the tracks near a building.",
+      "A long red train is pulled in front of industrial buildings.",
+      "a train is traveling past some buildings ",
+      "A train is sitting at a train station."
+    ]
+  },
+  {
+    "image_id": 462488,
+    "file_name": "000000462488.jpg",
+    "image_path": "images/000000462488.jpg",
+    "source": "train2017/train2017/000000462488.jpg",
+    "sha256": "2ca5ca434c8c301c52f36d1ee8d8b2a05fdb6bb32a79f6cfe1690c9e529200fc",
+    "pixel_sha256": "2057434c0914504886b6577a27b3dd7f6da46be8892a600dfe1eab2f506fde88",
+    "captions": [
+      "A double decker bus is driving down the streets of London.",
+      "A red double decker bus driving down the road in an otherwise black and white photo.",
+      "A black and white photo has a colored red double decker bus.",
+      "the bus is red and everything else in black and white",
+      "High color contrast of a bus in England."
+    ]
+  },
+  {
+    "image_id": 471966,
+    "file_name": "000000471966.jpg",
+    "image_path": "images/000000471966.jpg",
+    "source": "train2017/train2017/000000471966.jpg",
+    "sha256": "fb8b64a0be3136b7e8f753386d319000a83e0c09d9c00eb8066556793c95155a",
+    "pixel_sha256": "1203c4ad706c2edd0975a33cdefa30ee950a596fb52565a1b9bfeb98056a908a",
+    "captions": [
+      "A baseball player hitting a ball with a bat.",
+      "The batter is hitting the ball in a baseball game.",
+      "A batter, catcher and umpire during a baseball game.",
+      "A batter in a red helmet swings a bat and hits a ball.",
+      "A man swinging a bat at a ball at a baseball game."
+    ]
+  },
+  {
+    "image_id": 476504,
+    "file_name": "000000476504.jpg",
+    "image_path": "images/000000476504.jpg",
+    "source": "train2017/train2017/000000476504.jpg",
+    "sha256": "4fedc9bc8c2d14e89e8a112a57e9e9d4187db2d3861584734de03f51ee747b15",
+    "pixel_sha256": "f67b214718f14895b30d8304c2d107c00a3e6ff51bbdeede3618cb841f336001",
+    "captions": [
+      "A red double decker bus parked next to a brick building.",
+      "A red double decker bus is parked outside of a building.",
+      "A red and white double decker bus is pulled up for boarding.",
+      "An orange double decker bus is parked against the curb",
+      "Red double decker bus parked in front of a building. "
+    ]
+  },
+  {
+    "image_id": 478475,
+    "file_name": "000000478475.jpg",
+    "image_path": "images/000000478475.jpg",
+    "source": "train2017/train2017/000000478475.jpg",
+    "sha256": "1e037a2b80145fec320e5f481a9f56f4f4e226568887fc5c0d689604eaf4855a",
+    "pixel_sha256": "8f08cb5ac921518935da81551d4810e3e5f9ea41b3a7f40ee1a8629b693f8425",
+    "captions": [
+      "A woman laying in her bed using a phone",
+      "LADY IN BED WEARING A WATCH AND HOLDING CELL PHONE",
+      "A young woman uses her phone while hugging her pillow.",
+      "a person laying in bed holding a pillow and operating a cell phone",
+      "Woman in bed who has fallen asleep while texting"
+    ]
+  },
+  {
+    "image_id": 489409,
+    "file_name": "000000489409.jpg",
+    "image_path": "images/000000489409.jpg",
+    "source": "train2017/train2017/000000489409.jpg",
+    "sha256": "d8560f85cc13a8d6e95466fb9fcd3f5734ee4e01c9af35df7da5ecb916e00900",
+    "pixel_sha256": "520428b639afb725d81758a4f2d156ec015d71269c39785ec953be8b2472a7b5",
+    "captions": [
+      "A little boy that is in the dirt with a baseball bat.",
+      "a little league batter holding the baseball bat up in the air",
+      "A little boy at home plate in batting stance at a baseball diamond. ",
+      "A child holding a baseball bat over home plate.",
+      "A little league player getting ready to hit."
+    ]
+  },
+  {
+    "image_id": 493867,
+    "file_name": "000000493867.jpg",
+    "image_path": "images/000000493867.jpg",
+    "source": "train2017/train2017/000000493867.jpg",
+    "sha256": "905307b1f0436603e1c0d8a972913e9b639b8dbb8272f50ca574adea5444c710",
+    "pixel_sha256": "7d4df7d4a7b645015df8c69acc2a55c6161c0f4de47f9e0fd6e67527bdf58c03",
+    "captions": [
+      "A large bed sitting in a bedroom next to a chair.",
+      "a nice bed and a rainbow chair and big window ",
+      "A typical hotel room, set up with a bed and chair.",
+      "A bed made up with a comforter and  pillows in a hotel room.",
+      "A bedroom has green carpeting, blue walls, a bank of window with blinds,  with colored partitions, a chair with colored stripes, and a double bed with a headboard of differently hued wood panels, and yellow and blue linens and pillows. "
+    ]
+  },
+  {
+    "image_id": 494785,
+    "file_name": "000000494785.jpg",
+    "image_path": "images/000000494785.jpg",
+    "source": "train2017/train2017/000000494785.jpg",
+    "sha256": "088bde0b6d1ce92a1a92d1debe267d512484c6701797ce75cc02b284ebd4955e",
+    "pixel_sha256": "32aa9004a328e97ce6180d6dc8499d1c646888eee3f13cf1a03fabdf6f6a567f",
+    "captions": [
+      "a pan that has a very large pizza on it",
+      "There is a man sitting behind a large pizza.",
+      "Man sitting on chair in kitchen with baked pizza on table.",
+      "A young man setting in a kitchen looking at a pizza on the table.",
+      "a pizza on a pan on a table "
+    ]
+  },
+  {
+    "image_id": 499932,
+    "file_name": "000000499932.jpg",
+    "image_path": "images/000000499932.jpg",
+    "source": "train2017/train2017/000000499932.jpg",
+    "sha256": "add8d0c7640e50b8a8f1290b28ffe27cb3fb0f44652f4d9d47eceb82292d0495",
+    "pixel_sha256": "6e39fbf0f7e236e16b600761345e40523914c9622a6d6a0980169094f7033f69",
+    "captions": [
+      "large trucks on a road next to a field with a firetruck in it.",
+      "A tow truck and fire truck are at the scene of the accident",
+      "A street with construction workers on a clear day",
+      "Curve in the road with crews slowing oncoming traffic",
+      "A large white truck parked on the side of a road."
+    ]
+  },
+  {
+    "image_id": 503249,
+    "file_name": "000000503249.jpg",
+    "image_path": "images/000000503249.jpg",
+    "source": "train2017/train2017/000000503249.jpg",
+    "sha256": "b7b559a9ce255aeac0bb2c506a609a7c7df6c99f60b93b944aa6437d455d7a7e",
+    "pixel_sha256": "daf798435f3b80e18ab908628d35078590b9af83fa567255001b8acbbaf5bf14",
+    "captions": [
+      "A house with wooden floors and many windows that are open.",
+      "A living room has a brown and a pink couch.",
+      "A living room with hard wood flooring and a TV in the corner of a room.",
+      "A living room with hard wood floors, a TV, two couches and other items.",
+      "A living room with a television, wooden floors and wallpaper. "
+    ]
+  },
+  {
+    "image_id": 505039,
+    "file_name": "000000505039.jpg",
+    "image_path": "images/000000505039.jpg",
+    "source": "train2017/train2017/000000505039.jpg",
+    "sha256": "6851aa599736df8ecd8237ef0bba37f467c02ac5a0d43cff0d3939fc04e453b5",
+    "pixel_sha256": "27dae793f97ba3bf5a9d58287b9c25775f5d4bcf0e728a8e61ec1c4887a4ccee",
+    "captions": [
+      "A herd of cattle under shade next to a body of water.",
+      "A bunch of animals out on the field.",
+      "an image of cows grazing in the pasture",
+      "Cows graze in a field in front of a lake.",
+      "cows eating some grass in the shade by some water "
+    ]
+  },
+  {
+    "image_id": 505729,
+    "file_name": "000000505729.jpg",
+    "image_path": "images/000000505729.jpg",
+    "source": "train2017/train2017/000000505729.jpg",
+    "sha256": "ab902a65e76cbe5a80ae5ba97b415b66e57ed8cfb5af7e2de297e3726752a244",
+    "pixel_sha256": "dc37d325cdf6ddc98c301e5f76afd20cfc8c161f443ae459dd9371a2da021c0a",
+    "captions": [
+      "a close up of a bowl of food next to a drink",
+      "A nice cold beverage served with a bowl of soup.",
+      "Bowl of stir fry food and a large glass of beer ",
+      "A beer sits next to a bowl of salad.",
+      "A bowl of food with a glass of ale."
+    ]
+  },
+  {
+    "image_id": 511874,
+    "file_name": "000000511874.jpg",
+    "image_path": "images/000000511874.jpg",
+    "source": "train2017/train2017/000000511874.jpg",
+    "sha256": "55af7d09001ce7bb45860e3cb8ed5760455a59a0dcf64815a447883a9cb444cf",
+    "pixel_sha256": "3097fe72d1422269587275999075f5983becd883c9977e468b32a9bdd93be63c",
+    "captions": [
+      "Several cows look at the camera, with their hands through a fence.",
+      "A group of cows with their heads through a fence. ",
+      "A herd of white cattle standing behind a fence.",
+      "four cows lining up at a milking station",
+      "Four cows lined up with their heads through a fence."
+    ]
+  },
+  {
+    "image_id": 513659,
+    "file_name": "000000513659.jpg",
+    "image_path": "images/000000513659.jpg",
+    "source": "train2017/train2017/000000513659.jpg",
+    "sha256": "4b9f91796f295dcd6b0931269ed225ef87032a25872ca4b6d75cab61d7a714b0",
+    "pixel_sha256": "2f3023c0426e2457f9934b0627854d397b04ebacfc7dfb791b1a3bf753a8910b",
+    "captions": [
+      "a carriage and a horse in front of a building",
+      "a drawing of a large buidling with smoke coming out of the chimneys ",
+      "An old picture of a factory with some people walking by it.",
+      "A picture depicts an old factory with carriages on the street in front of it.",
+      "A painted picture of a  old fashion factory.."
+    ]
+  },
+  {
+    "image_id": 520012,
+    "file_name": "000000520012.jpg",
+    "image_path": "images/000000520012.jpg",
+    "source": "train2017/train2017/000000520012.jpg",
+    "sha256": "03be5853d2d50e808274f465896962cf1e37b930a13f5ea6902161cd5e1e7093",
+    "pixel_sha256": "a10cdecc19f6b7a3f814acf67273eceb1d0d50916af575e9e89d26eac6739e9b",
+    "captions": [
+      "A tray topped with lots of breakfast foods.",
+      "A tray with a plate of pancakes and a plate with bacon and eggs and cucumbers and a cell phone a cup of coffee and a bottle of syrup.",
+      "some pancakes are on a paper plate next to other foods",
+      "A tray with pancakes, bacon, eggs, cucumbers, coffee and syrup.",
+      "a blue green and white tray a fork cellphone and food"
+    ]
+  },
+  {
+    "image_id": 530369,
+    "file_name": "000000530369.jpg",
+    "image_path": "images/000000530369.jpg",
+    "source": "train2017/train2017/000000530369.jpg",
+    "sha256": "d6a0d74de3bd81d34dedb4b7a5e2263ee0e7a9d5feea641d8f21f03591032973",
+    "pixel_sha256": "9d928444921539e4cce04830e65f410b35e7a76b12bc315d1001e4dab61a08ae",
+    "captions": [
+      "A black plate topped with a sandwich, carrots and a peeled blood orange.",
+      "A sandwich, carrot sticks, and half an orange on a plate.",
+      "There is a sandwich, grapefruit, and some carrots on a blue plate. ",
+      "A sandwich, carrots, and fruit on a black plate.",
+      "a plate with a bunch of meat and vegetables on it "
+    ]
+  },
+  {
+    "image_id": 532131,
+    "file_name": "000000532131.jpg",
+    "image_path": "images/000000532131.jpg",
+    "source": "train2017/train2017/000000532131.jpg",
+    "sha256": "0f5f0313113e9f1b46cff48b2b9d0d608c04f59aaa9855277d721569d7f5e498",
+    "pixel_sha256": "443c3a28f299a9f35ed3279b75f40ced6ff42f9a0128624cddab917b6816c663",
+    "captions": [
+      "A metallic microwave sitting on top of a kitchen counter.",
+      "A kitchen is shown with modern appliances and a granite countertop.",
+      "A clean kitchen has a stainless steel microwave and teapot.",
+      "A coffee pot, tea kettle and microwave are on the countertop.",
+      "There are many stainless steel details in the kitchen that coordinate with the appliances."
+    ]
+  },
+  {
+    "image_id": 539041,
+    "file_name": "000000539041.jpg",
+    "image_path": "images/000000539041.jpg",
+    "source": "train2017/train2017/000000539041.jpg",
+    "sha256": "8b64a744fe3915d4b8904d6470c6538d362986ed06bd8cd55103cd171480bcef",
+    "pixel_sha256": "c44120831de2247f9f918eaff26c3394f6fe6ee79f08f3cf9ec55384c7dd6dac",
+    "captions": [
+      "A bathroom counter top has toiletries and a plant on it.",
+      "A table topped with personal care items next to a window.",
+      "A plant is stuck in a bottle in front of a window.",
+      "A pretty yellow flower in a vase next to a mirror with some designs on it.",
+      "A bathroom sink with items next to a window. "
+    ]
+  },
+  {
+    "image_id": 550532,
+    "file_name": "000000550532.jpg",
+    "image_path": "images/000000550532.jpg",
+    "source": "train2017/train2017/000000550532.jpg",
+    "sha256": "5a27c1f3993c4af7b1dfdf3c50d55d423c11bd2ef73588bc4dfab23014db701e",
+    "pixel_sha256": "67770158ce68c0e3fc75bfcc357409192ccce28aa1e668407e4f95fbdf51c0f4",
+    "captions": [
+      "A set of parking meters are seen outside a shop.",
+      "Two old metal parking meters sitting up against a building.",
+      "Two green parking meters in front of a business.",
+      "Two parking meters are side by side on the street",
+      "a coin meter that is out side of a building"
+    ]
+  },
+  {
+    "image_id": 552392,
+    "file_name": "000000552392.jpg",
+    "image_path": "images/000000552392.jpg",
+    "source": "train2017/train2017/000000552392.jpg",
+    "sha256": "45581084e3b399d63e0ca1eab69c0592084cdcb2ded27389695d8945b94039a3",
+    "pixel_sha256": "864d09bcc615e123b87f778d6a2efc0f3b70f3b5ce75b61cd62c0f33a611c55c",
+    "captions": [
+      "The front of a yellow School Bus with its headlights on",
+      "A close up of the front of a school bus.",
+      "A yellow school bus is on the street.",
+      "A school bus viewed from behind some bush branches.",
+      "A large school bus with the front lights on."
+    ]
+  },
+  {
+    "image_id": 564228,
+    "file_name": "000000564228.jpg",
+    "image_path": "images/000000564228.jpg",
+    "source": "train2017/train2017/000000564228.jpg",
+    "sha256": "69250b903fc68605db859e0a5577e2923d91e33977dad98a98b08e14902479c4",
+    "pixel_sha256": "ea62a1ac901886231b05331f969f5ed841ae90c1108016b578fd85dbf1e4d407",
+    "captions": [
+      "a cat walking on a desk with two laptops ",
+      "A cat sits near a window next to two laptops.",
+      "A cat is by a window and two computers.",
+      "A cat sitting on a desk with two open laptop computers.",
+      "A Siamese cat standing toward the rear of a busy desk in back of a pair of open laptops, with a slatted window behind it."
+    ]
+  }
+]

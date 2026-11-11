@@ -1,0 +1,185 @@
+{
+  "release": "phase1-embeddings-v1",
+  "created_utc": "2026-11-08T02:54:57+00:00",
+  "command": "python build_embeddings.py",
+  "dataset": {
+    "kb_images": 10000,
+    "validation_images": 100,
+    "validation_note": "validation vectors are KB rows listed in validation_kb_rows.json",
+    "test_images": 100,
+    "kb_captions": 50036,
+    "input_sha256": {
+      "cleaned_dataset/knowledge_base/image_ids.json": "dfbf019bfc64781c572d6c5391967daf1ac90fd752541ea56179f67e309434e1",
+      "cleaned_dataset/knowledge_base/manifest.json": "64cfcd0e5c643a8f6238845d43466e0f9254e95fb4f2946391f01764ab7f5ae3",
+      "cleaned_dataset/knowledge_base/captions.json": "321df3f1d204ceec6b72aa2b97a43e3f59bcb12aa4143f631c046cdefb3f6d67",
+      "cleaned_dataset/validation/image_ids.json": "007a439643d3d6868790a84d6f1a3eb65ac890835db133d8570efd55c285a5e4",
+      "cleaned_dataset/test/image_ids.json": "ca55841250586ebcb3fb6e2e09ed0eaef4262743bef9f72604afd2e452fcb40c",
+      "cleaned_dataset/test/manifest.json": "b9c23ce2b604b0c73ed2b538e627285859de5ab1e0e950094bc6480110310230"
+    }
+  },
+  "preprocessing": {
+    "image_steps": [
+      "PIL ImageOps.exif_transpose (EXIF orientation)",
+      "convert to RGB",
+      "CLIPImageProcessor: resize shortest side, center crop, rescale 1/255, normalise with CLIP mean/std (values below)"
+    ],
+    "image_processor": {
+      "size": {
+        "shortest_edge": 224
+      },
+      "crop_size": {
+        "height": 224,
+        "width": 224
+      },
+      "resample": "bicubic",
+      "image_mean": [
+        0.48145466,
+        0.4578275,
+        0.40821073
+      ],
+      "image_std": [
+        0.26862954,
+        0.26130258,
+        0.27577711
+      ]
+    },
+    "images_with_exif_rotation": 0,
+    "caption_text": "original caption with whitespace collapsed; case and punctuation kept",
+    "captions_changed_by_whitespace_normalisation": 7461,
+    "test_captions": "not read and not embedded (evaluation references only)"
+  },
+  "encoders": {
+    "clip": {
+      "repo_id": "openai/clip-vit-base-patch32",
+      "revision": "3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268",
+      "weights_file": "pytorch_model.bin",
+      "weights_sha256": "a63082132ba4f97a80bea76823f544493bffa8082296d62d71581a4feff1576f",
+      "embedding_dim": 512,
+      "dtype": "float32",
+      "normalisation": "L2 (unit norm)",
+      "used_for": [
+        "KB images",
+        "test images",
+        "KB captions (shared image-text space)"
+      ],
+      "image_batch_size": 128,
+      "text_batch_size": 512,
+      "max_text_tokens": 77,
+      "max_caption_tokens": 55,
+      "captions_truncated": 0
+    },
+    "sbert": {
+      "repo_id": "sentence-transformers/all-MiniLM-L6-v2",
+      "revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+      "weights_file": "model.safetensors",
+      "weights_sha256": "53aa51172d142c89d9012cce15ae4d6cc0ca6895895114379cacb4fab128d9db",
+      "embedding_dim": 384,
+      "dtype": "float32",
+      "normalisation": "L2 (unit norm)",
+      "used_for": [
+        "KB captions (text-to-text space)"
+      ],
+      "pooling": "attention-masked mean, then L2",
+      "text_batch_size": 512,
+      "max_text_tokens": 256,
+      "max_caption_tokens": 56,
+      "captions_truncated": 0
+    }
+  },
+  "artifacts": [
+    {
+      "path": "clip_vit_b32/kb_image_embeddings.npy",
+      "bytes": 20480128,
+      "sha256": "c755df54d2cd6d89a2a816a0151b76be860e9c3f64b3e1d69f183dd6e60038a2",
+      "shape": [
+        10000,
+        512
+      ],
+      "dtype": "float32"
+    },
+    {
+      "path": "clip_vit_b32/test_image_embeddings.npy",
+      "bytes": 204928,
+      "sha256": "75e79650760653dc5d27d58123dbd13d59e4d5c1aed16f075d1e801b9bd4b490",
+      "shape": [
+        100,
+        512
+      ],
+      "dtype": "float32"
+    },
+    {
+      "path": "clip_vit_b32/kb_caption_embeddings.npy",
+      "bytes": 102473856,
+      "sha256": "ac73e2138fb412366f34e2c375f8c8b5e2d353ffdcb7b72213f7c1e511a587e2",
+      "shape": [
+        50036,
+        512
+      ],
+      "dtype": "float32"
+    },
+    {
+      "path": "minilm_l6_v2/kb_caption_embeddings.npy",
+      "bytes": 76855424,
+      "sha256": "ba76a7e27a056499865b02d921a25a2d77e7b899b4f3f6e33a49fb0f43b7602c",
+      "shape": [
+        50036,
+        384
+      ],
+      "dtype": "float32"
+    }
+  ],
+  "indexes": [
+    {
+      "path": "clip_vit_b32/kb_image.faiss",
+      "bytes": 20480045,
+      "sha256": "56e76a51d2b0055ebe7ec024229b38e8da7f6424b678780e0d30d68c30d3af7d",
+      "type": "faiss.IndexFlatIP (exact search)",
+      "metric": "inner product on L2-normalised vectors = cosine similarity",
+      "ntotal": 10000,
+      "dim": 512,
+      "build_seconds": 0.0104
+    },
+    {
+      "path": "clip_vit_b32/kb_caption.faiss",
+      "bytes": 102473773,
+      "sha256": "db1a7f953fe1992601b0045591ebf0407bcab8724612193adea0a4ffe627db85",
+      "type": "faiss.IndexFlatIP (exact search)",
+      "metric": "inner product on L2-normalised vectors = cosine similarity",
+      "ntotal": 50036,
+      "dim": 512,
+      "build_seconds": 0.0431
+    },
+    {
+      "path": "minilm_l6_v2/kb_caption.faiss",
+      "bytes": 76855341,
+      "sha256": "e27d580c25ea5b39652699c2d03a456e330c90089fba783f85a5ebc1d38e90f1",
+      "type": "faiss.IndexFlatIP (exact search)",
+      "metric": "inner product on L2-normalised vectors = cosine similarity",
+      "ntotal": 50036,
+      "dim": 384,
+      "build_seconds": 0.0269
+    }
+  ],
+  "timings_seconds": {
+    "download_and_load_models": 2.099,
+    "encode_kb_images": 46.894,
+    "encode_test_images": 0.375,
+    "encode_kb_captions_clip": 28.338,
+    "encode_kb_captions_sbert": 9.666
+  },
+  "environment": {
+    "python": "3.11.9",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "device": "cuda",
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "torch": "2.6.0+cu124",
+    "cuda": "12.4",
+    "transformers": "4.57.6",
+    "huggingface_hub": "0.36.2",
+    "faiss": "1.12.0",
+    "numpy": "2.2.6",
+    "pillow": "12.2.0",
+    "cudnn_deterministic": true,
+    "tf32_allowed": false
+  }
+}
