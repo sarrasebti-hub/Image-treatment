@@ -1,0 +1,12 @@
+{
+  "modele": "openai/clip-vit-base-patch32",
+  "dimension": 512,
+  "batch_images": 64,
+  "batch_textes": 256,
+  "normalisation": "L2 (vecteurs unitaires, produit scalaire = cosinus)",
+  "max_tokens_texte": 77,
+  "legendes_indexees": "l\u00e9gendes nettoy\u00e9es du train uniquement (5 par image)",
+  "torch": "2.14.1+cu130",
+  "transformers": "5.22.1",
+  "duree_secondes": 123.8
+}

@@ -1,0 +1,215 @@
+{
+  "n_images": 11100,
+  "images_par_split": {
+    "train": 10000,
+    "test": 1000,
+    "val": 100
+  },
+  "images_sans_objet": 178,
+  "objets_total": 52278,
+  "objets_par_image_moyenne": 4.71,
+  "categories_distinctes": 80,
+  "top50_categories": [
+    [
+      "person",
+      17546
+    ],
+    [
+      "car",
+      2430
+    ],
+    [
+      "chair",
+      2036
+    ],
+    [
+      "bottle",
+      1317
+    ],
+    [
+      "cup",
+      1207
+    ],
+    [
+      "bowl",
+      913
+    ],
+    [
+      "dining table",
+      765
+    ],
+    [
+      "sheep",
+      674
+    ],
+    [
+      "traffic light",
+      668
+    ],
+    [
+      "donut",
+      630
+    ],
+    [
+      "umbrella",
+      608
+    ],
+    [
+      "bird",
+      566
+    ],
+    [
+      "horse",
+      560
+    ],
+    [
+      "potted plant",
+      548
+    ],
+    [
+      "motorcycle",
+      545
+    ],
+    [
+      "cow",
+      541
+    ],
+    [
+      "kite",
+      536
+    ],
+    [
+      "boat",
+      528
+    ],
+    [
+      "truck",
+      513
+    ],
+    [
+      "elephant",
+      496
+    ],
+    [
+      "wine glass",
+      488
+    ],
+    [
+      "tv",
+      485
+    ],
+    [
+      "bus",
+      473
+    ],
+    [
+      "clock",
+      459
+    ],
+    [
+      "vase",
+      455
+    ],
+    [
+      "dog",
+      453
+    ],
+    [
+      "pizza",
+      453
+    ],
+    [
+      "giraffe",
+      435
+    ],
+    [
+      "skateboard",
+      432
+    ],
+    [
+      "banana",
+      421
+    ],
+    [
+      "train",
+      420
+    ],
+    [
+      "cake",
+      418
+    ],
+    [
+      "couch",
+      415
+    ],
+    [
+      "cat",
+      414
+    ],
+    [
+      "surfboard",
+      407
+    ],
+    [
+      "bench",
+      405
+    ],
+    [
+      "tennis racket",
+      395
+    ],
+    [
+      "handbag",
+      390
+    ],
+    [
+      "zebra",
+      389
+    ],
+    [
+      "laptop",
+      389
+    ],
+    [
+      "suitcase",
+      387
+    ],
+    [
+      "book",
+      374
+    ],
+    [
+      "tie",
+      372
+    ],
+    [
+      "remote",
+      370
+    ],
+    [
+      "airplane",
+      369
+    ],
+    [
+      "toilet",
+      355
+    ],
+    [
+      "teddy bear",
+      352
+    ],
+    [
+      "cell phone",
+      350
+    ],
+    [
+      "orange",
+      346
+    ],
+    [
+      "sports ball",
+      345
+    ]
+  ],
+  "longueur_moyenne_legende": 10.46
+}
