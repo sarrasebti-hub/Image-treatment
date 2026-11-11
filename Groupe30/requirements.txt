@@ -1,0 +1,11 @@
+numpy
+pillow
+torch
+transformers==5.21.0
+faiss-cpu==1.15.1
+ultralytics==8.4.197
+matplotlib
+seaborn
+tqdm
+imagehash
+nltk
