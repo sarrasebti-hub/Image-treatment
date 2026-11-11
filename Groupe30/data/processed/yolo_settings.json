@@ -1,0 +1,7 @@
+{
+  "model": "yolov8n.pt",
+  "ultralytics_version": "8.4.197",
+  "conf_threshold": 0.25,
+  "imgsz": 640,
+  "note": "same settings for library, validation and test photos"
+}

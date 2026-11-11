@@ -1,0 +1,60 @@
+{
+  "num_kb_images": 10000,
+  "num_val_images": 100,
+  "num_test_images": 1000,
+  "num_kb_captions": 50031,
+  "captions_per_kb_image_distribution": {
+    "5": 9969,
+    "6": 31
+  },
+  "kb_images_without_5_captions": [
+    13714,
+    18464,
+    33177,
+    33840,
+    82191,
+    112495,
+    124294,
+    143236,
+    162256,
+    172574,
+    178835,
+    198271,
+    204311,
+    216369,
+    253036,
+    302071,
+    324322,
+    332461,
+    348107,
+    424633,
+    443393,
+    445048,
+    461248,
+    461634,
+    475330,
+    479332,
+    492215,
+    507273,
+    528840,
+    543058,
+    563665
+  ],
+  "val_images_without_5_refs": [
+    "166508"
+  ],
+  "test_images_without_5_refs": [
+    "96493",
+    "165257",
+    "434459"
+  ],
+  "empty_clean_captions": [],
+  "duplicate_caption_ids": 0,
+  "split_overlaps": {
+    "kb&val": 0,
+    "kb&test": 0,
+    "val&test": 0
+  },
+  "kb_vs_eval_caption_overlap": 0,
+  "leakage_audit_passed": true
+}
