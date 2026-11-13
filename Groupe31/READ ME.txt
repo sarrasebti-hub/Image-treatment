@@ -1,0 +1,20 @@
+# Group 31
+
+## Students:
+
+Samy Charallah
+Cherfaoui Ramzi Kheir eddine 
+ikhlef abderrahmane
+Ramdane rayane
+MOHAMMED HAMMADI 
+
+## Project Title
+A comparative study of RAG techniques for 
+generating image Adversarial RAG :Retrieval under adversarial 
+conditions to detect and mitigate misleading or manipulated information. 
+
+## Submission Files
+- Source code
+- Dataset information
+- Results
+- Final report
