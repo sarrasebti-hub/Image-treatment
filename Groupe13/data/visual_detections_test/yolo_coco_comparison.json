@@ -1,0 +1,227 @@
+{
+    "images_compared": 5,
+    "iou_threshold": 0.5,
+    "total_tp": 30,
+    "total_fp": 8,
+    "total_fn": 22,
+    "precision": 0.7895,
+    "recall": 0.5769,
+    "f1_score": 0.6667,
+    "images": [
+        {
+            "image_id": 269605,
+            "file_name": "000000269605.jpg",
+            "coco_objects": 10,
+            "yolo_detections": 6,
+            "true_positives": 5,
+            "false_positives": 1,
+            "false_negatives": 5,
+            "precision": 0.8333,
+            "recall": 0.5,
+            "matches": [
+                {
+                    "category": "person",
+                    "iou": 0.9702,
+                    "confidence": 0.8781
+                },
+                {
+                    "category": "person",
+                    "iou": 0.9634,
+                    "confidence": 0.7116
+                },
+                {
+                    "category": "person",
+                    "iou": 0.9609,
+                    "confidence": 0.8773
+                },
+                {
+                    "category": "person",
+                    "iou": 0.9063,
+                    "confidence": 0.8337
+                },
+                {
+                    "category": "chair",
+                    "iou": 0.8474,
+                    "confidence": 0.5655
+                }
+            ]
+        },
+        {
+            "image_id": 137288,
+            "file_name": "000000137288.jpg",
+            "coco_objects": 22,
+            "yolo_detections": 15,
+            "true_positives": 13,
+            "false_positives": 2,
+            "false_negatives": 9,
+            "precision": 0.8667,
+            "recall": 0.5909,
+            "matches": [
+                {
+                    "category": "person",
+                    "iou": 0.9446,
+                    "confidence": 0.556
+                },
+                {
+                    "category": "person",
+                    "iou": 0.9404,
+                    "confidence": 0.2655
+                },
+                {
+                    "category": "person",
+                    "iou": 0.905,
+                    "confidence": 0.2743
+                },
+                {
+                    "category": "tennis racket",
+                    "iou": 0.8945,
+                    "confidence": 0.6802
+                },
+                {
+                    "category": "person",
+                    "iou": 0.8908,
+                    "confidence": 0.8331
+                },
+                {
+                    "category": "person",
+                    "iou": 0.8892,
+                    "confidence": 0.83
+                },
+                {
+                    "category": "person",
+                    "iou": 0.8828,
+                    "confidence": 0.8508
+                },
+                {
+                    "category": "person",
+                    "iou": 0.8741,
+                    "confidence": 0.591
+                },
+                {
+                    "category": "person",
+                    "iou": 0.8656,
+                    "confidence": 0.258
+                },
+                {
+                    "category": "person",
+                    "iou": 0.8463,
+                    "confidence": 0.2808
+                },
+                {
+                    "category": "person",
+                    "iou": 0.8302,
+                    "confidence": 0.4088
+                },
+                {
+                    "category": "person",
+                    "iou": 0.8025,
+                    "confidence": 0.3613
+                },
+                {
+                    "category": "person",
+                    "iou": 0.7913,
+                    "confidence": 0.4253
+                }
+            ]
+        },
+        {
+            "image_id": 234743,
+            "file_name": "000000234743.jpg",
+            "coco_objects": 15,
+            "yolo_detections": 11,
+            "true_positives": 7,
+            "false_positives": 4,
+            "false_negatives": 8,
+            "precision": 0.6364,
+            "recall": 0.4667,
+            "matches": [
+                {
+                    "category": "person",
+                    "iou": 0.9798,
+                    "confidence": 0.7978
+                },
+                {
+                    "category": "person",
+                    "iou": 0.9535,
+                    "confidence": 0.8476
+                },
+                {
+                    "category": "clock",
+                    "iou": 0.9425,
+                    "confidence": 0.4758
+                },
+                {
+                    "category": "person",
+                    "iou": 0.9227,
+                    "confidence": 0.8876
+                },
+                {
+                    "category": "person",
+                    "iou": 0.8566,
+                    "confidence": 0.8441
+                },
+                {
+                    "category": "person",
+                    "iou": 0.8474,
+                    "confidence": 0.3581
+                },
+                {
+                    "category": "person",
+                    "iou": 0.7556,
+                    "confidence": 0.3276
+                }
+            ]
+        },
+        {
+            "image_id": 401821,
+            "file_name": "000000401821.jpg",
+            "coco_objects": 2,
+            "yolo_detections": 3,
+            "true_positives": 2,
+            "false_positives": 1,
+            "false_negatives": 0,
+            "precision": 0.6667,
+            "recall": 1.0,
+            "matches": [
+                {
+                    "category": "cup",
+                    "iou": 0.9594,
+                    "confidence": 0.8333
+                },
+                {
+                    "category": "cup",
+                    "iou": 0.9518,
+                    "confidence": 0.8159
+                }
+            ]
+        },
+        {
+            "image_id": 233271,
+            "file_name": "000000233271.jpg",
+            "coco_objects": 3,
+            "yolo_detections": 3,
+            "true_positives": 3,
+            "false_positives": 0,
+            "false_negatives": 0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "matches": [
+                {
+                    "category": "person",
+                    "iou": 0.9555,
+                    "confidence": 0.8094
+                },
+                {
+                    "category": "snowboard",
+                    "iou": 0.9119,
+                    "confidence": 0.9277
+                },
+                {
+                    "category": "person",
+                    "iou": 0.842,
+                    "confidence": 0.79
+                }
+            ]
+        }
+    ]
+}

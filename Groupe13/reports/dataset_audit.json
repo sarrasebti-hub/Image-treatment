@@ -1,0 +1,36 @@
+{
+    "train2017": {
+        "dataset": "train2017",
+        "physical_images": 118287,
+        "annotation_images": 118287,
+        "total_captions": 591753,
+        "duplicate_ids": 0,
+        "caption_distribution": {
+            "5": 117972,
+            "6": 312,
+            "7": 3
+        },
+        "incorrect_caption_count": 315,
+        "missing_images": 0,
+        "corrupted_images": 0,
+        "duplicate_image_groups": 12,
+        "orphan_captions": 0
+    },
+    "val2017": {
+        "dataset": "val2017",
+        "physical_images": 5000,
+        "annotation_images": 5000,
+        "total_captions": 25014,
+        "duplicate_ids": 0,
+        "caption_distribution": {
+            "5": 4987,
+            "6": 12,
+            "7": 1
+        },
+        "incorrect_caption_count": 13,
+        "missing_images": 0,
+        "corrupted_images": 0,
+        "duplicate_image_groups": 0,
+        "orphan_captions": 0
+    }
+}

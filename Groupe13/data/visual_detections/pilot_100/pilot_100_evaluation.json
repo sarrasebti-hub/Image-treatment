@@ -1,0 +1,1165 @@
+{
+  "images_compared": 100,
+  "iou_threshold": 0.5,
+  "matching_rule": "Same category and IoU >= 0.50",
+  "TP": 361,
+  "FP": 114,
+  "FN": 328,
+  "precision": 0.76,
+  "recall": 0.5239,
+  "f1_score": 0.6203,
+  "per_image": [
+    {
+      "image_id": 269605,
+      "yolo_detections": 6,
+      "coco_objects": 10,
+      "TP": 5,
+      "FP": 1,
+      "FN": 5
+    },
+    {
+      "image_id": 137288,
+      "yolo_detections": 15,
+      "coco_objects": 21,
+      "TP": 13,
+      "FP": 2,
+      "FN": 8
+    },
+    {
+      "image_id": 234743,
+      "yolo_detections": 11,
+      "coco_objects": 14,
+      "TP": 7,
+      "FP": 4,
+      "FN": 7
+    },
+    {
+      "image_id": 401821,
+      "yolo_detections": 3,
+      "coco_objects": 2,
+      "TP": 2,
+      "FP": 1,
+      "FN": 0
+    },
+    {
+      "image_id": 233271,
+      "yolo_detections": 3,
+      "coco_objects": 3,
+      "TP": 3,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 519840,
+      "yolo_detections": 7,
+      "coco_objects": 7,
+      "TP": 6,
+      "FP": 1,
+      "FN": 1
+    },
+    {
+      "image_id": 329139,
+      "yolo_detections": 6,
+      "coco_objects": 40,
+      "TP": 4,
+      "FP": 2,
+      "FN": 36
+    },
+    {
+      "image_id": 29892,
+      "yolo_detections": 7,
+      "coco_objects": 6,
+      "TP": 5,
+      "FP": 2,
+      "FN": 1
+    },
+    {
+      "image_id": 285548,
+      "yolo_detections": 8,
+      "coco_objects": 6,
+      "TP": 5,
+      "FP": 3,
+      "FN": 1
+    },
+    {
+      "image_id": 419255,
+      "yolo_detections": 3,
+      "coco_objects": 2,
+      "TP": 2,
+      "FP": 1,
+      "FN": 0
+    },
+    {
+      "image_id": 395096,
+      "yolo_detections": 5,
+      "coco_objects": 3,
+      "TP": 2,
+      "FP": 3,
+      "FN": 1
+    },
+    {
+      "image_id": 397892,
+      "yolo_detections": 2,
+      "coco_objects": 1,
+      "TP": 1,
+      "FP": 1,
+      "FN": 0
+    },
+    {
+      "image_id": 7050,
+      "yolo_detections": 5,
+      "coco_objects": 6,
+      "TP": 4,
+      "FP": 1,
+      "FN": 2
+    },
+    {
+      "image_id": 473631,
+      "yolo_detections": 9,
+      "coco_objects": 10,
+      "TP": 7,
+      "FP": 2,
+      "FN": 3
+    },
+    {
+      "image_id": 109558,
+      "yolo_detections": 0,
+      "coco_objects": 0,
+      "TP": 0,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 576136,
+      "yolo_detections": 4,
+      "coco_objects": 3,
+      "TP": 3,
+      "FP": 1,
+      "FN": 0
+    },
+    {
+      "image_id": 132447,
+      "yolo_detections": 1,
+      "coco_objects": 1,
+      "TP": 1,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 312175,
+      "yolo_detections": 10,
+      "coco_objects": 7,
+      "TP": 5,
+      "FP": 5,
+      "FN": 2
+    },
+    {
+      "image_id": 78696,
+      "yolo_detections": 1,
+      "coco_objects": 3,
+      "TP": 1,
+      "FP": 0,
+      "FN": 2
+    },
+    {
+      "image_id": 521542,
+      "yolo_detections": 8,
+      "coco_objects": 9,
+      "TP": 4,
+      "FP": 4,
+      "FN": 5
+    },
+    {
+      "image_id": 244613,
+      "yolo_detections": 5,
+      "coco_objects": 7,
+      "TP": 4,
+      "FP": 1,
+      "FN": 3
+    },
+    {
+      "image_id": 574795,
+      "yolo_detections": 1,
+      "coco_objects": 3,
+      "TP": 1,
+      "FP": 0,
+      "FN": 2
+    },
+    {
+      "image_id": 136687,
+      "yolo_detections": 3,
+      "coco_objects": 5,
+      "TP": 2,
+      "FP": 1,
+      "FN": 3
+    },
+    {
+      "image_id": 566839,
+      "yolo_detections": 3,
+      "coco_objects": 24,
+      "TP": 3,
+      "FP": 0,
+      "FN": 21
+    },
+    {
+      "image_id": 91190,
+      "yolo_detections": 3,
+      "coco_objects": 3,
+      "TP": 3,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 126608,
+      "yolo_detections": 8,
+      "coco_objects": 17,
+      "TP": 7,
+      "FP": 1,
+      "FN": 10
+    },
+    {
+      "image_id": 383508,
+      "yolo_detections": 1,
+      "coco_objects": 1,
+      "TP": 1,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 22427,
+      "yolo_detections": 4,
+      "coco_objects": 4,
+      "TP": 2,
+      "FP": 2,
+      "FN": 2
+    },
+    {
+      "image_id": 661,
+      "yolo_detections": 2,
+      "coco_objects": 2,
+      "TP": 1,
+      "FP": 1,
+      "FN": 1
+    },
+    {
+      "image_id": 23137,
+      "yolo_detections": 3,
+      "coco_objects": 3,
+      "TP": 3,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 329307,
+      "yolo_detections": 5,
+      "coco_objects": 6,
+      "TP": 4,
+      "FP": 1,
+      "FN": 2
+    },
+    {
+      "image_id": 86946,
+      "yolo_detections": 3,
+      "coco_objects": 3,
+      "TP": 2,
+      "FP": 1,
+      "FN": 1
+    },
+    {
+      "image_id": 496531,
+      "yolo_detections": 1,
+      "coco_objects": 1,
+      "TP": 1,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 211632,
+      "yolo_detections": 4,
+      "coco_objects": 3,
+      "TP": 3,
+      "FP": 1,
+      "FN": 0
+    },
+    {
+      "image_id": 275581,
+      "yolo_detections": 1,
+      "coco_objects": 1,
+      "TP": 1,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 401682,
+      "yolo_detections": 2,
+      "coco_objects": 2,
+      "TP": 1,
+      "FP": 1,
+      "FN": 1
+    },
+    {
+      "image_id": 261603,
+      "yolo_detections": 2,
+      "coco_objects": 3,
+      "TP": 2,
+      "FP": 0,
+      "FN": 1
+    },
+    {
+      "image_id": 9050,
+      "yolo_detections": 12,
+      "coco_objects": 16,
+      "TP": 9,
+      "FP": 3,
+      "FN": 7
+    },
+    {
+      "image_id": 526622,
+      "yolo_detections": 4,
+      "coco_objects": 7,
+      "TP": 2,
+      "FP": 2,
+      "FN": 5
+    },
+    {
+      "image_id": 363423,
+      "yolo_detections": 5,
+      "coco_objects": 7,
+      "TP": 4,
+      "FP": 1,
+      "FN": 3
+    },
+    {
+      "image_id": 182905,
+      "yolo_detections": 3,
+      "coco_objects": 3,
+      "TP": 3,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 577640,
+      "yolo_detections": 2,
+      "coco_objects": 1,
+      "TP": 1,
+      "FP": 1,
+      "FN": 0
+    },
+    {
+      "image_id": 232544,
+      "yolo_detections": 9,
+      "coco_objects": 11,
+      "TP": 8,
+      "FP": 1,
+      "FN": 3
+    },
+    {
+      "image_id": 191096,
+      "yolo_detections": 5,
+      "coco_objects": 6,
+      "TP": 5,
+      "FP": 0,
+      "FN": 1
+    },
+    {
+      "image_id": 234424,
+      "yolo_detections": 2,
+      "coco_objects": 2,
+      "TP": 2,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 308645,
+      "yolo_detections": 3,
+      "coco_objects": 6,
+      "TP": 1,
+      "FP": 2,
+      "FN": 5
+    },
+    {
+      "image_id": 27658,
+      "yolo_detections": 1,
+      "coco_objects": 1,
+      "TP": 1,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 14044,
+      "yolo_detections": 5,
+      "coco_objects": 4,
+      "TP": 3,
+      "FP": 2,
+      "FN": 1
+    },
+    {
+      "image_id": 451597,
+      "yolo_detections": 7,
+      "coco_objects": 13,
+      "TP": 4,
+      "FP": 3,
+      "FN": 9
+    },
+    {
+      "image_id": 10393,
+      "yolo_detections": 5,
+      "coco_objects": 7,
+      "TP": 4,
+      "FP": 1,
+      "FN": 3
+    },
+    {
+      "image_id": 60915,
+      "yolo_detections": 4,
+      "coco_objects": 3,
+      "TP": 3,
+      "FP": 1,
+      "FN": 0
+    },
+    {
+      "image_id": 93600,
+      "yolo_detections": 4,
+      "coco_objects": 3,
+      "TP": 2,
+      "FP": 2,
+      "FN": 1
+    },
+    {
+      "image_id": 180324,
+      "yolo_detections": 2,
+      "coco_objects": 2,
+      "TP": 2,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 94996,
+      "yolo_detections": 4,
+      "coco_objects": 4,
+      "TP": 3,
+      "FP": 1,
+      "FN": 1
+    },
+    {
+      "image_id": 140787,
+      "yolo_detections": 8,
+      "coco_objects": 14,
+      "TP": 7,
+      "FP": 1,
+      "FN": 7
+    },
+    {
+      "image_id": 43510,
+      "yolo_detections": 11,
+      "coco_objects": 25,
+      "TP": 8,
+      "FP": 3,
+      "FN": 17
+    },
+    {
+      "image_id": 193424,
+      "yolo_detections": 8,
+      "coco_objects": 10,
+      "TP": 4,
+      "FP": 4,
+      "FN": 6
+    },
+    {
+      "image_id": 346577,
+      "yolo_detections": 3,
+      "coco_objects": 2,
+      "TP": 2,
+      "FP": 1,
+      "FN": 0
+    },
+    {
+      "image_id": 139571,
+      "yolo_detections": 9,
+      "coco_objects": 9,
+      "TP": 7,
+      "FP": 2,
+      "FN": 2
+    },
+    {
+      "image_id": 276694,
+      "yolo_detections": 3,
+      "coco_objects": 6,
+      "TP": 2,
+      "FP": 1,
+      "FN": 4
+    },
+    {
+      "image_id": 234023,
+      "yolo_detections": 7,
+      "coco_objects": 8,
+      "TP": 7,
+      "FP": 0,
+      "FN": 1
+    },
+    {
+      "image_id": 328304,
+      "yolo_detections": 2,
+      "coco_objects": 2,
+      "TP": 2,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 577077,
+      "yolo_detections": 3,
+      "coco_objects": 3,
+      "TP": 3,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 447569,
+      "yolo_detections": 3,
+      "coco_objects": 3,
+      "TP": 3,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 207330,
+      "yolo_detections": 7,
+      "coco_objects": 16,
+      "TP": 3,
+      "FP": 4,
+      "FN": 13
+    },
+    {
+      "image_id": 155299,
+      "yolo_detections": 8,
+      "coco_objects": 5,
+      "TP": 4,
+      "FP": 4,
+      "FN": 1
+    },
+    {
+      "image_id": 334260,
+      "yolo_detections": 2,
+      "coco_objects": 2,
+      "TP": 2,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 6920,
+      "yolo_detections": 4,
+      "coco_objects": 4,
+      "TP": 4,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 198930,
+      "yolo_detections": 2,
+      "coco_objects": 2,
+      "TP": 1,
+      "FP": 1,
+      "FN": 1
+    },
+    {
+      "image_id": 223122,
+      "yolo_detections": 2,
+      "coco_objects": 2,
+      "TP": 2,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 221787,
+      "yolo_detections": 15,
+      "coco_objects": 25,
+      "TP": 12,
+      "FP": 3,
+      "FN": 13
+    },
+    {
+      "image_id": 500660,
+      "yolo_detections": 1,
+      "coco_objects": 1,
+      "TP": 1,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 494663,
+      "yolo_detections": 2,
+      "coco_objects": 2,
+      "TP": 1,
+      "FP": 1,
+      "FN": 1
+    },
+    {
+      "image_id": 377371,
+      "yolo_detections": 5,
+      "coco_objects": 5,
+      "TP": 3,
+      "FP": 2,
+      "FN": 2
+    },
+    {
+      "image_id": 517408,
+      "yolo_detections": 2,
+      "coco_objects": 2,
+      "TP": 2,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 92444,
+      "yolo_detections": 1,
+      "coco_objects": 1,
+      "TP": 1,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 545671,
+      "yolo_detections": 3,
+      "coco_objects": 3,
+      "TP": 3,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 425590,
+      "yolo_detections": 4,
+      "coco_objects": 8,
+      "TP": 3,
+      "FP": 1,
+      "FN": 5
+    },
+    {
+      "image_id": 81784,
+      "yolo_detections": 8,
+      "coco_objects": 12,
+      "TP": 8,
+      "FP": 0,
+      "FN": 4
+    },
+    {
+      "image_id": 106228,
+      "yolo_detections": 6,
+      "coco_objects": 13,
+      "TP": 5,
+      "FP": 1,
+      "FN": 8
+    },
+    {
+      "image_id": 104589,
+      "yolo_detections": 8,
+      "coco_objects": 11,
+      "TP": 4,
+      "FP": 4,
+      "FN": 7
+    },
+    {
+      "image_id": 506710,
+      "yolo_detections": 4,
+      "coco_objects": 7,
+      "TP": 4,
+      "FP": 0,
+      "FN": 3
+    },
+    {
+      "image_id": 557084,
+      "yolo_detections": 3,
+      "coco_objects": 4,
+      "TP": 3,
+      "FP": 0,
+      "FN": 1
+    },
+    {
+      "image_id": 36522,
+      "yolo_detections": 8,
+      "coco_objects": 13,
+      "TP": 7,
+      "FP": 1,
+      "FN": 6
+    },
+    {
+      "image_id": 247519,
+      "yolo_detections": 4,
+      "coco_objects": 8,
+      "TP": 2,
+      "FP": 2,
+      "FN": 6
+    },
+    {
+      "image_id": 581018,
+      "yolo_detections": 13,
+      "coco_objects": 27,
+      "TP": 11,
+      "FP": 2,
+      "FN": 16
+    },
+    {
+      "image_id": 516404,
+      "yolo_detections": 2,
+      "coco_objects": 2,
+      "TP": 2,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 248251,
+      "yolo_detections": 5,
+      "coco_objects": 7,
+      "TP": 4,
+      "FP": 1,
+      "FN": 3
+    },
+    {
+      "image_id": 536935,
+      "yolo_detections": 5,
+      "coco_objects": 5,
+      "TP": 3,
+      "FP": 2,
+      "FN": 2
+    },
+    {
+      "image_id": 145311,
+      "yolo_detections": 2,
+      "coco_objects": 11,
+      "TP": 1,
+      "FP": 1,
+      "FN": 10
+    },
+    {
+      "image_id": 445944,
+      "yolo_detections": 14,
+      "coco_objects": 18,
+      "TP": 13,
+      "FP": 1,
+      "FN": 5
+    },
+    {
+      "image_id": 102928,
+      "yolo_detections": 1,
+      "coco_objects": 2,
+      "TP": 1,
+      "FP": 0,
+      "FN": 1
+    },
+    {
+      "image_id": 93472,
+      "yolo_detections": 2,
+      "coco_objects": 2,
+      "TP": 2,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 27440,
+      "yolo_detections": 1,
+      "coco_objects": 1,
+      "TP": 1,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 521947,
+      "yolo_detections": 3,
+      "coco_objects": 4,
+      "TP": 3,
+      "FP": 0,
+      "FN": 1
+    },
+    {
+      "image_id": 577868,
+      "yolo_detections": 3,
+      "coco_objects": 3,
+      "TP": 3,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 239452,
+      "yolo_detections": 2,
+      "coco_objects": 2,
+      "TP": 1,
+      "FP": 1,
+      "FN": 1
+    },
+    {
+      "image_id": 126770,
+      "yolo_detections": 15,
+      "coco_objects": 22,
+      "TP": 10,
+      "FP": 5,
+      "FN": 12
+    },
+    {
+      "image_id": 383857,
+      "yolo_detections": 1,
+      "coco_objects": 1,
+      "TP": 1,
+      "FP": 0,
+      "FN": 0
+    },
+    {
+      "image_id": 476342,
+      "yolo_detections": 8,
+      "coco_objects": 16,
+      "TP": 7,
+      "FP": 1,
+      "FN": 9
+    }
+  ],
+  "per_category": {
+    "person": {
+      "TP": 142,
+      "FP": 24,
+      "FN": 79
+    },
+    "chair": {
+      "TP": 23,
+      "FP": 10,
+      "FN": 39
+    },
+    "tennis racket": {
+      "TP": 3,
+      "FP": 0,
+      "FN": 5
+    },
+    "sports ball": {
+      "TP": 3,
+      "FP": 1,
+      "FN": 3
+    },
+    "clock": {
+      "TP": 4,
+      "FP": 5,
+      "FN": 0
+    },
+    "cup": {
+      "TP": 5,
+      "FP": 2,
+      "FN": 20
+    },
+    "bowl": {
+      "TP": 9,
+      "FP": 4,
+      "FN": 4
+    },
+    "snowboard": {
+      "TP": 2,
+      "FP": 0,
+      "FN": 0
+    },
+    "dining table": {
+      "TP": 8,
+      "FP": 5,
+      "FN": 5
+    },
+    "sandwich": {
+      "TP": 3,
+      "FP": 2,
+      "FN": 10
+    },
+    "knife": {
+      "TP": 2,
+      "FP": 1,
+      "FN": 5
+    },
+    "carrot": {
+      "TP": 1,
+      "FP": 0,
+      "FN": 7
+    },
+    "banana": {
+      "TP": 5,
+      "FP": 1,
+      "FN": 25
+    },
+    "baseball bat": {
+      "TP": 2,
+      "FP": 2,
+      "FN": 2
+    },
+    "baseball glove": {
+      "TP": 3,
+      "FP": 0,
+      "FN": 1
+    },
+    "potted plant": {
+      "TP": 6,
+      "FP": 2,
+      "FN": 0
+    },
+    "tv": {
+      "TP": 5,
+      "FP": 2,
+      "FN": 1
+    },
+    "cell phone": {
+      "TP": 1,
+      "FP": 1,
+      "FN": 3
+    },
+    "remote": {
+      "TP": 0,
+      "FP": 1,
+      "FN": 2
+    },
+    "book": {
+      "TP": 1,
+      "FP": 0,
+      "FN": 5
+    },
+    "couch": {
+      "TP": 3,
+      "FP": 0,
+      "FN": 1
+    },
+    "motorcycle": {
+      "TP": 4,
+      "FP": 7,
+      "FN": 4
+    },
+    "car": {
+      "TP": 18,
+      "FP": 8,
+      "FN": 17
+    },
+    "truck": {
+      "TP": 4,
+      "FP": 1,
+      "FN": 2
+    },
+    "boat": {
+      "TP": 5,
+      "FP": 3,
+      "FN": 2
+    },
+    "bottle": {
+      "TP": 6,
+      "FP": 2,
+      "FN": 5
+    },
+    "dog": {
+      "TP": 6,
+      "FP": 1,
+      "FN": 2
+    },
+    "bench": {
+      "TP": 1,
+      "FP": 0,
+      "FN": 2
+    },
+    "handbag": {
+      "TP": 1,
+      "FP": 2,
+      "FN": 7
+    },
+    "cat": {
+      "TP": 2,
+      "FP": 1,
+      "FN": 0
+    },
+    "fire hydrant": {
+      "TP": 2,
+      "FP": 0,
+      "FN": 1
+    },
+    "suitcase": {
+      "TP": 5,
+      "FP": 3,
+      "FN": 8
+    },
+    "backpack": {
+      "TP": 2,
+      "FP": 4,
+      "FN": 9
+    },
+    "bus": {
+      "TP": 7,
+      "FP": 0,
+      "FN": 0
+    },
+    "traffic light": {
+      "TP": 1,
+      "FP": 1,
+      "FN": 13
+    },
+    "oven": {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0
+    },
+    "microwave": {
+      "TP": 3,
+      "FP": 1,
+      "FN": 0
+    },
+    "keyboard": {
+      "TP": 3,
+      "FP": 1,
+      "FN": 1
+    },
+    "mouse": {
+      "TP": 2,
+      "FP": 0,
+      "FN": 1
+    },
+    "train": {
+      "TP": 2,
+      "FP": 1,
+      "FN": 0
+    },
+    "stop sign": {
+      "TP": 1,
+      "FP": 0,
+      "FN": 2
+    },
+    "horse": {
+      "TP": 2,
+      "FP": 0,
+      "FN": 8
+    },
+    "airplane": {
+      "TP": 2,
+      "FP": 0,
+      "FN": 0
+    },
+    "bicycle": {
+      "TP": 4,
+      "FP": 1,
+      "FN": 4
+    },
+    "giraffe": {
+      "TP": 2,
+      "FP": 0,
+      "FN": 0
+    },
+    "skateboard": {
+      "TP": 2,
+      "FP": 0,
+      "FN": 1
+    },
+    "umbrella": {
+      "TP": 2,
+      "FP": 2,
+      "FN": 8
+    },
+    "vase": {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0
+    },
+    "sheep": {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0
+    },
+    "teddy bear": {
+      "TP": 2,
+      "FP": 0,
+      "FN": 0
+    },
+    "tie": {
+      "TP": 1,
+      "FP": 0,
+      "FN": 3
+    },
+    "fork": {
+      "TP": 2,
+      "FP": 3,
+      "FN": 0
+    },
+    "wine glass": {
+      "TP": 6,
+      "FP": 0,
+      "FN": 1
+    },
+    "spoon": {
+      "TP": 1,
+      "FP": 0,
+      "FN": 2
+    },
+    "frisbee": {
+      "TP": 2,
+      "FP": 0,
+      "FN": 0
+    },
+    "bird": {
+      "TP": 4,
+      "FP": 0,
+      "FN": 0
+    },
+    "bed": {
+      "TP": 4,
+      "FP": 1,
+      "FN": 0
+    },
+    "toothbrush": {
+      "TP": 0,
+      "FP": 0,
+      "FN": 1
+    },
+    "parking meter": {
+      "TP": 0,
+      "FP": 1,
+      "FN": 0
+    },
+    "surfboard": {
+      "TP": 6,
+      "FP": 1,
+      "FN": 1
+    },
+    "cake": {
+      "TP": 0,
+      "FP": 1,
+      "FN": 2
+    },
+    "laptop": {
+      "TP": 0,
+      "FP": 0,
+      "FN": 1
+    },
+    "pizza": {
+      "TP": 0,
+      "FP": 3,
+      "FN": 0
+    },
+    "refrigerator": {
+      "TP": 1,
+      "FP": 0,
+      "FN": 1
+    },
+    "toilet": {
+      "TP": 3,
+      "FP": 1,
+      "FN": 0
+    },
+    "sink": {
+      "TP": 1,
+      "FP": 0,
+      "FN": 1
+    },
+    "apple": {
+      "TP": 0,
+      "FP": 0,
+      "FN": 1
+    },
+    "skis": {
+      "TP": 2,
+      "FP": 0,
+      "FN": 0
+    },
+    "orange": {
+      "TP": 2,
+      "FP": 0,
+      "FN": 0
+    },
+    "zebra": {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0
+    }
+  }
+}

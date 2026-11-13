@@ -1,0 +1,18 @@
+{
+  "coco_metadata": {
+    "file": "data/metadata/kb_metadata.json",
+    "sha256": "0c08502dcb536a8611a06ae984dd769d3301e7fabdc4a324dba57a249404be23"
+  },
+  "yolo_detections": {
+    "file": "data/visual_detections/full_10000/yolo_10000_detections.json",
+    "sha256": "183f03d2269823eefb02ddabde4493014621eef23b0f2dcf81035a7237dd3ce9"
+  },
+  "merged_metadata": {
+    "file": "data/metadata/kb_metadata_with_yolo.json",
+    "sha256": "ced31db873b6bb2654eed5e7c90a615b44558ed0148cb7cec917483c55092b88"
+  },
+  "merge_report": {
+    "file": "reports/yolo_metadata_merge_report.json",
+    "sha256": "5f2e4b2f67c222783f850410179d2eebce288cde1aa4d42004f2c8316791689a"
+  }
+}

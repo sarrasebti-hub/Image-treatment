@@ -1,0 +1,29 @@
+
+# COCO images (download separately)
+data/train2017/*
+data/val2017/*
+data/processed_images/*
+data/annotations/
+
+# Large generated metadata
+data/metadata/kb_metadata.json
+data/metadata/kb_metadata_with_yolo.json
+
+# Large embeddings and indexes
+data/embeddings/*.npy
+data/index/*.faiss
+
+# YOLO model weights
+yolo26n.pt
+
+# Generated image files
+*.jpg
+*.jpeg
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# System files
+.DS_Store

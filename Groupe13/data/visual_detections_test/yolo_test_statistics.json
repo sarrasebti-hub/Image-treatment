@@ -1,0 +1,77 @@
+{
+    "images_processed": 5,
+    "total_detections": 38,
+    "number_of_classes": 7,
+    "global_mean_confidence": 0.593,
+    "classes": {
+        "bowl": {
+            "count": 1,
+            "mean_confidence": 0.6274,
+            "min_confidence": 0.6274,
+            "max_confidence": 0.6274
+        },
+        "chair": {
+            "count": 2,
+            "mean_confidence": 0.6817,
+            "min_confidence": 0.5655,
+            "max_confidence": 0.7979
+        },
+        "clock": {
+            "count": 2,
+            "mean_confidence": 0.3761,
+            "min_confidence": 0.2765,
+            "max_confidence": 0.4758
+        },
+        "cup": {
+            "count": 2,
+            "mean_confidence": 0.8246,
+            "min_confidence": 0.8159,
+            "max_confidence": 0.8333
+        },
+        "person": {
+            "count": 29,
+            "mean_confidence": 0.5701,
+            "min_confidence": 0.2502,
+            "max_confidence": 0.8876
+        },
+        "snowboard": {
+            "count": 1,
+            "mean_confidence": 0.9277,
+            "min_confidence": 0.9277,
+            "max_confidence": 0.9277
+        },
+        "tennis racket": {
+            "count": 1,
+            "mean_confidence": 0.6802,
+            "min_confidence": 0.6802,
+            "max_confidence": 0.6802
+        }
+    },
+    "images": [
+        {
+            "image_id": 269605,
+            "image_file": "000000269605.jpg",
+            "number_of_objects": 6
+        },
+        {
+            "image_id": 137288,
+            "image_file": "000000137288.jpg",
+            "number_of_objects": 15
+        },
+        {
+            "image_id": 234743,
+            "image_file": "000000234743.jpg",
+            "number_of_objects": 11
+        },
+        {
+            "image_id": 401821,
+            "image_file": "000000401821.jpg",
+            "number_of_objects": 3
+        },
+        {
+            "image_id": 233271,
+            "image_file": "000000233271.jpg",
+            "number_of_objects": 3
+        }
+    ]
+}

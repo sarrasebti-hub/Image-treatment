@@ -1,0 +1,31 @@
+{
+  "method": "Lexical extraction from captions",
+  "warning": "Results represent shape descriptions in captions, not geometric measurements from images.",
+  "shape_mentions": {
+    "long": 326,
+    "round": 90,
+    "flat": 76,
+    "square": 64,
+    "rectangular": 11,
+    "triangular": 9,
+    "curved": 9,
+    "oval": 6
+  },
+  "captions_per_shape": {
+    "long": 324,
+    "round": 89,
+    "flat": 76,
+    "square": 64,
+    "rectangular": 11,
+    "triangular": 9,
+    "curved": 9,
+    "oval": 6
+  },
+  "shape_cooccurrences": [
+    {
+      "shape_1": "round",
+      "shape_2": "square",
+      "count": 2
+    }
+  ]
+}

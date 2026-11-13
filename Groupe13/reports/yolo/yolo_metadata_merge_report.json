@@ -1,0 +1,52 @@
+{
+  "phase": "COCO_YOLO_METADATA_MERGE",
+  "date": "2026-11-11",
+  "status": "COMPLETED",
+  "dataset": {
+    "name": "COCO 2017",
+    "knowledge_base_images": 10000
+  },
+  "sources": {
+    "coco_metadata": "data/metadata/kb_metadata.json",
+    "yolo_detections": "data/visual_detections/full_10000/yolo_10000_detections.json",
+    "yolo_statistics": "data/visual_detections/full_10000/yolo_10000_statistics.json"
+  },
+  "output": "data/metadata/kb_metadata_with_yolo.json",
+  "yolo_configuration": {
+    "model": "yolo26n.pt",
+    "confidence_threshold": 0.25,
+    "device": "cpu"
+  },
+  "results": {
+    "merged_images": 10000,
+    "unique_image_ids": 10000,
+    "total_detections": 49375,
+    "detected_categories": 79,
+    "images_without_detections": 136
+  },
+  "metadata_fields": {
+    "coco": [
+      "captions",
+      "objects",
+      "spatial_relations"
+    ],
+    "yolo": [
+      "yolo_detections",
+      "yolo_detection_count",
+      "yolo_detected_categories"
+    ]
+  },
+  "bounding_box_conventions": {
+    "coco": "x, y, width, height",
+    "yolo": "x1, y1, x2, y2"
+  },
+  "quality_control": {
+    "all_image_ids_unique": true,
+    "coco_fields_preserved": true,
+    "yolo_fields_present": true,
+    "detection_count_consistent": true,
+    "total_detections_verified": true,
+    "category_count_verified": true,
+    "original_coco_metadata_preserved": true
+  }
+}

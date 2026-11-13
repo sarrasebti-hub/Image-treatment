@@ -1,0 +1,17 @@
+{
+    "captions": {
+        "total_captions": 591753,
+        "total_words": 6199120,
+        "vocabulary_size": 26466,
+        "average_caption_length": 10.48,
+        "minimum_caption_length": 5,
+        "maximum_caption_length": 50,
+        "median_caption_length": 10.0
+    },
+    "objects": {
+        "total_images": 118287,
+        "total_object_annotations": 860001,
+        "number_of_categories": 80,
+        "average_objects_per_image": 7.27
+    }
+}

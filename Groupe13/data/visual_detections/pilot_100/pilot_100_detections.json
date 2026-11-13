@@ -1,0 +1,5934 @@
+{
+  "configuration": {
+    "model": "yolo26n.pt",
+    "confidence_threshold": 0.25,
+    "device": "cpu",
+    "random_seed": 42
+  },
+  "images": [
+    {
+      "image_id": 269605,
+      "file_name": "000000269605.jpg",
+      "detection_count": 6,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.87808,
+          "bbox_xyxy": [
+            284.55,
+            209.26,
+            425.65,
+            489.69
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.877307,
+          "bbox_xyxy": [
+            104.13,
+            216.92,
+            326.11,
+            502.65
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.833666,
+          "bbox_xyxy": [
+            254.96,
+            141.77,
+            356.4,
+            434.93
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.797878,
+          "bbox_xyxy": [
+            355.06,
+            320.65,
+            422.06,
+            450.95
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.711566,
+          "bbox_xyxy": [
+            142.31,
+            126.28,
+            244.85,
+            346.36
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.565502,
+          "bbox_xyxy": [
+            115.99,
+            369.07,
+            222.27,
+            473.32
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 137288,
+      "file_name": "000000137288.jpg",
+      "detection_count": 15,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.850766,
+          "bbox_xyxy": [
+            111.31,
+            169.68,
+            159.23,
+            317.5
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.833061,
+          "bbox_xyxy": [
+            276.69,
+            162.59,
+            330.34,
+            378.17
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.830037,
+          "bbox_xyxy": [
+            0.24,
+            183.44,
+            47.06,
+            463.3
+          ]
+        },
+        {
+          "class_id": 38,
+          "category": "tennis racket",
+          "confidence": 0.680165,
+          "bbox_xyxy": [
+            18.81,
+            234.16,
+            111.45,
+            303.23
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.590989,
+          "bbox_xyxy": [
+            213.67,
+            196.2,
+            254.57,
+            289.78
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.555978,
+          "bbox_xyxy": [
+            570.46,
+            153.49,
+            611.28,
+            221.72
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.4253,
+          "bbox_xyxy": [
+            606.6,
+            163.21,
+            639.69,
+            222.15
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.408795,
+          "bbox_xyxy": [
+            213.61,
+            116.44,
+            251.8,
+            164.15
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.361346,
+          "bbox_xyxy": [
+            428.04,
+            158.4,
+            469.17,
+            218.21
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.307087,
+          "bbox_xyxy": [
+            143.51,
+            97.83,
+            208.71,
+            165.28
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.280805,
+          "bbox_xyxy": [
+            531.78,
+            158.54,
+            569.0,
+            220.11
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.27435,
+          "bbox_xyxy": [
+            564.23,
+            77.6,
+            608.98,
+            179.76
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.265509,
+          "bbox_xyxy": [
+            611.77,
+            70.04,
+            639.8,
+            173.23
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.257977,
+          "bbox_xyxy": [
+            520.69,
+            69.14,
+            569.34,
+            179.28
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.250203,
+          "bbox_xyxy": [
+            378.86,
+            124.82,
+            421.9,
+            205.33
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 234743,
+      "file_name": "000000234743.jpg",
+      "detection_count": 11,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.887562,
+          "bbox_xyxy": [
+            297.1,
+            414.01,
+            456.69,
+            639.63
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.847643,
+          "bbox_xyxy": [
+            59.66,
+            418.68,
+            173.31,
+            639.79
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.844139,
+          "bbox_xyxy": [
+            165.2,
+            403.37,
+            257.04,
+            639.84
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.797797,
+          "bbox_xyxy": [
+            0.0,
+            405.23,
+            76.56,
+            639.94
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.511804,
+          "bbox_xyxy": [
+            380.67,
+            388.94,
+            439.11,
+            479.56
+          ]
+        },
+        {
+          "class_id": 74,
+          "category": "clock",
+          "confidence": 0.475762,
+          "bbox_xyxy": [
+            194.9,
+            281.85,
+            257.76,
+            344.01
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.358136,
+          "bbox_xyxy": [
+            261.79,
+            420.93,
+            342.62,
+            640.0
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.327621,
+          "bbox_xyxy": [
+            132.98,
+            388.65,
+            179.03,
+            475.65
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.313913,
+          "bbox_xyxy": [
+            161.25,
+            423.26,
+            203.57,
+            504.57
+          ]
+        },
+        {
+          "class_id": 74,
+          "category": "clock",
+          "confidence": 0.276512,
+          "bbox_xyxy": [
+            205.46,
+            291.46,
+            248.25,
+            335.01
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.251717,
+          "bbox_xyxy": [
+            102.16,
+            407.02,
+            162.79,
+            516.62
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 401821,
+      "file_name": "000000401821.jpg",
+      "detection_count": 3,
+      "detections": [
+        {
+          "class_id": 41,
+          "category": "cup",
+          "confidence": 0.833329,
+          "bbox_xyxy": [
+            197.71,
+            278.72,
+            354.72,
+            440.05
+          ]
+        },
+        {
+          "class_id": 41,
+          "category": "cup",
+          "confidence": 0.815931,
+          "bbox_xyxy": [
+            13.37,
+            253.95,
+            174.85,
+            455.98
+          ]
+        },
+        {
+          "class_id": 45,
+          "category": "bowl",
+          "confidence": 0.627367,
+          "bbox_xyxy": [
+            13.08,
+            254.25,
+            174.95,
+            455.36
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 233271,
+      "file_name": "000000233271.jpg",
+      "detection_count": 3,
+      "detections": [
+        {
+          "class_id": 31,
+          "category": "snowboard",
+          "confidence": 0.927733,
+          "bbox_xyxy": [
+            168.09,
+            228.98,
+            522.08,
+            304.19
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.809413,
+          "bbox_xyxy": [
+            243.35,
+            0.5,
+            466.62,
+            269.0
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.790021,
+          "bbox_xyxy": [
+            523.54,
+            120.65,
+            549.02,
+            149.76
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 519840,
+      "file_name": "000000519840.jpg",
+      "detection_count": 7,
+      "detections": [
+        {
+          "class_id": 45,
+          "category": "bowl",
+          "confidence": 0.84331,
+          "bbox_xyxy": [
+            139.32,
+            263.45,
+            294.75,
+            395.73
+          ]
+        },
+        {
+          "class_id": 60,
+          "category": "dining table",
+          "confidence": 0.78879,
+          "bbox_xyxy": [
+            0.0,
+            0.0,
+            639.28,
+            480.0
+          ]
+        },
+        {
+          "class_id": 48,
+          "category": "sandwich",
+          "confidence": 0.757855,
+          "bbox_xyxy": [
+            283.43,
+            99.1,
+            575.95,
+            338.78
+          ]
+        },
+        {
+          "class_id": 41,
+          "category": "cup",
+          "confidence": 0.757436,
+          "bbox_xyxy": [
+            169.09,
+            0.03,
+            239.77,
+            49.88
+          ]
+        },
+        {
+          "class_id": 41,
+          "category": "cup",
+          "confidence": 0.655629,
+          "bbox_xyxy": [
+            0.22,
+            0.0,
+            139.02,
+            138.54
+          ]
+        },
+        {
+          "class_id": 45,
+          "category": "bowl",
+          "confidence": 0.523575,
+          "bbox_xyxy": [
+            2.23,
+            74.75,
+            324.65,
+            296.18
+          ]
+        },
+        {
+          "class_id": 43,
+          "category": "knife",
+          "confidence": 0.318159,
+          "bbox_xyxy": [
+            540.01,
+            227.68,
+            639.23,
+            270.48
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 329139,
+      "file_name": "000000329139.jpg",
+      "detection_count": 6,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.656778,
+          "bbox_xyxy": [
+            479.85,
+            189.16,
+            554.08,
+            406.68
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.613664,
+          "bbox_xyxy": [
+            336.11,
+            191.4,
+            386.85,
+            361.86
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.601607,
+          "bbox_xyxy": [
+            402.24,
+            163.23,
+            448.14,
+            289.06
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.581697,
+          "bbox_xyxy": [
+            223.18,
+            168.42,
+            262.65,
+            277.27
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.501793,
+          "bbox_xyxy": [
+            449.52,
+            170.77,
+            481.61,
+            258.32
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.301596,
+          "bbox_xyxy": [
+            314.07,
+            162.65,
+            353.7,
+            305.96
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 29892,
+      "file_name": "000000029892.jpg",
+      "detection_count": 7,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.845726,
+          "bbox_xyxy": [
+            327.22,
+            161.04,
+            385.57,
+            305.26
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.834862,
+          "bbox_xyxy": [
+            293.47,
+            270.99,
+            375.19,
+            424.12
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.718321,
+          "bbox_xyxy": [
+            260.48,
+            278.04,
+            320.27,
+            374.95
+          ]
+        },
+        {
+          "class_id": 32,
+          "category": "sports ball",
+          "confidence": 0.589327,
+          "bbox_xyxy": [
+            303.69,
+            32.29,
+            310.23,
+            40.36
+          ]
+        },
+        {
+          "class_id": 34,
+          "category": "baseball bat",
+          "confidence": 0.396553,
+          "bbox_xyxy": [
+            361.59,
+            155.49,
+            395.01,
+            189.77
+          ]
+        },
+        {
+          "class_id": 34,
+          "category": "baseball bat",
+          "confidence": 0.31045,
+          "bbox_xyxy": [
+            357.32,
+            154.68,
+            394.57,
+            207.45
+          ]
+        },
+        {
+          "class_id": 34,
+          "category": "baseball bat",
+          "confidence": 0.260496,
+          "bbox_xyxy": [
+            343.35,
+            153.55,
+            390.31,
+            213.31
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 285548,
+      "file_name": "000000285548.jpg",
+      "detection_count": 8,
+      "detections": [
+        {
+          "class_id": 58,
+          "category": "potted plant",
+          "confidence": 0.883901,
+          "bbox_xyxy": [
+            107.96,
+            48.87,
+            240.6,
+            290.97
+          ]
+        },
+        {
+          "class_id": 62,
+          "category": "tv",
+          "confidence": 0.774574,
+          "bbox_xyxy": [
+            381.0,
+            6.83,
+            499.7,
+            317.14
+          ]
+        },
+        {
+          "class_id": 58,
+          "category": "potted plant",
+          "confidence": 0.635818,
+          "bbox_xyxy": [
+            261.86,
+            86.42,
+            404.1,
+            328.5
+          ]
+        },
+        {
+          "class_id": 67,
+          "category": "cell phone",
+          "confidence": 0.596726,
+          "bbox_xyxy": [
+            270.92,
+            316.27,
+            315.39,
+            369.61
+          ]
+        },
+        {
+          "class_id": 41,
+          "category": "cup",
+          "confidence": 0.4597,
+          "bbox_xyxy": [
+            311.4,
+            224.3,
+            404.92,
+            328.09
+          ]
+        },
+        {
+          "class_id": 46,
+          "category": "banana",
+          "confidence": 0.397343,
+          "bbox_xyxy": [
+            0.0,
+            297.13,
+            132.98,
+            339.58
+          ]
+        },
+        {
+          "class_id": 67,
+          "category": "cell phone",
+          "confidence": 0.356585,
+          "bbox_xyxy": [
+            191.79,
+            324.8,
+            242.61,
+            366.02
+          ]
+        },
+        {
+          "class_id": 65,
+          "category": "remote",
+          "confidence": 0.262231,
+          "bbox_xyxy": [
+            270.58,
+            315.61,
+            315.97,
+            369.36
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 419255,
+      "file_name": "000000419255.jpg",
+      "detection_count": 3,
+      "detections": [
+        {
+          "class_id": 57,
+          "category": "couch",
+          "confidence": 0.6942,
+          "bbox_xyxy": [
+            56.65,
+            234.0,
+            266.11,
+            375.95
+          ]
+        },
+        {
+          "class_id": 57,
+          "category": "couch",
+          "confidence": 0.399385,
+          "bbox_xyxy": [
+            218.6,
+            240.3,
+            571.02,
+            403.51
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.288626,
+          "bbox_xyxy": [
+            0.04,
+            254.03,
+            8.49,
+            338.91
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 395096,
+      "file_name": "000000395096.jpg",
+      "detection_count": 5,
+      "detections": [
+        {
+          "class_id": 3,
+          "category": "motorcycle",
+          "confidence": 0.656044,
+          "bbox_xyxy": [
+            54.98,
+            12.99,
+            508.3,
+            424.09
+          ]
+        },
+        {
+          "class_id": 3,
+          "category": "motorcycle",
+          "confidence": 0.435694,
+          "bbox_xyxy": [
+            251.67,
+            26.77,
+            547.65,
+            298.91
+          ]
+        },
+        {
+          "class_id": 3,
+          "category": "motorcycle",
+          "confidence": 0.418825,
+          "bbox_xyxy": [
+            455.32,
+            136.5,
+            540.25,
+            301.51
+          ]
+        },
+        {
+          "class_id": 3,
+          "category": "motorcycle",
+          "confidence": 0.396169,
+          "bbox_xyxy": [
+            240.04,
+            4.28,
+            552.72,
+            239.53
+          ]
+        },
+        {
+          "class_id": 3,
+          "category": "motorcycle",
+          "confidence": 0.269154,
+          "bbox_xyxy": [
+            260.39,
+            58.69,
+            553.71,
+            246.55
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 397892,
+      "file_name": "000000397892.jpg",
+      "detection_count": 2,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.422142,
+          "bbox_xyxy": [
+            179.21,
+            239.66,
+            194.27,
+            277.4
+          ]
+        },
+        {
+          "class_id": 7,
+          "category": "truck",
+          "confidence": 0.26644,
+          "bbox_xyxy": [
+            177.2,
+            235.92,
+            311.24,
+            273.57
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 7050,
+      "file_name": "000000007050.jpg",
+      "detection_count": 5,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.860191,
+          "bbox_xyxy": [
+            181.26,
+            175.16,
+            416.97,
+            449.68
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.800487,
+          "bbox_xyxy": [
+            426.26,
+            141.08,
+            639.75,
+            472.56
+          ]
+        },
+        {
+          "class_id": 8,
+          "category": "boat",
+          "confidence": 0.677744,
+          "bbox_xyxy": [
+            0.71,
+            378.76,
+            628.52,
+            480.0
+          ]
+        },
+        {
+          "class_id": 8,
+          "category": "boat",
+          "confidence": 0.365395,
+          "bbox_xyxy": [
+            5.81,
+            313.88,
+            640.0,
+            480.0
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.280934,
+          "bbox_xyxy": [
+            423.03,
+            140.24,
+            639.85,
+            366.12
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 473631,
+      "file_name": "000000473631.jpg",
+      "detection_count": 9,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.900981,
+          "bbox_xyxy": [
+            170.37,
+            74.84,
+            333.21,
+            581.19
+          ]
+        },
+        {
+          "class_id": 45,
+          "category": "bowl",
+          "confidence": 0.841763,
+          "bbox_xyxy": [
+            32.26,
+            541.7,
+            122.45,
+            610.89
+          ]
+        },
+        {
+          "class_id": 39,
+          "category": "bottle",
+          "confidence": 0.559481,
+          "bbox_xyxy": [
+            199.31,
+            73.18,
+            228.41,
+            167.08
+          ]
+        },
+        {
+          "class_id": 16,
+          "category": "dog",
+          "confidence": 0.398385,
+          "bbox_xyxy": [
+            293.96,
+            295.57,
+            387.31,
+            448.52
+          ]
+        },
+        {
+          "class_id": 13,
+          "category": "bench",
+          "confidence": 0.383265,
+          "bbox_xyxy": [
+            0.0,
+            259.9,
+            175.46,
+            498.52
+          ]
+        },
+        {
+          "class_id": 39,
+          "category": "bottle",
+          "confidence": 0.341902,
+          "bbox_xyxy": [
+            301.91,
+            196.69,
+            312.51,
+            221.79
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.341479,
+          "bbox_xyxy": [
+            2.78,
+            259.52,
+            175.58,
+            501.52
+          ]
+        },
+        {
+          "class_id": 74,
+          "category": "clock",
+          "confidence": 0.285018,
+          "bbox_xyxy": [
+            78.43,
+            21.28,
+            131.58,
+            75.27
+          ]
+        },
+        {
+          "class_id": 16,
+          "category": "dog",
+          "confidence": 0.270847,
+          "bbox_xyxy": [
+            294.93,
+            295.42,
+            387.59,
+            399.88
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 109558,
+      "file_name": "000000109558.jpg",
+      "detection_count": 0,
+      "detections": []
+    },
+    {
+      "image_id": 576136,
+      "file_name": "000000576136.jpg",
+      "detection_count": 4,
+      "detections": [
+        {
+          "class_id": 45,
+          "category": "bowl",
+          "confidence": 0.846954,
+          "bbox_xyxy": [
+            129.61,
+            218.75,
+            239.96,
+            296.72
+          ]
+        },
+        {
+          "class_id": 16,
+          "category": "dog",
+          "confidence": 0.737315,
+          "bbox_xyxy": [
+            163.13,
+            85.78,
+            358.1,
+            259.42
+          ]
+        },
+        {
+          "class_id": 15,
+          "category": "cat",
+          "confidence": 0.540958,
+          "bbox_xyxy": [
+            163.97,
+            85.4,
+            358.69,
+            261.11
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.370987,
+          "bbox_xyxy": [
+            239.78,
+            0.0,
+            427.55,
+            138.76
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 132447,
+      "file_name": "000000132447.jpg",
+      "detection_count": 1,
+      "detections": [
+        {
+          "class_id": 10,
+          "category": "fire hydrant",
+          "confidence": 0.932462,
+          "bbox_xyxy": [
+            190.74,
+            144.14,
+            356.84,
+            617.25
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 312175,
+      "file_name": "000000312175.jpg",
+      "detection_count": 10,
+      "detections": [
+        {
+          "class_id": 2,
+          "category": "car",
+          "confidence": 0.89251,
+          "bbox_xyxy": [
+            0.1,
+            51.09,
+            157.53,
+            247.14
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.891244,
+          "bbox_xyxy": [
+            234.62,
+            42.97,
+            402.58,
+            399.45
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "suitcase",
+          "confidence": 0.636822,
+          "bbox_xyxy": [
+            415.34,
+            196.85,
+            514.86,
+            403.26
+          ]
+        },
+        {
+          "class_id": 26,
+          "category": "handbag",
+          "confidence": 0.434468,
+          "bbox_xyxy": [
+            329.9,
+            313.23,
+            408.69,
+            414.04
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "suitcase",
+          "confidence": 0.426976,
+          "bbox_xyxy": [
+            363.66,
+            172.38,
+            458.06,
+            300.55
+          ]
+        },
+        {
+          "class_id": 2,
+          "category": "car",
+          "confidence": 0.38391,
+          "bbox_xyxy": [
+            155.05,
+            81.09,
+            479.08,
+            399.88
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "suitcase",
+          "confidence": 0.357769,
+          "bbox_xyxy": [
+            155.4,
+            82.35,
+            312.17,
+            398.38
+          ]
+        },
+        {
+          "class_id": 24,
+          "category": "backpack",
+          "confidence": 0.350287,
+          "bbox_xyxy": [
+            329.88,
+            313.11,
+            408.79,
+            413.71
+          ]
+        },
+        {
+          "class_id": 2,
+          "category": "car",
+          "confidence": 0.327486,
+          "bbox_xyxy": [
+            187.91,
+            80.05,
+            467.81,
+            245.34
+          ]
+        },
+        {
+          "class_id": 2,
+          "category": "car",
+          "confidence": 0.302373,
+          "bbox_xyxy": [
+            167.74,
+            77.56,
+            467.01,
+            303.07
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 78696,
+      "file_name": "000000078696.jpg",
+      "detection_count": 1,
+      "detections": [
+        {
+          "class_id": 5,
+          "category": "bus",
+          "confidence": 0.939507,
+          "bbox_xyxy": [
+            174.69,
+            68.95,
+            530.39,
+            301.2
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 521542,
+      "file_name": "000000521542.jpg",
+      "detection_count": 8,
+      "detections": [
+        {
+          "class_id": 69,
+          "category": "oven",
+          "confidence": 0.763586,
+          "bbox_xyxy": [
+            14.37,
+            94.61,
+            228.13,
+            354.56
+          ]
+        },
+        {
+          "class_id": 60,
+          "category": "dining table",
+          "confidence": 0.653535,
+          "bbox_xyxy": [
+            180.85,
+            210.04,
+            640.0,
+            423.81
+          ]
+        },
+        {
+          "class_id": 39,
+          "category": "bottle",
+          "confidence": 0.640657,
+          "bbox_xyxy": [
+            453.16,
+            162.84,
+            490.44,
+            226.33
+          ]
+        },
+        {
+          "class_id": 68,
+          "category": "microwave",
+          "confidence": 0.626143,
+          "bbox_xyxy": [
+            40.38,
+            1.13,
+            208.89,
+            47.78
+          ]
+        },
+        {
+          "class_id": 68,
+          "category": "microwave",
+          "confidence": 0.584499,
+          "bbox_xyxy": [
+            273.06,
+            75.01,
+            359.79,
+            125.06
+          ]
+        },
+        {
+          "class_id": 68,
+          "category": "microwave",
+          "confidence": 0.481731,
+          "bbox_xyxy": [
+            42.09,
+            0.0,
+            166.86,
+            45.72
+          ]
+        },
+        {
+          "class_id": 74,
+          "category": "clock",
+          "confidence": 0.437549,
+          "bbox_xyxy": [
+            377.1,
+            40.13,
+            405.03,
+            69.66
+          ]
+        },
+        {
+          "class_id": 39,
+          "category": "bottle",
+          "confidence": 0.307843,
+          "bbox_xyxy": [
+            344.93,
+            96.24,
+            361.97,
+            136.24
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 244613,
+      "file_name": "000000244613.jpg",
+      "detection_count": 5,
+      "detections": [
+        {
+          "class_id": 62,
+          "category": "tv",
+          "confidence": 0.891268,
+          "bbox_xyxy": [
+            0.21,
+            67.74,
+            122.54,
+            225.07
+          ]
+        },
+        {
+          "class_id": 66,
+          "category": "keyboard",
+          "confidence": 0.869329,
+          "bbox_xyxy": [
+            264.84,
+            209.02,
+            401.05,
+            270.55
+          ]
+        },
+        {
+          "class_id": 62,
+          "category": "tv",
+          "confidence": 0.747959,
+          "bbox_xyxy": [
+            149.78,
+            73.03,
+            259.26,
+            177.39
+          ]
+        },
+        {
+          "class_id": 62,
+          "category": "tv",
+          "confidence": 0.683317,
+          "bbox_xyxy": [
+            419.53,
+            150.51,
+            499.96,
+            300.96
+          ]
+        },
+        {
+          "class_id": 64,
+          "category": "mouse",
+          "confidence": 0.390593,
+          "bbox_xyxy": [
+            232.76,
+            257.47,
+            270.24,
+            289.64
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 574795,
+      "file_name": "000000574795.jpg",
+      "detection_count": 1,
+      "detections": [
+        {
+          "class_id": 6,
+          "category": "train",
+          "confidence": 0.872711,
+          "bbox_xyxy": [
+            83.09,
+            128.9,
+            568.33,
+            304.43
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 136687,
+      "file_name": "000000136687.jpg",
+      "detection_count": 3,
+      "detections": [
+        {
+          "class_id": 57,
+          "category": "couch",
+          "confidence": 0.871413,
+          "bbox_xyxy": [
+            75.53,
+            171.06,
+            478.9,
+            594.35
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.847654,
+          "bbox_xyxy": [
+            141.49,
+            233.46,
+            477.48,
+            595.04
+          ]
+        },
+        {
+          "class_id": 26,
+          "category": "handbag",
+          "confidence": 0.255783,
+          "bbox_xyxy": [
+            0.14,
+            280.42,
+            63.5,
+            373.51
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 566839,
+      "file_name": "000000566839.jpg",
+      "detection_count": 3,
+      "detections": [
+        {
+          "class_id": 7,
+          "category": "truck",
+          "confidence": 0.376951,
+          "bbox_xyxy": [
+            492.82,
+            80.31,
+            603.4,
+            137.74
+          ]
+        },
+        {
+          "class_id": 17,
+          "category": "horse",
+          "confidence": 0.329496,
+          "bbox_xyxy": [
+            266.03,
+            160.54,
+            354.38,
+            233.63
+          ]
+        },
+        {
+          "class_id": 17,
+          "category": "horse",
+          "confidence": 0.255982,
+          "bbox_xyxy": [
+            451.64,
+            175.88,
+            588.16,
+            254.97
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 91190,
+      "file_name": "000000091190.jpg",
+      "detection_count": 3,
+      "detections": [
+        {
+          "class_id": 4,
+          "category": "airplane",
+          "confidence": 0.872273,
+          "bbox_xyxy": [
+            282.57,
+            103.81,
+            475.67,
+            167.11
+          ]
+        },
+        {
+          "class_id": 8,
+          "category": "boat",
+          "confidence": 0.402457,
+          "bbox_xyxy": [
+            129.59,
+            277.24,
+            177.24,
+            285.04
+          ]
+        },
+        {
+          "class_id": 8,
+          "category": "boat",
+          "confidence": 0.346439,
+          "bbox_xyxy": [
+            19.07,
+            246.54,
+            128.03,
+            278.35
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 126608,
+      "file_name": "000000126608.jpg",
+      "detection_count": 8,
+      "detections": [
+        {
+          "class_id": 2,
+          "category": "car",
+          "confidence": 0.935976,
+          "bbox_xyxy": [
+            0.68,
+            159.72,
+            374.73,
+            501.51
+          ]
+        },
+        {
+          "class_id": 1,
+          "category": "bicycle",
+          "confidence": 0.791208,
+          "bbox_xyxy": [
+            372.94,
+            198.49,
+            474.28,
+            272.61
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.732442,
+          "bbox_xyxy": [
+            397.8,
+            138.13,
+            449.46,
+            251.1
+          ]
+        },
+        {
+          "class_id": 9,
+          "category": "traffic light",
+          "confidence": 0.66253,
+          "bbox_xyxy": [
+            99.94,
+            86.11,
+            112.53,
+            121.9
+          ]
+        },
+        {
+          "class_id": 9,
+          "category": "traffic light",
+          "confidence": 0.502575,
+          "bbox_xyxy": [
+            79.72,
+            132.42,
+            86.3,
+            148.71
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.317989,
+          "bbox_xyxy": [
+            381.46,
+            165.68,
+            388.47,
+            184.75
+          ]
+        },
+        {
+          "class_id": 24,
+          "category": "backpack",
+          "confidence": 0.316072,
+          "bbox_xyxy": [
+            441.47,
+            162.41,
+            465.62,
+            209.81
+          ]
+        },
+        {
+          "class_id": 2,
+          "category": "car",
+          "confidence": 0.278529,
+          "bbox_xyxy": [
+            488.03,
+            174.74,
+            504.95,
+            189.01
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 383508,
+      "file_name": "000000383508.jpg",
+      "detection_count": 1,
+      "detections": [
+        {
+          "class_id": 23,
+          "category": "giraffe",
+          "confidence": 0.91232,
+          "bbox_xyxy": [
+            35.74,
+            12.77,
+            546.65,
+            511.41
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 22427,
+      "file_name": "000000022427.jpg",
+      "detection_count": 4,
+      "detections": [
+        {
+          "class_id": 16,
+          "category": "dog",
+          "confidence": 0.919295,
+          "bbox_xyxy": [
+            0.0,
+            398.94,
+            239.06,
+            562.92
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.721197,
+          "bbox_xyxy": [
+            71.14,
+            108.87,
+            209.9,
+            423.17
+          ]
+        },
+        {
+          "class_id": 26,
+          "category": "handbag",
+          "confidence": 0.590764,
+          "bbox_xyxy": [
+            38.72,
+            195.18,
+            133.32,
+            360.83
+          ]
+        },
+        {
+          "class_id": 24,
+          "category": "backpack",
+          "confidence": 0.48247,
+          "bbox_xyxy": [
+            37.93,
+            199.54,
+            131.64,
+            362.7
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 661,
+      "file_name": "000000000661.jpg",
+      "detection_count": 2,
+      "detections": [
+        {
+          "class_id": 48,
+          "category": "sandwich",
+          "confidence": 0.812652,
+          "bbox_xyxy": [
+            45.95,
+            43.71,
+            406.21,
+            333.09
+          ]
+        },
+        {
+          "class_id": 60,
+          "category": "dining table",
+          "confidence": 0.531665,
+          "bbox_xyxy": [
+            6.25,
+            2.48,
+            499.8,
+            375.0
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 23137,
+      "file_name": "000000023137.jpg",
+      "detection_count": 3,
+      "detections": [
+        {
+          "class_id": 15,
+          "category": "cat",
+          "confidence": 0.877084,
+          "bbox_xyxy": [
+            266.6,
+            258.41,
+            471.46,
+            407.71
+          ]
+        },
+        {
+          "class_id": 7,
+          "category": "truck",
+          "confidence": 0.418328,
+          "bbox_xyxy": [
+            59.04,
+            0.0,
+            639.27,
+            397.0
+          ]
+        },
+        {
+          "class_id": 2,
+          "category": "car",
+          "confidence": 0.273805,
+          "bbox_xyxy": [
+            44.09,
+            0.48,
+            639.0,
+            406.56
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 329307,
+      "file_name": "000000329307.jpg",
+      "detection_count": 5,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.870596,
+          "bbox_xyxy": [
+            0.0,
+            61.2,
+            237.23,
+            500.0
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "suitcase",
+          "confidence": 0.680354,
+          "bbox_xyxy": [
+            161.42,
+            366.39,
+            258.36,
+            476.54
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "suitcase",
+          "confidence": 0.569109,
+          "bbox_xyxy": [
+            298.23,
+            357.32,
+            332.0,
+            488.63
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "suitcase",
+          "confidence": 0.373424,
+          "bbox_xyxy": [
+            180.47,
+            185.7,
+            274.75,
+            316.02
+          ]
+        },
+        {
+          "class_id": 24,
+          "category": "backpack",
+          "confidence": 0.257516,
+          "bbox_xyxy": [
+            258.94,
+            240.67,
+            332.0,
+            322.64
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 86946,
+      "file_name": "000000086946.jpg",
+      "detection_count": 3,
+      "detections": [
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.872178,
+          "bbox_xyxy": [
+            99.21,
+            386.9,
+            254.83,
+            621.9
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.716447,
+          "bbox_xyxy": [
+            239.39,
+            361.48,
+            414.59,
+            617.93
+          ]
+        },
+        {
+          "class_id": 25,
+          "category": "umbrella",
+          "confidence": 0.596739,
+          "bbox_xyxy": [
+            62.96,
+            0.2,
+            478.85,
+            138.82
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 496531,
+      "file_name": "000000496531.jpg",
+      "detection_count": 1,
+      "detections": [
+        {
+          "class_id": 11,
+          "category": "stop sign",
+          "confidence": 0.933744,
+          "bbox_xyxy": [
+            376.16,
+            140.2,
+            503.27,
+            285.84
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 211632,
+      "file_name": "000000211632.jpg",
+      "detection_count": 4,
+      "detections": [
+        {
+          "class_id": 75,
+          "category": "vase",
+          "confidence": 0.867272,
+          "bbox_xyxy": [
+            153.84,
+            405.37,
+            252.61,
+            521.15
+          ]
+        },
+        {
+          "class_id": 45,
+          "category": "bowl",
+          "confidence": 0.481742,
+          "bbox_xyxy": [
+            99.4,
+            474.75,
+            298.29,
+            564.61
+          ]
+        },
+        {
+          "class_id": 73,
+          "category": "book",
+          "confidence": 0.44042,
+          "bbox_xyxy": [
+            0.07,
+            546.53,
+            184.34,
+            636.27
+          ]
+        },
+        {
+          "class_id": 58,
+          "category": "potted plant",
+          "confidence": 0.326209,
+          "bbox_xyxy": [
+            113.59,
+            312.88,
+            304.15,
+            514.73
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 275581,
+      "file_name": "000000275581.jpg",
+      "detection_count": 1,
+      "detections": [
+        {
+          "class_id": 18,
+          "category": "sheep",
+          "confidence": 0.736766,
+          "bbox_xyxy": [
+            161.29,
+            68.93,
+            229.27,
+            166.4
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 401682,
+      "file_name": "000000401682.jpg",
+      "detection_count": 2,
+      "detections": [
+        {
+          "class_id": 77,
+          "category": "teddy bear",
+          "confidence": 0.883193,
+          "bbox_xyxy": [
+            45.38,
+            78.1,
+            182.07,
+            342.04
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.409821,
+          "bbox_xyxy": [
+            44.8,
+            78.47,
+            181.59,
+            342.7
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 261603,
+      "file_name": "000000261603.jpg",
+      "detection_count": 2,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.850271,
+          "bbox_xyxy": [
+            54.66,
+            0.36,
+            327.8,
+            421.88
+          ]
+        },
+        {
+          "class_id": 3,
+          "category": "motorcycle",
+          "confidence": 0.751139,
+          "bbox_xyxy": [
+            0.0,
+            142.47,
+            541.12,
+            424.49
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 9050,
+      "file_name": "000000009050.jpg",
+      "detection_count": 12,
+      "detections": [
+        {
+          "class_id": 42,
+          "category": "fork",
+          "confidence": 0.934232,
+          "bbox_xyxy": [
+            474.1,
+            154.46,
+            564.84,
+            390.29
+          ]
+        },
+        {
+          "class_id": 40,
+          "category": "wine glass",
+          "confidence": 0.884313,
+          "bbox_xyxy": [
+            506.23,
+            0.0,
+            612.94,
+            140.43
+          ]
+        },
+        {
+          "class_id": 40,
+          "category": "wine glass",
+          "confidence": 0.878352,
+          "bbox_xyxy": [
+            381.38,
+            0.29,
+            484.1,
+            128.69
+          ]
+        },
+        {
+          "class_id": 60,
+          "category": "dining table",
+          "confidence": 0.853134,
+          "bbox_xyxy": [
+            2.98,
+            0.0,
+            640.0,
+            422.45
+          ]
+        },
+        {
+          "class_id": 40,
+          "category": "wine glass",
+          "confidence": 0.827437,
+          "bbox_xyxy": [
+            269.63,
+            0.0,
+            371.73,
+            125.36
+          ]
+        },
+        {
+          "class_id": 40,
+          "category": "wine glass",
+          "confidence": 0.822033,
+          "bbox_xyxy": [
+            136.84,
+            1.36,
+            243.05,
+            133.87
+          ]
+        },
+        {
+          "class_id": 45,
+          "category": "bowl",
+          "confidence": 0.764709,
+          "bbox_xyxy": [
+            0.0,
+            6.34,
+            92.42,
+            109.06
+          ]
+        },
+        {
+          "class_id": 40,
+          "category": "wine glass",
+          "confidence": 0.746323,
+          "bbox_xyxy": [
+            205.98,
+            0.0,
+            289.81,
+            67.97
+          ]
+        },
+        {
+          "class_id": 51,
+          "category": "carrot",
+          "confidence": 0.674585,
+          "bbox_xyxy": [
+            350.36,
+            161.92,
+            429.71,
+            245.68
+          ]
+        },
+        {
+          "class_id": 42,
+          "category": "fork",
+          "confidence": 0.334796,
+          "bbox_xyxy": [
+            523.19,
+            181.49,
+            640.0,
+            363.91
+          ]
+        },
+        {
+          "class_id": 40,
+          "category": "wine glass",
+          "confidence": 0.311834,
+          "bbox_xyxy": [
+            125.18,
+            2.19,
+            186.88,
+            47.7
+          ]
+        },
+        {
+          "class_id": 42,
+          "category": "fork",
+          "confidence": 0.311291,
+          "bbox_xyxy": [
+            541.7,
+            157.64,
+            640.0,
+            329.19
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 526622,
+      "file_name": "000000526622.jpg",
+      "detection_count": 4,
+      "detections": [
+        {
+          "class_id": 8,
+          "category": "boat",
+          "confidence": 0.628942,
+          "bbox_xyxy": [
+            329.15,
+            369.01,
+            479.39,
+            449.89
+          ]
+        },
+        {
+          "class_id": 8,
+          "category": "boat",
+          "confidence": 0.379563,
+          "bbox_xyxy": [
+            261.7,
+            361.22,
+            329.46,
+            401.86
+          ]
+        },
+        {
+          "class_id": 3,
+          "category": "motorcycle",
+          "confidence": 0.311822,
+          "bbox_xyxy": [
+            0.0,
+            296.35,
+            341.81,
+            639.73
+          ]
+        },
+        {
+          "class_id": 1,
+          "category": "bicycle",
+          "confidence": 0.291239,
+          "bbox_xyxy": [
+            0.0,
+            305.35,
+            344.01,
+            639.29
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 363423,
+      "file_name": "000000363423.jpg",
+      "detection_count": 5,
+      "detections": [
+        {
+          "class_id": 74,
+          "category": "clock",
+          "confidence": 0.766984,
+          "bbox_xyxy": [
+            108.11,
+            87.98,
+            152.64,
+            131.46
+          ]
+        },
+        {
+          "class_id": 2,
+          "category": "car",
+          "confidence": 0.744327,
+          "bbox_xyxy": [
+            422.89,
+            481.25,
+            479.18,
+            550.09
+          ]
+        },
+        {
+          "class_id": 5,
+          "category": "bus",
+          "confidence": 0.546824,
+          "bbox_xyxy": [
+            426.22,
+            455.4,
+            479.5,
+            482.66
+          ]
+        },
+        {
+          "class_id": 74,
+          "category": "clock",
+          "confidence": 0.54601,
+          "bbox_xyxy": [
+            231.19,
+            125.43,
+            245.66,
+            167.64
+          ]
+        },
+        {
+          "class_id": 1,
+          "category": "bicycle",
+          "confidence": 0.31815,
+          "bbox_xyxy": [
+            441.03,
+            515.97,
+            479.7,
+            571.16
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 182905,
+      "file_name": "000000182905.jpg",
+      "detection_count": 3,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.905146,
+          "bbox_xyxy": [
+            61.17,
+            160.58,
+            383.72,
+            629.31
+          ]
+        },
+        {
+          "class_id": 38,
+          "category": "tennis racket",
+          "confidence": 0.746337,
+          "bbox_xyxy": [
+            146.74,
+            78.04,
+            276.86,
+            186.84
+          ]
+        },
+        {
+          "class_id": 32,
+          "category": "sports ball",
+          "confidence": 0.687349,
+          "bbox_xyxy": [
+            229.83,
+            51.0,
+            257.69,
+            74.58
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 577640,
+      "file_name": "000000577640.jpg",
+      "detection_count": 2,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.768418,
+          "bbox_xyxy": [
+            264.39,
+            169.49,
+            330.85,
+            340.9
+          ]
+        },
+        {
+          "class_id": 3,
+          "category": "motorcycle",
+          "confidence": 0.512808,
+          "bbox_xyxy": [
+            186.8,
+            236.15,
+            436.97,
+            389.33
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 232544,
+      "file_name": "000000232544.jpg",
+      "detection_count": 9,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.90152,
+          "bbox_xyxy": [
+            241.83,
+            156.02,
+            346.57,
+            335.57
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.900818,
+          "bbox_xyxy": [
+            363.45,
+            128.41,
+            570.21,
+            343.89
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.855109,
+          "bbox_xyxy": [
+            79.63,
+            193.5,
+            150.24,
+            302.79
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.826351,
+          "bbox_xyxy": [
+            0.24,
+            158.18,
+            48.46,
+            307.84
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.785729,
+          "bbox_xyxy": [
+            364.68,
+            185.99,
+            458.42,
+            313.66
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.749142,
+          "bbox_xyxy": [
+            161.4,
+            233.2,
+            177.53,
+            284.55
+          ]
+        },
+        {
+          "class_id": 29,
+          "category": "frisbee",
+          "confidence": 0.725545,
+          "bbox_xyxy": [
+            575.78,
+            89.84,
+            600.31,
+            107.43
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.592947,
+          "bbox_xyxy": [
+            134.68,
+            226.73,
+            152.56,
+            284.81
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.461836,
+          "bbox_xyxy": [
+            631.01,
+            232.08,
+            639.83,
+            283.45
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 191096,
+      "file_name": "000000191096.jpg",
+      "detection_count": 5,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.930455,
+          "bbox_xyxy": [
+            156.26,
+            126.97,
+            323.48,
+            318.87
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.921484,
+          "bbox_xyxy": [
+            552.98,
+            147.8,
+            640.0,
+            321.5
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.897135,
+          "bbox_xyxy": [
+            425.28,
+            143.81,
+            498.19,
+            333.5
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.617093,
+          "bbox_xyxy": [
+            36.78,
+            12.6,
+            79.74,
+            68.71
+          ]
+        },
+        {
+          "class_id": 35,
+          "category": "baseball glove",
+          "confidence": 0.266042,
+          "bbox_xyxy": [
+            433.21,
+            211.21,
+            463.01,
+            245.23
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 234424,
+      "file_name": "000000234424.jpg",
+      "detection_count": 2,
+      "detections": [
+        {
+          "class_id": 14,
+          "category": "bird",
+          "confidence": 0.909167,
+          "bbox_xyxy": [
+            153.34,
+            38.59,
+            354.15,
+            376.74
+          ]
+        },
+        {
+          "class_id": 14,
+          "category": "bird",
+          "confidence": 0.886051,
+          "bbox_xyxy": [
+            360.66,
+            76.33,
+            505.68,
+            348.65
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 308645,
+      "file_name": "000000308645.jpg",
+      "detection_count": 3,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.587035,
+          "bbox_xyxy": [
+            0.0,
+            59.9,
+            404.75,
+            366.89
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.37551,
+          "bbox_xyxy": [
+            334.82,
+            82.99,
+            499.74,
+            373.99
+          ]
+        },
+        {
+          "class_id": 59,
+          "category": "bed",
+          "confidence": 0.257557,
+          "bbox_xyxy": [
+            20.16,
+            81.38,
+            499.19,
+            375.0
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 27658,
+      "file_name": "000000027658.jpg",
+      "detection_count": 1,
+      "detections": [
+        {
+          "class_id": 10,
+          "category": "fire hydrant",
+          "confidence": 0.923979,
+          "bbox_xyxy": [
+            94.21,
+            183.62,
+            185.16,
+            361.58
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 14044,
+      "file_name": "000000014044.jpg",
+      "detection_count": 5,
+      "detections": [
+        {
+          "class_id": 1,
+          "category": "bicycle",
+          "confidence": 0.721963,
+          "bbox_xyxy": [
+            94.04,
+            103.63,
+            383.96,
+            453.61
+          ]
+        },
+        {
+          "class_id": 2,
+          "category": "car",
+          "confidence": 0.635144,
+          "bbox_xyxy": [
+            0.51,
+            99.11,
+            168.29,
+            330.31
+          ]
+        },
+        {
+          "class_id": 3,
+          "category": "motorcycle",
+          "confidence": 0.463017,
+          "bbox_xyxy": [
+            95.0,
+            98.06,
+            564.06,
+            462.28
+          ]
+        },
+        {
+          "class_id": 3,
+          "category": "motorcycle",
+          "confidence": 0.375415,
+          "bbox_xyxy": [
+            286.36,
+            100.89,
+            564.36,
+            461.32
+          ]
+        },
+        {
+          "class_id": 3,
+          "category": "motorcycle",
+          "confidence": 0.330674,
+          "bbox_xyxy": [
+            94.11,
+            102.89,
+            387.05,
+            457.33
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 451597,
+      "file_name": "000000451597.jpg",
+      "detection_count": 7,
+      "detections": [
+        {
+          "class_id": 45,
+          "category": "bowl",
+          "confidence": 0.740886,
+          "bbox_xyxy": [
+            0.0,
+            0.0,
+            633.03,
+            480.0
+          ]
+        },
+        {
+          "class_id": 41,
+          "category": "cup",
+          "confidence": 0.551181,
+          "bbox_xyxy": [
+            444.22,
+            0.0,
+            637.8,
+            89.17
+          ]
+        },
+        {
+          "class_id": 46,
+          "category": "banana",
+          "confidence": 0.543761,
+          "bbox_xyxy": [
+            104.65,
+            180.8,
+            290.12,
+            345.17
+          ]
+        },
+        {
+          "class_id": 44,
+          "category": "spoon",
+          "confidence": 0.435163,
+          "bbox_xyxy": [
+            390.37,
+            110.08,
+            640.0,
+            215.14
+          ]
+        },
+        {
+          "class_id": 39,
+          "category": "bottle",
+          "confidence": 0.363791,
+          "bbox_xyxy": [
+            443.98,
+            0.5,
+            635.74,
+            88.84
+          ]
+        },
+        {
+          "class_id": 46,
+          "category": "banana",
+          "confidence": 0.292454,
+          "bbox_xyxy": [
+            402.58,
+            286.95,
+            490.78,
+            394.03
+          ]
+        },
+        {
+          "class_id": 46,
+          "category": "banana",
+          "confidence": 0.267447,
+          "bbox_xyxy": [
+            32.39,
+            256.65,
+            113.48,
+            358.32
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 10393,
+      "file_name": "000000010393.jpg",
+      "detection_count": 5,
+      "detections": [
+        {
+          "class_id": 1,
+          "category": "bicycle",
+          "confidence": 0.860866,
+          "bbox_xyxy": [
+            88.06,
+            266.74,
+            634.7,
+            480.0
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.838797,
+          "bbox_xyxy": [
+            202.45,
+            29.14,
+            539.45,
+            474.31
+          ]
+        },
+        {
+          "class_id": 2,
+          "category": "car",
+          "confidence": 0.588053,
+          "bbox_xyxy": [
+            543.5,
+            139.94,
+            629.86,
+            157.87
+          ]
+        },
+        {
+          "class_id": 7,
+          "category": "truck",
+          "confidence": 0.539183,
+          "bbox_xyxy": [
+            21.85,
+            137.09,
+            136.98,
+            181.28
+          ]
+        },
+        {
+          "class_id": 2,
+          "category": "car",
+          "confidence": 0.477651,
+          "bbox_xyxy": [
+            134.84,
+            156.46,
+            184.23,
+            177.75
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 60915,
+      "file_name": "000000060915.jpg",
+      "detection_count": 4,
+      "detections": [
+        {
+          "class_id": 28,
+          "category": "suitcase",
+          "confidence": 0.83514,
+          "bbox_xyxy": [
+            150.33,
+            6.24,
+            639.35,
+            416.96
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.828173,
+          "bbox_xyxy": [
+            210.61,
+            140.09,
+            494.32,
+            366.67
+          ]
+        },
+        {
+          "class_id": 28,
+          "category": "suitcase",
+          "confidence": 0.633557,
+          "bbox_xyxy": [
+            141.14,
+            149.18,
+            624.91,
+            418.63
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.593859,
+          "bbox_xyxy": [
+            0.0,
+            153.94,
+            91.11,
+            255.64
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 93600,
+      "file_name": "000000093600.jpg",
+      "detection_count": 4,
+      "detections": [
+        {
+          "class_id": 62,
+          "category": "tv",
+          "confidence": 0.53578,
+          "bbox_xyxy": [
+            49.37,
+            1.37,
+            223.65,
+            103.96
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.480095,
+          "bbox_xyxy": [
+            0.0,
+            68.76,
+            315.96,
+            498.82
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.351987,
+          "bbox_xyxy": [
+            330.89,
+            207.24,
+            374.84,
+            302.8
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.301562,
+          "bbox_xyxy": [
+            0.06,
+            188.34,
+            104.8,
+            497.64
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 180324,
+      "file_name": "000000180324.jpg",
+      "detection_count": 2,
+      "detections": [
+        {
+          "class_id": 14,
+          "category": "bird",
+          "confidence": 0.80912,
+          "bbox_xyxy": [
+            174.93,
+            255.03,
+            224.95,
+            318.7
+          ]
+        },
+        {
+          "class_id": 14,
+          "category": "bird",
+          "confidence": 0.747525,
+          "bbox_xyxy": [
+            389.71,
+            250.57,
+            465.61,
+            315.51
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 94996,
+      "file_name": "000000094996.jpg",
+      "detection_count": 4,
+      "detections": [
+        {
+          "class_id": 6,
+          "category": "train",
+          "confidence": 0.901664,
+          "bbox_xyxy": [
+            96.44,
+            99.39,
+            597.06,
+            326.45
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.825375,
+          "bbox_xyxy": [
+            584.49,
+            173.31,
+            628.32,
+            324.62
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.542058,
+          "bbox_xyxy": [
+            622.89,
+            184.77,
+            639.79,
+            271.45
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.301931,
+          "bbox_xyxy": [
+            622.21,
+            186.08,
+            639.45,
+            249.06
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 140787,
+      "file_name": "000000140787.jpg",
+      "detection_count": 8,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.92771,
+          "bbox_xyxy": [
+            296.91,
+            90.98,
+            474.88,
+            332.03
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.898731,
+          "bbox_xyxy": [
+            0.43,
+            183.29,
+            161.19,
+            350.44
+          ]
+        },
+        {
+          "class_id": 35,
+          "category": "baseball glove",
+          "confidence": 0.759025,
+          "bbox_xyxy": [
+            126.8,
+            222.83,
+            162.64,
+            256.29
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.658597,
+          "bbox_xyxy": [
+            284.85,
+            87.31,
+            342.03,
+            229.01
+          ]
+        },
+        {
+          "class_id": 32,
+          "category": "sports ball",
+          "confidence": 0.579655,
+          "bbox_xyxy": [
+            517.64,
+            152.1,
+            533.92,
+            164.4
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.475999,
+          "bbox_xyxy": [
+            193.73,
+            95.26,
+            237.27,
+            235.06
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.437043,
+          "bbox_xyxy": [
+            0.03,
+            201.12,
+            16.73,
+            250.53
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.436274,
+          "bbox_xyxy": [
+            605.98,
+            99.98,
+            639.81,
+            189.64
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 43510,
+      "file_name": "000000043510.jpg",
+      "detection_count": 11,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.899339,
+          "bbox_xyxy": [
+            0.27,
+            275.86,
+            205.19,
+            427.74
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.88643,
+          "bbox_xyxy": [
+            218.52,
+            156.41,
+            401.39,
+            427.21
+          ]
+        },
+        {
+          "class_id": 35,
+          "category": "baseball glove",
+          "confidence": 0.793613,
+          "bbox_xyxy": [
+            166.33,
+            384.55,
+            208.03,
+            421.87
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.544106,
+          "bbox_xyxy": [
+            415.73,
+            181.78,
+            486.14,
+            286.77
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.513886,
+          "bbox_xyxy": [
+            85.91,
+            225.24,
+            156.43,
+            295.0
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.503966,
+          "bbox_xyxy": [
+            161.64,
+            230.82,
+            218.96,
+            293.94
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.470736,
+          "bbox_xyxy": [
+            0.1,
+            241.23,
+            28.68,
+            298.36
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.331732,
+          "bbox_xyxy": [
+            539.86,
+            174.4,
+            602.32,
+            286.16
+          ]
+        },
+        {
+          "class_id": 34,
+          "category": "baseball bat",
+          "confidence": 0.290654,
+          "bbox_xyxy": [
+            253.69,
+            113.64,
+            283.65,
+            182.78
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.275679,
+          "bbox_xyxy": [
+            466.05,
+            174.65,
+            542.88,
+            285.21
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.267326,
+          "bbox_xyxy": [
+            142.45,
+            113.11,
+            188.66,
+            173.78
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 193424,
+      "file_name": "000000193424.jpg",
+      "detection_count": 8,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.841357,
+          "bbox_xyxy": [
+            181.63,
+            133.81,
+            243.0,
+            260.98
+          ]
+        },
+        {
+          "class_id": 2,
+          "category": "car",
+          "confidence": 0.83723,
+          "bbox_xyxy": [
+            293.54,
+            130.72,
+            474.86,
+            268.54
+          ]
+        },
+        {
+          "class_id": 5,
+          "category": "bus",
+          "confidence": 0.737014,
+          "bbox_xyxy": [
+            58.9,
+            30.8,
+            253.78,
+            205.64
+          ]
+        },
+        {
+          "class_id": 2,
+          "category": "car",
+          "confidence": 0.705306,
+          "bbox_xyxy": [
+            0.65,
+            135.82,
+            180.7,
+            299.25
+          ]
+        },
+        {
+          "class_id": 12,
+          "category": "parking meter",
+          "confidence": 0.516692,
+          "bbox_xyxy": [
+            0.12,
+            95.06,
+            36.36,
+            297.12
+          ]
+        },
+        {
+          "class_id": 2,
+          "category": "car",
+          "confidence": 0.36297,
+          "bbox_xyxy": [
+            2.46,
+            260.09,
+            499.87,
+            340.7
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.322857,
+          "bbox_xyxy": [
+            385.88,
+            147.77,
+            419.03,
+            186.53
+          ]
+        },
+        {
+          "class_id": 7,
+          "category": "truck",
+          "confidence": 0.284757,
+          "bbox_xyxy": [
+            256.26,
+            145.5,
+            313.54,
+            242.1
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 346577,
+      "file_name": "000000346577.jpg",
+      "detection_count": 3,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.893162,
+          "bbox_xyxy": [
+            278.98,
+            196.9,
+            393.49,
+            369.93
+          ]
+        },
+        {
+          "class_id": 37,
+          "category": "surfboard",
+          "confidence": 0.405712,
+          "bbox_xyxy": [
+            168.82,
+            353.57,
+            283.62,
+            380.04
+          ]
+        },
+        {
+          "class_id": 37,
+          "category": "surfboard",
+          "confidence": 0.276367,
+          "bbox_xyxy": [
+            168.29,
+            353.15,
+            347.75,
+            380.9
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 139571,
+      "file_name": "000000139571.jpg",
+      "detection_count": 9,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.892727,
+          "bbox_xyxy": [
+            349.71,
+            11.95,
+            604.59,
+            416.38
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.889052,
+          "bbox_xyxy": [
+            288.28,
+            12.29,
+            440.62,
+            349.85
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.883785,
+          "bbox_xyxy": [
+            151.9,
+            42.56,
+            289.4,
+            344.94
+          ]
+        },
+        {
+          "class_id": 55,
+          "category": "cake",
+          "confidence": 0.866571,
+          "bbox_xyxy": [
+            123.28,
+            330.35,
+            466.76,
+            454.81
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.851379,
+          "bbox_xyxy": [
+            25.02,
+            52.85,
+            165.47,
+            372.2
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.789748,
+          "bbox_xyxy": [
+            0.26,
+            70.84,
+            55.51,
+            410.01
+          ]
+        },
+        {
+          "class_id": 60,
+          "category": "dining table",
+          "confidence": 0.703365,
+          "bbox_xyxy": [
+            9.84,
+            332.34,
+            605.13,
+            455.71
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.573938,
+          "bbox_xyxy": [
+            569.06,
+            24.06,
+            639.84,
+            457.0
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.348644,
+          "bbox_xyxy": [
+            538.09,
+            23.29,
+            639.55,
+            453.81
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 276694,
+      "file_name": "000000276694.jpg",
+      "detection_count": 3,
+      "detections": [
+        {
+          "class_id": 59,
+          "category": "bed",
+          "confidence": 0.855715,
+          "bbox_xyxy": [
+            305.01,
+            71.87,
+            581.17,
+            246.43
+          ]
+        },
+        {
+          "class_id": 59,
+          "category": "bed",
+          "confidence": 0.583663,
+          "bbox_xyxy": [
+            484.43,
+            201.63,
+            639.92,
+            421.1
+          ]
+        },
+        {
+          "class_id": 66,
+          "category": "keyboard",
+          "confidence": 0.361354,
+          "bbox_xyxy": [
+            0.05,
+            194.28,
+            66.88,
+            255.46
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 234023,
+      "file_name": "000000234023.jpg",
+      "detection_count": 7,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.918365,
+          "bbox_xyxy": [
+            338.3,
+            243.81,
+            503.5,
+            385.91
+          ]
+        },
+        {
+          "class_id": 37,
+          "category": "surfboard",
+          "confidence": 0.720019,
+          "bbox_xyxy": [
+            263.4,
+            167.02,
+            350.53,
+            191.8
+          ]
+        },
+        {
+          "class_id": 37,
+          "category": "surfboard",
+          "confidence": 0.696094,
+          "bbox_xyxy": [
+            140.52,
+            156.63,
+            176.3,
+            193.7
+          ]
+        },
+        {
+          "class_id": 37,
+          "category": "surfboard",
+          "confidence": 0.619178,
+          "bbox_xyxy": [
+            189.04,
+            158.72,
+            250.07,
+            181.22
+          ]
+        },
+        {
+          "class_id": 37,
+          "category": "surfboard",
+          "confidence": 0.401727,
+          "bbox_xyxy": [
+            385.06,
+            360.29,
+            436.29,
+            411.16
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.325089,
+          "bbox_xyxy": [
+            296.48,
+            122.27,
+            320.79,
+            174.47
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.324517,
+          "bbox_xyxy": [
+            187.94,
+            136.38,
+            213.91,
+            176.28
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 328304,
+      "file_name": "000000328304.jpg",
+      "detection_count": 2,
+      "detections": [
+        {
+          "class_id": 16,
+          "category": "dog",
+          "confidence": 0.891184,
+          "bbox_xyxy": [
+            72.81,
+            31.4,
+            500.0,
+            370.9
+          ]
+        },
+        {
+          "class_id": 29,
+          "category": "frisbee",
+          "confidence": 0.403048,
+          "bbox_xyxy": [
+            332.17,
+            133.12,
+            492.63,
+            279.71
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 577077,
+      "file_name": "000000577077.jpg",
+      "detection_count": 3,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.620795,
+          "bbox_xyxy": [
+            0.51,
+            0.36,
+            135.6,
+            344.67
+          ]
+        },
+        {
+          "class_id": 77,
+          "category": "teddy bear",
+          "confidence": 0.537775,
+          "bbox_xyxy": [
+            278.81,
+            63.89,
+            639.12,
+            422.14
+          ]
+        },
+        {
+          "class_id": 59,
+          "category": "bed",
+          "confidence": 0.528477,
+          "bbox_xyxy": [
+            0.0,
+            74.07,
+            631.35,
+            478.86
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 447569,
+      "file_name": "000000447569.jpg",
+      "detection_count": 3,
+      "detections": [
+        {
+          "class_id": 5,
+          "category": "bus",
+          "confidence": 0.910954,
+          "bbox_xyxy": [
+            22.55,
+            47.77,
+            605.06,
+            526.78
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.804778,
+          "bbox_xyxy": [
+            591.37,
+            281.06,
+            639.95,
+            451.57
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.757793,
+          "bbox_xyxy": [
+            0.2,
+            295.05,
+            31.76,
+            528.29
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 207330,
+      "file_name": "000000207330.jpg",
+      "detection_count": 7,
+      "detections": [
+        {
+          "class_id": 60,
+          "category": "dining table",
+          "confidence": 0.816031,
+          "bbox_xyxy": [
+            40.32,
+            0.0,
+            409.79,
+            632.07
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.588448,
+          "bbox_xyxy": [
+            303.78,
+            0.0,
+            478.05,
+            171.14
+          ]
+        },
+        {
+          "class_id": 48,
+          "category": "sandwich",
+          "confidence": 0.42999,
+          "bbox_xyxy": [
+            228.49,
+            291.76,
+            320.54,
+            361.51
+          ]
+        },
+        {
+          "class_id": 53,
+          "category": "pizza",
+          "confidence": 0.429908,
+          "bbox_xyxy": [
+            166.7,
+            45.27,
+            286.75,
+            95.78
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.313832,
+          "bbox_xyxy": [
+            393.02,
+            44.84,
+            479.0,
+            365.08
+          ]
+        },
+        {
+          "class_id": 48,
+          "category": "sandwich",
+          "confidence": 0.287313,
+          "bbox_xyxy": [
+            163.11,
+            297.69,
+            235.23,
+            358.5
+          ]
+        },
+        {
+          "class_id": 53,
+          "category": "pizza",
+          "confidence": 0.26319,
+          "bbox_xyxy": [
+            134.71,
+            113.47,
+            305.72,
+            196.68
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 155299,
+      "file_name": "000000155299.jpg",
+      "detection_count": 8,
+      "detections": [
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.909475,
+          "bbox_xyxy": [
+            354.83,
+            227.89,
+            486.33,
+            374.93
+          ]
+        },
+        {
+          "class_id": 72,
+          "category": "refrigerator",
+          "confidence": 0.857607,
+          "bbox_xyxy": [
+            28.71,
+            76.6,
+            176.67,
+            321.18
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.660731,
+          "bbox_xyxy": [
+            255.67,
+            192.08,
+            350.13,
+            374.85
+          ]
+        },
+        {
+          "class_id": 75,
+          "category": "vase",
+          "confidence": 0.610231,
+          "bbox_xyxy": [
+            220.29,
+            128.35,
+            241.93,
+            163.59
+          ]
+        },
+        {
+          "class_id": 74,
+          "category": "clock",
+          "confidence": 0.553909,
+          "bbox_xyxy": [
+            298.33,
+            47.98,
+            325.3,
+            77.0
+          ]
+        },
+        {
+          "class_id": 60,
+          "category": "dining table",
+          "confidence": 0.526442,
+          "bbox_xyxy": [
+            293.69,
+            221.54,
+            493.67,
+            374.14
+          ]
+        },
+        {
+          "class_id": 60,
+          "category": "dining table",
+          "confidence": 0.362817,
+          "bbox_xyxy": [
+            296.17,
+            222.24,
+            486.02,
+            288.8
+          ]
+        },
+        {
+          "class_id": 74,
+          "category": "clock",
+          "confidence": 0.262606,
+          "bbox_xyxy": [
+            372.97,
+            145.17,
+            395.87,
+            172.92
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 334260,
+      "file_name": "000000334260.jpg",
+      "detection_count": 2,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.8954,
+          "bbox_xyxy": [
+            81.28,
+            171.64,
+            226.58,
+            305.6
+          ]
+        },
+        {
+          "class_id": 36,
+          "category": "skateboard",
+          "confidence": 0.656916,
+          "bbox_xyxy": [
+            143.5,
+            295.28,
+            244.17,
+            317.32
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 6920,
+      "file_name": "000000006920.jpg",
+      "detection_count": 4,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.892188,
+          "bbox_xyxy": [
+            207.78,
+            122.21,
+            342.06,
+            258.51
+          ]
+        },
+        {
+          "class_id": 31,
+          "category": "snowboard",
+          "confidence": 0.793189,
+          "bbox_xyxy": [
+            302.53,
+            210.68,
+            385.78,
+            265.55
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.578731,
+          "bbox_xyxy": [
+            114.82,
+            114.98,
+            123.22,
+            127.16
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.451994,
+          "bbox_xyxy": [
+            206.0,
+            115.17,
+            216.19,
+            125.36
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 198930,
+      "file_name": "000000198930.jpg",
+      "detection_count": 2,
+      "detections": [
+        {
+          "class_id": 8,
+          "category": "boat",
+          "confidence": 0.481926,
+          "bbox_xyxy": [
+            31.03,
+            69.25,
+            593.04,
+            262.88
+          ]
+        },
+        {
+          "class_id": 8,
+          "category": "boat",
+          "confidence": 0.353946,
+          "bbox_xyxy": [
+            36.78,
+            142.05,
+            601.1,
+            261.88
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 223122,
+      "file_name": "000000223122.jpg",
+      "detection_count": 2,
+      "detections": [
+        {
+          "class_id": 61,
+          "category": "toilet",
+          "confidence": 0.62653,
+          "bbox_xyxy": [
+            227.6,
+            280.33,
+            312.03,
+            375.16
+          ]
+        },
+        {
+          "class_id": 71,
+          "category": "sink",
+          "confidence": 0.560629,
+          "bbox_xyxy": [
+            477.11,
+            308.44,
+            640.0,
+            474.44
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 221787,
+      "file_name": "000000221787.jpg",
+      "detection_count": 15,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.913224,
+          "bbox_xyxy": [
+            0.0,
+            363.33,
+            123.24,
+            638.91
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.902808,
+          "bbox_xyxy": [
+            102.04,
+            345.41,
+            197.62,
+            638.99
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.778611,
+          "bbox_xyxy": [
+            344.55,
+            351.97,
+            367.46,
+            412.75
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.739839,
+          "bbox_xyxy": [
+            280.78,
+            346.36,
+            306.38,
+            409.88
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.692973,
+          "bbox_xyxy": [
+            318.11,
+            352.72,
+            340.01,
+            411.17
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.670066,
+          "bbox_xyxy": [
+            256.54,
+            342.19,
+            276.36,
+            405.67
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.65966,
+          "bbox_xyxy": [
+            372.29,
+            351.28,
+            392.78,
+            408.35
+          ]
+        },
+        {
+          "class_id": 2,
+          "category": "car",
+          "confidence": 0.617591,
+          "bbox_xyxy": [
+            174.58,
+            358.77,
+            260.19,
+            396.17
+          ]
+        },
+        {
+          "class_id": 2,
+          "category": "car",
+          "confidence": 0.501984,
+          "bbox_xyxy": [
+            77.54,
+            360.37,
+            131.72,
+            397.84
+          ]
+        },
+        {
+          "class_id": 2,
+          "category": "car",
+          "confidence": 0.49718,
+          "bbox_xyxy": [
+            388.5,
+            359.85,
+            427.0,
+            393.07
+          ]
+        },
+        {
+          "class_id": 2,
+          "category": "car",
+          "confidence": 0.433066,
+          "bbox_xyxy": [
+            30.99,
+            359.4,
+            131.28,
+            397.53
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.332345,
+          "bbox_xyxy": [
+            17.5,
+            350.68,
+            31.31,
+            377.73
+          ]
+        },
+        {
+          "class_id": 2,
+          "category": "car",
+          "confidence": 0.306657,
+          "bbox_xyxy": [
+            177.99,
+            349.4,
+            197.7,
+            365.44
+          ]
+        },
+        {
+          "class_id": 2,
+          "category": "car",
+          "confidence": 0.299282,
+          "bbox_xyxy": [
+            175.01,
+            353.7,
+            293.63,
+            395.99
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.259797,
+          "bbox_xyxy": [
+            64.86,
+            348.09,
+            73.93,
+            363.48
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 500660,
+      "file_name": "000000500660.jpg",
+      "detection_count": 1,
+      "detections": [
+        {
+          "class_id": 61,
+          "category": "toilet",
+          "confidence": 0.812977,
+          "bbox_xyxy": [
+            123.1,
+            94.31,
+            284.32,
+            423.51
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 494663,
+      "file_name": "000000494663.jpg",
+      "detection_count": 2,
+      "detections": [
+        {
+          "class_id": 16,
+          "category": "dog",
+          "confidence": 0.901794,
+          "bbox_xyxy": [
+            41.44,
+            46.77,
+            135.04,
+            227.51
+          ]
+        },
+        {
+          "class_id": 32,
+          "category": "sports ball",
+          "confidence": 0.355096,
+          "bbox_xyxy": [
+            95.02,
+            148.19,
+            121.38,
+            169.56
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 377371,
+      "file_name": "000000377371.jpg",
+      "detection_count": 5,
+      "detections": [
+        {
+          "class_id": 43,
+          "category": "knife",
+          "confidence": 0.85776,
+          "bbox_xyxy": [
+            343.77,
+            41.64,
+            499.87,
+            196.63
+          ]
+        },
+        {
+          "class_id": 45,
+          "category": "bowl",
+          "confidence": 0.512306,
+          "bbox_xyxy": [
+            41.25,
+            39.07,
+            497.71,
+            329.29
+          ]
+        },
+        {
+          "class_id": 60,
+          "category": "dining table",
+          "confidence": 0.44693,
+          "bbox_xyxy": [
+            0.0,
+            0.0,
+            500.0,
+            330.98
+          ]
+        },
+        {
+          "class_id": 46,
+          "category": "banana",
+          "confidence": 0.331968,
+          "bbox_xyxy": [
+            12.11,
+            13.16,
+            87.89,
+            104.03
+          ]
+        },
+        {
+          "class_id": 46,
+          "category": "banana",
+          "confidence": 0.311223,
+          "bbox_xyxy": [
+            0.29,
+            1.22,
+            47.78,
+            56.99
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 517408,
+      "file_name": "000000517408.jpg",
+      "detection_count": 2,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.740828,
+          "bbox_xyxy": [
+            246.05,
+            87.39,
+            425.29,
+            315.91
+          ]
+        },
+        {
+          "class_id": 30,
+          "category": "skis",
+          "confidence": 0.315586,
+          "bbox_xyxy": [
+            321.89,
+            221.3,
+            543.81,
+            389.0
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 92444,
+      "file_name": "000000092444.jpg",
+      "detection_count": 1,
+      "detections": [
+        {
+          "class_id": 4,
+          "category": "airplane",
+          "confidence": 0.895979,
+          "bbox_xyxy": [
+            34.93,
+            57.84,
+            610.03,
+            302.18
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 545671,
+      "file_name": "000000545671.jpg",
+      "detection_count": 3,
+      "detections": [
+        {
+          "class_id": 64,
+          "category": "mouse",
+          "confidence": 0.883883,
+          "bbox_xyxy": [
+            57.19,
+            170.34,
+            254.86,
+            274.87
+          ]
+        },
+        {
+          "class_id": 62,
+          "category": "tv",
+          "confidence": 0.837479,
+          "bbox_xyxy": [
+            73.76,
+            0.42,
+            500.0,
+            144.12
+          ]
+        },
+        {
+          "class_id": 66,
+          "category": "keyboard",
+          "confidence": 0.763657,
+          "bbox_xyxy": [
+            269.86,
+            182.22,
+            499.47,
+            294.58
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 425590,
+      "file_name": "000000425590.jpg",
+      "detection_count": 4,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.878732,
+          "bbox_xyxy": [
+            3.42,
+            131.75,
+            287.66,
+            420.47
+          ]
+        },
+        {
+          "class_id": 5,
+          "category": "bus",
+          "confidence": 0.716808,
+          "bbox_xyxy": [
+            420.77,
+            143.6,
+            578.97,
+            178.7
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.531746,
+          "bbox_xyxy": [
+            3.02,
+            48.04,
+            114.59,
+            291.91
+          ]
+        },
+        {
+          "class_id": 6,
+          "category": "train",
+          "confidence": 0.326925,
+          "bbox_xyxy": [
+            4.49,
+            0.0,
+            628.76,
+            428.0
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 81784,
+      "file_name": "000000081784.jpg",
+      "detection_count": 8,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.868993,
+          "bbox_xyxy": [
+            577.5,
+            116.63,
+            618.13,
+            220.39
+          ]
+        },
+        {
+          "class_id": 37,
+          "category": "surfboard",
+          "confidence": 0.774317,
+          "bbox_xyxy": [
+            271.89,
+            175.36,
+            370.67,
+            266.36
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.758495,
+          "bbox_xyxy": [
+            534.47,
+            124.21,
+            567.8,
+            217.65
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.676605,
+          "bbox_xyxy": [
+            253.1,
+            121.77,
+            327.55,
+            277.33
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.603701,
+          "bbox_xyxy": [
+            457.93,
+            193.35,
+            510.0,
+            228.45
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.59954,
+          "bbox_xyxy": [
+            613.74,
+            122.55,
+            634.09,
+            198.23
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.521747,
+          "bbox_xyxy": [
+            330.01,
+            181.23,
+            375.86,
+            236.77
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.459308,
+          "bbox_xyxy": [
+            507.08,
+            192.4,
+            532.92,
+            228.79
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 106228,
+      "file_name": "000000106228.jpg",
+      "detection_count": 6,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.89442,
+          "bbox_xyxy": [
+            202.49,
+            105.68,
+            304.69,
+            398.88
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.890876,
+          "bbox_xyxy": [
+            386.21,
+            128.43,
+            484.58,
+            399.63
+          ]
+        },
+        {
+          "class_id": 39,
+          "category": "bottle",
+          "confidence": 0.428659,
+          "bbox_xyxy": [
+            200.51,
+            115.5,
+            217.43,
+            163.75
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.326726,
+          "bbox_xyxy": [
+            617.44,
+            306.76,
+            639.79,
+            400.92
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.318372,
+          "bbox_xyxy": [
+            295.18,
+            350.54,
+            389.74,
+            402.0
+          ]
+        },
+        {
+          "class_id": 39,
+          "category": "bottle",
+          "confidence": 0.31183,
+          "bbox_xyxy": [
+            173.33,
+            126.42,
+            195.31,
+            162.72
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 104589,
+      "file_name": "000000104589.jpg",
+      "detection_count": 8,
+      "detections": [
+        {
+          "class_id": 45,
+          "category": "bowl",
+          "confidence": 0.922021,
+          "bbox_xyxy": [
+            160.67,
+            89.63,
+            338.6,
+            232.99
+          ]
+        },
+        {
+          "class_id": 45,
+          "category": "bowl",
+          "confidence": 0.851878,
+          "bbox_xyxy": [
+            478.21,
+            82.55,
+            625.39,
+            212.85
+          ]
+        },
+        {
+          "class_id": 42,
+          "category": "fork",
+          "confidence": 0.74178,
+          "bbox_xyxy": [
+            27.06,
+            155.53,
+            185.61,
+            335.36
+          ]
+        },
+        {
+          "class_id": 60,
+          "category": "dining table",
+          "confidence": 0.657938,
+          "bbox_xyxy": [
+            0.0,
+            0.0,
+            636.43,
+            475.98
+          ]
+        },
+        {
+          "class_id": 45,
+          "category": "bowl",
+          "confidence": 0.558346,
+          "bbox_xyxy": [
+            240.2,
+            250.51,
+            357.96,
+            369.78
+          ]
+        },
+        {
+          "class_id": 42,
+          "category": "fork",
+          "confidence": 0.465248,
+          "bbox_xyxy": [
+            77.17,
+            153.39,
+            185.24,
+            263.27
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.429542,
+          "bbox_xyxy": [
+            507.41,
+            0.0,
+            616.21,
+            98.1
+          ]
+        },
+        {
+          "class_id": 48,
+          "category": "sandwich",
+          "confidence": 0.365776,
+          "bbox_xyxy": [
+            363.3,
+            207.03,
+            640.0,
+            406.1
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 506710,
+      "file_name": "000000506710.jpg",
+      "detection_count": 4,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.917198,
+          "bbox_xyxy": [
+            425.3,
+            51.43,
+            499.92,
+            330.3
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.915082,
+          "bbox_xyxy": [
+            180.16,
+            18.59,
+            306.17,
+            207.32
+          ]
+        },
+        {
+          "class_id": 36,
+          "category": "skateboard",
+          "confidence": 0.495935,
+          "bbox_xyxy": [
+            183.63,
+            197.95,
+            277.25,
+            220.26
+          ]
+        },
+        {
+          "class_id": 24,
+          "category": "backpack",
+          "confidence": 0.267855,
+          "bbox_xyxy": [
+            32.12,
+            240.91,
+            80.48,
+            278.89
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 557084,
+      "file_name": "000000557084.jpg",
+      "detection_count": 3,
+      "detections": [
+        {
+          "class_id": 5,
+          "category": "bus",
+          "confidence": 0.914173,
+          "bbox_xyxy": [
+            2.01,
+            22.07,
+            639.03,
+            359.32
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.80619,
+          "bbox_xyxy": [
+            140.56,
+            217.69,
+            216.34,
+            304.89
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.457203,
+          "bbox_xyxy": [
+            577.07,
+            134.48,
+            616.52,
+            203.93
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 36522,
+      "file_name": "000000036522.jpg",
+      "detection_count": 8,
+      "detections": [
+        {
+          "class_id": 5,
+          "category": "bus",
+          "confidence": 0.916525,
+          "bbox_xyxy": [
+            209.19,
+            62.84,
+            640.0,
+            265.26
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.796698,
+          "bbox_xyxy": [
+            59.2,
+            178.29,
+            89.71,
+            284.92
+          ]
+        },
+        {
+          "class_id": 2,
+          "category": "car",
+          "confidence": 0.75852,
+          "bbox_xyxy": [
+            0.2,
+            183.56,
+            15.17,
+            217.23
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.702825,
+          "bbox_xyxy": [
+            154.34,
+            182.78,
+            181.36,
+            259.75
+          ]
+        },
+        {
+          "class_id": 2,
+          "category": "car",
+          "confidence": 0.683847,
+          "bbox_xyxy": [
+            171.6,
+            179.9,
+            216.22,
+            215.66
+          ]
+        },
+        {
+          "class_id": 2,
+          "category": "car",
+          "confidence": 0.675229,
+          "bbox_xyxy": [
+            41.25,
+            183.44,
+            147.51,
+            275.93
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.602807,
+          "bbox_xyxy": [
+            303.78,
+            167.35,
+            337.99,
+            266.81
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.461218,
+          "bbox_xyxy": [
+            133.85,
+            177.95,
+            150.33,
+            214.65
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 247519,
+      "file_name": "000000247519.jpg",
+      "detection_count": 4,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.892521,
+          "bbox_xyxy": [
+            100.16,
+            97.91,
+            239.32,
+            347.25
+          ]
+        },
+        {
+          "class_id": 24,
+          "category": "backpack",
+          "confidence": 0.471744,
+          "bbox_xyxy": [
+            199.42,
+            185.12,
+            290.25,
+            326.36
+          ]
+        },
+        {
+          "class_id": 62,
+          "category": "tv",
+          "confidence": 0.422513,
+          "bbox_xyxy": [
+            451.78,
+            0.25,
+            499.64,
+            25.75
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.289766,
+          "bbox_xyxy": [
+            476.16,
+            126.29,
+            499.84,
+            196.85
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 581018,
+      "file_name": "000000581018.jpg",
+      "detection_count": 13,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.850507,
+          "bbox_xyxy": [
+            44.65,
+            182.08,
+            93.61,
+            262.87
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.803664,
+          "bbox_xyxy": [
+            214.97,
+            274.73,
+            259.17,
+            394.51
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.584151,
+          "bbox_xyxy": [
+            226.11,
+            69.91,
+            260.57,
+            111.5
+          ]
+        },
+        {
+          "class_id": 38,
+          "category": "tennis racket",
+          "confidence": 0.575648,
+          "bbox_xyxy": [
+            204.65,
+            309.88,
+            230.99,
+            325.87
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.445856,
+          "bbox_xyxy": [
+            173.15,
+            71.95,
+            207.0,
+            110.59
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.400831,
+          "bbox_xyxy": [
+            437.2,
+            65.28,
+            467.21,
+            109.53
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.387496,
+          "bbox_xyxy": [
+            205.1,
+            29.72,
+            227.93,
+            44.93
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.334892,
+          "bbox_xyxy": [
+            257.75,
+            68.87,
+            288.5,
+            111.1
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.328553,
+          "bbox_xyxy": [
+            230.73,
+            30.41,
+            253.83,
+            45.12
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.274252,
+          "bbox_xyxy": [
+            340.3,
+            28.92,
+            367.07,
+            46.14
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.270823,
+          "bbox_xyxy": [
+            151.17,
+            76.53,
+            175.6,
+            112.4
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.253416,
+          "bbox_xyxy": [
+            290.37,
+            30.36,
+            313.53,
+            45.23
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.252878,
+          "bbox_xyxy": [
+            342.75,
+            72.96,
+            370.37,
+            111.38
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 516404,
+      "file_name": "000000516404.jpg",
+      "detection_count": 2,
+      "detections": [
+        {
+          "class_id": 59,
+          "category": "bed",
+          "confidence": 0.907174,
+          "bbox_xyxy": [
+            1.27,
+            52.65,
+            632.24,
+            480.0
+          ]
+        },
+        {
+          "class_id": 16,
+          "category": "dog",
+          "confidence": 0.835776,
+          "bbox_xyxy": [
+            395.96,
+            95.45,
+            582.18,
+            234.43
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 248251,
+      "file_name": "000000248251.jpg",
+      "detection_count": 5,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.852368,
+          "bbox_xyxy": [
+            63.23,
+            10.02,
+            317.16,
+            635.71
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.745071,
+          "bbox_xyxy": [
+            171.4,
+            0.0,
+            324.21,
+            634.05
+          ]
+        },
+        {
+          "class_id": 68,
+          "category": "microwave",
+          "confidence": 0.738548,
+          "bbox_xyxy": [
+            311.26,
+            254.3,
+            467.72,
+            327.5
+          ]
+        },
+        {
+          "class_id": 39,
+          "category": "bottle",
+          "confidence": 0.297058,
+          "bbox_xyxy": [
+            326.03,
+            222.04,
+            345.31,
+            256.18
+          ]
+        },
+        {
+          "class_id": 74,
+          "category": "clock",
+          "confidence": 0.251595,
+          "bbox_xyxy": [
+            400.8,
+            97.59,
+            420.92,
+            128.94
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 536935,
+      "file_name": "000000536935.jpg",
+      "detection_count": 5,
+      "detections": [
+        {
+          "class_id": 45,
+          "category": "bowl",
+          "confidence": 0.831956,
+          "bbox_xyxy": [
+            22.2,
+            217.88,
+            192.72,
+            407.28
+          ]
+        },
+        {
+          "class_id": 41,
+          "category": "cup",
+          "confidence": 0.784302,
+          "bbox_xyxy": [
+            485.67,
+            109.25,
+            590.03,
+            302.58
+          ]
+        },
+        {
+          "class_id": 60,
+          "category": "dining table",
+          "confidence": 0.749922,
+          "bbox_xyxy": [
+            22.01,
+            29.88,
+            593.92,
+            602.89
+          ]
+        },
+        {
+          "class_id": 53,
+          "category": "pizza",
+          "confidence": 0.587724,
+          "bbox_xyxy": [
+            205.66,
+            356.62,
+            423.76,
+            546.25
+          ]
+        },
+        {
+          "class_id": 43,
+          "category": "knife",
+          "confidence": 0.377787,
+          "bbox_xyxy": [
+            55.06,
+            399.24,
+            127.83,
+            587.04
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 145311,
+      "file_name": "000000145311.jpg",
+      "detection_count": 2,
+      "detections": [
+        {
+          "class_id": 2,
+          "category": "car",
+          "confidence": 0.725855,
+          "bbox_xyxy": [
+            0.0,
+            357.85,
+            89.13,
+            410.84
+          ]
+        },
+        {
+          "class_id": 2,
+          "category": "car",
+          "confidence": 0.694167,
+          "bbox_xyxy": [
+            0.14,
+            382.62,
+            53.2,
+            444.29
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 445944,
+      "file_name": "000000445944.jpg",
+      "detection_count": 14,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.91766,
+          "bbox_xyxy": [
+            210.16,
+            152.77,
+            428.0,
+            632.49
+          ]
+        },
+        {
+          "class_id": 27,
+          "category": "tie",
+          "confidence": 0.796472,
+          "bbox_xyxy": [
+            320.48,
+            234.8,
+            343.88,
+            351.75
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.692648,
+          "bbox_xyxy": [
+            172.14,
+            276.47,
+            205.42,
+            344.66
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.667209,
+          "bbox_xyxy": [
+            140.03,
+            276.23,
+            180.61,
+            344.27
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.55863,
+          "bbox_xyxy": [
+            115.69,
+            275.69,
+            142.11,
+            342.5
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.557859,
+          "bbox_xyxy": [
+            146.34,
+            370.39,
+            221.77,
+            502.38
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.522425,
+          "bbox_xyxy": [
+            107.22,
+            358.14,
+            174.28,
+            481.07
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.510192,
+          "bbox_xyxy": [
+            361.62,
+            401.08,
+            426.69,
+            591.3
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.407417,
+          "bbox_xyxy": [
+            2.62,
+            342.5,
+            31.73,
+            425.42
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.315195,
+          "bbox_xyxy": [
+            42.71,
+            346.57,
+            77.63,
+            445.2
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.289252,
+          "bbox_xyxy": [
+            210.45,
+            431.32,
+            262.76,
+            540.62
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.277014,
+          "bbox_xyxy": [
+            360.79,
+            480.95,
+            412.44,
+            585.11
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.275917,
+          "bbox_xyxy": [
+            3.59,
+            342.13,
+            52.65,
+            431.12
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.259442,
+          "bbox_xyxy": [
+            67.69,
+            348.69,
+            100.86,
+            452.21
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 102928,
+      "file_name": "000000102928.jpg",
+      "detection_count": 1,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.914781,
+          "bbox_xyxy": [
+            72.81,
+            60.5,
+            361.38,
+            639.89
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 93472,
+      "file_name": "000000093472.jpg",
+      "detection_count": 2,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.878422,
+          "bbox_xyxy": [
+            313.28,
+            204.28,
+            406.68,
+            444.07
+          ]
+        },
+        {
+          "class_id": 30,
+          "category": "skis",
+          "confidence": 0.551062,
+          "bbox_xyxy": [
+            223.18,
+            430.81,
+            468.16,
+            454.31
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 27440,
+      "file_name": "000000027440.jpg",
+      "detection_count": 1,
+      "detections": [
+        {
+          "class_id": 23,
+          "category": "giraffe",
+          "confidence": 0.912105,
+          "bbox_xyxy": [
+            214.62,
+            168.35,
+            360.04,
+            321.47
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 521947,
+      "file_name": "000000521947.jpg",
+      "detection_count": 3,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.880497,
+          "bbox_xyxy": [
+            66.73,
+            232.84,
+            461.46,
+            446.0
+          ]
+        },
+        {
+          "class_id": 66,
+          "category": "keyboard",
+          "confidence": 0.877451,
+          "bbox_xyxy": [
+            343.48,
+            233.08,
+            640.0,
+            379.57
+          ]
+        },
+        {
+          "class_id": 15,
+          "category": "cat",
+          "confidence": 0.835569,
+          "bbox_xyxy": [
+            0.0,
+            0.92,
+            621.85,
+            342.09
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 577868,
+      "file_name": "000000577868.jpg",
+      "detection_count": 3,
+      "detections": [
+        {
+          "class_id": 49,
+          "category": "orange",
+          "confidence": 0.917034,
+          "bbox_xyxy": [
+            124.61,
+            154.63,
+            303.5,
+            327.19
+          ]
+        },
+        {
+          "class_id": 49,
+          "category": "orange",
+          "confidence": 0.905677,
+          "bbox_xyxy": [
+            303.33,
+            144.71,
+            479.94,
+            314.64
+          ]
+        },
+        {
+          "class_id": 60,
+          "category": "dining table",
+          "confidence": 0.577554,
+          "bbox_xyxy": [
+            0.37,
+            0.47,
+            622.36,
+            428.0
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 239452,
+      "file_name": "000000239452.jpg",
+      "detection_count": 2,
+      "detections": [
+        {
+          "class_id": 61,
+          "category": "toilet",
+          "confidence": 0.798004,
+          "bbox_xyxy": [
+            31.15,
+            10.22,
+            485.39,
+            450.78
+          ]
+        },
+        {
+          "class_id": 61,
+          "category": "toilet",
+          "confidence": 0.378024,
+          "bbox_xyxy": [
+            95.82,
+            171.67,
+            492.21,
+            449.48
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 126770,
+      "file_name": "000000126770.jpg",
+      "detection_count": 15,
+      "detections": [
+        {
+          "class_id": 2,
+          "category": "car",
+          "confidence": 0.772893,
+          "bbox_xyxy": [
+            591.67,
+            278.52,
+            639.73,
+            335.78
+          ]
+        },
+        {
+          "class_id": 58,
+          "category": "potted plant",
+          "confidence": 0.669084,
+          "bbox_xyxy": [
+            200.85,
+            227.1,
+            278.56,
+            415.11
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.566253,
+          "bbox_xyxy": [
+            316.03,
+            323.03,
+            360.68,
+            395.93
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.546131,
+          "bbox_xyxy": [
+            435.79,
+            328.72,
+            475.58,
+            374.94
+          ]
+        },
+        {
+          "class_id": 60,
+          "category": "dining table",
+          "confidence": 0.453672,
+          "bbox_xyxy": [
+            268.56,
+            315.39,
+            343.3,
+            392.93
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.445181,
+          "bbox_xyxy": [
+            398.37,
+            300.06,
+            440.81,
+            369.62
+          ]
+        },
+        {
+          "class_id": 58,
+          "category": "potted plant",
+          "confidence": 0.403487,
+          "bbox_xyxy": [
+            548.46,
+            235.09,
+            604.32,
+            380.22
+          ]
+        },
+        {
+          "class_id": 25,
+          "category": "umbrella",
+          "confidence": 0.367691,
+          "bbox_xyxy": [
+            145.11,
+            183.52,
+            342.34,
+            230.8
+          ]
+        },
+        {
+          "class_id": 25,
+          "category": "umbrella",
+          "confidence": 0.36503,
+          "bbox_xyxy": [
+            355.93,
+            182.42,
+            566.37,
+            295.71
+          ]
+        },
+        {
+          "class_id": 58,
+          "category": "potted plant",
+          "confidence": 0.358837,
+          "bbox_xyxy": [
+            344.7,
+            224.46,
+            415.59,
+            403.39
+          ]
+        },
+        {
+          "class_id": 56,
+          "category": "chair",
+          "confidence": 0.358738,
+          "bbox_xyxy": [
+            185.27,
+            303.24,
+            221.69,
+            392.08
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.332357,
+          "bbox_xyxy": [
+            400.81,
+            264.17,
+            437.57,
+            309.17
+          ]
+        },
+        {
+          "class_id": 58,
+          "category": "potted plant",
+          "confidence": 0.285765,
+          "bbox_xyxy": [
+            355.3,
+            334.99,
+            416.67,
+            402.62
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.285567,
+          "bbox_xyxy": [
+            400.79,
+            264.93,
+            440.44,
+            364.24
+          ]
+        },
+        {
+          "class_id": 58,
+          "category": "potted plant",
+          "confidence": 0.250974,
+          "bbox_xyxy": [
+            489.74,
+            237.83,
+            543.35,
+            316.91
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 383857,
+      "file_name": "000000383857.jpg",
+      "detection_count": 1,
+      "detections": [
+        {
+          "class_id": 22,
+          "category": "zebra",
+          "confidence": 0.93336,
+          "bbox_xyxy": [
+            28.56,
+            171.33,
+            298.2,
+            343.04
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 476342,
+      "file_name": "000000476342.jpg",
+      "detection_count": 8,
+      "detections": [
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.878595,
+          "bbox_xyxy": [
+            120.85,
+            339.05,
+            212.2,
+            455.73
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.748108,
+          "bbox_xyxy": [
+            328.93,
+            400.51,
+            400.77,
+            455.45
+          ]
+        },
+        {
+          "class_id": 25,
+          "category": "umbrella",
+          "confidence": 0.646555,
+          "bbox_xyxy": [
+            110.07,
+            236.61,
+            506.37,
+            449.58
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.644593,
+          "bbox_xyxy": [
+            225.49,
+            400.03,
+            289.9,
+            455.66
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.555077,
+          "bbox_xyxy": [
+            0.12,
+            386.53,
+            32.73,
+            451.92
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.484798,
+          "bbox_xyxy": [
+            581.2,
+            378.39,
+            639.78,
+            479.74
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.421148,
+          "bbox_xyxy": [
+            71.73,
+            343.64,
+            124.24,
+            455.03
+          ]
+        },
+        {
+          "class_id": 0,
+          "category": "person",
+          "confidence": 0.357224,
+          "bbox_xyxy": [
+            292.67,
+            389.4,
+            336.19,
+            452.63
+          ]
+        }
+      ]
+    }
+  ]
+}

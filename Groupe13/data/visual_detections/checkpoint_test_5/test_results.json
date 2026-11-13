@@ -1,0 +1,417 @@
+[
+  {
+    "image_id": 269605,
+    "file_name": "000000269605.jpg",
+    "number_of_objects": 6,
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.87808,
+        "bbox_xyxy": [
+          284.55,
+          209.26,
+          425.65
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.877307,
+        "bbox_xyxy": [
+          104.13,
+          216.92,
+          326.11
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.833666,
+        "bbox_xyxy": [
+          254.96,
+          141.77,
+          356.4
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.797878,
+        "bbox_xyxy": [
+          355.06,
+          320.65,
+          422.06
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.711566,
+        "bbox_xyxy": [
+          142.31,
+          126.28,
+          244.85
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.565502,
+        "bbox_xyxy": [
+          115.99,
+          369.07,
+          222.27
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 137288,
+    "file_name": "000000137288.jpg",
+    "number_of_objects": 15,
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.850766,
+        "bbox_xyxy": [
+          111.31,
+          169.68,
+          159.23
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.833061,
+        "bbox_xyxy": [
+          276.69,
+          162.59,
+          330.34
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.830037,
+        "bbox_xyxy": [
+          0.24,
+          183.44,
+          47.06
+        ]
+      },
+      {
+        "class_id": 38,
+        "class_name": "tennis racket",
+        "confidence": 0.680165,
+        "bbox_xyxy": [
+          18.81,
+          234.16,
+          111.45
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.590989,
+        "bbox_xyxy": [
+          213.67,
+          196.2,
+          254.57
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.555978,
+        "bbox_xyxy": [
+          570.46,
+          153.49,
+          611.28
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.4253,
+        "bbox_xyxy": [
+          606.6,
+          163.21,
+          639.69
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.408795,
+        "bbox_xyxy": [
+          213.61,
+          116.44,
+          251.8
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.361346,
+        "bbox_xyxy": [
+          428.04,
+          158.4,
+          469.17
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.307087,
+        "bbox_xyxy": [
+          143.51,
+          97.83,
+          208.71
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.280805,
+        "bbox_xyxy": [
+          531.78,
+          158.54,
+          569.0
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.27435,
+        "bbox_xyxy": [
+          564.23,
+          77.6,
+          608.98
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.265509,
+        "bbox_xyxy": [
+          611.77,
+          70.04,
+          639.8
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.257977,
+        "bbox_xyxy": [
+          520.69,
+          69.14,
+          569.34
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.250203,
+        "bbox_xyxy": [
+          378.86,
+          124.82,
+          421.9
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 234743,
+    "file_name": "000000234743.jpg",
+    "number_of_objects": 11,
+    "objects": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.887562,
+        "bbox_xyxy": [
+          297.1,
+          414.01,
+          456.69
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.847643,
+        "bbox_xyxy": [
+          59.66,
+          418.68,
+          173.31
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.844139,
+        "bbox_xyxy": [
+          165.2,
+          403.37,
+          257.04
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.797797,
+        "bbox_xyxy": [
+          0.0,
+          405.23,
+          76.56
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.511804,
+        "bbox_xyxy": [
+          380.67,
+          388.94,
+          439.11
+        ]
+      },
+      {
+        "class_id": 74,
+        "class_name": "clock",
+        "confidence": 0.475762,
+        "bbox_xyxy": [
+          194.9,
+          281.85,
+          257.76
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.358136,
+        "bbox_xyxy": [
+          261.79,
+          420.93,
+          342.62
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.327621,
+        "bbox_xyxy": [
+          132.98,
+          388.65,
+          179.03
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.313913,
+        "bbox_xyxy": [
+          161.25,
+          423.26,
+          203.57
+        ]
+      },
+      {
+        "class_id": 74,
+        "class_name": "clock",
+        "confidence": 0.276512,
+        "bbox_xyxy": [
+          205.46,
+          291.46,
+          248.25
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.251717,
+        "bbox_xyxy": [
+          102.16,
+          407.02,
+          162.79
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 401821,
+    "file_name": "000000401821.jpg",
+    "number_of_objects": 3,
+    "objects": [
+      {
+        "class_id": 41,
+        "class_name": "cup",
+        "confidence": 0.833329,
+        "bbox_xyxy": [
+          197.71,
+          278.72,
+          354.72
+        ]
+      },
+      {
+        "class_id": 41,
+        "class_name": "cup",
+        "confidence": 0.815931,
+        "bbox_xyxy": [
+          13.37,
+          253.95,
+          174.85
+        ]
+      },
+      {
+        "class_id": 45,
+        "class_name": "bowl",
+        "confidence": 0.627367,
+        "bbox_xyxy": [
+          13.08,
+          254.25,
+          174.95
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 233271,
+    "file_name": "000000233271.jpg",
+    "number_of_objects": 3,
+    "objects": [
+      {
+        "class_id": 31,
+        "class_name": "snowboard",
+        "confidence": 0.927733,
+        "bbox_xyxy": [
+          168.09,
+          228.98,
+          522.08
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.809413,
+        "bbox_xyxy": [
+          243.35,
+          0.5,
+          466.62
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.790021,
+        "bbox_xyxy": [
+          523.54,
+          120.65,
+          549.02
+        ]
+      }
+    ]
+  }
+]

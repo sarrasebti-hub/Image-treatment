@@ -1,0 +1,426 @@
+{
+  "experiment": "YOLO pilot on 100 Knowledge Base images",
+  "model": "yolo26n.pt",
+  "confidence_threshold": 0.25,
+  "device": "cpu",
+  "random_seed": 42,
+  "images_processed": 100,
+  "images_with_no_detections": 1,
+  "total_detections": 475,
+  "average_detections_per_image": 4.75,
+  "number_of_categories": 67,
+  "mean_confidence": 0.5968,
+  "confidence_distribution": {
+    "0.25_to_0.40": 129,
+    "0.40_to_0.60": 114,
+    "0.60_to_0.80": 106,
+    "0.80_to_1.00": 126
+  },
+  "processing_time_seconds": 13.49,
+  "average_time_per_image_seconds": 0.135,
+  "images_per_second": 7.414,
+  "categories": {
+    "airplane": {
+      "count": 2,
+      "mean_confidence": 0.8841,
+      "min_confidence": 0.8723,
+      "max_confidence": 0.896
+    },
+    "backpack": {
+      "count": 6,
+      "mean_confidence": 0.3577,
+      "min_confidence": 0.2575,
+      "max_confidence": 0.4825
+    },
+    "banana": {
+      "count": 6,
+      "mean_confidence": 0.3574,
+      "min_confidence": 0.2674,
+      "max_confidence": 0.5438
+    },
+    "baseball bat": {
+      "count": 4,
+      "mean_confidence": 0.3145,
+      "min_confidence": 0.2605,
+      "max_confidence": 0.3966
+    },
+    "baseball glove": {
+      "count": 3,
+      "mean_confidence": 0.6062,
+      "min_confidence": 0.266,
+      "max_confidence": 0.7936
+    },
+    "bed": {
+      "count": 5,
+      "mean_confidence": 0.6265,
+      "min_confidence": 0.2576,
+      "max_confidence": 0.9072
+    },
+    "bench": {
+      "count": 1,
+      "mean_confidence": 0.3833,
+      "min_confidence": 0.3833,
+      "max_confidence": 0.3833
+    },
+    "bicycle": {
+      "count": 5,
+      "mean_confidence": 0.5967,
+      "min_confidence": 0.2912,
+      "max_confidence": 0.8609
+    },
+    "bird": {
+      "count": 4,
+      "mean_confidence": 0.838,
+      "min_confidence": 0.7475,
+      "max_confidence": 0.9092
+    },
+    "boat": {
+      "count": 8,
+      "mean_confidence": 0.4546,
+      "min_confidence": 0.3464,
+      "max_confidence": 0.6777
+    },
+    "book": {
+      "count": 1,
+      "mean_confidence": 0.4404,
+      "min_confidence": 0.4404,
+      "max_confidence": 0.4404
+    },
+    "bottle": {
+      "count": 8,
+      "mean_confidence": 0.4064,
+      "min_confidence": 0.2971,
+      "max_confidence": 0.6407
+    },
+    "bowl": {
+      "count": 13,
+      "mean_confidence": 0.719,
+      "min_confidence": 0.4817,
+      "max_confidence": 0.922
+    },
+    "bus": {
+      "count": 7,
+      "mean_confidence": 0.8117,
+      "min_confidence": 0.5468,
+      "max_confidence": 0.9395
+    },
+    "cake": {
+      "count": 1,
+      "mean_confidence": 0.8666,
+      "min_confidence": 0.8666,
+      "max_confidence": 0.8666
+    },
+    "car": {
+      "count": 26,
+      "mean_confidence": 0.5658,
+      "min_confidence": 0.2738,
+      "max_confidence": 0.936
+    },
+    "carrot": {
+      "count": 1,
+      "mean_confidence": 0.6746,
+      "min_confidence": 0.6746,
+      "max_confidence": 0.6746
+    },
+    "cat": {
+      "count": 3,
+      "mean_confidence": 0.7512,
+      "min_confidence": 0.541,
+      "max_confidence": 0.8771
+    },
+    "cell phone": {
+      "count": 2,
+      "mean_confidence": 0.4767,
+      "min_confidence": 0.3566,
+      "max_confidence": 0.5967
+    },
+    "chair": {
+      "count": 33,
+      "mean_confidence": 0.4533,
+      "min_confidence": 0.2534,
+      "max_confidence": 0.9095
+    },
+    "clock": {
+      "count": 9,
+      "mean_confidence": 0.4284,
+      "min_confidence": 0.2516,
+      "max_confidence": 0.767
+    },
+    "couch": {
+      "count": 3,
+      "mean_confidence": 0.655,
+      "min_confidence": 0.3994,
+      "max_confidence": 0.8714
+    },
+    "cup": {
+      "count": 7,
+      "mean_confidence": 0.6939,
+      "min_confidence": 0.4597,
+      "max_confidence": 0.8333
+    },
+    "dining table": {
+      "count": 13,
+      "mean_confidence": 0.6248,
+      "min_confidence": 0.3628,
+      "max_confidence": 0.8531
+    },
+    "dog": {
+      "count": 7,
+      "mean_confidence": 0.7078,
+      "min_confidence": 0.2708,
+      "max_confidence": 0.9193
+    },
+    "fire hydrant": {
+      "count": 2,
+      "mean_confidence": 0.9282,
+      "min_confidence": 0.924,
+      "max_confidence": 0.9325
+    },
+    "fork": {
+      "count": 5,
+      "mean_confidence": 0.5575,
+      "min_confidence": 0.3113,
+      "max_confidence": 0.9342
+    },
+    "frisbee": {
+      "count": 2,
+      "mean_confidence": 0.5643,
+      "min_confidence": 0.403,
+      "max_confidence": 0.7255
+    },
+    "giraffe": {
+      "count": 2,
+      "mean_confidence": 0.9122,
+      "min_confidence": 0.9121,
+      "max_confidence": 0.9123
+    },
+    "handbag": {
+      "count": 3,
+      "mean_confidence": 0.427,
+      "min_confidence": 0.2558,
+      "max_confidence": 0.5908
+    },
+    "horse": {
+      "count": 2,
+      "mean_confidence": 0.2927,
+      "min_confidence": 0.256,
+      "max_confidence": 0.3295
+    },
+    "keyboard": {
+      "count": 4,
+      "mean_confidence": 0.7179,
+      "min_confidence": 0.3614,
+      "max_confidence": 0.8775
+    },
+    "knife": {
+      "count": 3,
+      "mean_confidence": 0.5179,
+      "min_confidence": 0.3182,
+      "max_confidence": 0.8578
+    },
+    "microwave": {
+      "count": 4,
+      "mean_confidence": 0.6077,
+      "min_confidence": 0.4817,
+      "max_confidence": 0.7385
+    },
+    "motorcycle": {
+      "count": 11,
+      "mean_confidence": 0.4473,
+      "min_confidence": 0.2692,
+      "max_confidence": 0.7511
+    },
+    "mouse": {
+      "count": 2,
+      "mean_confidence": 0.6372,
+      "min_confidence": 0.3906,
+      "max_confidence": 0.8839
+    },
+    "orange": {
+      "count": 2,
+      "mean_confidence": 0.9114,
+      "min_confidence": 0.9057,
+      "max_confidence": 0.917
+    },
+    "oven": {
+      "count": 1,
+      "mean_confidence": 0.7636,
+      "min_confidence": 0.7636,
+      "max_confidence": 0.7636
+    },
+    "parking meter": {
+      "count": 1,
+      "mean_confidence": 0.5167,
+      "min_confidence": 0.5167,
+      "max_confidence": 0.5167
+    },
+    "person": {
+      "count": 166,
+      "mean_confidence": 0.6428,
+      "min_confidence": 0.2502,
+      "max_confidence": 0.9305
+    },
+    "pizza": {
+      "count": 3,
+      "mean_confidence": 0.4269,
+      "min_confidence": 0.2632,
+      "max_confidence": 0.5877
+    },
+    "potted plant": {
+      "count": 8,
+      "mean_confidence": 0.4768,
+      "min_confidence": 0.251,
+      "max_confidence": 0.8839
+    },
+    "refrigerator": {
+      "count": 1,
+      "mean_confidence": 0.8576,
+      "min_confidence": 0.8576,
+      "max_confidence": 0.8576
+    },
+    "remote": {
+      "count": 1,
+      "mean_confidence": 0.2622,
+      "min_confidence": 0.2622,
+      "max_confidence": 0.2622
+    },
+    "sandwich": {
+      "count": 5,
+      "mean_confidence": 0.5307,
+      "min_confidence": 0.2873,
+      "max_confidence": 0.8127
+    },
+    "sheep": {
+      "count": 1,
+      "mean_confidence": 0.7368,
+      "min_confidence": 0.7368,
+      "max_confidence": 0.7368
+    },
+    "sink": {
+      "count": 1,
+      "mean_confidence": 0.5606,
+      "min_confidence": 0.5606,
+      "max_confidence": 0.5606
+    },
+    "skateboard": {
+      "count": 2,
+      "mean_confidence": 0.5764,
+      "min_confidence": 0.4959,
+      "max_confidence": 0.6569
+    },
+    "skis": {
+      "count": 2,
+      "mean_confidence": 0.4333,
+      "min_confidence": 0.3156,
+      "max_confidence": 0.5511
+    },
+    "snowboard": {
+      "count": 2,
+      "mean_confidence": 0.8605,
+      "min_confidence": 0.7932,
+      "max_confidence": 0.9277
+    },
+    "spoon": {
+      "count": 1,
+      "mean_confidence": 0.4352,
+      "min_confidence": 0.4352,
+      "max_confidence": 0.4352
+    },
+    "sports ball": {
+      "count": 4,
+      "mean_confidence": 0.5529,
+      "min_confidence": 0.3551,
+      "max_confidence": 0.6873
+    },
+    "stop sign": {
+      "count": 1,
+      "mean_confidence": 0.9337,
+      "min_confidence": 0.9337,
+      "max_confidence": 0.9337
+    },
+    "suitcase": {
+      "count": 8,
+      "mean_confidence": 0.5641,
+      "min_confidence": 0.3578,
+      "max_confidence": 0.8351
+    },
+    "surfboard": {
+      "count": 7,
+      "mean_confidence": 0.5562,
+      "min_confidence": 0.2764,
+      "max_confidence": 0.7743
+    },
+    "teddy bear": {
+      "count": 2,
+      "mean_confidence": 0.7105,
+      "min_confidence": 0.5378,
+      "max_confidence": 0.8832
+    },
+    "tennis racket": {
+      "count": 3,
+      "mean_confidence": 0.6674,
+      "min_confidence": 0.5756,
+      "max_confidence": 0.7463
+    },
+    "tie": {
+      "count": 1,
+      "mean_confidence": 0.7965,
+      "min_confidence": 0.7965,
+      "max_confidence": 0.7965
+    },
+    "toilet": {
+      "count": 4,
+      "mean_confidence": 0.6539,
+      "min_confidence": 0.378,
+      "max_confidence": 0.813
+    },
+    "traffic light": {
+      "count": 2,
+      "mean_confidence": 0.5826,
+      "min_confidence": 0.5026,
+      "max_confidence": 0.6625
+    },
+    "train": {
+      "count": 3,
+      "mean_confidence": 0.7004,
+      "min_confidence": 0.3269,
+      "max_confidence": 0.9017
+    },
+    "truck": {
+      "count": 5,
+      "mean_confidence": 0.3771,
+      "min_confidence": 0.2664,
+      "max_confidence": 0.5392
+    },
+    "tv": {
+      "count": 7,
+      "mean_confidence": 0.699,
+      "min_confidence": 0.4225,
+      "max_confidence": 0.8913
+    },
+    "umbrella": {
+      "count": 4,
+      "mean_confidence": 0.494,
+      "min_confidence": 0.365,
+      "max_confidence": 0.6466
+    },
+    "vase": {
+      "count": 2,
+      "mean_confidence": 0.7388,
+      "min_confidence": 0.6102,
+      "max_confidence": 0.8673
+    },
+    "wine glass": {
+      "count": 6,
+      "mean_confidence": 0.745,
+      "min_confidence": 0.3118,
+      "max_confidence": 0.8843
+    },
+    "zebra": {
+      "count": 1,
+      "mean_confidence": 0.9334,
+      "min_confidence": 0.9334,
+      "max_confidence": 0.9334
+    }
+  }
+}

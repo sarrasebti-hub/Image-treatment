@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+Pillow
+tqdm
+torch
+transformers
+faiss-cpu
+ultralytics
+spacy
+# spaCy model used by explore_knowledge_base.py:
+#   python -m spacy download en_core_web_sm

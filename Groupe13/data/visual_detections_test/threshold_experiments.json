@@ -1,0 +1,35 @@
+[
+    {
+        "confidence_threshold": 0.25,
+        "images": 100,
+        "detections": 475,
+        "TP": 361,
+        "FP": 114,
+        "FN": 328,
+        "precision": 0.76,
+        "recall": 0.5239,
+        "f1_score": 0.6203
+    },
+    {
+        "confidence_threshold": 0.4,
+        "images": 100,
+        "detections": 346,
+        "TP": 294,
+        "FP": 52,
+        "FN": 395,
+        "precision": 0.8497,
+        "recall": 0.4267,
+        "f1_score": 0.5681
+    },
+    {
+        "confidence_threshold": 0.5,
+        "images": 100,
+        "detections": 293,
+        "TP": 262,
+        "FP": 31,
+        "FN": 427,
+        "precision": 0.8942,
+        "recall": 0.3803,
+        "f1_score": 0.5336
+    }
+]

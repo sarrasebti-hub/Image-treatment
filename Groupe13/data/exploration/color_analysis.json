@@ -1,0 +1,307 @@
+{
+  "method": "Lexical extraction from captions",
+  "warning": "Results represent color mentions in captions, not colors detected from image pixels.",
+  "color_mentions": {
+    "white": 3093,
+    "black": 1623,
+    "red": 1507,
+    "blue": 1144,
+    "green": 1023,
+    "yellow": 773,
+    "brown": 762,
+    "orange": 460,
+    "gray": 335,
+    "pink": 293,
+    "purple": 160
+  },
+  "captions_per_color": {
+    "white": 2984,
+    "black": 1595,
+    "red": 1473,
+    "blue": 1121,
+    "green": 1006,
+    "yellow": 763,
+    "brown": 750,
+    "orange": 449,
+    "gray": 333,
+    "pink": 284,
+    "purple": 157
+  },
+  "color_cooccurrences": [
+    {
+      "color_1": "black",
+      "color_2": "white",
+      "count": 648
+    },
+    {
+      "color_1": "red",
+      "color_2": "white",
+      "count": 243
+    },
+    {
+      "color_1": "blue",
+      "color_2": "white",
+      "count": 193
+    },
+    {
+      "color_1": "brown",
+      "color_2": "white",
+      "count": 155
+    },
+    {
+      "color_1": "black",
+      "color_2": "red",
+      "count": 100
+    },
+    {
+      "color_1": "green",
+      "color_2": "white",
+      "count": 90
+    },
+    {
+      "color_1": "blue",
+      "color_2": "yellow",
+      "count": 86
+    },
+    {
+      "color_1": "white",
+      "color_2": "yellow",
+      "count": 86
+    },
+    {
+      "color_1": "blue",
+      "color_2": "red",
+      "count": 79
+    },
+    {
+      "color_1": "black",
+      "color_2": "brown",
+      "count": 75
+    },
+    {
+      "color_1": "red",
+      "color_2": "yellow",
+      "count": 70
+    },
+    {
+      "color_1": "gray",
+      "color_2": "white",
+      "count": 65
+    },
+    {
+      "color_1": "orange",
+      "color_2": "white",
+      "count": 60
+    },
+    {
+      "color_1": "green",
+      "color_2": "red",
+      "count": 57
+    },
+    {
+      "color_1": "black",
+      "color_2": "yellow",
+      "count": 56
+    },
+    {
+      "color_1": "black",
+      "color_2": "blue",
+      "count": 48
+    },
+    {
+      "color_1": "black",
+      "color_2": "green",
+      "count": 47
+    },
+    {
+      "color_1": "green",
+      "color_2": "yellow",
+      "count": 40
+    },
+    {
+      "color_1": "brown",
+      "color_2": "green",
+      "count": 38
+    },
+    {
+      "color_1": "blue",
+      "color_2": "green",
+      "count": 37
+    },
+    {
+      "color_1": "black",
+      "color_2": "gray",
+      "count": 37
+    },
+    {
+      "color_1": "black",
+      "color_2": "orange",
+      "count": 28
+    },
+    {
+      "color_1": "gray",
+      "color_2": "red",
+      "count": 28
+    },
+    {
+      "color_1": "pink",
+      "color_2": "white",
+      "count": 27
+    },
+    {
+      "color_1": "blue",
+      "color_2": "pink",
+      "count": 24
+    },
+    {
+      "color_1": "orange",
+      "color_2": "red",
+      "count": 22
+    },
+    {
+      "color_1": "blue",
+      "color_2": "orange",
+      "count": 21
+    },
+    {
+      "color_1": "orange",
+      "color_2": "yellow",
+      "count": 21
+    },
+    {
+      "color_1": "brown",
+      "color_2": "red",
+      "count": 20
+    },
+    {
+      "color_1": "gray",
+      "color_2": "yellow",
+      "count": 17
+    },
+    {
+      "color_1": "blue",
+      "color_2": "brown",
+      "count": 16
+    },
+    {
+      "color_1": "brown",
+      "color_2": "yellow",
+      "count": 16
+    },
+    {
+      "color_1": "purple",
+      "color_2": "white",
+      "count": 15
+    },
+    {
+      "color_1": "blue",
+      "color_2": "gray",
+      "count": 15
+    },
+    {
+      "color_1": "brown",
+      "color_2": "gray",
+      "count": 14
+    },
+    {
+      "color_1": "green",
+      "color_2": "purple",
+      "count": 13
+    },
+    {
+      "color_1": "brown",
+      "color_2": "orange",
+      "count": 13
+    },
+    {
+      "color_1": "gray",
+      "color_2": "green",
+      "count": 13
+    },
+    {
+      "color_1": "green",
+      "color_2": "orange",
+      "count": 10
+    },
+    {
+      "color_1": "blue",
+      "color_2": "purple",
+      "count": 10
+    },
+    {
+      "color_1": "purple",
+      "color_2": "yellow",
+      "count": 10
+    },
+    {
+      "color_1": "pink",
+      "color_2": "yellow",
+      "count": 10
+    },
+    {
+      "color_1": "gray",
+      "color_2": "pink",
+      "count": 8
+    },
+    {
+      "color_1": "green",
+      "color_2": "pink",
+      "count": 8
+    },
+    {
+      "color_1": "black",
+      "color_2": "pink",
+      "count": 8
+    },
+    {
+      "color_1": "black",
+      "color_2": "purple",
+      "count": 7
+    },
+    {
+      "color_1": "gray",
+      "color_2": "orange",
+      "count": 7
+    },
+    {
+      "color_1": "orange",
+      "color_2": "purple",
+      "count": 7
+    },
+    {
+      "color_1": "pink",
+      "color_2": "purple",
+      "count": 6
+    },
+    {
+      "color_1": "pink",
+      "color_2": "red",
+      "count": 6
+    },
+    {
+      "color_1": "brown",
+      "color_2": "pink",
+      "count": 5
+    },
+    {
+      "color_1": "purple",
+      "color_2": "red",
+      "count": 3
+    },
+    {
+      "color_1": "orange",
+      "color_2": "pink",
+      "count": 2
+    },
+    {
+      "color_1": "brown",
+      "color_2": "purple",
+      "count": 1
+    },
+    {
+      "color_1": "gray",
+      "color_2": "purple",
+      "count": 1
+    }
+  ]
+}

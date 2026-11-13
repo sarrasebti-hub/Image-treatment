@@ -1,0 +1,21 @@
+object_1,object_2,frequency
+car,person,8519
+chair,person,8035
+handbag,person,6222
+dining table,person,5869
+chair,dining table,5124
+backpack,person,5034
+cup,person,4848
+cup,dining table,4679
+bottle,person,4561
+bench,person,4108
+person,sports ball,4097
+person,truck,3992
+cell phone,person,3830
+car,truck,3664
+person,tie,3632
+person,umbrella,3447
+person,skateboard,3417
+bowl,dining table,3396
+person,surfboard,3365
+person,tennis racket,3361

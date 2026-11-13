@@ -1,0 +1,14 @@
+{
+    "model": "openai/clip-vit-base-patch32",
+    "index_type": "IndexFlatIP",
+    "similarity_metric": "Inner Product",
+    "equivalent_metric": "Cosine Similarity for normalized vectors",
+    "embedding_dimension": 512,
+    "number_of_images": 10000,
+    "number_of_captions": 50028,
+    "image_index_file": "image_index.faiss",
+    "text_index_file": "text_index.faiss",
+    "image_id_mapping": "image_index_ids.npy",
+    "text_image_id_mapping": "text_index_image_ids.npy",
+    "text_annotation_id_mapping": "text_index_annotation_ids.npy"
+}

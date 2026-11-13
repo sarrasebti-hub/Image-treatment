@@ -1,0 +1,134 @@
+{
+    "project": "COCO Image Captioning - RAG",
+    "checks": {
+        "data_splits": {
+            "status": "PASS",
+            "details": {
+                "knowledge_base_count": 10000,
+                "validation_count": 100,
+                "test_count": 100,
+                "duplicate_kb_ids": 0,
+                "duplicate_validation_ids": 0,
+                "duplicate_test_ids": 0,
+                "kb_validation_overlap": 0,
+                "kb_test_overlap": 0,
+                "validation_test_overlap": 0
+            }
+        },
+        "embedding_files": {
+            "status": "PASS",
+            "details": {
+                "files_found": 5
+            }
+        },
+        "embedding_dimensions": {
+            "status": "PASS",
+            "details": {
+                "image_embedding_shape": [
+                    10000,
+                    512
+                ],
+                "text_embedding_shape": [
+                    50028,
+                    512
+                ],
+                "image_embedding_dtype": "float32",
+                "text_embedding_dtype": "float32"
+            }
+        },
+        "nan_and_infinite_values": {
+            "status": "PASS",
+            "details": {
+                "invalid_image_values": 0,
+                "invalid_text_values": 0
+            }
+        },
+        "duplicate_ids": {
+            "status": "PASS",
+            "details": {
+                "duplicate_image_ids": 0,
+                "duplicate_annotation_ids": 0
+            }
+        },
+        "l2_normalization": {
+            "status": "PASS",
+            "details": {
+                "image_norm_min": 0.9999997615814209,
+                "image_norm_max": 1.000000238418579,
+                "text_norm_min": 0.9999997615814209,
+                "text_norm_max": 1.000000238418579
+            }
+        },
+        "caption_image_matching": {
+            "status": "PASS",
+            "details": {
+                "caption_records": 50028,
+                "images_with_captions": 10000,
+                "missing_caption_images": 0,
+                "unknown_caption_images": 0,
+                "missing_image_embeddings": 0,
+                "missing_text_embeddings": 0,
+                "captions_without_text_embeddings": 0,
+                "minimum_captions_per_image": 5,
+                "maximum_captions_per_image": 6
+            }
+        },
+        "processed_images": {
+            "status": "PASS",
+            "details": {
+                "expected_images": 10000,
+                "missing_images": 0,
+                "first_missing_ids": []
+            }
+        },
+        "faiss_indexes": {
+            "status": "PASS",
+            "details": {
+                "faiss_version": "1.15.1",
+                "image_index_vectors": 10000,
+                "text_index_vectors": 50028,
+                "image_index_dimension": 512,
+                "text_index_dimension": 512,
+                "expected_image_vectors": 10000,
+                "expected_text_vectors": 50028
+            }
+        },
+        "data_leakage": {
+            "status": "PASS",
+            "details": {
+                "kb_validation_overlap": 0,
+                "kb_test_overlap": 0,
+                "validation_test_overlap": 0,
+                "validation_test_ids_in_text_embeddings": 0
+            }
+        }
+    },
+    "statistics": {
+        "knowledge_base_images": 10000,
+        "validation_images": 100,
+        "test_images": 100,
+        "image_embeddings": {
+            "count": 10000,
+            "dimension": 512
+        },
+        "text_embeddings": {
+            "count": 50028,
+            "dimension": 512
+        },
+        "caption_records": 50028,
+        "images_with_caption_count_other_than_5": 28,
+        "caption_count_distribution": {
+            "5": 9972,
+            "6": 28
+        }
+    },
+    "warnings": [],
+    "errors": [],
+    "summary": {
+        "total_checks": 10,
+        "passed": 10,
+        "failed": 0,
+        "warnings": 0,
+        "overall_status": "PASS"
+    }
+}

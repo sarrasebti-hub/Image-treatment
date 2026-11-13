@@ -1,0 +1,31 @@
+{
+  "project": "COCO Knowledge Base Exploration",
+  "scope": "Knowledge Base only",
+  "number_of_images": 10000,
+  "number_of_captions": 50028,
+  "analyses": {
+    "linguistic": "spaCy POS tagging",
+    "colors": "Lexical extraction from captions",
+    "shapes": "Lexical extraction from captions",
+    "indoor_outdoor": "CLIP cosine similarity",
+    "day_night": "CLIP cosine similarity",
+    "coco_objects": "COCO annotations"
+  },
+  "indoor_outdoor_distribution": {
+    "Indoor": 4344,
+    "Outdoor": 5656
+  },
+  "day_night_distribution": {
+    "Day": 8916,
+    "Night": 1084
+  },
+  "total_coco_objects": 71773,
+  "average_objects_per_image": 7.1773,
+  "elapsed_seconds": 100.7462751865387,
+  "limitations": [
+    "Colors and shapes are extracted from text, not detected from image pixels.",
+    "CLIP similarities are not probabilities.",
+    "Indoor/outdoor and day/night labels are predictions, not verified ground truth.",
+    "COCO categories represent annotated objects, not every object present in an image."
+  ]
+}

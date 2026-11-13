@@ -1,0 +1,8 @@
+﻿class_name;count;mean_confidence;min_confidence;max_confidence
+bowl;1;0.6274;0.6274;0.6274
+chair;2;0.6817;0.5655;0.7979
+clock;2;0.3761;0.2765;0.4758
+cup;2;0.8246;0.8159;0.8333
+person;29;0.5701;0.2502;0.8876
+snowboard;1;0.9277;0.9277;0.9277
+tennis racket;1;0.6802;0.6802;0.6802

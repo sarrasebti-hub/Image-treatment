@@ -1,0 +1,16 @@
+{
+    "project": "COCO Image Captioning - RAG",
+    "model": "openai/clip-vit-base-patch32",
+    "device": "cpu",
+    "knowledge_base_images": 10000,
+    "validation_images": 100,
+    "validation_captions": 500,
+    "top_k": 10,
+    "experiments": {
+        "image_to_image": 100,
+        "image_to_text": 100,
+        "text_to_image": 500,
+        "text_to_text": 500
+    },
+    "note": "Retrieval rankings and cosine similarity scores are reported. These results do not constitute semantic precision or recall without relevance judgments."
+}
