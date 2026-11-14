@@ -1,0 +1,3 @@
+﻿SigLIP run environment (Sarah, 2026-10-31)
+Python 3.13.3, torch 2.15.0+cpu, transformers 5.22.1, faiss 1.15.1, numpy 2.5.4
+SigLIP run finished 2026-10-31 14:09; 12 files created; Cerine's 30 files unchanged (SHA256); self-retrieval flat 100%, HNSW 99.99%.

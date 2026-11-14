@@ -1,0 +1,7 @@
+# Latency is median of 5 repeats of chunked NumPy exact inner-product search, not FAISS; it is not comparable to artifacts/index/index_report.json.
+dataset,report_note,config,encoder,mode,n_queries,queries_without_objects,relevance_queries,recall@1,recall@5,recall@10,precision@1,precision@5,precision@10,mrr,cider,random_caption_cider_seed42,latency_ms_per_query_median_5_repeats
+validation,,clip-b32|img2img,clip-b32,img2img,100,0,100,0.98,1.0,1.0,0.98,0.9720000000000002,0.951,0.9883333333333334,0.5285707244987701,0.0384159456252763,2.3288219998357818
+validation,,clip-b32|img2txt,clip-b32,img2txt,100,0,100,0.97,1.0,1.0,0.97,0.972,0.97,0.985,0.5584101764891685,0.0384159456252763,10.370314000174403
+validation,,dinov2-s|img2img,dinov2-s,img2img,100,0,100,0.98,1.0,1.0,0.98,0.96,0.961,0.99,0.5541039139825013,0.0384159456252763,1.4740600000368431
+validation,,siglip-b16|img2img,siglip-b16,img2img,100,0,100,1.0,1.0,1.0,1.0,0.9760000000000001,0.9690000000000001,1.0,0.6735370593982103,0.0384159456252763,1.0939649998908862
+validation,,siglip-b16|img2txt,siglip-b16,img2txt,100,0,100,0.96,1.0,1.0,0.96,0.9719999999999999,0.9619999999999999,0.9775,0.7222567866866058,0.0384159456252763,6.987037000071723

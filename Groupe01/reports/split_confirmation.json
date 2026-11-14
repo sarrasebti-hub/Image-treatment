@@ -1,0 +1,16 @@
+{
+  "dataset": "MS COCO 2017",
+  "knowledge_base_size": 10000,
+  "validation_size": 100,
+  "official_test_size": 1000,
+  "official_test_split_file": "experiments/test_1000_val2017/splits/test_1000.json",
+  "legacy_test_size_frozen_release_g1_v1_1": 100,
+  "legacy_test_split_file": "artifacts/splits/test.json",
+  "legacy_test_status": "kept unchanged for reference (SHA-256 in experiments/test_1000_val2017/manifests/verification.json); not the official evaluation set",
+  "decision": "The instructor indicated that the test set must contain 1,000 images; the group keeps both test sets and reports 1,000 as official.",
+  "instructor_confirmation": "verbal (no written confirmation on record)",
+  "note": "The project specification is internally inconsistent: sections 4.1/4.2 state 100 test images, sections 4.4.2/4.4.3 state 1,000. The frozen release g1-v1.1 was built with 100. The official evaluation set is the 1,000-image val2017 set; the 100-image set is kept as a legacy sanity check.",
+  "final_release": "g1-v1.2",
+  "frozen_artifacts_release": "g1-v1.1",
+  "random_seed": 42
+}

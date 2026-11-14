@@ -1,0 +1,7 @@
+{
+  "coco_images_file": "data\\raw\\annotations\\instances_val2017.json",
+  "caption_file": "data\\raw\\annotations\\captions_val2017.json",
+  "reference_count": 5000,
+  "query_count": 1000
+}
+

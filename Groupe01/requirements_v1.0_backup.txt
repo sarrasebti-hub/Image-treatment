@@ -1,0 +1,17 @@
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+pyyaml>=6.0
+pillow>=10.0
+matplotlib>=3.8
+faiss-cpu>=1.8          # ou faiss-gpu
+tqdm
+pycocoevalcap>=1.2      # CIDEr (scorer pur Python, pas besoin de Java pour CIDEr seul)
+nltk>=3.8               # POS tagging (EDA) ; alternative : spacy + en_core_web_sm
+# --- encodeurs (GPU recommandé) ---
+torch>=2.2
+transformers>=4.40
+sentence-transformers>=2.7
+sentencepiece>=0.2   # tokenizer SigLIP
+ipykernel>=6.29  # noyau Jupyter reproductible
+jupyterlab>=4.2  # interface notebooks

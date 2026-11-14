@@ -1,0 +1,48 @@
+# Configuration unique du pipeline G1 (tout est piloté d'ici, rien en dur dans les scripts)
+seed: 42
+release_version: "g1-v1.0"
+
+paths:
+  raw: data/raw                 # annotations + images COCO brutes
+  artifacts: artifacts          # tout ce qui est produit (= la "release" figée)
+
+sizes:                          # tailles des splits (cf. énoncé §4.2)
+  kb: 10000                     # COCO train2017, base de connaissances RAG
+  val: 100                      # COCO train2017 (disjoint de la KB), tuning
+  test: 100                     # COCO val2017, évaluation finale  (100 images, conformément au sujet §4.1/4.2)
+
+captions_per_image: 5           # on garde les 5 premières (par caption_id) si l'image en a plus
+
+sampling:
+  min_objects: 1                # images sans aucune annotation exclues (pas de métadonnées possibles)
+  min_side_px: 200
+  kb_min_images_per_category: 60   # plancher de couverture des 80 classes dans la KB
+  # distribution cible (stratifiée) pour val et test : scènes simples -> chargées
+  eval_complexity_target: {simple: 0.25, medium: 0.30, complex: 0.30, crowded: 0.15}
+  eval_min_interaction_frac: 0.30  # >= 30% d'images avec interaction (personne+objet, animal+objet...)
+  eval_min_context_frac: 0.20      # chaque contexte (indoor/outdoor) >= 20% si possible
+
+image:
+  max_side: 512                 # copie RGB normalisée (ratio conservé), l'encodeur fait son propre resize
+  jpeg_quality: 95
+  dhash_size: 8
+  near_dup_hamming: 4           # seuil near-duplicate (dHash 64 bits)
+  night_brightness_thr: 0.28    # luminosité moyenne [0-1] sous laquelle on dit "night/dark"
+
+detector:                       # optionnel (03b) : métadonnées SANS annotations GT pour les requêtes
+  model: facebook/detr-resnet-50
+  conf_threshold: 0.7
+
+encoders:
+  clip-b32:    {type: clip,   model: openai/clip-vit-base-patch32, batch: 64}
+  siglip-b16:  {type: siglip, model: google/siglip-base-patch16-224, batch: 64}
+  dinov2-s:    {type: dinov2, model: facebook/dinov2-small, batch: 64}
+primary_encoder: clip-b32
+sbert_model: sentence-transformers/all-MiniLM-L6-v2
+
+index:
+  type: flat_ip                 # exact, cosinus (vecteurs L2-normalisés + produit scalaire)
+  hnsw: {M: 32, efConstruction: 200, efSearch: 64}   # indexé aussi pour documentation/latence
+
+tuning:
+  top_k: [1, 3, 5, 10]

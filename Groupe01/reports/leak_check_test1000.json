@@ -1,0 +1,15 @@
+{
+  "n_test_images": 1000,
+  "n_kb_images": 10000,
+  "n_val_images": 100,
+  "n_old_test_images": 100,
+  "test_inter_kb": 0,
+  "test_inter_val": 0,
+  "test_inter_old_test": 0,
+  "test_inter_kb_caption_image_ids": 0,
+  "n_test_reference_rows": 5000,
+  "n_unique_kb_captions": 49298,
+  "normalized_caption_matches_rows": 132,
+  "normalized_caption_matches_images": 112,
+  "note": "Caption matches are generic text from DIFFERENT images (not same-image leakage). Same-image leakage = test_inter_kb_caption_image_ids."
+}

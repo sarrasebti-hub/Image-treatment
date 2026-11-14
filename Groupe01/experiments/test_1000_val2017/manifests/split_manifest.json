@@ -1,0 +1,11 @@
+{
+  "experiment": "test_1000_val2017",
+  "source": "val2017",
+  "seed": 42,
+  "count": 1000,
+  "original_test_count": 100,
+  "original_test_id_hash": "4b7682064003c0925b62f4d9f345f50ac297da6f79e43d3f6865c620cd1754f2",
+  "selected_id_hash": "02fd4ec7bffd4b2b3f15c503dfbb487482d8d0ab928b94cb65cd942aaf4777c3",
+  "overlap_count": 0,
+  "eligible_candidate_count": 4840
+}

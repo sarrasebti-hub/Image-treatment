@@ -1,0 +1,31 @@
+experiment: test_1000_val2017
+seed: 42
+
+source:
+  coco_split: val2017
+  count: 1000
+
+original_test_split: artifacts/splits/test.json
+
+paths:
+  split: experiments/test_1000_val2017/splits/test_1000.json
+  images_rgb: experiments/test_1000_val2017/images_rgb/test_1000
+  references: experiments/test_1000_val2017/tables/eval_refs_test_1000.jsonl
+  metadata: experiments/test_1000_val2017/tables/metadata_test_1000.jsonl
+  embeddings: experiments/test_1000_val2017/embeddings
+  results: experiments/test_1000_val2017/results
+
+image:
+  max_side: 512
+  jpeg_quality: 95
+
+encoders:
+  clip-b32: {model: openai/clip-vit-base-patch32, dimension: 512, batch: 64}
+  siglip-b16: {model: google/siglip-base-patch16-224, dimension: 768, batch: 64}
+  dinov2-s: {model: facebook/dinov2-small, dimension: 384, batch: 64}
+
+primary_encoder: siglip-b16
+
+retrieval:
+  type: flat_ip
+  top_k: [1, 3, 5, 10]

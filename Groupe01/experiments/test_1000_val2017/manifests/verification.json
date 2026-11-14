@@ -1,0 +1,12 @@
+{
+  "original_test_count": 100,
+  "new_test_count": 1000,
+  "overlap_count": 0,
+  "new_test_id_hash": "02fd4ec7bffd4b2b3f15c503dfbb487482d8d0ab928b94cb65cd942aaf4777c3",
+  "frozen_file_hashes": {
+    "artifacts\\splits\\test.json": "1e9d7c2a6b140af7472f906830d29801a2ae897e981877b2876b47714909f536",
+    "artifacts\\splits\\val.json": "6cc3c3cd724e933e4ee35dff8102396f39dffbd82d1620ad82584d1f80452c9a",
+    "artifacts\\splits\\kb.json": "664ff6b3cb8ffd572336f01303f35aeb91b3f61f503675ea9e5b5ab893d5d210",
+    "reports\\tables\\encoder_comparison_test.csv": "15b26c9d5df480e95ca95e74d4d1897b6c052398cc8ce31905e05719c065f473"
+  }
+}

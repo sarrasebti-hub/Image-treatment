@@ -1,0 +1,225 @@
+{
+  "release": "g1-v1.2",
+  "dataset": "test_1000_val2017",
+  "n_checks": 43,
+  "pass": 43,
+  "fail": 0,
+  "skip": 0,
+  "checks": [
+    {
+      "check": "test split size = 1000",
+      "status": "PASS",
+      "detail": "1000 rows"
+    },
+    {
+      "check": "test image IDs are unique",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "all test images come from COCO val2017",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "test ID hash matches split_manifest",
+      "status": "PASS",
+      "detail": "02fd4ec7bffd4b2b..."
+    },
+    {
+      "check": "minimum image side >= 200 px",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "every test image has >= 1 object annotation",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "every test image has >= 5 COCO captions (first 5 kept as references)",
+      "status": "PASS",
+      "detail": "3 image(s) have more than 5 captions in COCO; only the first 5 are used"
+    },
+    {
+      "check": "KB size = 10000 and validation size = 100",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "ANTI-LEAK: test ∩ KB = ∅",
+      "status": "PASS",
+      "detail": "0 shared"
+    },
+    {
+      "check": "ANTI-LEAK: test ∩ validation = ∅",
+      "status": "PASS",
+      "detail": "0 shared"
+    },
+    {
+      "check": "test ∩ legacy 100-image test = ∅",
+      "status": "PASS",
+      "detail": "0 shared"
+    },
+    {
+      "check": "5000 reference rows",
+      "status": "PASS",
+      "detail": "5000 rows"
+    },
+    {
+      "check": "references cover exactly the test images",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "5 references per test image",
+      "status": "PASS",
+      "detail": "min=5 max=5"
+    },
+    {
+      "check": "reference caption_id are unique",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "no empty reference caption",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "ANTI-LEAK: no test image has captions in the KB",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "ANTI-LEAK: no test caption_id in the KB",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "info: test references textually identical to a KB caption",
+      "status": "PASS",
+      "detail": "132/5000 rows (2.6%) on 112 images; generic captions of DIFFERENT images, not same-image leakage"
+    },
+    {
+      "check": "metadata exists for every test image",
+      "status": "PASS",
+      "detail": "1000 rows"
+    },
+    {
+      "check": "metadata image IDs are unique",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "info: object classes covered by the test set",
+      "status": "PASS",
+      "detail": "80/80"
+    },
+    {
+      "check": "frozen file unchanged: artifacts/splits/test.json",
+      "status": "PASS",
+      "detail": "content identical (hash compared modulo LF/CRLF line endings)"
+    },
+    {
+      "check": "frozen file unchanged: artifacts/splits/val.json",
+      "status": "PASS",
+      "detail": "content identical (hash compared modulo LF/CRLF line endings)"
+    },
+    {
+      "check": "frozen file unchanged: artifacts/splits/kb.json",
+      "status": "PASS",
+      "detail": "content identical (hash compared modulo LF/CRLF line endings)"
+    },
+    {
+      "check": "frozen file unchanged: reports/tables/encoder_comparison_test.csv",
+      "status": "PASS",
+      "detail": "content identical (hash compared modulo LF/CRLF line endings)"
+    },
+    {
+      "check": "results cover 5 configurations x 1000 queries",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "every configuration beats the random-caption baseline (CIDEr)",
+      "status": "PASS",
+      "detail": "clip-b32|img2img=0.498; clip-b32|img2txt=0.575; dinov2-s|img2img=0.531; siglip-b16|img2img=0.532; siglip-b16|img2txt=0.639"
+    },
+    {
+      "check": "embeddings clip-b32/test_1000 shape/dtype",
+      "status": "PASS",
+      "detail": "shape=(1000, 512)"
+    },
+    {
+      "check": "embeddings clip-b32/test_1000 finite and L2-normalised",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "embeddings clip-b32/test_1000 IDs match split",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "ANTI-LEAK clip-b32: no test image retrieved as itself in KB",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "info clip-b32: test images with a KB near-duplicate (cos >= 0.97)",
+      "status": "PASS",
+      "detail": "1/1000"
+    },
+    {
+      "check": "embeddings siglip-b16/test_1000 shape/dtype",
+      "status": "PASS",
+      "detail": "shape=(1000, 768)"
+    },
+    {
+      "check": "embeddings siglip-b16/test_1000 finite and L2-normalised",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "embeddings siglip-b16/test_1000 IDs match split",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "ANTI-LEAK siglip-b16: no test image retrieved as itself in KB",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "info siglip-b16: test images with a KB near-duplicate (cos >= 0.97)",
+      "status": "PASS",
+      "detail": "0/1000"
+    },
+    {
+      "check": "embeddings dinov2-s/test_1000 shape/dtype",
+      "status": "PASS",
+      "detail": "shape=(1000, 384)"
+    },
+    {
+      "check": "embeddings dinov2-s/test_1000 finite and L2-normalised",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "embeddings dinov2-s/test_1000 IDs match split",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "ANTI-LEAK dinov2-s: no test image retrieved as itself in KB",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "info dinov2-s: test images with a KB near-duplicate (cos >= 0.97)",
+      "status": "PASS",
+      "detail": "0/1000"
+    }
+  ]
+}
