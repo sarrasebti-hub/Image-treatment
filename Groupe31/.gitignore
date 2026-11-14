@@ -1,0 +1,16 @@
+datasets/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.npy
+*.pt
+*.pth
+*.bin
+.vscode/
+desktop.ini
+results/preprocessed_images/
+venv/
+__pycache__/
+*.pyc

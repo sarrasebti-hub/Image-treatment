@@ -1,0 +1,24 @@
+{
+    "random_seed": 42,
+    "knowledge_base_size": 10000,
+    "validation_size": 100,
+    "test_size": 1000,
+    "test_stratification": "Object-count quartiles",
+    "object_count_boundaries": [
+        2,
+        4,
+        10
+    ],
+    "test_group_sizes": {
+        "simple": 1566,
+        "medium": 966,
+        "complex": 1270,
+        "very_complex": 1198
+    },
+    "selected_test_group_sizes": {
+        "simple": 250,
+        "medium": 250,
+        "complex": 250,
+        "very_complex": 250
+    }
+}

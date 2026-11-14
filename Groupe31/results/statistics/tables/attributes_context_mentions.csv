@@ -1,0 +1,22 @@
+Category,Label,Caption Count,Percentage
+Colour,red,1397,2.79
+Colour,blue,1127,2.25
+Colour,green,1045,2.09
+Colour,yellow,703,1.41
+Colour,black,1676,3.35
+Colour,white,2966,5.93
+Colour,brown,720,1.44
+Colour,gray,308,0.62
+Colour,orange,423,0.85
+Colour,pink,289,0.58
+Colour,purple,134,0.27
+Shape,round,54,0.11
+Shape,square,70,0.14
+Shape,rectangular,13,0.03
+Shape,oval,6,0.01
+Shape,triangular,1,0.0
+Shape,circular,24,0.05
+Context,indoor,3392,6.78
+Context,outdoor,7046,14.09
+Time of Day,daytime,73,0.15
+Time of Day,nighttime,138,0.28

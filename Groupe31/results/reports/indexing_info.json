@@ -1,0 +1,13 @@
+{
+    "model": "openai/clip-vit-base-patch32",
+    "embedding_dimension": 512,
+    "index_type": "IndexFlatIP",
+    "similarity_metric": "Inner Product (equivalent to cosine for normalized vectors)",
+    "image_vectors": 10000,
+    "text_vectors": 50000,
+    "image_indexing_time_seconds": 0.061926,
+    "text_indexing_time_seconds": 0.168527,
+    "storage": "FAISS CPU",
+    "image_vectors_normalized": true,
+    "text_vectors_normalized": true
+}

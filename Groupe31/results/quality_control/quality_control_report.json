@@ -1,0 +1,23 @@
+{
+    "checks": {
+        "knowledge_base_records": 10000,
+        "knowledge_base_captions": 50000,
+        "metadata_records": 10000,
+        "cleaned_caption_records": 10000,
+        "preprocessed_images": 10000,
+        "kb_split_ids": 10000,
+        "validation_ids": 100,
+        "test_ids": 1000,
+        "caption_mismatches": 0,
+        "invalid_cleaned_records": 0,
+        "invalid_metadata_records": 0,
+        "missing_images": 0,
+        "unreadable_images": 0,
+        "kb_validation_overlap": 0,
+        "kb_test_overlap": 0,
+        "validation_test_overlap": 0
+    },
+    "errors": [],
+    "warnings": [],
+    "status": "PASSED"
+}
