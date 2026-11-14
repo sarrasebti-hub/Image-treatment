@@ -1,0 +1,133 @@
+{
+ "pos_distribution_percent": {
+  "noun": 36.05,
+  "determiner": 20.48,
+  "preposition": 15.96,
+  "verb": 11.54,
+  "adjective": 7.9,
+  "function word": 5.97,
+  "number": 1.24,
+  "adverb": 0.65,
+  "other": 0.2
+ },
+ "top_cooccurring_pairs": [
+  [
+   [
+    "car",
+    "person"
+   ],
+   692
+  ],
+  [
+   [
+    "chair",
+    "person"
+   ],
+   671
+  ],
+  [
+   [
+    "handbag",
+    "person"
+   ],
+   510
+  ],
+  [
+   [
+    "dining table",
+    "person"
+   ],
+   495
+  ],
+  [
+   [
+    "backpack",
+    "person"
+   ],
+   443
+  ],
+  [
+   [
+    "bottle",
+    "person"
+   ],
+   406
+  ],
+  [
+   [
+    "chair",
+    "dining table"
+   ],
+   399
+  ],
+  [
+   [
+    "cup",
+    "person"
+   ],
+   384
+  ],
+  [
+   [
+    "cup",
+    "dining table"
+   ],
+   372
+  ],
+  [
+   [
+    "person",
+    "sports ball"
+   ],
+   353
+  ]
+ ],
+ "color_mentions": {
+  "white": 2966,
+  "black": 1675,
+  "red": 1397,
+  "blue": 1128,
+  "green": 1044,
+  "yellow": 703,
+  "brown": 720,
+  "orange": 423,
+  "pink": 289,
+  "purple": 134,
+  "gray": 173,
+  "grey": 135,
+  "silver": 131,
+  "gold": 40
+ },
+ "shape_mentions": {
+  "round": 53,
+  "square": 70,
+  "rectangular": 13,
+  "circular": 24,
+  "oval": 6,
+  "triangular": 1,
+  "tall": 360,
+  "long": 276
+ },
+ "spatial_mentions": {
+  "on top of": 1297,
+  "next to": 3202,
+  "in front of": 1466,
+  "behind": 605,
+  "under": 534,
+  "above": 273,
+  "below": 62,
+  "near": 1670,
+  "beside": 287,
+  "between": 169,
+  "inside": 518,
+  "on": 17047,
+  "in": 14748,
+  "at": 3348,
+  "over": 819,
+  "against": 213
+ },
+ "indoor_images": 2065,
+ "outdoor_images": 4323,
+ "night_images": 258,
+ "day_images": 448
+}

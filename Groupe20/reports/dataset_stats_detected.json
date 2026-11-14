@@ -1,0 +1,121 @@
+{
+ "threshold_selection": {
+  "table": [
+   {
+    "threshold": 0.25,
+    "precision": 0.863,
+    "recall": 0.724,
+    "f1": 0.787
+   },
+   {
+    "threshold": 0.3,
+    "precision": 0.884,
+    "recall": 0.708,
+    "f1": 0.786
+   },
+   {
+    "threshold": 0.35,
+    "precision": 0.9,
+    "recall": 0.671,
+    "f1": 0.769
+   },
+   {
+    "threshold": 0.4,
+    "precision": 0.911,
+    "recall": 0.637,
+    "f1": 0.75
+   },
+   {
+    "threshold": 0.45,
+    "precision": 0.933,
+    "recall": 0.602,
+    "f1": 0.732
+   },
+   {
+    "threshold": 0.5,
+    "precision": 0.962,
+    "recall": 0.556,
+    "f1": 0.705
+   },
+   {
+    "threshold": 0.55,
+    "precision": 0.977,
+    "recall": 0.519,
+    "f1": 0.677
+   },
+   {
+    "threshold": 0.6,
+    "precision": 0.988,
+    "recall": 0.491,
+    "f1": 0.656
+   },
+   {
+    "threshold": 0.7,
+    "precision": 0.992,
+    "recall": 0.404,
+    "f1": 0.574
+   }
+  ],
+  "selected": 0.25,
+  "method": "class-presence F1 vs COCO human labels, 100 validation photos"
+ },
+ "detected_objects": {
+  "threshold": 0.25,
+  "avg_objects_per_image": 5.14,
+  "images_with_no_objects": 160,
+  "top10_classes": [
+   [
+    "person",
+    17980
+   ],
+   [
+    "car",
+    2443
+   ],
+   [
+    "chair",
+    1785
+   ],
+   [
+    "bottle",
+    1338
+   ],
+   [
+    "cup",
+    1092
+   ],
+   [
+    "dining table",
+    1009
+   ],
+   [
+    "bowl",
+    926
+   ],
+   [
+    "umbrella",
+    802
+   ],
+   [
+    "sheep",
+    746
+   ],
+   [
+    "motorcycle",
+    606
+   ]
+  ]
+ },
+ "human_labels": {
+  "avg_objects_per_image": 7.21,
+  "images_with_no_objects": 102
+ },
+ "captions_before_preprocessing": {
+  "avg_length_words": 10.47,
+  "vocabulary_size": 16228
+ },
+ "captions_after_preprocessing": {
+  "avg_length_words": 10.47,
+  "vocabulary_size": 9917
+ }
+}

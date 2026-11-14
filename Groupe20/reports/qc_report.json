@@ -1,0 +1,142 @@
+{
+ "split_sizes": {
+  "passed": true,
+  "detail": "10000/100/100"
+ },
+ "no_duplicate_ids_inside_splits": {
+  "passed": true,
+  "detail": ""
+ },
+ "leakage_kb_vs_val": {
+  "passed": true,
+  "detail": ""
+ },
+ "leakage_kb_vs_test": {
+  "passed": true,
+  "detail": ""
+ },
+ "leakage_val_vs_test": {
+  "passed": true,
+  "detail": ""
+ },
+ "index_contains_only_kb_images": {
+  "passed": true,
+  "detail": ""
+ },
+ "no_eval_image_in_index": {
+  "passed": true,
+  "detail": ""
+ },
+ "eval_captions_not_in_kb_as_same_image": {
+  "passed": true,
+  "detail": "25/1000 reference captions have identical text to some KB caption (different images, generic wording, not a leak)"
+ },
+ "five_captions_each": {
+  "passed": true,
+  "detail": ""
+ },
+ "no_empty_captions": {
+  "passed": true,
+  "detail": ""
+ },
+ "clean_matches_raw": {
+  "passed": true,
+  "detail": ""
+ },
+ "eval_has_no_clean_field": {
+  "passed": true,
+  "detail": ""
+ },
+ "caption_ids_match_splits": {
+  "passed": true,
+  "detail": ""
+ },
+ "embedding_shapes": {
+  "passed": true,
+  "detail": "(10000, 512) / (50000, 512)"
+ },
+ "no_nan_or_inf": {
+  "passed": true,
+  "detail": ""
+ },
+ "unit_norm": {
+  "passed": true,
+  "detail": ""
+ },
+ "embedding_rows_match_ids": {
+  "passed": true,
+  "detail": ""
+ },
+ "metadata_kb_metadata_matches_ids": {
+  "passed": true,
+  "detail": ""
+ },
+ "metadata_val_objects_gt_matches_ids": {
+  "passed": true,
+  "detail": ""
+ },
+ "metadata_test_objects_gt_matches_ids": {
+  "passed": true,
+  "detail": ""
+ },
+ "all_images_present_and_readable": {
+  "passed": true,
+  "detail": "0 bad files"
+ },
+ "test1000_size_and_unique": {
+  "passed": true,
+  "detail": ""
+ },
+ "test100_inside_test1000": {
+  "passed": true,
+  "detail": ""
+ },
+ "leakage_kb_vs_test1000": {
+  "passed": true,
+  "detail": ""
+ },
+ "leakage_val_vs_test1000": {
+  "passed": true,
+  "detail": ""
+ },
+ "index_has_no_test1000_image": {
+  "passed": true,
+  "detail": ""
+ },
+ "test1000_references_ok": {
+  "passed": true,
+  "detail": ""
+ },
+ "test1000_images_present_and_readable": {
+  "passed": true,
+  "detail": "0 bad files"
+ },
+ "detected_kb_matches_ids": {
+  "passed": true,
+  "detail": ""
+ },
+ "detected_kb_valid_confidences": {
+  "passed": true,
+  "detail": "51395 detections, detector yolov8n.pt"
+ },
+ "detected_val_matches_ids": {
+  "passed": true,
+  "detail": ""
+ },
+ "detected_val_valid_confidences": {
+  "passed": true,
+  "detail": "608 detections, detector yolov8n.pt"
+ },
+ "detected_test1000_matches_ids": {
+  "passed": true,
+  "detail": ""
+ },
+ "detected_test1000_valid_confidences": {
+  "passed": true,
+  "detail": "5049 detections, detector yolov8n.pt"
+ },
+ "summary": {
+  "checks": 34,
+  "failed": []
+ }
+}

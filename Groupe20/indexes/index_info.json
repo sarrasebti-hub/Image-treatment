@@ -1,0 +1,24 @@
+{
+ "image_index": {
+  "index_type": "IndexFlatIP (flat, exact search)",
+  "metric": "inner product (= cosine, vectors are L2-normalised)",
+  "dimension": 512,
+  "n_vectors": 10000,
+  "build_seconds": 0.0057,
+  "file": "indexes\\kb_image.index",
+  "size_mb": 20.48,
+  "faiss_version": "1.15.1"
+ },
+ "text_index": {
+  "index_type": "IndexFlatIP (flat, exact search)",
+  "metric": "inner product (= cosine, vectors are L2-normalised)",
+  "dimension": 512,
+  "n_vectors": 50000,
+  "build_seconds": 0.0301,
+  "file": "indexes\\kb_text.index",
+  "size_mb": 102.4,
+  "faiss_version": "1.15.1"
+ },
+ "image_to_caption_recall_at_1": 0.443,
+ "image_to_caption_recall_at_5": 0.65
+}

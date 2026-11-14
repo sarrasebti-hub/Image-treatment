@@ -1,0 +1,13 @@
+{
+ "model": "openai/clip-vit-base-patch32",
+ "device": "cpu",
+ "embedding_dim": 512,
+ "normalised": true,
+ "batch_size_images": 64,
+ "batch_size_text": 256,
+ "n_images": 10000,
+ "n_captions": 50000,
+ "seconds_images": 354.0,
+ "seconds_text": 421.8,
+ "torch": "2.15.0+cpu"
+}
