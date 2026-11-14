@@ -1,0 +1,19 @@
+﻿# Interface
+streamlit
+pillow
+
+# Deep Learning
+ultralytics
+open_clip_torch
+transformers
+sentencepiece
+
+# Retrieval
+faiss-cpu
+rank-bm25
+
+# Evaluation
+nltk
+rouge-score
+pycocotools
+pycocoevalcap

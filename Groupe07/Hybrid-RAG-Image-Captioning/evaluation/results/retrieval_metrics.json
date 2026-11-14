@@ -1,0 +1,36 @@
+{
+    "evaluation_method": "YOLO object-label Jaccard similarity used as pseudo-relevance",
+    "relevance_threshold": 0.5,
+    "top_k": 10,
+    "candidate_k": 100,
+    "total_validation_queries": 100,
+    "evaluated_queries": 96,
+    "skipped_no_objects": 4,
+    "skipped_no_relevant_images": 0,
+    "metrics": {
+        "Dense": {
+            "P@5": 0.5271,
+            "P@10": 0.4927,
+            "R@5": 0.0204,
+            "R@10": 0.0331,
+            "MRR@5": 0.6448,
+            "MRR@10": 0.6507
+        },
+        "Sparse": {
+            "P@5": 0.9354,
+            "P@10": 0.8948,
+            "R@5": 0.0488,
+            "R@10": 0.0843,
+            "MRR@5": 0.9844,
+            "MRR@10": 0.9844
+        },
+        "Hybrid": {
+            "P@5": 0.8437,
+            "P@10": 0.8115,
+            "R@5": 0.0377,
+            "R@10": 0.0702,
+            "MRR@5": 0.9427,
+            "MRR@10": 0.9457
+        }
+    }
+}

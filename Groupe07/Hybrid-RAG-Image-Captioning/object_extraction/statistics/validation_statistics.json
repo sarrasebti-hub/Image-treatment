@@ -1,0 +1,294 @@
+{
+    "split": "validation",
+    "total_images": 100,
+    "total_objects": 510,
+    "unique_categories": 65,
+    "average_objects_per_image": 5.1,
+    "empty_images": 4,
+    "images_with_objects": 96,
+    "average_confidence": 0.6022,
+    "top_20_categories": {
+        "person": 192,
+        "car": 24,
+        "kite": 19,
+        "cup": 18,
+        "chair": 18,
+        "dining table": 17,
+        "bottle": 12,
+        "broccoli": 11,
+        "suitcase": 9,
+        "traffic light": 8,
+        "hot dog": 8,
+        "couch": 7,
+        "donut": 7,
+        "sandwich": 6,
+        "wine glass": 6,
+        "horse": 6,
+        "pizza": 5,
+        "skateboard": 5,
+        "bus": 5,
+        "vase": 5
+    },
+    "class_statistics": {
+        "car": {
+            "count": 24,
+            "average_confidence": 0.6079
+        },
+        "traffic light": {
+            "count": 8,
+            "average_confidence": 0.5316
+        },
+        "knife": {
+            "count": 3,
+            "average_confidence": 0.5864
+        },
+        "cup": {
+            "count": 18,
+            "average_confidence": 0.6053
+        },
+        "dining table": {
+            "count": 17,
+            "average_confidence": 0.4914
+        },
+        "toilet": {
+            "count": 2,
+            "average_confidence": 0.8276
+        },
+        "sink": {
+            "count": 3,
+            "average_confidence": 0.6698
+        },
+        "bottle": {
+            "count": 12,
+            "average_confidence": 0.5308
+        },
+        "person": {
+            "count": 192,
+            "average_confidence": 0.6168
+        },
+        "laptop": {
+            "count": 3,
+            "average_confidence": 0.586
+        },
+        "couch": {
+            "count": 7,
+            "average_confidence": 0.4433
+        },
+        "pizza": {
+            "count": 5,
+            "average_confidence": 0.8735
+        },
+        "sandwich": {
+            "count": 6,
+            "average_confidence": 0.6885
+        },
+        "chair": {
+            "count": 18,
+            "average_confidence": 0.4003
+        },
+        "skateboard": {
+            "count": 5,
+            "average_confidence": 0.6561
+        },
+        "bus": {
+            "count": 5,
+            "average_confidence": 0.9029
+        },
+        "cow": {
+            "count": 2,
+            "average_confidence": 0.7745
+        },
+        "tennis racket": {
+            "count": 3,
+            "average_confidence": 0.7984
+        },
+        "sports ball": {
+            "count": 4,
+            "average_confidence": 0.5742
+        },
+        "train": {
+            "count": 3,
+            "average_confidence": 0.7745
+        },
+        "potted plant": {
+            "count": 3,
+            "average_confidence": 0.5952
+        },
+        "vase": {
+            "count": 5,
+            "average_confidence": 0.5315
+        },
+        "tv": {
+            "count": 3,
+            "average_confidence": 0.622
+        },
+        "bed": {
+            "count": 5,
+            "average_confidence": 0.7382
+        },
+        "donut": {
+            "count": 7,
+            "average_confidence": 0.7068
+        },
+        "bowl": {
+            "count": 5,
+            "average_confidence": 0.4841
+        },
+        "spoon": {
+            "count": 1,
+            "average_confidence": 0.8452
+        },
+        "wine glass": {
+            "count": 6,
+            "average_confidence": 0.3959
+        },
+        "boat": {
+            "count": 5,
+            "average_confidence": 0.4571
+        },
+        "truck": {
+            "count": 3,
+            "average_confidence": 0.6819
+        },
+        "horse": {
+            "count": 6,
+            "average_confidence": 0.5946
+        },
+        "stop sign": {
+            "count": 2,
+            "average_confidence": 0.4098
+        },
+        "fork": {
+            "count": 2,
+            "average_confidence": 0.663
+        },
+        "fire hydrant": {
+            "count": 2,
+            "average_confidence": 0.8984
+        },
+        "baseball glove": {
+            "count": 3,
+            "average_confidence": 0.7092
+        },
+        "skis": {
+            "count": 1,
+            "average_confidence": 0.3857
+        },
+        "kite": {
+            "count": 19,
+            "average_confidence": 0.61
+        },
+        "cat": {
+            "count": 1,
+            "average_confidence": 0.829
+        },
+        "remote": {
+            "count": 3,
+            "average_confidence": 0.555
+        },
+        "bear": {
+            "count": 1,
+            "average_confidence": 0.9339
+        },
+        "cake": {
+            "count": 3,
+            "average_confidence": 0.6909
+        },
+        "motorcycle": {
+            "count": 5,
+            "average_confidence": 0.4018
+        },
+        "teddy bear": {
+            "count": 1,
+            "average_confidence": 0.3625
+        },
+        "clock": {
+            "count": 2,
+            "average_confidence": 0.5186
+        },
+        "surfboard": {
+            "count": 3,
+            "average_confidence": 0.5821
+        },
+        "banana": {
+            "count": 1,
+            "average_confidence": 0.5662
+        },
+        "frisbee": {
+            "count": 2,
+            "average_confidence": 0.5544
+        },
+        "refrigerator": {
+            "count": 5,
+            "average_confidence": 0.6581
+        },
+        "giraffe": {
+            "count": 5,
+            "average_confidence": 0.8895
+        },
+        "tie": {
+            "count": 5,
+            "average_confidence": 0.7752
+        },
+        "broccoli": {
+            "count": 11,
+            "average_confidence": 0.5334
+        },
+        "carrot": {
+            "count": 3,
+            "average_confidence": 0.5176
+        },
+        "oven": {
+            "count": 3,
+            "average_confidence": 0.6806
+        },
+        "microwave": {
+            "count": 2,
+            "average_confidence": 0.5301
+        },
+        "baseball bat": {
+            "count": 1,
+            "average_confidence": 0.8825
+        },
+        "hot dog": {
+            "count": 8,
+            "average_confidence": 0.4238
+        },
+        "airplane": {
+            "count": 3,
+            "average_confidence": 0.7375
+        },
+        "dog": {
+            "count": 3,
+            "average_confidence": 0.6463
+        },
+        "suitcase": {
+            "count": 9,
+            "average_confidence": 0.6477
+        },
+        "toothbrush": {
+            "count": 3,
+            "average_confidence": 0.3846
+        },
+        "bench": {
+            "count": 1,
+            "average_confidence": 0.5893
+        },
+        "bicycle": {
+            "count": 4,
+            "average_confidence": 0.5345
+        },
+        "book": {
+            "count": 1,
+            "average_confidence": 0.5906
+        },
+        "scissors": {
+            "count": 1,
+            "average_confidence": 0.3472
+        },
+        "parking meter": {
+            "count": 2,
+            "average_confidence": 0.8997
+        }
+    }
+}

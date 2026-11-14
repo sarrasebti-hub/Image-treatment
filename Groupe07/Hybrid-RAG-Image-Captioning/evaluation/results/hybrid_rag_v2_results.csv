@@ -1,0 +1,9 @@
+Metric,Score
+BLEU-1,0.7645656848166265
+BLEU-4,0.38219845161061344
+CIDEr,1.4186005252104967
+ROUGE-L,0.6045824116642668
+fallback_count,14
+flan_generated_count,85
+fallback_rate_percent,14.14
+number_of_images,99

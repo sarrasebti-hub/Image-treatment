@@ -1,0 +1,23 @@
+{
+    "train": {
+        "images": 10000,
+        "captions": 50024,
+        "average_words": 10.49,
+        "min_words": 7,
+        "max_words": 49
+    },
+    "validation": {
+        "images": 100,
+        "captions": 500,
+        "average_words": 10.68,
+        "min_words": 7,
+        "max_words": 29
+    },
+    "test": {
+        "images": 1000,
+        "captions": 5000,
+        "average_words": 10.44,
+        "min_words": 7,
+        "max_words": 44
+    }
+}

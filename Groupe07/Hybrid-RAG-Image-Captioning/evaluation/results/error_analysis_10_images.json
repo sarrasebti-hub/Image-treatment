@@ -1,0 +1,132 @@
+[
+    {
+        "image_id": "885",
+        "image_name": "000000000885.jpg",
+        "hybrid_caption": "A young man serving a tennis ball to the other team.",
+        "blip_caption": "a man playing tennis on a tennis court",
+        "references": [
+            "a male tennis player in white shorts is playing tennis",
+            "This woman has just returned a volley in tennis",
+            "A man holding a tennis racket playing tennis.",
+            "The man balances on one leg after serving a tennis ball.",
+            "Someone playing in a tennis tournament with a crowd looking on."
+        ]
+    },
+    {
+        "image_id": "1000",
+        "image_name": "000000001000.jpg",
+        "hybrid_caption": "A young girl playing tennis with two guys. - THERE ARE A LOT OF PEOPLE PLAYING TENNIS ON THE COURTS – Kids with tennis rackets are on a clay court with",
+        "blip_caption": "a group of kids standing on a tennis court",
+        "references": [
+            "The people are posing for a group photo.",
+            "a large family poses for picture on tennis court",
+            "A group of young children standing next to each other.",
+            "A group of people that are standing near a tennis net.",
+            "A group of kids posing for a picture on a tennis court."
+        ]
+    },
+    {
+        "image_id": "1761",
+        "image_name": "000000001761.jpg",
+        "hybrid_caption": "Objects detected by YOLO: airplane, airplane Related captions retrieved from similar images: - Three aircrafts flying in the sky on a clear day.",
+        "blip_caption": "two planes flying in the sky over a bridge",
+        "references": [
+            "Two planes flying in the sky over a bridge.",
+            "A sky photo to jumbo jet airplanes over a bridge.",
+            "Two planes fly over a bridge in Sydney, Australia, with the Sydney Opera House in the background.",
+            "two jets are flying over a bridge and some water",
+            "Two airplanes flying in the sky above a black bridge."
+        ]
+    },
+    {
+        "image_id": "2261",
+        "image_name": "000000002261.jpg",
+        "hybrid_caption": "Write only one concise English caption.",
+        "blip_caption": "a man in the water",
+        "references": [
+            "A man on a blue raft attempting to catch a ride on a large wave.",
+            "The boy is looking back at a wave in the ocean. ",
+            "A young man is body surfing and paddling in the water.",
+            "A man in a black shirt plays on an ocean wave.",
+            "A boy riding a boogie board in the ocean waves."
+        ]
+    },
+    {
+        "image_id": "3255",
+        "image_name": "000000003255.jpg",
+        "hybrid_caption": "A group of people walking up a snow covered mountain with people on skis.",
+        "blip_caption": "a group of people walking up a snow covered mountain",
+        "references": [
+            "a group of people riding skis on a snowy surface",
+            "A group of skiers have left a trail through the snow on the mountain. ",
+            "The paths of some snowboarders carved in a mountain slope.",
+            "Skiers look at the snow that they skied down.",
+            "A group of people stand at the bottom of a snowy hill."
+        ]
+    },
+    {
+        "image_id": "4395",
+        "image_name": "000000004395.jpg",
+        "hybrid_caption": "Objects detected by YOLO: tie, person",
+        "blip_caption": "a man wearing a white shirt",
+        "references": [
+            "A man in a shirt and tie motioning with his hand.",
+            "A young man wearing a white shirt and tie.",
+            "Man in a dress shirt and tie looks in front of him. ",
+            "A man in a suit poses for the camera.",
+            "A man in a suit and tie holding up a hand."
+        ]
+    },
+    {
+        "image_id": "5193",
+        "image_name": "000000005193.jpg",
+        "hybrid_caption": "A group of people are holding surfboards in a room.",
+        "blip_caption": "a group of people holding surfboards in a room",
+        "references": [
+            "Man and boys holding two surfboards getting picture taken.",
+            "A group of people in room with surfboards.",
+            "Boys posing for a picture beside two surf boards. ",
+            "A group of people pose for a picture while a man holds two surfboards. ",
+            "a group of people who are posing for a picture"
+        ]
+    },
+    {
+        "image_id": "6012",
+        "image_name": "000000006012.jpg",
+        "hybrid_caption": "An old apple sitting next to a spotted banana.",
+        "blip_caption": "a bunch of bananas",
+        "references": [
+            "There are bananas around another piece of fruit. ",
+            "a yellow and red apple and some bananas",
+            "An apple sits in between a bunch of bananas",
+            "A bunch of bananas with an apple sitting in the middle.",
+            "Six bananas and a red fruit make an artistic sight paired with a blue background."
+        ]
+    },
+    {
+        "image_id": "6213",
+        "image_name": "000000006213.jpg",
+        "hybrid_caption": "A bathroom with two sinks and a shower.",
+        "blip_caption": "a bathroom with two sinks and a shower",
+        "references": [
+            "A shower curtain sits open in an empty and clean bathroom. ",
+            "a bathroom view of a tub and sink wit mirrors ",
+            "Nice and neat clean bathroom with shower in the corner.",
+            "A bathroom has two sinks, a bathtub, and a shower.",
+            "The bathroom had a tub with two sinks and a separate shower."
+        ]
+    },
+    {
+        "image_id": "6771",
+        "image_name": "000000006771.jpg",
+        "hybrid_caption": "A woman in a purple victorian dress, hat, and mask carries an umbrella.",
+        "blip_caption": "a woman in a costume talking on a cell phone",
+        "references": [
+            "A woman dressed up in a costume talking on a cell phone.",
+            "A woman in a costume speaks on a cellphone. ",
+            "A women in costume who is talking on a cell phone. ",
+            "A woman on a cell phone with a group of people.",
+            "The woman wearing a costume among others is using a cell phone."
+        ]
+    }
+]

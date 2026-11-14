@@ -1,0 +1,2431 @@
+{
+    "summary": {
+        "number_of_images": 99,
+        "fallback_count": 14,
+        "fallback_rate_percent": 14.14,
+        "identical_to_blip_count": 14,
+        "prompt_leakage_count": 0,
+        "incomplete_caption_count": 0,
+        "possible_contamination_count": 0
+    },
+    "results": [
+        {
+            "image_id": "885",
+            "image_name": "000000000885.jpg",
+            "blip_caption": "a man playing tennis on a tennis court",
+            "hybrid_v1_caption": "A young man serving a tennis ball to the other team.",
+            "hybrid_v2_caption": "A man is playing tennis on a tennis court.",
+            "initial_caption": "a man playing tennis on a tennis court",
+            "used_fallback": false,
+            "references": [
+                "a male tennis player in white shorts is playing tennis",
+                "This woman has just returned a volley in tennis",
+                "A man holding a tennis racket playing tennis.",
+                "The man balances on one leg after serving a tennis ball.",
+                "Someone playing in a tennis tournament with a crowd looking on."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "1000",
+            "image_name": "000000001000.jpg",
+            "blip_caption": "a group of kids standing on a tennis court",
+            "hybrid_v1_caption": "A young girl playing tennis with two guys. - THERE ARE A LOT OF PEOPLE PLAYING TENNIS ON THE COURTS – Kids with tennis rackets are on a clay court with",
+            "hybrid_v2_caption": "A group of kids standing on a tennis court.",
+            "initial_caption": "a group of kids standing on a tennis court",
+            "used_fallback": false,
+            "references": [
+                "The people are posing for a group photo.",
+                "a large family poses for picture on tennis court",
+                "A group of young children standing next to each other.",
+                "A group of people that are standing near a tennis net.",
+                "A group of kids posing for a picture on a tennis court."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "1761",
+            "image_name": "000000001761.jpg",
+            "blip_caption": "two planes flying in the sky over a bridge",
+            "hybrid_v1_caption": "Objects detected by YOLO: airplane, airplane Related captions retrieved from similar images: - Three aircrafts flying in the sky on a clear day.",
+            "hybrid_v2_caption": "Two planes flying in the sky over a bridge.",
+            "initial_caption": "two planes flying in the sky over a bridge",
+            "used_fallback": false,
+            "references": [
+                "Two planes flying in the sky over a bridge.",
+                "A sky photo to jumbo jet airplanes over a bridge.",
+                "Two planes fly over a bridge in Sydney, Australia, with the Sydney Opera House in the background.",
+                "two jets are flying over a bridge and some water",
+                "Two airplanes flying in the sky above a black bridge."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "2261",
+            "image_name": "000000002261.jpg",
+            "blip_caption": "a man in the water",
+            "hybrid_v1_caption": "Write only one concise English caption.",
+            "hybrid_v2_caption": "A man in the water.",
+            "initial_caption": "a man in the water",
+            "used_fallback": false,
+            "references": [
+                "A man on a blue raft attempting to catch a ride on a large wave.",
+                "The boy is looking back at a wave in the ocean. ",
+                "A young man is body surfing and paddling in the water.",
+                "A man in a black shirt plays on an ocean wave.",
+                "A boy riding a boogie board in the ocean waves."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "3255",
+            "image_name": "000000003255.jpg",
+            "blip_caption": "a group of people walking up a snow covered mountain",
+            "hybrid_v1_caption": "A group of people walking up a snow covered mountain with people on skis.",
+            "hybrid_v2_caption": "A group of people walking up a snow covered mountain.",
+            "initial_caption": "a group of people walking up a snow covered mountain",
+            "used_fallback": false,
+            "references": [
+                "a group of people riding skis on a snowy surface",
+                "A group of skiers have left a trail through the snow on the mountain. ",
+                "The paths of some snowboarders carved in a mountain slope.",
+                "Skiers look at the snow that they skied down.",
+                "A group of people stand at the bottom of a snowy hill."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "4395",
+            "image_name": "000000004395.jpg",
+            "blip_caption": "a man wearing a white shirt",
+            "hybrid_v1_caption": "Objects detected by YOLO: tie, person",
+            "hybrid_v2_caption": "A man wearing a white shirt is putting on his tie.",
+            "initial_caption": "a man wearing a white shirt",
+            "used_fallback": false,
+            "references": [
+                "A man in a shirt and tie motioning with his hand.",
+                "A young man wearing a white shirt and tie.",
+                "Man in a dress shirt and tie looks in front of him. ",
+                "A man in a suit poses for the camera.",
+                "A man in a suit and tie holding up a hand."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "5193",
+            "image_name": "000000005193.jpg",
+            "blip_caption": "a group of people holding surfboards in a room",
+            "hybrid_v1_caption": "A group of people are holding surfboards in a room.",
+            "hybrid_v2_caption": "a group of people holding surfboards in a room",
+            "initial_caption": "a group of people holding surfboards in a room",
+            "used_fallback": true,
+            "references": [
+                "Man and boys holding two surfboards getting picture taken.",
+                "A group of people in room with surfboards.",
+                "Boys posing for a picture beside two surf boards. ",
+                "A group of people pose for a picture while a man holds two surfboards. ",
+                "a group of people who are posing for a picture"
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": true,
+                "fallback_used": true,
+                "possible_issues": [
+                    "V2 caption identical to BLIP",
+                    "BLIP fallback used"
+                ]
+            }
+        },
+        {
+            "image_id": "6012",
+            "image_name": "000000006012.jpg",
+            "blip_caption": "a bunch of bananas",
+            "hybrid_v1_caption": "An old apple sitting next to a spotted banana.",
+            "hybrid_v2_caption": "A bunch of bananas, oranges and apples are mixed in a bowl.",
+            "initial_caption": "a bunch of bananas",
+            "used_fallback": false,
+            "references": [
+                "There are bananas around another piece of fruit. ",
+                "a yellow and red apple and some bananas",
+                "An apple sits in between a bunch of bananas",
+                "A bunch of bananas with an apple sitting in the middle.",
+                "Six bananas and a red fruit make an artistic sight paired with a blue background."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "6213",
+            "image_name": "000000006213.jpg",
+            "blip_caption": "a bathroom with two sinks and a shower",
+            "hybrid_v1_caption": "A bathroom with two sinks and a shower.",
+            "hybrid_v2_caption": "A bathroom with two sinks and a shower.",
+            "initial_caption": "a bathroom with two sinks and a shower",
+            "used_fallback": false,
+            "references": [
+                "A shower curtain sits open in an empty and clean bathroom. ",
+                "a bathroom view of a tub and sink wit mirrors ",
+                "Nice and neat clean bathroom with shower in the corner.",
+                "A bathroom has two sinks, a bathtub, and a shower.",
+                "The bathroom had a tub with two sinks and a separate shower."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "6771",
+            "image_name": "000000006771.jpg",
+            "blip_caption": "a woman in a costume talking on a cell phone",
+            "hybrid_v1_caption": "A woman in a purple victorian dress, hat, and mask carries an umbrella.",
+            "hybrid_v2_caption": "A woman in a purple victorian dress, hat, and a mask carries an umbrella.",
+            "initial_caption": "a woman in a costume talking on a cell phone",
+            "used_fallback": false,
+            "references": [
+                "A woman dressed up in a costume talking on a cell phone.",
+                "A woman in a costume speaks on a cellphone. ",
+                "A women in costume who is talking on a cell phone. ",
+                "A woman on a cell phone with a group of people.",
+                "The woman wearing a costume among others is using a cell phone."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "7278",
+            "image_name": "000000007278.jpg",
+            "blip_caption": "a man riding a wave on top of a surfboard",
+            "hybrid_v1_caption": "A man is riding a wave on top of the surfboard.",
+            "hybrid_v2_caption": "A man riding a wave on top of a surfboard.",
+            "initial_caption": "a man riding a wave on top of a surfboard",
+            "used_fallback": false,
+            "references": [
+                "there is a male surfer that is riding in the wave",
+                "a man on a surf board rides a wave ",
+                "A man in a wet suit riding a wave on a surf board.\n",
+                "A man that is on a surfboard in the water.",
+                "A surfer in the ocean on the crest of a wave."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "7281",
+            "image_name": "000000007281.jpg",
+            "blip_caption": "two people riding horses on the beach",
+            "hybrid_v1_caption": "Write only one concise English caption.",
+            "hybrid_v2_caption": "Two people riding horses on the beach.",
+            "initial_caption": "two people riding horses on the beach",
+            "used_fallback": false,
+            "references": [
+                "Two men smile as they ride horses on the beach.",
+                "two guys horseback riding and playing on the beach.",
+                "Two men are riding horses along the beach.",
+                "Two people on horseback are posing while the horses gallop on a beach shore.",
+                "Two people on horses on a beach readying for a picture"
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "7386",
+            "image_name": "000000007386.jpg",
+            "blip_caption": "a motorcycle parked in front of a garage",
+            "hybrid_v1_caption": "A motorcycle is parked in front of a garage.",
+            "hybrid_v2_caption": "A motorcycle parked in front of a garage.",
+            "initial_caption": "a motorcycle parked in front of a garage",
+            "used_fallback": false,
+            "references": [
+                "a small motor bike outside of the garage",
+                "A tricycle sits outside of a garage. ",
+                "A motorcycle parked in front of an open garage.",
+                "a home made three wheeled trike sitting in a driveway",
+                "A motorcycle frame that has been made in to a tricycle. "
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "8021",
+            "image_name": "000000008021.jpg",
+            "blip_caption": "a man in a suit",
+            "hybrid_v1_caption": "A young man putting on some tires for formal function - Two men posing for a picture, with ties on.",
+            "hybrid_v2_caption": "A man in a suit is holding up a camera.",
+            "initial_caption": "a man in a suit",
+            "used_fallback": false,
+            "references": [
+                "A presenter projected on a large screen at a conference.",
+                "People watching an on screen presentation of a gentleman in a suit.",
+                "People watch a man delivering a lecture on a screen.",
+                "a large screen showing a person wearing a suit",
+                "An audience is looking at an film of a man taking that is projected onto a wall. "
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "8532",
+            "image_name": "000000008532.jpg",
+            "blip_caption": "a man in a blue shirt and a red tie",
+            "hybrid_v1_caption": "A man wearing a hat and glasses stares straight ahead.",
+            "hybrid_v2_caption": "A man in a blue shirt and a red tie.",
+            "initial_caption": "a man in a blue shirt and a red tie",
+            "used_fallback": false,
+            "references": [
+                "A man that has glasses and a hat.",
+                "Stylish man looking into camera with blurred background ",
+                "A man wearing a cat and sunglasses with a red neck tie.",
+                "a man in a blue shirt and red tie",
+                "A man with a plaid hat, tie, dress shirt and glasses on."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "9590",
+            "image_name": "000000009590.jpg",
+            "blip_caption": "a group of people sitting around a table",
+            "hybrid_v1_caption": "A man and woman preparing food in a kitchen with television in background.",
+            "hybrid_v2_caption": "A group of people sitting around a table.",
+            "initial_caption": "a group of people sitting around a table",
+            "used_fallback": false,
+            "references": [
+                "A group of people sitting around a wooden table.",
+                "A group of guys are sitting at a table eating and laughing.",
+                "A group of men are sitting around a table.",
+                "A group of young males sitting around eating a meal.",
+                "A group of men sipping drinks and talking at a table."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "10583",
+            "image_name": "000000010583.jpg",
+            "blip_caption": "a plate of food on a table next to a glass",
+            "hybrid_v1_caption": "A grilled sandwich including vegetables is arranged on a long plate. - TWO CHEESE SANDWICHES ARE KEPT ON DIFFERENT PLATES.",
+            "hybrid_v2_caption": "a plate of food on a table next to a glass",
+            "initial_caption": "a plate of food on a table next to a glass",
+            "used_fallback": true,
+            "references": [
+                "a plate of meat topped with potatoes veggies and gravy",
+                "A white plate with a pile of food on it.",
+                "A large pile of food on a plate with knife.",
+                "A white plate sitting on a table filled with food. ",
+                "Plate of food with gravy on mesh table with knife"
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": true,
+                "fallback_used": true,
+                "possible_issues": [
+                    "V2 caption identical to BLIP",
+                    "BLIP fallback used"
+                ]
+            }
+        },
+        {
+            "image_id": "11122",
+            "image_name": "000000011122.jpg",
+            "blip_caption": "a stop sign behind a chain link fence",
+            "hybrid_v1_caption": "A red stop sign hanging from a yellow traffic light.",
+            "hybrid_v2_caption": "A stop sign behind a chain link fence.",
+            "initial_caption": "a stop sign behind a chain link fence",
+            "used_fallback": false,
+            "references": [
+                "A red stop sign behind a chain link fence.",
+                "A stop sign behind a green chain link fence.",
+                "A gated grassy noel has a shorted stop sign stuck in part of the land.",
+                "The stop sign is behind the fence instead of on the street.",
+                "a stop sign is in grass behind a fence"
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "11813",
+            "image_name": "000000011813.jpg",
+            "blip_caption": "a laptop on a tripod",
+            "hybrid_v1_caption": "A kitchen with a refrigerator, en suite bathroom, wooden tables, and no one is present.",
+            "hybrid_v2_caption": "A photo of a laptop on a tripod.",
+            "initial_caption": "a laptop on a tripod",
+            "used_fallback": false,
+            "references": [
+                "A camera sits on a tripod connected to a laptop.",
+                "A camera with a computer is set up on a tripod",
+                "A camera and tripod is shown with a laptop.",
+                "a tripod sitting next to  a laptop",
+                "Camera equipment is set up in a room with vending machines in the background."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "12062",
+            "image_name": "000000012062.jpg",
+            "blip_caption": "the sheep is white",
+            "hybrid_v1_caption": "The sheep are white and white Objects detected by YOLO: a flock of sheep in the field, some laying down, and some standing to graze. Several baby lambs lay near their mothers and have yellow",
+            "hybrid_v2_caption": "A flock of sheep grazing in a field.",
+            "initial_caption": "the sheep is white",
+            "used_fallback": false,
+            "references": [
+                "A large white sheep standing next to other sheep.",
+                "A sheep in a cage looking at sheep fur. ",
+                "A lamb standing up in a couch full of wool. ",
+                "A sheep inspects a big pile of shaved sheep wool.",
+                "A freshly shorn sheep standing near a pile of wool."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "12748",
+            "image_name": "000000012748.jpg",
+            "blip_caption": "a man holding a baby",
+            "hybrid_v1_caption": "Objects detected by YOLO: horse, child, person Related captions retrieved from similar images: - a couple of horse that are looking at some people",
+            "hybrid_v2_caption": "A man is holding a baby.",
+            "initial_caption": "a man holding a baby",
+            "used_fallback": false,
+            "references": [
+                "A man and child next to a horse.",
+                "a little boy touching the nose of a brown horse",
+                "A man holding a baby whose petting a horse.",
+                "a man letting his baby pet a horse",
+                "man holding a baby and petting a horse"
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "13201",
+            "image_name": "000000013201.jpg",
+            "blip_caption": "a man on a skateboard doing a trick",
+            "hybrid_v1_caption": "A man on a skateboard doing tricks in an empty pool.",
+            "hybrid_v2_caption": "A man on a skateboard doing a trick.",
+            "initial_caption": "a man on a skateboard doing a trick",
+            "used_fallback": false,
+            "references": [
+                "A young man with long hair, wearing all black, doing stunts on a skateboard.",
+                "The skate boarder is doing a jumping trick.",
+                "A skateboarder careening off concrete in a park",
+                "A man is grinding a ramp on a skateboard",
+                "A man is airborne on a skateboard pointing to the sky behind him."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "13291",
+            "image_name": "000000013291.jpg",
+            "blip_caption": "the sky is blue",
+            "hybrid_v1_caption": "An old man plays Frisbee in a wooded area.",
+            "hybrid_v2_caption": "A man is holding a frisbee in his right hand.",
+            "initial_caption": "the sky is blue",
+            "used_fallback": false,
+            "references": [
+                "A group of people hold up Frisbees for the camera.",
+                "A group of people holding frisbees on a field. ",
+                "A group of people in a field smile holding frisbees.",
+                "Several people posing in a field while holding frisbees.",
+                "A group of people playing with Frisbee's on the grass."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "13597",
+            "image_name": "000000013597.jpg",
+            "blip_caption": "a piece of chocolate cake on a plate",
+            "hybrid_v1_caption": "A piece of chocolate cake on a plate.",
+            "hybrid_v2_caption": "A piece of chocolate cake on a plate.",
+            "initial_caption": "a piece of chocolate cake on a plate",
+            "used_fallback": false,
+            "references": [
+                "A piece of chocolate cake on a plate.",
+                "a yellow and white plate with a piece of chocolate cake",
+                "a piece of a chocolate cake on a plate ",
+                "A piece of chocolate pie sitting on top of a plate.",
+                "A slice of chocolate cake is on a small plate."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "13774",
+            "image_name": "000000013774.jpg",
+            "blip_caption": "the sky is clear and blue",
+            "hybrid_v1_caption": "A single skier is the only person for miles of flat snow.",
+            "hybrid_v2_caption": "The sky is clear and blue.",
+            "initial_caption": "the sky is clear and blue",
+            "used_fallback": false,
+            "references": [
+                "A person standing in shore of beach with a frisbee in the sky.",
+                "A man stands ankle-deep in the ocean at sunset.",
+                "a person is standing in some water is flying a kite",
+                "A man standing on top of a river next to the sun and a flying kite.",
+                "A man standing at the beach shoreline and watching the sunset. "
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "15272",
+            "image_name": "000000015272.jpg",
+            "blip_caption": "a traffic light on a pole in front of a tree",
+            "hybrid_v1_caption": "A street sign with trees in the background.",
+            "hybrid_v2_caption": "A traffic light on a pole in front of a tree.",
+            "initial_caption": "a traffic light on a pole in front of a tree",
+            "used_fallback": false,
+            "references": [
+                "A red light is a wonderful contrast to the pink leaves on trees",
+                "A stoplight that has turned red on a road lined with trees that are in bloom.",
+                "A traffic light in front of trees with white blossoms.",
+                "a beautiful red bud tree full of flowers under a stop light ",
+                "A traffic light hanging in front of blossoming trees."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "15497",
+            "image_name": "000000015497.jpg",
+            "blip_caption": "a cat laying next to a computer mouse",
+            "hybrid_v1_caption": "A CAT IS LYING DOWN LOOKING AT AN ELECTRONIC MOUSE - A cat partially sleeping laying next to a computer mouse.",
+            "hybrid_v2_caption": "A cat is laying next to a computer mouse.",
+            "initial_caption": "a cat laying next to a computer mouse",
+            "used_fallback": false,
+            "references": [
+                "A cat laying on top of a couch next to a computer mouse.",
+                "A cat playing with an old computer mouse.",
+                "A cat is sitting while holding a computer mouse.",
+                "A cat is playing with a computer mouse.",
+                "A cat and a computer mouse on the ground."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "15660",
+            "image_name": "000000015660.jpg",
+            "blip_caption": "a person winds surfing in the ocean on a sunny day",
+            "hybrid_v1_caption": "A person is surfing in the ocean on a sunny day.",
+            "hybrid_v2_caption": "A man is surfing in the ocean on a sunny day.",
+            "initial_caption": "a person winds surfing in the ocean on a sunny day",
+            "used_fallback": false,
+            "references": [
+                "there is a man on a surf board in the ocean ",
+                "Several para-gliders can be seen in the blue sky. ",
+                "a man out in the water next to his surfboard watching some kites",
+                "A man para glides in the water while others do so nearby.",
+                "A windsurfer watches people kite surfing at the beach"
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "15746",
+            "image_name": "000000015746.jpg",
+            "blip_caption": "a fire hydrant in the grass",
+            "hybrid_v1_caption": "The yellow fire hydrant is next to the bushes.",
+            "hybrid_v2_caption": "A fire hydrant is in the grass.",
+            "initial_caption": "a fire hydrant in the grass",
+            "used_fallback": false,
+            "references": [
+                "A fire hydrant is standing amid some grass.",
+                "A red and black fire hydrant is positioned in front of a dwelling.",
+                "A fire hydrant in front of a house with overgrown grass",
+                "A picture of a fire hydrant in the grass.",
+                "The fire hydrant in the green grass is red."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "16010",
+            "image_name": "000000016010.jpg",
+            "blip_caption": "a group of zebras grazing in a field",
+            "hybrid_v1_caption": "Several zebras and other animals grazing in the grass of a zoo.",
+            "hybrid_v2_caption": "A group of zebras grazing in a field.",
+            "initial_caption": "a group of zebras grazing in a field",
+            "used_fallback": false,
+            "references": [
+                "An outdoor area with many animals inluding a zebra and a rhinoceros.  ",
+                "Some Zebras and cattle are standing together, some eating. ",
+                "A bunch of zebras playing on a grassy field.",
+                "African animals placidly grazing in a park enclosure.",
+                "two zebras grazing while a hippo looks at them and some oxen in the background"
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "16439",
+            "image_name": "000000016439.jpg",
+            "blip_caption": "a laptop computer sitting on a desk next to a lamp",
+            "hybrid_v1_caption": "A computer sitting on top of a wooden desk next to the lamp.",
+            "hybrid_v2_caption": "A laptop computer sitting on a desk next to a lamp.",
+            "initial_caption": "a laptop computer sitting on a desk next to a lamp",
+            "used_fallback": false,
+            "references": [
+                "A small desk with lamp, phone, and laptop on it.",
+                "A lap top computer is open and on and is sitting on a desk next to a glass of liquid and a lamp.",
+                "An open laptop computer sitting on a desk next to a lamp.",
+                "A computer sits at a hotel desk, and the lamp is on.",
+                "A laptop computer is open on a wooden desk."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "16502",
+            "image_name": "000000016502.jpg",
+            "blip_caption": "a sheep standing on top of a large rock",
+            "hybrid_v1_caption": "A herd of sheep standing on top of a large rock.",
+            "hybrid_v2_caption": "A sheep is standing on top of a large rock.",
+            "initial_caption": "a sheep standing on top of a large rock",
+            "used_fallback": false,
+            "references": [
+                "A sheep standing on top of a rock. ",
+                "Goat standing on top of rock pile with grass growing on it",
+                "A sheep is standing on top of a large rock.",
+                "The sheep is standing all alone on the rock.",
+                "A mountain goat stands on top of a rock on a hill."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "16598",
+            "image_name": "000000016598.jpg",
+            "blip_caption": "a woman with blue hair is taking a picture of herself",
+            "hybrid_v1_caption": "A woman with blue hair is taking a selfie with her cell phone.",
+            "hybrid_v2_caption": "A woman with blue hair is taking a selfie with her cell phone.",
+            "initial_caption": "a woman with blue hair is taking a picture of herself",
+            "used_fallback": false,
+            "references": [
+                "A girl with blue hair is taking a self portrait. ",
+                "a girl with her cell phone tie and blue hair",
+                "a woman with blue hair holding her phone up",
+                "A woman with blue hair is taking a selfie.",
+                "A woman who dyed her hair blue wearing all blue. "
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "17029",
+            "image_name": "000000017029.jpg",
+            "blip_caption": "a black dog catching a red frur",
+            "hybrid_v1_caption": "A black dog catching a Frisbee outside on the grass.",
+            "hybrid_v2_caption": "A black dog catching a Frisbee outside on the grass.",
+            "initial_caption": "a black dog catching a red frur",
+            "used_fallback": false,
+            "references": [
+                "a dog jumping to catch a frisbee in a yard",
+                "A dog jumping to catch a red frisbee in a garden",
+                "The dog is catching the Frisbee in mid air in the yard.",
+                "A dog catches a frisbee outside in the grass.",
+                "A dog leaping to catch a red frisbee."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "17031",
+            "image_name": "000000017031.jpg",
+            "blip_caption": "the gi is brown and white",
+            "hybrid_v1_caption": "A giraffe eating food that someone is giving it.",
+            "hybrid_v2_caption": "A giraffe eating food that someone is giving.",
+            "initial_caption": "the gi is brown and white",
+            "used_fallback": false,
+            "references": [
+                "A very cute giraffe making a funny face.",
+                "A giraffe's head looking at the camera and making a face.",
+                "A portrait of a giraffe eating in a zoo.",
+                "a giraffe is making a funny face at the camera",
+                "A giraffe is coming up close to people"
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "17627",
+            "image_name": "000000017627.jpg",
+            "blip_caption": "the sky is clear",
+            "hybrid_v1_caption": "A man on a horse is riding in front of the city street.",
+            "hybrid_v2_caption": "An image of a building with a clock on top next to a street.",
+            "initial_caption": "the sky is clear",
+            "used_fallback": false,
+            "references": [
+                "Several cars are parked in front of a building.",
+                "A green car has parked on the curb in a parking lot",
+                "Small parking lot of cars in front of a stone building.",
+                "Cars are parked on the the street in front of the building.",
+                "Cars are parked on the street near an old building."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "18833",
+            "image_name": "000000018833.jpg",
+            "blip_caption": "a cat sleeping on top of a pair of shoes",
+            "hybrid_v1_caption": "An orange and white cat sleeping on top of a pair of shoes Objects detected by YOLO: cat, remote Related captions retrieved from similar images:",
+            "hybrid_v2_caption": "A cat sleeping on top of a pair of shoes.",
+            "initial_caption": "a cat sleeping on top of a pair of shoes",
+            "used_fallback": false,
+            "references": [
+                "A cat sleeping with its head resting on a sneaker.",
+                "A cat that is laying with its head upon a sneaker. ",
+                "A cat sleeping on the ground using a shoe as a pillow.",
+                "a cat is laying on a white shoe",
+                "A nat naps with his head on a sneaker."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "19221",
+            "image_name": "000000019221.jpg",
+            "blip_caption": "a person holding a piece of brocco",
+            "hybrid_v1_caption": "A person holding a piece of brocco Objects detected by YOLO: broccoli Related captions retrieved from similar images: - A metal bowl filled with broccoli and vegetables.",
+            "hybrid_v2_caption": "A person holding a piece of brocco.",
+            "initial_caption": "a person holding a piece of brocco",
+            "used_fallback": false,
+            "references": [
+                "A raw piece of broccoli with something growing from it. ",
+                "A person holding a piece of broccoli with an insect on it. ",
+                "A worm sits on top of a piece of broccoli.",
+                "Two fingers holding a  small piece of broccoli ",
+                "A view of a piece of broccoli with a person holding it."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "19432",
+            "image_name": "000000019432.jpg",
+            "blip_caption": "a man playing tennis on a tennis court",
+            "hybrid_v1_caption": "A man is playing tennis on a tennis court.",
+            "hybrid_v2_caption": "A man is playing tennis on a tennis court.",
+            "initial_caption": "a man playing tennis on a tennis court",
+            "used_fallback": false,
+            "references": [
+                "a man playing tennis going for a low ball",
+                "A tennis player with a racket hitting the ball",
+                "He's almost got this tennis ball at the end of his racket.",
+                "A man with a racquet standing on a tennis court.",
+                "A man playing tennis on a blue tennis court"
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "19786",
+            "image_name": "000000019786.jpg",
+            "blip_caption": "a man standing in a living room holding an umbrella",
+            "hybrid_v1_caption": "A man is standing in a living room holding an umbrella.",
+            "hybrid_v2_caption": "A man is standing in a living room holding an umbrella.",
+            "initial_caption": "a man standing in a living room holding an umbrella",
+            "used_fallback": false,
+            "references": [
+                "One person standing and another bending over in the foreground.",
+                "Two people with Wii remote controllers near a sofa.",
+                "Group of people sending around photography equipment and a living room. ",
+                "A man laughs while looking towards the floor.",
+                "some people are standing around in a room"
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "19924",
+            "image_name": "000000019924.jpg",
+            "blip_caption": "a woman in a hat smoking a cigarette",
+            "hybrid_v1_caption": "A woman holding a tennis racquet in her hands.",
+            "hybrid_v2_caption": "A woman is smoking a cigarette.",
+            "initial_caption": "a woman in a hat smoking a cigarette",
+            "used_fallback": false,
+            "references": [
+                "A woman with a hat, tie and striped halter smoking a long cigarette.",
+                "a lady that is smoking something and has a large hat",
+                "a woman with a tie smoking a cigarette with a big smile",
+                "A women dressed in a hat and tie poses for a picture.",
+                "A black and white photo of a woman smoking a cigarette."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "20107",
+            "image_name": "000000020107.jpg",
+            "blip_caption": "a fire hydrant sitting on the side of a sidewalk",
+            "hybrid_v1_caption": "A fire hydrant sitting on the side of a sidewalk.",
+            "hybrid_v2_caption": "A fire hydrant sitting on the side of a sidewalk.",
+            "initial_caption": "a fire hydrant sitting on the side of a sidewalk",
+            "used_fallback": false,
+            "references": [
+                "The fire hydrant has some writing on its side.",
+                "A rusty and old looking fire hydrant sits on the concrete in front of a mural.",
+                "An old rusted fire hydrant is on the ground near a painted wall.",
+                "A rusted fire hydrant sits off to the side",
+                "A rusty old fire hydrant on the ground."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "21839",
+            "image_name": "000000021839.jpg",
+            "blip_caption": "a man walking across a street in front of a building",
+            "hybrid_v1_caption": "A man is walking across a street in front of the building.",
+            "hybrid_v2_caption": "A man is walking across a street in front of a building.",
+            "initial_caption": "a man walking across a street in front of a building",
+            "used_fallback": false,
+            "references": [
+                "a person walking across the street with a traffic light above",
+                "A person that is walking on the street.",
+                "The pedestrian crosses the lit city street at nightitme.",
+                "A person crossing a street next to a crosswalk.",
+                "A person crosses a street under a streetlight at dusk."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "21879",
+            "image_name": "000000021879.jpg",
+            "blip_caption": "a woman surfing in the ocean",
+            "hybrid_v1_caption": "An Asian woman surfing in a wetsuit.",
+            "hybrid_v2_caption": "A woman surfing in the ocean with her surfboards in hand.",
+            "initial_caption": "a woman surfing in the ocean",
+            "used_fallback": false,
+            "references": [
+                "there are many surfers that are in the water",
+                "Young girl on surfboard riding wave with young boys nearby looking on.",
+                "The girl is balancing with one leg on the surfboard. ",
+                "A young girl is surfing and just about to wipe out.",
+                "Several people are surfing or swimming at the ocean."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "21903",
+            "image_name": "000000021903.jpg",
+            "blip_caption": "a man feeding an elephant behind a fence",
+            "hybrid_v1_caption": "An elephant stands next to a fence and people take pictures.",
+            "hybrid_v2_caption": "A man feeding an elephant behind a fence.",
+            "initial_caption": "a man feeding an elephant behind a fence",
+            "used_fallback": false,
+            "references": [
+                "A man is leaning over a fence offering food to an elephant/",
+                "A man reaching out to an elephants trunk near a gate.",
+                "a man is feeding an elephant over a fence",
+                "a man handing an elephant a stick in an enclosure at a zoo",
+                "A man reaches out to give the elephant something. "
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "22192",
+            "image_name": "000000022192.jpg",
+            "blip_caption": "a dog sitting in a pile of clothes",
+            "hybrid_v1_caption": "A dog sitting in a pile of clothes.",
+            "hybrid_v2_caption": "A dog is sitting in a pile of clothes.",
+            "initial_caption": "a dog sitting in a pile of clothes",
+            "used_fallback": false,
+            "references": [
+                "A dog is sitting on an unmade bed with pillows.",
+                "A dog sitting in a pile of bedding and other stuff.",
+                "A dog sits on top of a mess of items.",
+                "A dog sitting on a bed covered with clothing, blankets and other items.",
+                "A pit bull dog on a messy bed. "
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "22371",
+            "image_name": "000000022371.jpg",
+            "blip_caption": "a man sitting at a desk with a laptop",
+            "hybrid_v1_caption": "Write only one concise English caption.",
+            "hybrid_v2_caption": "A man is sitting at a desk with a laptop.",
+            "initial_caption": "a man sitting at a desk with a laptop",
+            "used_fallback": false,
+            "references": [
+                "a man sitting at a desk in front of a laptop computer",
+                "A man contemplating something at a desk with a laptop.",
+                "A man in thought sitting in front of a laptop with a pen in his hand. ",
+                "A man in shirt and tie at desk with laptop.",
+                "A man that is sitting at a desk with a pen and laptop."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "23937",
+            "image_name": "000000023937.jpg",
+            "blip_caption": "a group of cows laying under a tree in a field",
+            "hybrid_v1_caption": "A herd of sheep grazing on a lush green field.",
+            "hybrid_v2_caption": "A group of cows laying under a tree in a field.",
+            "initial_caption": "a group of cows laying under a tree in a field",
+            "used_fallback": false,
+            "references": [
+                "a small sheep is laying in a field",
+                "A white animal is in the short grass by a tree.",
+                "A grassy field with several cows laying down.",
+                "Several cows sitting out in the grass of a green pasture.",
+                "A young cow is resting in a grass field next to a tree."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "25057",
+            "image_name": "000000025057.jpg",
+            "blip_caption": "a man in a field holding a white frc",
+            "hybrid_v1_caption": "A woman is throwing a frisbee on the field.",
+            "hybrid_v2_caption": "a man in a field holding a white frc",
+            "initial_caption": "a man in a field holding a white frc",
+            "used_fallback": true,
+            "references": [
+                "A man without a shirt in a park holding a beer and a frisbee. ",
+                "A man throwing a frisbee while holding a beer",
+                "a man holding a drink with a frizbee in front of him",
+                "Man throwing frisbee in a green park with trees",
+                "A man without shirt on is throwing a frisbee."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": true,
+                "fallback_used": true,
+                "possible_issues": [
+                    "V2 caption identical to BLIP",
+                    "BLIP fallback used"
+                ]
+            }
+        },
+        {
+            "image_id": "25393",
+            "image_name": "000000025393.jpg",
+            "blip_caption": "two men walking down a street at night",
+            "hybrid_v1_caption": "Two men walking down a street at night with the same colored tie on.",
+            "hybrid_v2_caption": "two men walking down a street at night",
+            "initial_caption": "two men walking down a street at night",
+            "used_fallback": true,
+            "references": [
+                "a couple of men in ties are outside",
+                "Two men wearing ties cross the street at night.",
+                "Two formally dressed guys are crossing the street. ",
+                "Two men walking through a crosswalk at night.",
+                "Two men standing on the street wearing a suit and tie"
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": true,
+                "fallback_used": true,
+                "possible_issues": [
+                    "V2 caption identical to BLIP",
+                    "BLIP fallback used"
+                ]
+            }
+        },
+        {
+            "image_id": "27186",
+            "image_name": "000000027186.jpg",
+            "blip_caption": "a little girl standing on a couch holding a wii game controller",
+            "hybrid_v1_caption": "A little girl laying on a couch holding an iPad.",
+            "hybrid_v2_caption": "A little girl standing on a couch holding a wii game controller.",
+            "initial_caption": "a little girl standing on a couch holding a wii game controller",
+            "used_fallback": false,
+            "references": [
+                "A little girl playing with an interactive gaming unit.",
+                "The little girl is intently playing the video game.",
+                "a small girl plays a game of wii ",
+                "A little girl standing in front of a couch holding a remote.",
+                "A little, young girl playing the wii in the living room."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "28452",
+            "image_name": "000000028452.jpg",
+            "blip_caption": "a white refrigerator with the door open",
+            "hybrid_v1_caption": "A white refrigerator with the door open.",
+            "hybrid_v2_caption": "A white refrigerator with a door open.",
+            "initial_caption": "a white refrigerator with the door open",
+            "used_fallback": false,
+            "references": [
+                "An open refrigerator door on a kitchen floor.",
+                "A fridge has some eggs and a bottle in it.",
+                "The refrigerator has a drink and a carton of eggs in it.",
+                "A few objects are sitting in an empty appliance.",
+                "a very big  fridge with nothing inside it"
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "29393",
+            "image_name": "000000029393.jpg",
+            "blip_caption": "a dog standing on a concrete bench in front of a tree",
+            "hybrid_v1_caption": "A dog is standing on a concrete bench in front of the tree.",
+            "hybrid_v2_caption": "A dog standing on a concrete bench in front of a tree.",
+            "initial_caption": "a dog standing on a concrete bench in front of a tree",
+            "used_fallback": false,
+            "references": [
+                "A large brown dog standing on the side of a white wood fence.",
+                "A dog standing on a bench with an orange tree in back.",
+                "A dog standing on a ledge in front of a lemon tree.",
+                "a brown and white dog a fence and a tree",
+                "A brown dog standing on a wooden bench near a lemon tree."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "31248",
+            "image_name": "000000031248.jpg",
+            "blip_caption": "a living room filled with furniture and a fire place",
+            "hybrid_v1_caption": "A small living room with a couch, chair, coffee table, fireplace and white rug, with dark wood floors.",
+            "hybrid_v2_caption": "a living room filled with furniture and a fire place",
+            "initial_caption": "a living room filled with furniture and a fire place",
+            "used_fallback": true,
+            "references": [
+                "Living room with white chairs and couches, fireplace and books on bookshelves.",
+                "A room with furniture and a fire place.",
+                "A living room has a couch, a chair, and a fireplace.",
+                "a living room with a fire place a chair and lamps",
+                "A living room is shown with a seating and lamps."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": true,
+                "fallback_used": true,
+                "possible_issues": [
+                    "V2 caption identical to BLIP",
+                    "BLIP fallback used"
+                ]
+            }
+        },
+        {
+            "image_id": "31620",
+            "image_name": "000000031620.jpg",
+            "blip_caption": "a man and a woman sitting at a table in a tent",
+            "hybrid_v1_caption": "A bride and groom cutting a wedding cake with her husband.",
+            "hybrid_v2_caption": "a man and a woman sitting at a table in a tent",
+            "initial_caption": "a man and a woman sitting at a table in a tent",
+            "used_fallback": true,
+            "references": [
+                "A bride and groom cutting their wedding cake.",
+                "A newlywed couple cutting a piece of wedding cake",
+                "a newly married couple cutting their wedding cake",
+                "A bride and groom about to cut into their cake",
+                "A woman in a white dress and a man in gray stand near a cake on a white table under a white canopy."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": true,
+                "fallback_used": true,
+                "possible_issues": [
+                    "V2 caption identical to BLIP",
+                    "BLIP fallback used"
+                ]
+            }
+        },
+        {
+            "image_id": "31749",
+            "image_name": "000000031749.jpg",
+            "blip_caption": "the clock is white",
+            "hybrid_v1_caption": "Write only one concise English caption.",
+            "hybrid_v2_caption": "The clock is white.",
+            "initial_caption": "the clock is white",
+            "used_fallback": false,
+            "references": [
+                "A demonic looking chucky like doll standing next to a white clock.",
+                "A painting of a doll sitting down and a clock close by.",
+                "A disturbing doll sits next to a clock in a mirrored image.",
+                "A red headed doll sitting next to a clock.",
+                "A mirror image of a red haired doll clock."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "32811",
+            "image_name": "000000032811.jpg",
+            "blip_caption": "the window of a boat",
+            "hybrid_v1_caption": "A flock of birds sitting on a flood wall.",
+            "hybrid_v2_caption": "An image of a boat in a flood wall.",
+            "initial_caption": "the window of a boat",
+            "used_fallback": false,
+            "references": [
+                "A bird resting outside of a boat window. ",
+                "A bird sits by a window on the water.",
+                "a bird is outside of a window on a boat ",
+                "A bird sitting on the window sill of a boat floating on a lake.",
+                "A bird is hanging onto the ledge outside the window. "
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "32901",
+            "image_name": "000000032901.jpg",
+            "blip_caption": "a group of three men standing next to each other men",
+            "hybrid_v1_caption": "Write only one concise English caption.",
+            "hybrid_v2_caption": "A group of men are standing next to each other.",
+            "initial_caption": "a group of three men standing next to each other men",
+            "used_fallback": false,
+            "references": [
+                "four men are posing for a picture at an event",
+                "Four men are standing together behind a group of red chairs.",
+                "A group of older man standing next to each other.",
+                "Four gentleman posing for a picture at a cocktail party.",
+                "A group of four older men posing for a photo."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "34417",
+            "image_name": "000000034417.jpg",
+            "blip_caption": "a bunch of donuts",
+            "hybrid_v1_caption": "A bakery with customers at the counter and various types of donuts in the display case in front of the customers.",
+            "hybrid_v2_caption": "A bakery with customers at the counter and various types of donuts in the display case in front of the customers.",
+            "initial_caption": "a bunch of donuts",
+            "used_fallback": false,
+            "references": [
+                "People working behind glass in a doughnut making factory.",
+                "View through window of donut being made in kitchen assembly line.",
+                "A picture of a factory making doughnuts full of joy. ",
+                "an image of a conveyer belt with donuts",
+                "Donuts traveling down an assembly line in a factory while people work behind it."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "34452",
+            "image_name": "000000034452.jpg",
+            "blip_caption": "a man in the woods",
+            "hybrid_v1_caption": "A black dog is on grass holding an orange Frisbee in his mouth.",
+            "hybrid_v2_caption": "A man in the woods is tossing a frisbee on top of a green park.",
+            "initial_caption": "a man in the woods",
+            "used_fallback": false,
+            "references": [
+                "A man bending over in the woods with a frisbee in each hand.",
+                "A man standing in a wooden area with a frisbee in his hand. ",
+                "Man standing in wooded area playing with flying discs.",
+                "a person with a frisbe near many trees ",
+                "The man in the green hat and shirt is holding two Frisbees. "
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "34760",
+            "image_name": "000000034760.jpg",
+            "blip_caption": "a bathroom with a sink, toilet, and shower",
+            "hybrid_v1_caption": "A bathroom with a stand-up shower, toilet, and shower.",
+            "hybrid_v2_caption": "A bathroom with a sink, toilet, and shower.",
+            "initial_caption": "a bathroom with a sink, toilet, and shower",
+            "used_fallback": false,
+            "references": [
+                "A small and near bathroom that's inside someone's house.",
+                "Cleaning products are on the counter of the bathroom.",
+                "a bathroom with a long counter that has cleaning products on it ",
+                "A bathroom with a shower, toilet, and sink.",
+                "A full view of a bathroom with sink and toilet in the back. "
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "34873",
+            "image_name": "000000034873.jpg",
+            "blip_caption": "a kitchen with a sink and a stove",
+            "hybrid_v1_caption": "A kitchen with a sink and stove.",
+            "hybrid_v2_caption": "A kitchen with a sink and a stove.",
+            "initial_caption": "a kitchen with a sink and a stove",
+            "used_fallback": false,
+            "references": [
+                "A kitchen with a counter and a table with chairs.",
+                "A large dining room features wooden cabinets and a marble counter top.",
+                "a black counter a sink and a table and two chairs",
+                "A kitchen island has a farmhouse sink on it.",
+                "A sink in a peninsula in a kitchen."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "35279",
+            "image_name": "000000035279.jpg",
+            "blip_caption": "a man laying on the floor next to a laptop",
+            "hybrid_v1_caption": "A man laying on the floor next to a laptop.",
+            "hybrid_v2_caption": "A man is laying on the floor next to a laptop.",
+            "initial_caption": "a man laying on the floor next to a laptop",
+            "used_fallback": false,
+            "references": [
+                "there is a tennis racket and a laptop on the floor",
+                "unable to see this image in this particular hit",
+                "A man laying his head down next to electronics, a butterfly, and a book. ",
+                "A man is laying by a racket, laptop, cell phone, and other objects. ",
+                "a man lies on the floor next to some gadgets"
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "35770",
+            "image_name": "000000035770.jpg",
+            "blip_caption": "a bathroom with a toilet, sink, and mirror",
+            "hybrid_v1_caption": "A bathroom with a toilet, sink, and mirror.",
+            "hybrid_v2_caption": "A bathroom with a toilet, sink, and mirror.",
+            "initial_caption": "a bathroom with a toilet, sink, and mirror",
+            "used_fallback": false,
+            "references": [
+                "a couple of pans you would use to pee in",
+                "There is a sink and a black and white toilet",
+                "There are sinks and black and white designs in the bathroom.",
+                "A store with a variety of toilets of different colors and designs.",
+                "a bathroom with three toilets and a big sink"
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "36936",
+            "image_name": "000000036936.jpg",
+            "blip_caption": "two people sitting on a couch in a living room",
+            "hybrid_v1_caption": "A couple playing video games on the television in their apartment. - A young man & woman interact with a flat screen television.",
+            "hybrid_v2_caption": "two people sitting on a couch in a living room",
+            "initial_caption": "two people sitting on a couch in a living room",
+            "used_fallback": true,
+            "references": [
+                "Two people play video games while sitting on a couch.",
+                "A man and woman playing a wii game.",
+                "A man and woman sitting on a sofa watching tv.",
+                "A man and woman sitting on a couch playing a video game.",
+                "A couple sits on a couch while playing wii."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": true,
+                "fallback_used": true,
+                "possible_issues": [
+                    "V2 caption identical to BLIP",
+                    "BLIP fallback used"
+                ]
+            }
+        },
+        {
+            "image_id": "38118",
+            "image_name": "000000038118.jpg",
+            "blip_caption": "a person skiing down a snowy mountain",
+            "hybrid_v1_caption": "A person skiing down a snowy mountain.",
+            "hybrid_v2_caption": "A person skiing down a snowy mountain.",
+            "initial_caption": "a person skiing down a snowy mountain",
+            "used_fallback": false,
+            "references": [
+                "A man on his skis on a snowy slope. ",
+                "I am unable to see the image above.",
+                "The man is skiing down the snowy hill.",
+                "Alpine skier in red coat on snow covered ski slope.",
+                "a man that is skiing down a snowy hill"
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "38210",
+            "image_name": "000000038210.jpg",
+            "blip_caption": "a man in a red jacket skiing down a hill",
+            "hybrid_v1_caption": "Write only one concise English caption.",
+            "hybrid_v2_caption": "a man in a red jacket skiing down a hill",
+            "initial_caption": "a man in a red jacket skiing down a hill",
+            "used_fallback": true,
+            "references": [
+                "a skier is prepared to go down a mountain.",
+                "A man skiing in the snow with large pine trees.",
+                "A man in a racing bib in his skis and a beanie. ",
+                "a man on skis goes through the snow ",
+                "A man on skis riding through a snowy trail."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": true,
+                "fallback_used": true,
+                "possible_issues": [
+                    "V2 caption identical to BLIP",
+                    "BLIP fallback used"
+                ]
+            }
+        },
+        {
+            "image_id": "38678",
+            "image_name": "000000038678.jpg",
+            "blip_caption": "a woman sitting at a table with a plate of food",
+            "hybrid_v1_caption": "Write only one concise English caption.",
+            "hybrid_v2_caption": "A woman sitting at a table with a plate of food.",
+            "initial_caption": "a woman sitting at a table with a plate of food",
+            "used_fallback": false,
+            "references": [
+                "A woman in striped shirt holding a plate with a bagel on it.",
+                "Woman in maroon shirt holding up a bagel. ",
+                "a close up of a person holding a doughnut",
+                "A woman seated across the table shows off her bagel with cream cheese.",
+                "A woman sitting on a train is showing off a bagel."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "39405",
+            "image_name": "000000039405.jpg",
+            "blip_caption": "a tennis match is being played on a grass court",
+            "hybrid_v1_caption": "A tennis match is being played on a grass court.",
+            "hybrid_v2_caption": "A tennis match is being played on a grass court.",
+            "initial_caption": "a tennis match is being played on a grass court",
+            "used_fallback": false,
+            "references": [
+                "Spectators watching as competitors play a double tennis game.",
+                "A member of a tennis doubles team just returned a volley.",
+                "Tennis players in a court playing couples tennis.",
+                "A tennis player serving the ball during a doubles tennis game.",
+                "A tennis match of doubles is taking place in a full stadium"
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "39477",
+            "image_name": "000000039477.jpg",
+            "blip_caption": "a living room with a couch and a television",
+            "hybrid_v1_caption": "A living room with a couch and TV.",
+            "hybrid_v2_caption": "a living room with a couch and a television",
+            "initial_caption": "a living room with a couch and a television",
+            "used_fallback": true,
+            "references": [
+                "Someones living room with a sewing machine and plants. ",
+                "A cozy living room with small potted plants and a flat screen.",
+                "Room with sofa, sewing machine, and potted plants.",
+                "A beach towel covers a TV across from plants on the wall and in front of the window.",
+                "A small room with a futon couch, a sewing machine on a table, and a flatscreen TV."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": true,
+                "fallback_used": true,
+                "possible_issues": [
+                    "V2 caption identical to BLIP",
+                    "BLIP fallback used"
+                ]
+            }
+        },
+        {
+            "image_id": "39785",
+            "image_name": "000000039785.jpg",
+            "blip_caption": "the water is white",
+            "hybrid_v1_caption": "Write only one concise English caption.",
+            "hybrid_v2_caption": "A man is holding a surfboard next to a wave filled body of water.",
+            "initial_caption": "the water is white",
+            "used_fallback": false,
+            "references": [
+                "A person is surfing in a wave pool.",
+                "A woman in black wetsuit surfing on wave river.",
+                "A surfer is surfing in a wave simulator.",
+                "There is a man surfing on some waves.",
+                "A surfer is riding a wave on a narrow waterway."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "40083",
+            "image_name": "000000040083.jpg",
+            "blip_caption": "two men sitting under an umbrella",
+            "hybrid_v1_caption": "A street performer plays guitar and harmonica as gaudily attired dog sits by.",
+            "hybrid_v2_caption": "two men sitting under an umbrella",
+            "initial_caption": "two men sitting under an umbrella",
+            "used_fallback": true,
+            "references": [
+                "A couple of people sitting under an umbrella.",
+                "Two men sitting underneath an umbrella on a sidewalk.",
+                "a vintage photo of some people sitting under an umbrella ",
+                "two men sitting under an umbrella on the sidewalk ",
+                "A couple of people under a large umbrella."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": true,
+                "fallback_used": true,
+                "possible_issues": [
+                    "V2 caption identical to BLIP",
+                    "BLIP fallback used"
+                ]
+            }
+        },
+        {
+            "image_id": "41633",
+            "image_name": "000000041633.jpg",
+            "blip_caption": "the truck is red",
+            "hybrid_v1_caption": "A red truck parked in a parking space next to the white building.",
+            "hybrid_v2_caption": "A red truck parked in a parking space next to a white building.",
+            "initial_caption": "the truck is red",
+            "used_fallback": false,
+            "references": [
+                "A burgundy low-rider show-quality, hot rod Chevy truck.",
+                "An old model red Chevrolet truck is on the pavement.",
+                "A classic red truck is parked in the lot.",
+                "A very bright and shinny refurbished red truck.",
+                "A vintage red truck parked in a parking lot under a blue sky."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "42102",
+            "image_name": "000000042102.jpg",
+            "blip_caption": "a man in a school uniform",
+            "hybrid_v1_caption": "Write only one concise English caption.",
+            "hybrid_v2_caption": "A man in a school uniform and a boy wearing a handbag.",
+            "initial_caption": "a man in a school uniform",
+            "used_fallback": false,
+            "references": [
+                "A young man is dressed in a school skirt outfit.",
+                "The man in the picture is wearing a stylish kilt.",
+                "A young man that is wearing a nice suite coat with a skirt and a purse.",
+                "a man dressed as a woman stands on a red carpet",
+                "A man wearing a skirt and stockings like a woman."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "42563",
+            "image_name": "000000042563.jpg",
+            "blip_caption": "a train traveling down the tracks in the snow",
+            "hybrid_v1_caption": "A yellow and white train traveling down tracks next to buildings.",
+            "hybrid_v2_caption": "A train traveling down tracks in the snow.",
+            "initial_caption": "a train traveling down the tracks in the snow",
+            "used_fallback": false,
+            "references": [
+                "Railway car on snow covered tracks approaching urban area.",
+                "A train riding on a snow covered track near trees. ",
+                "A yellow bus travels through a snowy, tree lined street.",
+                "A metro style train speeding down the tracks between evergreen trees.",
+                "A train traveling along a forest through the snow."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "43816",
+            "image_name": "000000043816.jpg",
+            "blip_caption": "a baseball player swinging at a ball during a game",
+            "hybrid_v1_caption": "Write only one concise English caption.",
+            "hybrid_v2_caption": "A baseball player swinging at a ball during a game.",
+            "initial_caption": "a baseball player swinging at a ball during a game",
+            "used_fallback": false,
+            "references": [
+                "A batter getting ready to hit his pitch.",
+                "a man swings a baseball bat at a ball",
+                "A baseball player at the plate hitting a baseball.",
+                "A baseball player holding a bat as a ball approaches.",
+                "Batter takes a swing at the incoming ball during the baseball game"
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "44195",
+            "image_name": "000000044195.jpg",
+            "blip_caption": "two snowboarders in the snow",
+            "hybrid_v1_caption": "A group of people skiing around a snow covered slope.",
+            "hybrid_v2_caption": "two snowboarders in the snow",
+            "initial_caption": "two snowboarders in the snow",
+            "used_fallback": true,
+            "references": [
+                "A woman with a snowboard with a man standing next to her on a ski slope.",
+                "Two people standing atop a snowy hill with snow boards in hand ready to head down the slope",
+                "Two people are standing in the snow with a snow board. ",
+                "a person holding skis on a snowy surface ",
+                "A couple of people standing on top of  a snow covered slope."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": true,
+                "fallback_used": true,
+                "possible_issues": [
+                    "V2 caption identical to BLIP",
+                    "BLIP fallback used"
+                ]
+            }
+        },
+        {
+            "image_id": "45090",
+            "image_name": "000000045090.jpg",
+            "blip_caption": "two surfers in the ocean",
+            "hybrid_v1_caption": "Write only one concise English caption.",
+            "hybrid_v2_caption": "two surfers in the ocean",
+            "initial_caption": "two surfers in the ocean",
+            "used_fallback": true,
+            "references": [
+                "A couple of men in the water on surfboards.",
+                "People on a wave using a surf board in the ocean.",
+                "People riding the high waves on their surfboards.",
+                "Two surfers riding the waves in the ocean.",
+                "Two surfers riding the waves in the ocean.  "
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": true,
+                "fallback_used": true,
+                "possible_issues": [
+                    "V2 caption identical to BLIP",
+                    "BLIP fallback used"
+                ]
+            }
+        },
+        {
+            "image_id": "46378",
+            "image_name": "000000046378.jpg",
+            "blip_caption": "a cat eating a piece of food on the ground",
+            "hybrid_v1_caption": "A cat eating a piece of food on the ground.",
+            "hybrid_v2_caption": "A cat eating a piece of food on the ground.",
+            "initial_caption": "a cat eating a piece of food on the ground",
+            "used_fallback": false,
+            "references": [
+                "A cat eating a bird it has caught.",
+                "A white cat caught a bird outside on a patio.",
+                "Grey house cat devours a song bird on a door step",
+                "A long haired cat eating a dead bird.",
+                "A cat eating a dead bird on the ground."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "46463",
+            "image_name": "000000046463.jpg",
+            "blip_caption": "a hand holding a sandwich",
+            "hybrid_v1_caption": "A hand holding a sandwich Objects detected by YOLO: sandwich Related captions retrieved from similar images: - A plate with sandwiches and vegetables sitting side by side.",
+            "hybrid_v2_caption": "A hand holding a sandwich.",
+            "initial_caption": "a hand holding a sandwich",
+            "used_fallback": false,
+            "references": [
+                "A hand holding a sandwich above a plate.",
+                "The sandwich is ready to be eaten. ",
+                "A sandwich appears to have a mouth like creation.",
+                "A person holding a sandwich, about to eat it.",
+                "A sandwich with cheese, lettuce and a tomato."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "47112",
+            "image_name": "000000047112.jpg",
+            "blip_caption": "a pizza on a white plate",
+            "hybrid_v1_caption": "A large pizza placed on top of table next to a wineglass.",
+            "hybrid_v2_caption": "A pizza on a white plate.",
+            "initial_caption": "a pizza on a white plate",
+            "used_fallback": false,
+            "references": [
+                "A dining table has a large pizza and wine glasses.",
+                "A close up image of a half onion and mushroom pizza. ",
+                "A pizza sitting on a plate in front of a glass of wine.",
+                "A pizza served on a white plate next to empty wine glass and beer.",
+                "A large pizza on a white plate sitting on a blue table."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "47585",
+            "image_name": "000000047585.jpg",
+            "blip_caption": "a man in a black suit",
+            "hybrid_v1_caption": "A man in a suit coat and black shirt stands in an outdoor area under umbrellas on rainy day.",
+            "hybrid_v2_caption": "A man in a black suit stands in the rain with an umbrella.",
+            "initial_caption": "a man in a black suit",
+            "used_fallback": false,
+            "references": [
+                "A man holds an umbrella for a new bride",
+                "A bride and a man wearing a suit holding an umbrella for the bride. ",
+                "A man holds the umbrella over the bride",
+                "this is a photo of a man and wife on there wedding day",
+                "A man holding an umbrella under a fat bride. "
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "47828",
+            "image_name": "000000047828.jpg",
+            "blip_caption": "the water is dark",
+            "hybrid_v1_caption": "A bridge built over a water is shining lights at dusk.",
+            "hybrid_v2_caption": "The water is dark and a bridge built over a water is shining lights at dusk.",
+            "initial_caption": "the water is dark",
+            "used_fallback": false,
+            "references": [
+                "A blue lighted bridge over water at night.",
+                "A large blue lit bridge spanning over a lake.",
+                "A bridge is covered up in bright lights at night.",
+                "People walk by a boat near a lighted bridge",
+                "A bridge in the distance with multiple different colored lights."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "48555",
+            "image_name": "000000048555.jpg",
+            "blip_caption": "two people riding horses on the beach",
+            "hybrid_v1_caption": "Objects detected by YOLO: Horse, horse, person Related captions retrieved from similar images: - A group of horses grazing in an open field with over cast skies.",
+            "hybrid_v2_caption": "Two people riding horses on the beach.",
+            "initial_caption": "two people riding horses on the beach",
+            "used_fallback": false,
+            "references": [
+                "A group of people on horses racing together.",
+                "The horses are racing each other along the beach.",
+                "Three people race their horses down a beach.",
+                "A black and white photo of jockeys riding their horses",
+                "Horses with jockeys racing across the coast of some beach."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "48564",
+            "image_name": "000000048564.jpg",
+            "blip_caption": "a young man talking on a cell in the snow",
+            "hybrid_v1_caption": "A young man talking on a cell phone in the snow.",
+            "hybrid_v2_caption": "A young man talking on a cell phone in the snow.",
+            "initial_caption": "a young man talking on a cell in the snow",
+            "used_fallback": false,
+            "references": [
+                "A man standing in the snow while talking on a cell phone.",
+                "A young man dressed for skiing talking on a cell phone.",
+                "A young man talks on his cell phone.",
+                "boy on ski slope talking on cell phone.",
+                "A young man with ski goggles talking on a cell phone on a snowy day."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "49269",
+            "image_name": "000000049269.jpg",
+            "blip_caption": "a brown horse and a white dog in a field",
+            "hybrid_v1_caption": "A brown horse and a white dog are standing in the field.",
+            "hybrid_v2_caption": "A brown horse and a white dog in a field.",
+            "initial_caption": "a brown horse and a white dog in a field",
+            "used_fallback": false,
+            "references": [
+                "A horse in a pasture of tall grass observing an energetic dog.",
+                "A horse and a dog positions for a picture outside.",
+                "A brown horse stands over a light colored dog.",
+                "A dog and a horse stand together in a field.",
+                "A horse and a dog stand in a meadow."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "50006",
+            "image_name": "000000050006.jpg",
+            "blip_caption": "a body of water",
+            "hybrid_v1_caption": "A large body of water filled with boats along a forested shore.",
+            "hybrid_v2_caption": "The image shows a group of boats sitting next to a large ship.",
+            "initial_caption": "a body of water",
+            "used_fallback": false,
+            "references": [
+                "Looking out over a bay with many tourist boats moored",
+                "A lot of boats that is parked in the water and one is docking.",
+                "Boats are docked in a lake by a road.",
+                "A row of boats parked next to a shore line.",
+                "Boats are docked near a city with many tall trees."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "50145",
+            "image_name": "000000050145.jpg",
+            "blip_caption": "a man walking down the street with a bicycle",
+            "hybrid_v1_caption": "A man walking down the street with a bicycle.",
+            "hybrid_v2_caption": "A man is walking down the street with a bicycle.",
+            "initial_caption": "a man walking down the street with a bicycle",
+            "used_fallback": false,
+            "references": [
+                "A shirtless man walking a bike down a rural street.",
+                "a person walking pulling a bike next to him",
+                "A shirtless man walking down city street with a bike",
+                "This gentleman is shirtless, walking his bicycle down the street of an Asian city.",
+                "Shirtless man pushing his bike on a city street. "
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "50149",
+            "image_name": "000000050149.jpg",
+            "blip_caption": "a bunch of bananas",
+            "hybrid_v1_caption": "Write only one concise English caption.",
+            "hybrid_v2_caption": "A man with bunches of bananas stands next to them.",
+            "initial_caption": "a bunch of bananas",
+            "used_fallback": false,
+            "references": [
+                "A group of bunches of bananas are shown hanging together.",
+                "Bunches of bananas hanging from a fruit stand display.",
+                "A group of bananas that are hanging from string.",
+                "Bunches of bananas are hanging from a fruit stand.",
+                "Many bunches of bright yellow bananas hanging on display."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "50326",
+            "image_name": "000000050326.jpg",
+            "blip_caption": "a man flying a kite on a beach",
+            "hybrid_v1_caption": "A man and a woman at the beach in front of the ocean with small waves.",
+            "hybrid_v2_caption": "A man is flying a kite on a beach.",
+            "initial_caption": "a man flying a kite on a beach",
+            "used_fallback": false,
+            "references": [
+                "A man holding a kite on a beach during the day.",
+                "A man on a beach trying to launch a kite. ",
+                "a man stands on a beach next to some water ",
+                "A man standing at the edge of a beach holding up his hand.",
+                "A man that is standing in the sand."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "50679",
+            "image_name": "000000050679.jpg",
+            "blip_caption": "an orange sitting on the side of the road",
+            "hybrid_v1_caption": "A large orange sitting on a glass plate.",
+            "hybrid_v2_caption": "An orange sitting on the side of a road.",
+            "initial_caption": "an orange sitting on the side of the road",
+            "used_fallback": false,
+            "references": [
+                "A close-up of an orange on the side of the road.",
+                "an orange is on the white line on a street and some cars",
+                "a close up of an orange on a city street",
+                "An orange sitting in the middle of a road",
+                "An orange lying near the white stripe of a highway."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "50828",
+            "image_name": "000000050828.jpg",
+            "blip_caption": "the bed is white",
+            "hybrid_v1_caption": "A large white bed with a wooden head board. - A hotel room with luggage at the foot of the bed.",
+            "hybrid_v2_caption": "the bed is white",
+            "initial_caption": "the bed is white",
+            "used_fallback": true,
+            "references": [
+                "Two twin beds with no comforters on them.",
+                "A hotel room bed with white linens, and a white desk beside it.",
+                "A bedroom with two small beds right next to each other.",
+                "A bedroom with two beds placed next to one another with a desk to one side and a small window on the opposite side.",
+                "A white bed in a small hotel room"
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": true,
+                "fallback_used": true,
+                "possible_issues": [
+                    "V2 caption identical to BLIP",
+                    "BLIP fallback used"
+                ]
+            }
+        },
+        {
+            "image_id": "50943",
+            "image_name": "000000050943.jpg",
+            "blip_caption": "a large wave in the ocean",
+            "hybrid_v1_caption": "A person riding a surf board at the bottom of an enormous wave with another wave moving in behind him.",
+            "hybrid_v2_caption": "A person riding a surf board at the bottom of a huge wave.",
+            "initial_caption": "a large wave in the ocean",
+            "used_fallback": false,
+            "references": [
+                "A person riding a wave on top of a surfboard.",
+                "Man surfing a wave on a dull day.",
+                "a surfer riding in a stormy looking wave",
+                "This person is riding a big wave on the water.",
+                "A person on a surf board by a big wave."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "51598",
+            "image_name": "000000051598.jpg",
+            "blip_caption": "a bathroom with a sink and a mirror",
+            "hybrid_v1_caption": "A bathroom with a sink, mirror and bathtub.",
+            "hybrid_v2_caption": "A bathroom with a sink and a mirror.",
+            "initial_caption": "a bathroom with a sink and a mirror",
+            "used_fallback": false,
+            "references": [
+                "A black trash bag in a restroom next to a sink.",
+                "a garbage bag in a white lighted bathroom",
+                "The bathroom has a wall sink, medicine cabinet, toothbrush holder, and bare walls.",
+                "A door is open to a white bathroom that has a black garbage back on the floor.",
+                "The bathroom door is open with the light on."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "52412",
+            "image_name": "000000052412.jpg",
+            "blip_caption": "a parking lot full of cars",
+            "hybrid_v1_caption": "An airplane that is flying through the air is taking off of the ground.",
+            "hybrid_v2_caption": "A parking lot full of cars.",
+            "initial_caption": "a parking lot full of cars",
+            "used_fallback": false,
+            "references": [
+                "A jetliner wing flying over the top of a parking.",
+                "an air plane wing with a parking lot with cars",
+                "View from an airplane looking looking out over large parking lot.",
+                "A view of several parking lots from an airplane. ",
+                "a big parking with a bunch of cars parked in it"
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "52565",
+            "image_name": "000000052565.jpg",
+            "blip_caption": "a black and white cow standing on a beach",
+            "hybrid_v1_caption": "A black and white cow standing on a beach.",
+            "hybrid_v2_caption": "A black and white cow standing on a beach.",
+            "initial_caption": "a black and white cow standing on a beach",
+            "used_fallback": false,
+            "references": [
+                "a cow stares as it stands next to a body of water ",
+                "A cow is standing in sand by some water.",
+                "An adult cow standing alone in the sand.",
+                "A cow standing on the beach by a body of water.",
+                "a cow standing in some sand next to some water"
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "53626",
+            "image_name": "000000053626.jpg",
+            "blip_caption": "three skiers on a mountain",
+            "hybrid_v1_caption": "A bunch of people are skiing down a mountain side.",
+            "hybrid_v2_caption": "three skiers on a mountain",
+            "initial_caption": "three skiers on a mountain",
+            "used_fallback": true,
+            "references": [
+                "A group of people standing on ski's in the snow.",
+                "some people standing next to each other on top of a snowy hill ",
+                "A group of men riding skis on top of a snow covered slope.",
+                "A GROUP OF PEOPLE SKIING STOP TO POSE FOR PHOTO",
+                "Four people on skis below a mountain taking a picture."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": true,
+                "fallback_used": true,
+                "possible_issues": [
+                    "V2 caption identical to BLIP",
+                    "BLIP fallback used"
+                ]
+            }
+        },
+        {
+            "image_id": "54164",
+            "image_name": "000000054164.jpg",
+            "blip_caption": "a man on a surfboard riding a wave",
+            "hybrid_v1_caption": "A man is riding a surfboard in the ocean.",
+            "hybrid_v2_caption": "A man on a surfboard riding a wave.",
+            "initial_caption": "a man on a surfboard riding a wave",
+            "used_fallback": false,
+            "references": [
+                "a man that is surfing on some water",
+                "a person riding a surf board on a wave ",
+                "a guy wearing a wet suit surfing the wave",
+                "a man in a wetsuit riding a wave on a surfboard",
+                "A man that is standing on a motorcycle in the water."
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        },
+        {
+            "image_id": "54593",
+            "image_name": "000000054593.jpg",
+            "blip_caption": "a young boy swinging a bat at a baseball game",
+            "hybrid_v1_caption": "A young boy is swinging a bat at the baseball game.",
+            "hybrid_v2_caption": "A young boy swinging a bat at a baseball game.",
+            "initial_caption": "a young boy swinging a bat at a baseball game",
+            "used_fallback": false,
+            "references": [
+                "The action in an organized youth baseball game.",
+                "a young kid with a baseball bat gets ready for the pitch",
+                "some baseball players are playing baseball on a field",
+                "A young man holding a bat on top of a baseball field.",
+                "a kid is swinging a baseball bat at a game"
+            ],
+            "analysis": {
+                "prompt_leakage": false,
+                "incomplete_caption": false,
+                "possible_contamination": false,
+                "identical_to_blip": false,
+                "fallback_used": false,
+                "possible_issues": []
+            }
+        }
+    ]
+}

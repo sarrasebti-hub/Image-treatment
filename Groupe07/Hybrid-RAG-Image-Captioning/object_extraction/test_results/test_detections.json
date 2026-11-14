@@ -1,0 +1,741 @@
+[
+    {
+        "image": "000000000009.jpg",
+        "objects": [
+            {
+                "label": "bowl",
+                "confidence": 0.9054,
+                "bbox": [
+                    311.86,
+                    0.0,
+                    630.65,
+                    236.39
+                ]
+            },
+            {
+                "label": "broccoli",
+                "confidence": 0.7232,
+                "bbox": [
+                    256.97,
+                    230.95,
+                    570.47,
+                    480.0
+                ]
+            },
+            {
+                "label": "bowl",
+                "confidence": 0.6987,
+                "bbox": [
+                    0.0,
+                    191.36,
+                    615.03,
+                    480.0
+                ]
+            },
+            {
+                "label": "bowl",
+                "confidence": 0.6806,
+                "bbox": [
+                    0.0,
+                    7.34,
+                    438.14,
+                    333.0
+                ]
+            },
+            {
+                "label": "bowl",
+                "confidence": 0.5805,
+                "bbox": [
+                    1.91,
+                    9.78,
+                    444.2,
+                    480.0
+                ]
+            }
+        ],
+        "number_of_objects": 5
+    },
+    {
+        "image": "000000000077.jpg",
+        "objects": [
+            {
+                "label": "person",
+                "confidence": 0.8939,
+                "bbox": [
+                    23.01,
+                    165.32,
+                    124.12,
+                    340.18
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.8752,
+                "bbox": [
+                    214.22,
+                    54.7,
+                    318.85,
+                    178.85
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.8696,
+                "bbox": [
+                    319.56,
+                    54.31,
+                    417.22,
+                    151.22
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.5648,
+                "bbox": [
+                    286.27,
+                    103.31,
+                    309.74,
+                    141.63
+                ]
+            }
+        ],
+        "number_of_objects": 4
+    },
+    {
+        "image": "000000000110.jpg",
+        "objects": [
+            {
+                "label": "person",
+                "confidence": 0.9144,
+                "bbox": [
+                    0.12,
+                    128.31,
+                    253.86,
+                    413.16
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.8925,
+                "bbox": [
+                    211.1,
+                    0.0,
+                    639.22,
+                    476.06
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.818,
+                "bbox": [
+                    249.26,
+                    0.0,
+                    379.8,
+                    140.25
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.7298,
+                "bbox": [
+                    339.6,
+                    0.02,
+                    412.03,
+                    93.8
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.6448,
+                "bbox": [
+                    0.01,
+                    0.91,
+                    130.86,
+                    173.09
+                ]
+            },
+            {
+                "label": "chair",
+                "confidence": 0.6066,
+                "bbox": [
+                    241.68,
+                    134.36,
+                    302.32,
+                    186.34
+                ]
+            },
+            {
+                "label": "pizza",
+                "confidence": 0.5897,
+                "bbox": [
+                    303.59,
+                    415.99,
+                    473.88,
+                    479.73
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.5621,
+                "bbox": [
+                    145.94,
+                    0.03,
+                    207.41,
+                    80.68
+                ]
+            },
+            {
+                "label": "pizza",
+                "confidence": 0.5099,
+                "bbox": [
+                    134.81,
+                    386.8,
+                    349.02,
+                    479.63
+                ]
+            },
+            {
+                "label": "dining table",
+                "confidence": 0.4802,
+                "bbox": [
+                    0.15,
+                    394.61,
+                    620.66,
+                    479.63
+                ]
+            },
+            {
+                "label": "dining table",
+                "confidence": 0.4167,
+                "bbox": [
+                    100.53,
+                    75.98,
+                    259.78,
+                    131.72
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.3867,
+                "bbox": [
+                    0.29,
+                    0.19,
+                    52.51,
+                    75.8
+                ]
+            },
+            {
+                "label": "chair",
+                "confidence": 0.3706,
+                "bbox": [
+                    182.46,
+                    140.08,
+                    237.12,
+                    211.42
+                ]
+            },
+            {
+                "label": "cup",
+                "confidence": 0.3512,
+                "bbox": [
+                    185.2,
+                    79.19,
+                    203.16,
+                    96.75
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.3499,
+                "bbox": [
+                    402.75,
+                    0.0,
+                    441.44,
+                    82.65
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.3253,
+                "bbox": [
+                    224.94,
+                    0.0,
+                    276.65,
+                    81.2
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.3189,
+                "bbox": [
+                    131.3,
+                    0.05,
+                    158.81,
+                    56.22
+                ]
+            },
+            {
+                "label": "dining table",
+                "confidence": 0.2776,
+                "bbox": [
+                    148.75,
+                    88.95,
+                    257.88,
+                    133.3
+                ]
+            }
+        ],
+        "number_of_objects": 18
+    },
+    {
+        "image": "000000000208.jpg",
+        "objects": [
+            {
+                "label": "toothbrush",
+                "confidence": 0.475,
+                "bbox": [
+                    54.53,
+                    122.89,
+                    214.78,
+                    202.59
+                ]
+            },
+            {
+                "label": "sink",
+                "confidence": 0.4541,
+                "bbox": [
+                    222.72,
+                    334.56,
+                    638.48,
+                    479.84
+                ]
+            },
+            {
+                "label": "sink",
+                "confidence": 0.4149,
+                "bbox": [
+                    0.36,
+                    2.99,
+                    261.09,
+                    129.49
+                ]
+            }
+        ],
+        "number_of_objects": 3
+    },
+    {
+        "image": "000000000257.jpg",
+        "objects": [
+            {
+                "label": "truck",
+                "confidence": 0.7979,
+                "bbox": [
+                    253.64,
+                    275.62,
+                    454.52,
+                    402.21
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.7387,
+                "bbox": [
+                    142.79,
+                    348.02,
+                    209.53,
+                    479.66
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.7321,
+                "bbox": [
+                    291.33,
+                    337.2,
+                    321.39,
+                    413.7
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.7016,
+                "bbox": [
+                    314.91,
+                    333.08,
+                    339.19,
+                    410.38
+                ]
+            },
+            {
+                "label": "truck",
+                "confidence": 0.6969,
+                "bbox": [
+                    518.48,
+                    252.7,
+                    639.54,
+                    478.87
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.6719,
+                "bbox": [
+                    236.9,
+                    326.97,
+                    265.13,
+                    406.77
+                ]
+            },
+            {
+                "label": "bus",
+                "confidence": 0.6368,
+                "bbox": [
+                    46.51,
+                    296.99,
+                    188.8,
+                    359.23
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.5396,
+                "bbox": [
+                    261.75,
+                    332.34,
+                    279.99,
+                    405.36
+                ]
+            },
+            {
+                "label": "motorcycle",
+                "confidence": 0.5302,
+                "bbox": [
+                    101.67,
+                    415.16,
+                    170.11,
+                    479.73
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.4825,
+                "bbox": [
+                    138.38,
+                    326.46,
+                    153.02,
+                    362.21
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.4431,
+                "bbox": [
+                    545.27,
+                    327.76,
+                    559.76,
+                    371.27
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.4355,
+                "bbox": [
+                    188.65,
+                    329.62,
+                    210.44,
+                    370.63
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.3769,
+                "bbox": [
+                    470.54,
+                    326.46,
+                    481.34,
+                    357.04
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.3567,
+                "bbox": [
+                    78.1,
+                    326.45,
+                    98.91,
+                    375.02
+                ]
+            },
+            {
+                "label": "backpack",
+                "confidence": 0.3188,
+                "bbox": [
+                    187.62,
+                    368.17,
+                    227.4,
+                    418.93
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.3161,
+                "bbox": [
+                    213.79,
+                    332.67,
+                    238.57,
+                    398.56
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.3154,
+                "bbox": [
+                    534.4,
+                    329.18,
+                    548.84,
+                    367.83
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.2966,
+                "bbox": [
+                    123.73,
+                    324.29,
+                    138.72,
+                    362.76
+                ]
+            },
+            {
+                "label": "traffic light",
+                "confidence": 0.2894,
+                "bbox": [
+                    87.94,
+                    200.15,
+                    105.72,
+                    224.66
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.2843,
+                "bbox": [
+                    570.24,
+                    326.96,
+                    585.42,
+                    367.38
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.2706,
+                "bbox": [
+                    583.0,
+                    325.74,
+                    598.17,
+                    364.31
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.2511,
+                "bbox": [
+                    260.6,
+                    303.42,
+                    275.11,
+                    336.97
+                ]
+            }
+        ],
+        "number_of_objects": 22
+    },
+    {
+        "image": "000000000263.jpg",
+        "objects": [
+            {
+                "label": "elephant",
+                "confidence": 0.7926,
+                "bbox": [
+                    144.46,
+                    143.88,
+                    591.0,
+                    637.86
+                ]
+            },
+            {
+                "label": "elephant",
+                "confidence": 0.7604,
+                "bbox": [
+                    0.0,
+                    5.68,
+                    388.99,
+                    626.31
+                ]
+            }
+        ],
+        "number_of_objects": 2
+    },
+    {
+        "image": "000000000328.jpg",
+        "objects": [
+            {
+                "label": "person",
+                "confidence": 0.9257,
+                "bbox": [
+                    44.77,
+                    66.81,
+                    265.48,
+                    412.58
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.9035,
+                "bbox": [
+                    335.63,
+                    66.5,
+                    587.46,
+                    483.7
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.8869,
+                "bbox": [
+                    200.76,
+                    92.9,
+                    403.17,
+                    470.59
+                ]
+            },
+            {
+                "label": "book",
+                "confidence": 0.4579,
+                "bbox": [
+                    246.41,
+                    218.87,
+                    328.98,
+                    259.82
+                ]
+            },
+            {
+                "label": "handbag",
+                "confidence": 0.2819,
+                "bbox": [
+                    16.37,
+                    157.42,
+                    135.18,
+                    250.88
+                ]
+            },
+            {
+                "label": "backpack",
+                "confidence": 0.2608,
+                "bbox": [
+                    15.66,
+                    157.07,
+                    135.38,
+                    249.43
+                ]
+            }
+        ],
+        "number_of_objects": 6
+    },
+    {
+        "image": "000000000431.jpg",
+        "objects": [
+            {
+                "label": "person",
+                "confidence": 0.9156,
+                "bbox": [
+                    153.25,
+                    67.42,
+                    316.44,
+                    321.56
+                ]
+            },
+            {
+                "label": "tennis racket",
+                "confidence": 0.8382,
+                "bbox": [
+                    303.38,
+                    164.15,
+                    378.76,
+                    221.88
+                ]
+            },
+            {
+                "label": "sports ball",
+                "confidence": 0.6241,
+                "bbox": [
+                    358.4,
+                    192.97,
+                    374.29,
+                    212.27
+                ]
+            }
+        ],
+        "number_of_objects": 3
+    },
+    {
+        "image": "000000000508.jpg",
+        "objects": [],
+        "number_of_objects": 0
+    },
+    {
+        "image": "000000000536.jpg",
+        "objects": [
+            {
+                "label": "person",
+                "confidence": 0.9184,
+                "bbox": [
+                    291.63,
+                    132.3,
+                    448.0,
+                    336.0
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.8912,
+                "bbox": [
+                    86.29,
+                    68.88,
+                    185.56,
+                    335.21
+                ]
+            },
+            {
+                "label": "person",
+                "confidence": 0.8898,
+                "bbox": [
+                    174.36,
+                    81.37,
+                    274.75,
+                    334.94
+                ]
+            },
+            {
+                "label": "handbag",
+                "confidence": 0.395,
+                "bbox": [
+                    22.19,
+                    220.27,
+                    82.69,
+                    335.96
+                ]
+            },
+            {
+                "label": "chair",
+                "confidence": 0.321,
+                "bbox": [
+                    288.08,
+                    141.31,
+                    441.11,
+                    328.1
+                ]
+            }
+        ],
+        "number_of_objects": 5
+    }
+]

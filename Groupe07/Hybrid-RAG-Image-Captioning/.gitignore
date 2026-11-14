@@ -1,0 +1,46 @@
+﻿# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Cache
+.cache/
+huggingface_cache/
+**/.pytest_cache/
+
+# Dataset volumineux
+dataset/images_train/
+dataset/images_val/
+
+# Features et index générés
+hybrid_features/
+retrieval/indexes/
+feature_extraction/results/
+object_extraction/results/
+
+# Modèles et poids volumineux
+*.pt
+*.pth
+*.safetensors
+*.onnx
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# Logs
+*.log
+
+# Large COCO annotations
+dataset/annotations/captions_train2017.json
+dataset/annotations/instances_train2017.json
