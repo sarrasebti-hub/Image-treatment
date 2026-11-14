@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+data/images_archives/
+data/embeddings/*.npy
+data/indexes/*.index
+data/indexes/*.pkl
+*.zip
+.DS_Store

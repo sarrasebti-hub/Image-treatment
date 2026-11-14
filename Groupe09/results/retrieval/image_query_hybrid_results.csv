@@ -1,0 +1,6 @@
+rank,test_image_id,retrieved_image_id,retrieved_caption,rrf_score,image_cosine
+1,3255,457796,A group of men walking across a snow covered slope.,0.04500545560996381,0.8273283243179321
+2,3255,81961,A group of people on skis on a snow covered slope.,0.040159281538591884,0.8574154376983643
+3,3255,448117,A group of people carrying ski equipment while walking on snow covered ground.,0.03890063424947146,0.8108969330787659
+4,3255,390856,A group of people on skis standing at the peak of a mountain.,0.03855829381776086,0.8413817286491394
+5,3255,290332,A group of people on a snow covered ground skiing.,0.03818427797218057,0.7951987981796265

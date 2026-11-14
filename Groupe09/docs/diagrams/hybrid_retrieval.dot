@@ -1,0 +1,5 @@
+digraph G { rankdir=LR; node [shape=box, style="rounded,filled", fillcolor="#EEF3F8", fontname="Helvetica"];
+ q [label="Query image"]; blip [label="BLIP preliminary caption"];
+ a [label="Dense: image index\n(FAISS, 10,000)"]; b [label="Dense: caption index\n(FAISS, 50,000)"]; c [label="Sparse: BM25\n(50,000 captions)"];
+ f [label="Reciprocal rank fusion\n(k = 60)", fillcolor="#DDEBD8"]; o [label="Top-5 images\n+ captions"];
+ q->a; q->b; q->blip->c; a->f; b->f; c->f; f->o; }

@@ -1,0 +1,12 @@
+seed: 42
+splits: {knowledge_base: 10000, validation: 100, test: 100}
+sources: {knowledge_base: train2017, validation: val2017, test: val2017}
+excluded_image_ids: [139]
+image_model: openai/clip-vit-base-patch32
+embedding: {dim: 512, dtype: float32, normalised: l2, image_batch: 32, text_batch: 128, text_max_len: 77}
+captions_per_image: 5
+index: {vector: faiss.IndexFlatIP, sparse: BM25Okapi}
+fusion: {method: rrf, k: 60}   # confirmed on validation (results/preprocessing_release/validation_selection.json)
+bm25_tokenizer: current_clean   # lowercase, punctuation -> space, split; alternatives not significantly better
+metadata_detector: {model: facebook/detr-resnet-50, score_threshold: 0.7}   # val/test objects only
+preliminary_captioner: Salesforce/blip-image-captioning-base

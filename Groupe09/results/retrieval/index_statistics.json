@@ -1,0 +1,14 @@
+{
+  "image_vectors": 10000,
+  "text_vectors": 50000,
+  "embedding_dimension": 512,
+  "faiss_index_type": "IndexFlatIP",
+  "similarity": "cosine (L2-normalized vectors)",
+  "bm25_documents": 50000,
+  "image_indexing_seconds": 0.014,
+  "text_indexing_seconds": 0.153,
+  "bm25_indexing_seconds": 1.011,
+  "image_index_bytes": 20480045,
+  "text_index_bytes": 102400045,
+  "bm25_index_bytes": 4734813
+}

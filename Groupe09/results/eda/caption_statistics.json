@@ -1,0 +1,13 @@
+{
+  "dataset": "COCO 2017 - G9 Knowledge Base",
+  "total_images": 10000,
+  "total_captions": 50000,
+  "total_words": 524391,
+  "average_caption_length": 10.49,
+  "median_caption_length": 10.0,
+  "min_caption_length": 6,
+  "max_caption_length": 46,
+  "std_caption_length": 2.41,
+  "vocabulary_size": 9770,
+  "tokenization": "Whitespace split on cleaned captions"
+}

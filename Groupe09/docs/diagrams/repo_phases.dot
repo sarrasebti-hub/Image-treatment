@@ -1,0 +1,3 @@
+digraph G { rankdir=LR; node [shape=box, style="rounded,filled", fillcolor="#EEF3F8", fontname="Helvetica"];
+ p1 [label="Phase 1 (done)\nPreprocessing\nDeadline 4 Nov 2026", fillcolor="#DDEBD8"]; p2 [label="Phase 2\nModel training & validation\nDeadline 2 Dec 2026"];
+ p3 [label="Phase 3\nEvaluation, stats, ablations\nDeadline 21 Dec 2026"]; p4 [label="Final deliverables\nReport + oral presentation"]; p1->p2->p3->p4; }

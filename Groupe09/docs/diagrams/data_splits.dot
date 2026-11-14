@@ -1,0 +1,5 @@
+digraph G { rankdir=LR; node [shape=box, style="rounded,filled", fillcolor="#EEF3F8", fontname="Helvetica"];
+ tr [label="COCO train2017\n118,287 images"]; va [label="COCO val2017\n5,000 images"];
+ kb [label="Knowledge base\n10,000 images / 50,000 captions", fillcolor="#DDEBD8"];
+ v [label="Validation\n100 images", fillcolor="#FBEFC9"]; t [label="Test\n100 images (reference captions never in KB)", fillcolor="#F5D5D0"];
+ tr->kb [label="random 10,000"]; va->v [label="random 200 -> first 100"]; va->t [label="last 100"]; }

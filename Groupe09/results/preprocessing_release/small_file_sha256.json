@@ -1,0 +1,5 @@
+{
+  "data/splits/split_ids.json": "524fe30212953b2db948c7afcb2d8d47a2f6735b65efe1a6dd3d095480225af5",
+  "data/splits/image_manifest.csv": "0699f375a200d20d3122993415447d8a2e477c4ee93da89b4155060a1af1e548",
+  "data/preprocessed_captions/kb_captions_retrieval.csv": "79b3e44324598b76c88a4595337e4fd4da08d9157bd627d162f6fa04d85fc087"
+}

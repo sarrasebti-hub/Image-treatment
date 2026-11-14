@@ -1,0 +1,20 @@
+{
+  "model": "openai/clip-vit-base-patch32",
+  "transformers_version": "5.20.2",
+  "embedding_dimension": 512,
+  "image_count": 10000,
+  "text_caption_count": 50000,
+  "normalization": "L2",
+  "text_source": "caption_raw",
+  "text_max_length": 77,
+  "text_batch_size": 128,
+  "vector_dtype": "float32",
+  "image_batch_size": 32,
+  "image_preprocessing": "CLIPImageProcessor (resize shortest side 224, centre crop 224, CLIP mean/std)",
+  "alignment_check": {
+    "passed": true,
+    "transformers_version": "5.22.1",
+    "torch_version": "2.14.1+cu130",
+    "note": "re-embedding 100 captions and 100 images with these versions gave min cosine >= 0.9999997"
+  }
+}

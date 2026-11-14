@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+Pillow
+torch
+transformers
+faiss-cpu
+rank-bm25
+spacy
+scikit-learn
+jupyter
+timm

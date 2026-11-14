@@ -1,0 +1,21 @@
+object_a,object_b,cooccurrence_count,jaccard_similarity
+car,person,692,0.12079
+chair,person,671,0.11553
+handbag,person,510,0.0932
+dining table,person,495,0.08394
+backpack,person,443,0.08111
+bottle,person,406,0.07082
+chair,dining table,399,0.24479
+cup,person,384,0.06633
+cup,dining table,372,0.27535
+person,sports ball,353,0.06493
+bench,person,340,0.06126
+person,truck,325,0.05806
+person,tennis racket,309,0.05696
+person,tie,309,0.05686
+cell phone,person,307,0.05595
+car,truck,296,0.24544
+person,umbrella,292,0.05329
+person,skis,283,0.05217
+person,surfboard,274,0.05046
+person,skateboard,270,0.04976

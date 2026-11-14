@@ -1,0 +1,51 @@
+category_id,category_name,instance_count,image_count
+1,person,22085,5421
+3,car,3619,1000
+62,chair,3180,1058
+44,bottle,2045,718
+84,book,2003,447
+47,cup,1658,752
+67,dining table,1273,971
+51,bowl,1225,564
+28,umbrella,1090,350
+31,handbag,1011,561
+10,traffic light,1000,331
+9,boat,928,266
+52,banana,908,199
+4,motorcycle,878,311
+15,bench,872,469
+16,bird,859,253
+20,sheep,831,132
+8,truck,829,502
+57,carrot,786,150
+64,potted plant,743,362
+27,backpack,717,484
+38,kite,691,182
+21,cow,680,149
+56,broccoli,679,180
+46,wine glass,674,213
+35,skis,595,287
+2,bicycle,579,275
+55,orange,576,147
+49,knife,570,362
+86,vase,563,288
+22,elephant,557,197
+19,horse,539,248
+32,tie,533,322
+72,tv,528,386
+59,pizza,521,275
+60,donut,512,105
+33,suitcase,508,187
+53,apple,506,132
+37,sports ball,500,369
+42,surfboard,492,283
+85,clock,487,359
+88,teddy bear,482,209
+81,sink,475,394
+77,cell phone,475,373
+50,spoon,475,263
+63,couch,474,367
+75,remote,470,259
+18,dog,461,387
+6,bus,457,312
+24,zebra,453,168

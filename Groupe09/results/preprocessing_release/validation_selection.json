@@ -1,0 +1,10 @@
+{
+  "metric": "object-category Jaccard@5 on 100 validation images (proxy, see notebook text)",
+  "current_config": "hybrid_full_rrf60__bm25:current_clean",
+  "best_config": "hybrid_full_rrf60__bm25:no_stopwords",
+  "best_jaccard@5": 0.5003305141570449,
+  "current_jaccard@5": 0.49699387913673626,
+  "best_beats_current_significantly": false,
+  "recommendation": "keep current configuration (no significant improvement)",
+  "seed": 42
+}

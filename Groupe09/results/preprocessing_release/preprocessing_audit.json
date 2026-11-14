@@ -1,0 +1,30 @@
+{
+  "project": "G9 Hybrid RAG COCO",
+  "status": "READY_FOR_REVIEW_NOT_FROZEN",
+  "checks": {
+    "split_counts": true, "split_disjoint": true, "manifest_ids": true,
+    "captions_five_each": true, "kb_annotations_scoped": true,
+    "image_preprocessing_pass": true, "image_embedding_shape": true,
+    "text_embedding_shape": true, "embeddings_finite_and_normalized": true,
+    "faiss_index_counts": true, "bm25_exists": true,
+    "archive_manifest_match": true, "no_exact_cross_split_duplicates": true
+  },
+  "all_automated_checks_pass": true,
+  "known_pending": [
+    "Professor-confirmed shared stratified TEST IDs (PDF says both 100 and 1000)",
+    "Confirm context/attribute annotations if professor requires visually verified labels",
+    "Perceptual near-duplicate detection (exact byte duplicates checked)"
+  ],
+  "caption_context_color_source": "caption keyword heuristics, not image-ground-truth",
+  "spatial_source": "COCO bbox pair geometry, not semantic relations",
+  "exact_cross_split_duplicate_groups": [],
+  "files": {
+    "split_ids": "data/splits/split_ids.json",
+    "kb_captions": "data/preprocessed_captions/kb_captions_retrieval.csv",
+    "image_emb": "data/embeddings/clip_vit_base_patch32/kb_image_embeddings.npy",
+    "text_emb": "data/embeddings/clip_vit_base_patch32/kb_text_embeddings.npy",
+    "image_index": "data/indexes/faiss_images.index",
+    "text_index": "data/indexes/faiss_captions.index",
+    "bm25": "data/indexes/bm25.pkl"
+  }
+}

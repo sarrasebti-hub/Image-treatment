@@ -1,0 +1,5 @@
+digraph G { rankdir=LR; node [shape=box, style="rounded,filled", fillcolor="#EEF3F8", fontname="Helvetica"];
+ s1 [label="1 Get\nannotations"]; s2 [label="2 Create\nsplits (seed 42)"]; s3 [label="3 Collect\npictures"]; s4 [label="4 Filter\nannotations"];
+ s5 [label="5 Audit"]; s6 [label="6 Prepare\nimages"]; s7 [label="7 Prepare\ncaptions"]; s8 [label="8 Explore\n(EDA)"];
+ s9 [label="9 Extract\nmetadata"]; s10 [label="10 Embed\n(CLIP B/32)"]; s11 [label="11 Index\n(FAISS + BM25)"]; s12 [label="12 Verify &\nrelease"];
+ s1->s2->s3->s4->s5->s6->s7->s8->s9->s10->s11->s12; }

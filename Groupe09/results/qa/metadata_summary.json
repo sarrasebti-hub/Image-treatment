@@ -1,0 +1,20 @@
+{
+  "records": 10200,
+  "per_split": {
+    "knowledge_base": 10000,
+    "test": 100,
+    "validation": 100
+  },
+  "mean_objects_per_image": {
+    "knowledge_base": 7.21,
+    "test": 6.71,
+    "validation": 9.27
+  },
+  "detector": {
+    "name": "facebook/detr-resnet-50",
+    "score_threshold": 0.7,
+    "transformers": "5.22.1",
+    "torch": "2.14.1+cu130"
+  },
+  "caveat": "colours/shapes/context are caption-keyword heuristics; relations are bbox-overlap proxies"
+}

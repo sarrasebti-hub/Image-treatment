@@ -1,0 +1,11 @@
+{
+  "sample_size_each": 100,
+  "cosine_threshold": 0.995,
+  "text_min_cosine": 0.9999998211860657,
+  "text_mean_cosine": 1.0,
+  "image_min_cosine": 0.9999997615814209,
+  "image_mean_cosine": 1.0,
+  "captions_cover_kb_5_each": true,
+  "faiss_row_order_matches_embeddings": true,
+  "PASS": true
+}

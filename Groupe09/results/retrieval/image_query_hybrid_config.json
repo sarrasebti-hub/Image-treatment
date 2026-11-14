@@ -1,0 +1,17 @@
+{
+    "query_image_id": 3255,
+    "preliminary_caption": "a group of people walking up a snow covered mountain",
+    "caption_generator": "Salesforce/blip-image-captioning-base",
+    "image_encoder": "openai/clip-vit-base-patch32",
+    "retrieval_methods": [
+        "image_dense",
+        "caption_dense",
+        "caption_bm25"
+    ],
+    "fusion": "RRF",
+    "rrf_k": 60,
+    "top_k": 5,
+    "retrieval_seconds": 1.466,
+    "uses_test_reference_captions": false,
+    "test_type": "Image retrieval smoke test"
+}
