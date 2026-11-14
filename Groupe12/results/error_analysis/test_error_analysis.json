@@ -1,0 +1,53 @@
+{
+    "dataset": {
+        "name": "COCO val2017 subset",
+        "images": 1000,
+        "captions": 5002
+    },
+    "image_to_text": {
+        "queries": 1000,
+        "outside_top_5": 84,
+        "outside_top_10": 48,
+        "hardest_case": {
+            "image_id": 308793,
+            "first_correct_rank": 76,
+            "observation": "The retrieved captions were related to outdoor sports and snow activities, but did not describe the target scene accurately."
+        }
+    },
+    "text_to_image": {
+        "queries": 5002,
+        "outside_top_5": 792,
+        "outside_top_10": 415,
+        "hardest_case": {
+            "image_id": 344029,
+            "annotation_id": 138793,
+            "first_correct_rank": 950,
+            "caption": "no image again there are a lot of these lately",
+            "observation": "The query caption contains no visual description."
+        }
+    },
+    "caption_quality_audit": {
+        "total_captions": 5002,
+        "possible_non_descriptive": 5,
+        "percentage": 0.1,
+        "non_descriptive_recall_at_1": 0.0,
+        "non_descriptive_recall_at_5": 0.0,
+        "non_descriptive_recall_at_10": 0.0,
+        "other_captions_recall_at_1": 0.5613368020812487,
+        "other_captions_recall_at_5": 0.8425055033019812,
+        "other_captions_recall_at_10": 0.9179507704622774,
+        "noisy_annotation_ids": [
+            138793,
+            433639,
+            294154,
+            298225,
+            524626
+        ]
+    },
+    "limitations": [
+        "The noisy-caption audit uses a limited set of text patterns.",
+        "Some non-descriptive captions may not have been detected.",
+        "Only selected difficult retrieval cases were inspected.",
+        "Original Test metrics remain unchanged."
+    ]
+}

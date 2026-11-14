@@ -1,0 +1,7 @@
+{
+    "random_seed": 42,
+    "train_count": 10000,
+    "val_count": 100,
+    "test_count": 1000,
+    "previous_100_image_test_config_found": false
+}

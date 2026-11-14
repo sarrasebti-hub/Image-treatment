@@ -1,0 +1,32 @@
+{
+    "total_captions": 55528,
+    "unique_images": 11100,
+    "word_count": {
+        "mean": 10.45,
+        "median": 10.0,
+        "minimum": 6,
+        "maximum": 50,
+        "standard_deviation": 2.4
+    },
+    "character_count": {
+        "mean": 52.29,
+        "median": 50.0,
+        "minimum": 25,
+        "maximum": 248
+    },
+    "captions_per_image": {
+        "mean": 5.0,
+        "minimum": 5,
+        "maximum": 7
+    },
+    "scene_complexity": {
+        "No detections": 1650,
+        "Low": 6721,
+        "Medium": 2222,
+        "High": 507
+    },
+    "object_statistics": {
+        "mean_objects_per_image": 1.98,
+        "mean_unique_categories_per_image": 1.31
+    }
+}

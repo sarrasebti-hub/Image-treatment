@@ -1,0 +1,38 @@
+{
+    "validation_set": {
+        "image_count": 100,
+        "caption_count": 500
+    },
+    "image_to_text": {
+        "total_queries": 100,
+        "recall_at_1": 0.91,
+        "recall_at_5": 0.99,
+        "recall_at_10": 1.0,
+        "median_rank": 1.0,
+        "mean_rank": 1.17,
+        "failure_case": {
+            "image_id": 514321,
+            "first_correct_rank": 6,
+            "observation": "The model prioritized airplane-related captions describing aircraft in flight before retrieving the correct image captions."
+        }
+    },
+    "text_to_image": {
+        "total_queries": 500,
+        "recall_at_1": 0.822,
+        "recall_at_5": 0.998,
+        "recall_at_10": 0.998,
+        "median_rank": 1.0,
+        "mean_rank": 1.304,
+        "failure_case": {
+            "image_id": 453475,
+            "first_correct_rank": 18,
+            "observation": "The image has four meaningful giraffe captions and one non-descriptive caption. This may affect caption quality, but its causal impact has not been established."
+        }
+    },
+    "limitations": [
+        "Only two failure cases were inspected.",
+        "Visual inspection images were not available in the returned output.",
+        "The causal effect of the non-descriptive caption is unverified.",
+        "Results are from validation, not test."
+    ]
+}

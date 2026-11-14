@@ -1,0 +1,7 @@
+{
+    "total_audited_images": 11100,
+    "healthy_images": 11100,
+    "corrupted_images": 0,
+    "missing_images": 0,
+    "integrity_score": 1.0
+}

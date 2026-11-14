@@ -1,0 +1,10 @@
+{
+    "original_train_images": 10000,
+    "cleaned_train_images": 9999,
+    "removed_duplicate_image_records": 1,
+    "canonical_image_id": 438867,
+    "merged_captions": 10,
+    "original_caption_rows": 55528,
+    "cleaned_caption_rows": 55528,
+    "original_files_deleted": false
+}

@@ -1,0 +1,10 @@
+{
+  "detection_records": 11099,
+  "images_with_detections": 9449,
+  "images_without_detections": 1650,
+  "total_detected_objects": 21944,
+  "average_objects_per_image": 1.9771,
+  "removed_duplicate_id": 531721,
+  "retained_canonical_id": 438867,
+  "duplicate_predictions_identical": true
+}
