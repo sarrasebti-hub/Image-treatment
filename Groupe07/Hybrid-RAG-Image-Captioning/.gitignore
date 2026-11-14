@@ -1,4 +1,4 @@
-ï»¿# Python
+# Python
 .venv/
 venv/
 __pycache__/
@@ -21,13 +21,13 @@ huggingface_cache/
 dataset/images_train/
 dataset/images_val/
 
-# Features et index gÃ©nÃ©rÃ©s
+# Features et index générés
 hybrid_features/
 retrieval/indexes/
 feature_extraction/results/
 object_extraction/results/
 
-# ModÃ¨les et poids volumineux
+# Modèles et poids volumineux
 *.pt
 *.pth
 *.safetensors
@@ -42,5 +42,4 @@ object_extraction/results/
 *.log
 
 # Large COCO annotations
-dataset/annotations/captions_train2017.json
 dataset/annotations/instances_train2017.json
